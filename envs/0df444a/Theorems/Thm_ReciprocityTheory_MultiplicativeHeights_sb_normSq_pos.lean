@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_normSq_pos
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_normSq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:28.848555+00:00
 -- url     : https://prove2.me/theorems/f1b4971a-033b-5632-8c1b-f0aa9aa6d4f7

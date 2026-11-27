@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_eq_valuationInfty_of_genX
 -- name    : GroundTheory.Arith.Abelian.eq_valuationInfty_of_genX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:56.768667+00:00
 -- url     : https://prove2.me/theorems/93884db0-0813-51fe-976e-0086f5271c3d

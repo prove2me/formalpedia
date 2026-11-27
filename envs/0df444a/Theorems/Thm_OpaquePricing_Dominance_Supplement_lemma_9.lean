@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_Supplement_lemma_9
 -- name    : OpaquePricing.Dominance.Supplement.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:41:19.935382+00:00
 -- url     : https://prove2.me/theorems/a5d60f0d-80b7-4191-ac09-52ccb94dea80

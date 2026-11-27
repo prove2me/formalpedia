@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_perm_invariant_of_cons_swap_and_tail
 -- name    : GlobalTheory.T.perm_invariant_of_cons_swap_and_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:50.656233+00:00
 -- url     : https://prove2.me/theorems/dd2a5e10-69b6-44b4-b6b9-ed43dbfea1ba

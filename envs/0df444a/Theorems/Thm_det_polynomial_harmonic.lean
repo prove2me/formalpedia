@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_det_polynomial_harmonic
 -- name    : det_polynomial_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:40:16.207791+00:00
 -- url     : https://prove2.me/theorems/11f6564e-6d35-4c42-ad93-0aa3d493303e

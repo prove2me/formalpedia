@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_laurent_finite_of_triangular_signed_indicators
 -- name    : GlobalTheory.T.laurent_finite_of_triangular_signed_indicators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:51.770536+00:00
 -- url     : https://prove2.me/theorems/e9a6dea4-4963-44b7-9c75-168b5df8e339

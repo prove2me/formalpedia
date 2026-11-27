@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_WaveGrid_hypLam__13035e3e4a07
 -- name    : P2M_CompanionTheory_WaveGrid_hypLam__13035e3e4a07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:37.745581+00:00
 -- url     : https://prove2.me/theorems/97e271a0-9841-5524-8aff-99c7a8bb7e0e

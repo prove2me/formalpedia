@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_minpoly_eq_of_isEisensteinAt
 -- name    : GroundTheory.LocalField.minpoly_eq_of_isEisensteinAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:01:28.617502+00:00
 -- url     : https://prove2.me/theorems/2ad838fa-3393-4fa3-a7be-203b8b111ac2

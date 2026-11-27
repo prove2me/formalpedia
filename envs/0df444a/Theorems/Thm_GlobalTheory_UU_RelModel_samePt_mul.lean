@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_samePt_mul
 -- name    : GlobalTheory.UU.RelModel.samePt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:06:46.5188+00:00
 -- url     : https://prove2.me/theorems/36c1fffc-9ad3-4052-b577-ca161460ef66

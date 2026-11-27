@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isInvariant_top
 -- name    : GroundTheory.Automorphic.UnitaryRep.isInvariant_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:47.4607+00:00
 -- url     : https://prove2.me/theorems/448a4bde-688e-4eec-8a0e-5f1d39c256a8

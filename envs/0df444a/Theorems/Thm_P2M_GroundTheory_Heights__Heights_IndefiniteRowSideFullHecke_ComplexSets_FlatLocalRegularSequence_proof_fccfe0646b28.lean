@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FlatLocalRegularSequence_proof_fccfe0646b28
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FlatLocalRegularSequence_proof_fccfe0646b28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:16:23.89582+00:00
 -- url     : https://prove2.me/theorems/ddcae82a-1186-4896-8e5b-fc0c62e8a095

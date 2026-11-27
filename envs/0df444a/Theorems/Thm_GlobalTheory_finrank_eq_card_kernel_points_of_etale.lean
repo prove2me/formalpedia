@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_eq_card_kernel_points_of_etale
 -- name    : GlobalTheory.finrank_eq_card_kernel_points_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:07:02.149574+00:00
 -- url     : https://prove2.me/theorems/c53db480-cef6-45dd-bc6e-dae275cb26b2

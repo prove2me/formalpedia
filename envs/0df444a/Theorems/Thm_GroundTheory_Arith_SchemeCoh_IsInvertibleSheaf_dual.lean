@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsInvertibleSheaf_dual
 -- name    : GroundTheory.Arith.SchemeCoh.IsInvertibleSheaf.dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:01.625129+00:00
 -- url     : https://prove2.me/theorems/c7156d49-e886-4194-b1fc-a140ba289711

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_projLineChart1_symm_ite
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.projLineChart1_symm_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:55.085277+00:00
 -- url     : https://prove2.me/theorems/37828ec1-5955-46b8-a6d3-3e125ca4fa5b

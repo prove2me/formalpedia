@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyMassLower_proof_99a791b6e958
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyMassLower_proof_99a791b6e958
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:38.499011+00:00
 -- url     : https://prove2.me/theorems/fcbe2f35-f5f4-4ce4-ba8d-9704925cc5bf

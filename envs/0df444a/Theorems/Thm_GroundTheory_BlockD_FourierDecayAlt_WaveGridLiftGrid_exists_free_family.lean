@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_exists_free_family
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.exists_free_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:02.667899+00:00
 -- url     : https://prove2.me/theorems/7c996f82-6d37-4abb-bac9-033bf4ec763e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalLengthSum_proof_0000ece1d41e
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalLengthSum_proof_0000ece1d41e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:21.977148+00:00
 -- url     : https://prove2.me/theorems/d48ff0b5-9b16-4b7d-b446-9ebed4674e27

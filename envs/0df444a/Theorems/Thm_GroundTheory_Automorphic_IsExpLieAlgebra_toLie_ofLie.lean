@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_toLie_ofLie
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.toLie_ofLie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:54:00.115389+00:00
 -- url     : https://prove2.me/theorems/116a9e9e-d555-46e3-95ed-daee66ec0b1c

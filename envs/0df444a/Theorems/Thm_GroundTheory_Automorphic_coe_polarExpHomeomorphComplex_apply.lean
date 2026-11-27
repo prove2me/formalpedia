@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_coe_polarExpHomeomorphComplex_apply
 -- name    : GroundTheory.Automorphic.coe_polarExpHomeomorphComplex_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:09.992804+00:00
 -- url     : https://prove2.me/theorems/654e7c4a-fc39-4a8f-8f18-4046b6a7055e

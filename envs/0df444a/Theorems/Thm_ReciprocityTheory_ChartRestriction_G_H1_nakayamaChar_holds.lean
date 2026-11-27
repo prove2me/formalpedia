@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_nakayamaChar_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.nakayamaChar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:46.772795+00:00
 -- url     : https://prove2.me/theorems/b1db035a-2822-5bf4-9232-b8bb691d7ab5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_zeta_val
 -- name    : ReciprocityTheory.PGsh.Ainf.zeta_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:33:47.916728+00:00
 -- url     : https://prove2.me/theorems/cb2953ca-c186-5eb8-84d2-772c6224e84a

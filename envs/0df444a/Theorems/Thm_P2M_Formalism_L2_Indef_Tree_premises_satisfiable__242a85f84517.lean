@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Tree_premises_satisfiable__242a85f84517
 -- name    : P2M_Formalism_L2_Indef_Tree_premises_satisfiable__242a85f84517
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:47.475294+00:00
 -- url     : https://prove2.me/theorems/b2dd97b1-298e-4319-b22c-2e47c5844ee7

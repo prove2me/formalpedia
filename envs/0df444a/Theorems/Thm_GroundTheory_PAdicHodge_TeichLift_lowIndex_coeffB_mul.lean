@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_lowIndex_coeffB_mul
 -- name    : GroundTheory.PAdicHodge.TeichLift.lowIndex_coeffB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:32.554416+00:00
 -- url     : https://prove2.me/theorems/0abb1d7b-7a64-5fc0-86a1-a012e1fcd888

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_proof_7e8a7e57ed7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:03.765806+00:00
 -- url     : https://prove2.me/theorems/f7a45a44-a497-52f1-a393-b2c301119cde

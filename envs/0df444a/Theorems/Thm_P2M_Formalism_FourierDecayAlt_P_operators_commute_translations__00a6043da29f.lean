@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_operators_commute_translations__00a6043da29f
 -- name    : P2M_Formalism_FourierDecayAlt_P_operators_commute_translations__00a6043da29f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:06.590819+00:00
 -- url     : https://prove2.me/theorems/ac73677c-70b5-45f8-9f58-b4a2f364c835

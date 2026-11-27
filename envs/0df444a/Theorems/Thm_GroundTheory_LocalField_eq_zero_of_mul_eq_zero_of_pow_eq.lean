@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_mul_eq_zero_of_pow_eq
 -- name    : GroundTheory.LocalField.eq_zero_of_mul_eq_zero_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:31.350983+00:00
 -- url     : https://prove2.me/theorems/73ea7458-317f-5e4b-b9b2-a822102bfaa6

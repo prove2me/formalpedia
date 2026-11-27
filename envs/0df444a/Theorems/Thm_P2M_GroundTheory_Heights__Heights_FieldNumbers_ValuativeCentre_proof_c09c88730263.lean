@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ValuativeCentre_proof_c09c88730263
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ValuativeCentre_proof_c09c88730263
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:06.988068+00:00
 -- url     : https://prove2.me/theorems/5c5abde3-28d5-5405-8e85-212d9bb9b403

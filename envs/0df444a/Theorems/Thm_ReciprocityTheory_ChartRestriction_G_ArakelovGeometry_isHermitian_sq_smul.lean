@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isHermitian_sq_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isHermitian_sq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:21:55.541806+00:00
 -- url     : https://prove2.me/theorems/3927210e-7e27-517c-9faa-25d1bf7fd15e

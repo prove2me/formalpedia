@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linear_lift_of_isMonHom_polAV
 -- name    : GlobalTheory.exists_linear_lift_of_isMonHom_polAV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:21:27.045429+00:00
 -- url     : https://prove2.me/theorems/2b2b43d1-7f5d-5d4c-bbfa-d768de493f67

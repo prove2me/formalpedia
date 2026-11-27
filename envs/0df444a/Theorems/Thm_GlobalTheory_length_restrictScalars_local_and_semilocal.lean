@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_restrictScalars_local_and_semilocal
 -- name    : GlobalTheory.length_restrictScalars_local_and_semilocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:58.948354+00:00
 -- url     : https://prove2.me/theorems/e5912534-ab05-46fd-89ce-9ea14bb46c02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_fsum_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.fsum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:12:01.703589+00:00
 -- url     : https://prove2.me/theorems/abf0b6e3-857a-41ad-aeee-22b168a92fc3

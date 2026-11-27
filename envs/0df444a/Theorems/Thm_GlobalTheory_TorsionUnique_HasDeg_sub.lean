@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionUnique_HasDeg_sub
 -- name    : GlobalTheory.TorsionUnique.HasDeg.sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:11.208586+00:00
 -- url     : https://prove2.me/theorems/f12df8a1-554d-520b-8441-7235faa99c79

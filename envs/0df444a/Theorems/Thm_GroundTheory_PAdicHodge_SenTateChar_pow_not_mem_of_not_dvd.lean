@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_pow_not_mem_of_not_dvd
 -- name    : GroundTheory.PAdicHodge.SenTateChar.pow_not_mem_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:09.984712+00:00
 -- url     : https://prove2.me/theorems/45207018-d24e-458d-9175-b641c2a07dfa

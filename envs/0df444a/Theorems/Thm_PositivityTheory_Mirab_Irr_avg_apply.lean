@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_avg_apply
 -- name    : PositivityTheory.Mirab.Irr.avg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:19:01.225812+00:00
 -- url     : https://prove2.me/theorems/2f1bd135-ec24-4260-916a-477e24808480

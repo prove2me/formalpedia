@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_generates_specialFibre
 -- name    : GlobalTheory.exists_sec_generates_specialFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:13.784337+00:00
 -- url     : https://prove2.me/theorems/74e8f39d-8022-5a6a-afdb-0911477c0717

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_tate_compat_iso
 -- name    : ReciprocityTheory.ChartRestriction.T2.tate_compat_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:29:13.942514+00:00
 -- url     : https://prove2.me/theorems/9ce3b25e-9944-4fc8-a76e-daa4641cfcdb

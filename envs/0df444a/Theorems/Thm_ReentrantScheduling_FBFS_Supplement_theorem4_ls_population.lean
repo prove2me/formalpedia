@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReentrantScheduling_FBFS_Supplement_theorem4_ls_population
 -- name    : ReentrantScheduling.FBFS.Supplement.theorem4_ls_population
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T13:15:19.92092+00:00
 -- url     : https://prove2.me/theorems/86caf244-755f-415a-92fc-4544740f45a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassHeightBound_proof_cec452e5a7c6
 -- name    : P2M_GroundTheory_Heights__Heights_GrassHeightBound_proof_cec452e5a7c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:42.695164+00:00
 -- url     : https://prove2.me/theorems/be34b086-5d0b-4455-b458-e452607fe7ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_subset_sum_vanishes
 -- name    : GlobalTheory.T.product_subset_sum_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:59.471914+00:00
 -- url     : https://prove2.me/theorems/53237a72-b2e4-4af6-9052-65ead547c494

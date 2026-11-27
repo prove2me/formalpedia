@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_finrank_two
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:15.070815+00:00
 -- url     : https://prove2.me/theorems/dfaa3374-1252-4dda-b167-0d0e5505b94d

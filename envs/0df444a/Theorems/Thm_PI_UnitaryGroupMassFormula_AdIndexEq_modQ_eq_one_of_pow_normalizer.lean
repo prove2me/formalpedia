@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_modQ_eq_one_of_pow_normalizer
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.modQ_eq_one_of_pow_normalizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:54.053806+00:00
 -- url     : https://prove2.me/theorems/53c32e2a-1e68-56d9-a251-39e30669b387

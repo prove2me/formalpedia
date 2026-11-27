@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_Supplement_augmenting_tree_4_4
 -- name    : PathsTreesFlowers.Duality.Supplement.augmenting_tree_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:39:01.600268+00:00
 -- url     : https://prove2.me/theorems/40a1a464-053b-4b7e-ab1d-dbfaad093d53

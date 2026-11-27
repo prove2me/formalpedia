@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_and_isUnit_of_valAt
 -- name    : GlobalTheory.eq_zero_and_isUnit_of_valAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:38.651032+00:00
 -- url     : https://prove2.me/theorems/909a3126-29a2-4a45-9160-e5df8eea89d7

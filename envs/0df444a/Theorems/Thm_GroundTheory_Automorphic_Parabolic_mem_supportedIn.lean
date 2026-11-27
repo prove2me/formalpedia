@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_supportedIn
 -- name    : GroundTheory.Automorphic.Parabolic.mem_supportedIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:57.404336+00:00
 -- url     : https://prove2.me/theorems/ccd99a04-cd09-5784-8a4f-47de6926a5ff

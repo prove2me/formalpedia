@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_AB_RegA_IsRegularLocalRing_ringKrullDim_quotient_span_singleton_add_one
 -- name    : ReciprocityTheory.CA.AB.RegA.IsRegularLocalRing.ringKrullDim_quotient_span_singleton_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:03:05.684068+00:00
 -- url     : https://prove2.me/theorems/5926e50b-e55c-497c-9181-b190d67397c5

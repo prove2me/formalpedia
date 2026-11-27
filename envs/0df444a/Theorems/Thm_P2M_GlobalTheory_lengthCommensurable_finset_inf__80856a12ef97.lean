@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_lengthCommensurable_finset_inf__80856a12ef97
 -- name    : P2M_GlobalTheory_lengthCommensurable_finset_inf__80856a12ef97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:04.846591+00:00
 -- url     : https://prove2.me/theorems/53f551f3-e80b-5bb2-b99e-1600428e5267

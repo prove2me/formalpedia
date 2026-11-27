@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_integrable_slice_weight
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.integrable_slice_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:06:43.933371+00:00
 -- url     : https://prove2.me/theorems/1e803b5e-918e-4982-9d5e-9f9257bbb841

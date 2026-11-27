@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_norm_coeff_add_sub_le
 -- name    : GroundTheory.PAdicHodge.TeichLift.norm_coeff_add_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:21.599358+00:00
 -- url     : https://prove2.me/theorems/aebef33f-a79c-41a6-b0a2-2a610ef02806

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_proof_1c6f0c8295e1
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightLimit_proof_1c6f0c8295e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:46:51.091342+00:00
 -- url     : https://prove2.me/theorems/61710948-6956-4f76-b86a-4082269244d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invertible_of_faithfullyFlat_baseChange_tensor_int
 -- name    : GlobalTheory.invertible_of_faithfullyFlat_baseChange_tensor_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:04.959441+00:00
 -- url     : https://prove2.me/theorems/43d7b961-d4ff-4fff-a627-d5fca38f3764

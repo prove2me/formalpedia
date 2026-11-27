@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_iff_restrictAb
 -- name    : GroundTheory.LocalField.continuous_iff_restrictAb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:53.824068+00:00
 -- url     : https://prove2.me/theorems/e5cc6c07-caa4-5413-b12b-f9d867ee714c

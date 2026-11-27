@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_measure_div_le_ncard_inter_lattice
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.measure_div_le_ncard_inter_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:31.157819+00:00
 -- url     : https://prove2.me/theorems/5392381f-60cf-5574-addd-43124481bff8

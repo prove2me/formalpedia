@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_relDiscr_ne_bot
 -- name    : GroundTheory.Global.relDiscr_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:56:05.574076+00:00
 -- url     : https://prove2.me/theorems/149be6bc-3270-5e42-87c2-da0c86de6d58

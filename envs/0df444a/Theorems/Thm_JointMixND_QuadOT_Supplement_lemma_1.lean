@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JointMixND_QuadOT_Supplement_lemma_1
 -- name    : JointMixND.QuadOT.Supplement.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:13:10.818416+00:00
 -- url     : https://prove2.me/theorems/b9ebc413-093f-4b68-bd72-0831bfa912f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_exists_gtRel
 -- name    : GlobalTheory.ArcTransport.exists_gtRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:22:00.256583+00:00
 -- url     : https://prove2.me/theorems/b5622bd1-49c1-4d90-8323-eaaa62526669

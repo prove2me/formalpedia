@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_BigC_phla_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.BigC.phla_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:30:18.124106+00:00
 -- url     : https://prove2.me/theorems/e921877c-797d-4c8d-a0df-e4885dfd9340

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_valuation_embedding_generator_eq_one__0e3284c94f64
 -- name    : P2M_GlobalTheory_T_valuation_embedding_generator_eq_one__0e3284c94f64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:47.909795+00:00
 -- url     : https://prove2.me/theorems/66426a30-2f5c-45dd-a7d4-930e0ba719fd

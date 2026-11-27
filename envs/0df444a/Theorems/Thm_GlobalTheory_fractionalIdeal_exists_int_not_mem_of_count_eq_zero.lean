@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fractionalIdeal_exists_int_not_mem_of_count_eq_zero
 -- name    : GlobalTheory.fractionalIdeal_exists_int_not_mem_of_count_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:57.249479+00:00
 -- url     : https://prove2.me/theorems/28436aee-9c48-45ac-9b3c-52f754c7a18d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorGeneralPointBranches_proof_3767a35846e5
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorGeneralPointBranches_proof_3767a35846e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:11:56.58991+00:00
 -- url     : https://prove2.me/theorems/ff391830-7d74-4000-91e9-bdeb12ece9c0

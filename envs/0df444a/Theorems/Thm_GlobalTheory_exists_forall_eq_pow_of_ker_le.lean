@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_forall_eq_pow_of_ker_le
 -- name    : GlobalTheory.exists_forall_eq_pow_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:20.058053+00:00
 -- url     : https://prove2.me/theorems/b0aadc5f-011a-4a94-bcc9-2913649a2150

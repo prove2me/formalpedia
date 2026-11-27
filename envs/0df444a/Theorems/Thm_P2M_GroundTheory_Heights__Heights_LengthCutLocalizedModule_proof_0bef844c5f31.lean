@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthCutLocalizedModule_proof_0bef844c5f31
 -- name    : P2M_GroundTheory_Heights__Heights_LengthCutLocalizedModule_proof_0bef844c5f31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:30:02.278124+00:00
 -- url     : https://prove2.me/theorems/35643eec-44b3-4e4e-a82f-391b879f8f9f

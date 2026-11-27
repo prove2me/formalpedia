@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isLeast_schurComplement___c6fe192388c0
 -- name    : P2M_GlobalTheory_isLeast_schurComplement___c6fe192388c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:02.271712+00:00
 -- url     : https://prove2.me/theorems/070688e0-ca3c-5935-88d0-0fb9aae0afff

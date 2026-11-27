@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_log_embedding_add_finsum_log_adicAbv_eq_zero
 -- name    : GlobalTheory.sum_log_embedding_add_finsum_log_adicAbv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:45.732861+00:00
 -- url     : https://prove2.me/theorems/06b112a6-7584-5e30-8864-3ae7784632fd

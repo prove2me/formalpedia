@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_jacobian_formalMulN_eq_pow_mul_unit
 -- name    : GlobalTheory.T.det_jacobian_formalMulN_eq_pow_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:29:56.280853+00:00
 -- url     : https://prove2.me/theorems/27a4c90d-bc96-4db8-8271-62221438bc0f

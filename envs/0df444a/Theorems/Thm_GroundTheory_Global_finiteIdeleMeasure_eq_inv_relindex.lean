@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finiteIdeleMeasure_eq_inv_relindex
 -- name    : GroundTheory.Global.finiteIdeleMeasure_eq_inv_relindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:56:56.775214+00:00
 -- url     : https://prove2.me/theorems/28621c82-50c9-5d3f-8aac-60fb7fd07c6f

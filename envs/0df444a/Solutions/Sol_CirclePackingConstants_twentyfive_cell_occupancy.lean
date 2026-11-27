@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CirclePackingConstants.twentyfive_cell_occupancy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @parclytaxel
 -- created : 2026-11-10T17:59:17.409895+00:00
 -- url     : https://prove2.me/submissions/5617ff2f-c43a-4fc4-94a8-45344ae7abc7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CirclePackingConstants_twentyfive_missing_cell_halfbox_bound
 

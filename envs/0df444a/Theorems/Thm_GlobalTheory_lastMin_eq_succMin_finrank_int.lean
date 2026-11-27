@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lastMin_eq_succMin_finrank_int
 -- name    : GlobalTheory.lastMin_eq_succMin_finrank_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:24.619835+00:00
 -- url     : https://prove2.me/theorems/21700cd3-eb4c-4537-8029-69a6db323619

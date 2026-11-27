@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FibreMeasure_measurePreserving_shear_194aa7f5f67c
 -- name    : P2M_GroundTheory_Heights__Theta_FibreMeasure_measurePreserving_shear_194aa7f5f67c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:18.704803+00:00
 -- url     : https://prove2.me/theorems/b7c56e36-c31b-4d23-bd64-2e5250b1a5ce

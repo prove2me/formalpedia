@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_isLevelCP
 -- name    : GlobalTheory.UU.exists_isLevelCP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:48:12.523239+00:00
 -- url     : https://prove2.me/theorems/2f6e32c9-9d7d-4da6-adce-21c4816c92a8

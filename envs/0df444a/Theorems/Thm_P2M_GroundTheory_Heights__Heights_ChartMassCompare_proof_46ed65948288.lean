@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompare_proof_46ed65948288
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassCompare_proof_46ed65948288
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:10.506869+00:00
 -- url     : https://prove2.me/theorems/b2002e74-bd8a-571b-9fe8-3e5304e956ff

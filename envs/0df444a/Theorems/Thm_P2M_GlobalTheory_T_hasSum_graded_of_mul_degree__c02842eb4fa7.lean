@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_hasSum_graded_of_mul_degree__c02842eb4fa7
 -- name    : P2M_GlobalTheory_T_hasSum_graded_of_mul_degree__c02842eb4fa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:22.326894+00:00
 -- url     : https://prove2.me/theorems/fb17b222-0b98-5820-9d41-284c11406418

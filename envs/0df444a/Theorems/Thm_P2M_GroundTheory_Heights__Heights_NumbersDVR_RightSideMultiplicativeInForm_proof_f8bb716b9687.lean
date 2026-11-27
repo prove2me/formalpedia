@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_RightSideMultiplicativeInForm_proof_f8bb716b9687
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_RightSideMultiplicativeInForm_proof_f8bb716b9687
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:00.967362+00:00
 -- url     : https://prove2.me/theorems/5feb346c-8c1d-4c33-82c8-2499c7b0986d

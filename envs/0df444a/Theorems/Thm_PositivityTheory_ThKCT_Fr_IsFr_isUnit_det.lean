@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_isUnit_det
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:59:14.646889+00:00
 -- url     : https://prove2.me/theorems/0e72c508-d839-48c9-93cf-0fe0aa017d4c

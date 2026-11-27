@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_posDef_blockDiagonal__3fab605ad041
 -- name    : P2M_GlobalTheory_HermFrame_posDef_blockDiagonal__3fab605ad041
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:48.476813+00:00
 -- url     : https://prove2.me/theorems/901def52-afc4-44a3-b0ed-fdb140ab103a

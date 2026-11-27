@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_isCuspidal_one_390ac6dac105
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_isCuspidal_one_390ac6dac105
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:08.493171+00:00
 -- url     : https://prove2.me/theorems/2c721ec7-3da6-5d0b-b17f-61ff182224b4

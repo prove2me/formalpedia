@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_finrank_complex_real
 -- name    : GlobalTheory.UU.SecMod.finrank_complex_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:44.612172+00:00
 -- url     : https://prove2.me/theorems/3d0f5410-9d3a-4217-b5af-c717c843c217

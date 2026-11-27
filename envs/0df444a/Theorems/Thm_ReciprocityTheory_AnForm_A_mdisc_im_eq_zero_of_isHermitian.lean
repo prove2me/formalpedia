@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_im_eq_zero_of_isHermitian
 -- name    : ReciprocityTheory.AnForm.A.mdisc_im_eq_zero_of_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:02.690974+00:00
 -- url     : https://prove2.me/theorems/32990425-db95-41ce-8423-7fc545087672

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_isFiniteAbelian_bot
 -- name    : Neutral.B1.isFiniteAbelian_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:41.558027+00:00
 -- url     : https://prove2.me/theorems/badb9551-56f8-491e-b226-963874972981

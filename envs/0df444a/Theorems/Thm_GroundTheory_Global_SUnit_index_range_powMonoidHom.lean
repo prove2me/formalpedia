@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_index_range_powMonoidHom
 -- name    : GroundTheory.Global.SUnit.index_range_powMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:23.620916+00:00
 -- url     : https://prove2.me/theorems/811f0898-dabb-4383-b157-9519a636900f

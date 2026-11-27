@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_gsOpenSubgroup_iff
 -- name    : GroundTheory.ProfCoh.mem_gsOpenSubgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:10.62095+00:00
 -- url     : https://prove2.me/theorems/13e16b1e-64d7-59c0-847d-e6896f79f270

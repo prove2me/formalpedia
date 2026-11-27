@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_Sm_of_toNat
 -- name    : PI.WADVR.Sm.of_toNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:01.07443+00:00
 -- url     : https://prove2.me/theorems/ed18be08-38f3-40a0-8b59-1e9b4c8eaa30

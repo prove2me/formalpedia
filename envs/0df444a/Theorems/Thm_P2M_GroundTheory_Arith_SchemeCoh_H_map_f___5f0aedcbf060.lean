@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_H_map_f___5f0aedcbf060
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_H_map_f___5f0aedcbf060
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:24.806414+00:00
 -- url     : https://prove2.me/theorems/51e8e57a-5a4a-5470-b248-8e4fa60ce700

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_mem_schwartzBruhat2
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.mem_schwartzBruhat2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:10.82404+00:00
 -- url     : https://prove2.me/theorems/e2b6a061-5936-5a91-8700-58fadb7dcf42

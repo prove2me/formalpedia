@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ClosedPointChartField_proof_781815ed1dd0
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ClosedPointChartField_proof_781815ed1dd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:34:38.969532+00:00
 -- url     : https://prove2.me/theorems/e2a4a720-850e-4ec5-9e14-7d823637d7d7

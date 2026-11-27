@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaLinear_proof_4a19a2f41e3e
 -- name    : P2M_GroundTheory_Heights__Heights_AreaLinear_proof_4a19a2f41e3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:46.001817+00:00
 -- url     : https://prove2.me/theorems/9ce5bb99-d139-4e5f-aaa4-4aa8c8c095b3

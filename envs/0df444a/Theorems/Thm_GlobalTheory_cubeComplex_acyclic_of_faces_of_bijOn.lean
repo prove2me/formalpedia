@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_of_faces_of_bijOn
 -- name    : GlobalTheory.cubeComplex_acyclic_of_faces_of_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:54.02343+00:00
 -- url     : https://prove2.me/theorems/80e3862b-af71-4330-854b-a577b5d3507d

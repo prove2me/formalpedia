@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeOrient_RecGreedy_Supplement_theorem_2_6
 -- name    : TreeOrient.RecGreedy.Supplement.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:53:35.55396+00:00
 -- url     : https://prove2.me/theorems/76ac5431-12ae-4b90-b578-b56f6d04f43d

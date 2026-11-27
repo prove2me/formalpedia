@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_eq_addVal_det_basis
 -- name    : GlobalTheory.length_quotient_eq_addVal_det_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:14.207944+00:00
 -- url     : https://prove2.me/theorems/abb2909b-6b83-4985-81c3-e82ad2d4524a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_Supplement_planted_paths_4_3
 -- name    : PathsTreesFlowers.Duality.Supplement.planted_paths_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:37:30.708542+00:00
 -- url     : https://prove2.me/theorems/d0c43c7d-a493-4fef-900d-ce8e799b4585

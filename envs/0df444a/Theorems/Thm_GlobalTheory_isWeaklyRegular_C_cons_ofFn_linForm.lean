@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_C_cons_ofFn_linForm
 -- name    : GlobalTheory.isWeaklyRegular_C_cons_ofFn_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:42.525952+00:00
 -- url     : https://prove2.me/theorems/6d679990-6c85-4203-b826-465ef7377a2a

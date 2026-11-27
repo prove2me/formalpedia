@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_stableInv_eq_iff
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_stableInv_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:34.116981+00:00
 -- url     : https://prove2.me/theorems/f6a97ecb-3521-47de-b7a5-27c2a37e0f9e

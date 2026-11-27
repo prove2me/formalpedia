@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_range_toPermHom
 -- name    : GlobalTheory.exists_isFundamentalDomain_range_toPermHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:22.675919+00:00
 -- url     : https://prove2.me/theorems/4af87cb0-463e-4af8-bd2c-2547ac28d9e3

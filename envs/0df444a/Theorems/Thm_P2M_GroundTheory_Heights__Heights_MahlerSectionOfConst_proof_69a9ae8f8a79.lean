@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerSectionOfConst_proof_69a9ae8f8a79
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerSectionOfConst_proof_69a9ae8f8a79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:31:15.635189+00:00
 -- url     : https://prove2.me/theorems/d95f39ea-8e89-464f-8230-c54299867032

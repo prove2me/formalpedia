@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_range_coe_basis
 -- name    : GlobalTheory.span_range_coe_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:17.740084+00:00
 -- url     : https://prove2.me/theorems/6c0db7d3-3e41-45d3-98a7-c9ca6bcc3339

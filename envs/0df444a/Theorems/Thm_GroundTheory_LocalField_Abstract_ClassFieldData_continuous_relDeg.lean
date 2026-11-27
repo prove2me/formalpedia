@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_continuous_relDeg
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.continuous_relDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:53.480797+00:00
 -- url     : https://prove2.me/theorems/08f6d09d-17aa-4467-9e05-8880aa977c46

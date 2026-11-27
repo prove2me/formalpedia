@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cutoff_log_sharp
 -- name    : GlobalTheory.exists_cutoff_log_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:47.82506+00:00
 -- url     : https://prove2.me/theorems/e023a9f4-0b5e-5b95-b299-aaa10ef59698

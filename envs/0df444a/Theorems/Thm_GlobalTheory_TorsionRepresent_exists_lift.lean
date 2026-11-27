@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionRepresent_exists_lift
 -- name    : GlobalTheory.TorsionRepresent.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:28.633845+00:00
 -- url     : https://prove2.me/theorems/dd85d09a-4bd5-4acf-ac09-5d643d174047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psi_mul_psi_of_addition_first_variable
 -- name    : GlobalTheory.psi_mul_psi_of_addition_first_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:37:25.789311+00:00
 -- url     : https://prove2.me/theorems/f9b1d009-a427-5ee3-a238-3628de05fa85

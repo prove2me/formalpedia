@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormOfDividedForm_proof_d23859adf297
 -- name    : P2M_GroundTheory_Heights__Heights_NormOfDividedForm_proof_d23859adf297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:42.687943+00:00
 -- url     : https://prove2.me/theorems/01295fbc-6e9c-5cbb-82e7-e53b99c4e074

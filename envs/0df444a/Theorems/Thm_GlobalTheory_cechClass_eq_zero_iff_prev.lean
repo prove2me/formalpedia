@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechClass_eq_zero_iff_prev
 -- name    : GlobalTheory.cechClass_eq_zero_iff_prev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:40.033651+00:00
 -- url     : https://prove2.me/theorems/0d215250-4174-43c1-b65c-43d5f36ce072

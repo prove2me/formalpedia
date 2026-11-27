@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_orbit
 -- name    : GroundTheory.Global.cycHerbrand_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:56:10.987119+00:00
 -- url     : https://prove2.me/theorems/299bfa16-fa06-4744-b9da-d48df36c1099

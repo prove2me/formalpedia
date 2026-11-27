@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_X_pow_le_sup_of_residue
 -- name    : GlobalTheory.span_X_pow_le_sup_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:51.896507+00:00
 -- url     : https://prove2.me/theorems/74f6857c-f1fa-5bd1-857a-aaf74f3da261

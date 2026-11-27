@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualTopBound_proof_b50e4f0fa276
 -- name    : P2M_GroundTheory_Heights__Heights_DualTopBound_proof_b50e4f0fa276
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:11:28.787047+00:00
 -- url     : https://prove2.me/theorems/153fd8c0-679b-4dad-8616-ebbdfcbf6006

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_slowlyVaryingAtZero_rpow
 -- name    : Kyprianou.Ch05.slowlyVaryingAtZero_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-27T01:25:18.056083+00:00
 -- url     : https://prove2.me/theorems/cb4ede6a-309d-4042-9a0c-f440e8027e95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mean_log_norm_conjugates_over_ideal_classes
 -- name    : GlobalTheory.T.mean_log_norm_conjugates_over_ideal_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:36:06.59634+00:00
 -- url     : https://prove2.me/theorems/926da95b-667f-5ff7-b5f7-0c5351e25f29

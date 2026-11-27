@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CotangentBasisInPrime_proof_ac563dd2e6c8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CotangentBasisInPrime_proof_ac563dd2e6c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:15:25.890659+00:00
 -- url     : https://prove2.me/theorems/e15b5ae0-a424-41cd-8f6e-e699231c262c

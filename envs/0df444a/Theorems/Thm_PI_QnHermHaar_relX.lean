@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_relX
 -- name    : PI.QnHermHaar.relX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:47:51.313281+00:00
 -- url     : https://prove2.me/theorems/7e5e577f-9755-568e-91a4-776365830cfb

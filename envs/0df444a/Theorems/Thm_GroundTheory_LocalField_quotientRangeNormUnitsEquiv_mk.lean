@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quotientRangeNormUnitsEquiv_mk
 -- name    : GroundTheory.LocalField.quotientRangeNormUnitsEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:00:48.983989+00:00
 -- url     : https://prove2.me/theorems/12e51208-5db4-5e9b-b60a-738fab3ba616

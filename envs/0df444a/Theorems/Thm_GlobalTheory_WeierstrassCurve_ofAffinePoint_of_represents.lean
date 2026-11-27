@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ofAffinePoint_of_represents
 -- name    : GlobalTheory.WeierstrassCurve.ofAffinePoint_of_represents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:37.531377+00:00
 -- url     : https://prove2.me/theorems/1aa55043-619a-482b-be92-a5f73cfd97c6

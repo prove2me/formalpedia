@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_CutData___smooth_e05dd90a1961
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_CutData___smooth_e05dd90a1961
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:32.440618+00:00
 -- url     : https://prove2.me/theorems/05704b17-efbe-4213-b256-b9668ad6f2ed

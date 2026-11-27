@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_LeviFormQuadraticSums_norm_bound
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.LeviFormQuadraticSums.norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:20.251098+00:00
 -- url     : https://prove2.me/theorems/6b774c59-29bd-483d-b94c-ab322eb6517c

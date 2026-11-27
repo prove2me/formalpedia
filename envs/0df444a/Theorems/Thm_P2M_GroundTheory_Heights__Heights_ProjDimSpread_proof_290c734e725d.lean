@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjDimSpread_proof_290c734e725d
 -- name    : P2M_GroundTheory_Heights__Heights_ProjDimSpread_proof_290c734e725d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:34.663264+00:00
 -- url     : https://prove2.me/theorems/3e7a704e-eaba-4f17-a5ab-eb113cc3d944

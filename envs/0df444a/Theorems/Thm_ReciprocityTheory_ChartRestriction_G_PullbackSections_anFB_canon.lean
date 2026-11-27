@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_anFB_canon
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.anFB_canon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:51:33.319818+00:00
 -- url     : https://prove2.me/theorems/b4946cf5-f7f6-55d8-9b19-d120562a934d

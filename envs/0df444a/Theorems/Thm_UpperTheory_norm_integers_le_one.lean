@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_norm_integers_le_one
 -- name    : UpperTheory.norm_integers_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:51.556386+00:00
 -- url     : https://prove2.me/theorems/877fba39-c239-4ea5-a4da-dd1b218ed83d

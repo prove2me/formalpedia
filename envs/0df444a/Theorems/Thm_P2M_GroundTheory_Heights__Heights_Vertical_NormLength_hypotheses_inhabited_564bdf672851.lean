@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormLength_hypotheses_inhabited_564bdf672851
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormLength_hypotheses_inhabited_564bdf672851
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:40:28.715138+00:00
 -- url     : https://prove2.me/theorems/192247ed-4f3e-554b-968c-f3e87f12130c

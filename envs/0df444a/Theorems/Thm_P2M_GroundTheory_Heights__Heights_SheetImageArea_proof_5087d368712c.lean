@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetImageArea_proof_5087d368712c
 -- name    : P2M_GroundTheory_Heights__Heights_SheetImageArea_proof_5087d368712c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:36:41.275298+00:00
 -- url     : https://prove2.me/theorems/e6318893-15e0-5e75-be6f-e249ca3769ee

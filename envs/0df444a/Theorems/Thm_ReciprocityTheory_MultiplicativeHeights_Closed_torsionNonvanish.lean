@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torsionNonvanish
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.torsionNonvanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:37.179984+00:00
 -- url     : https://prove2.me/theorems/2855fe0e-931d-4294-a8f4-7222ae4aa03d

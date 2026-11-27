@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_expSeries_logSeries
 -- name    : GroundTheory.LocalField.expSeries_logSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:58.144669+00:00
 -- url     : https://prove2.me/theorems/addf2e7d-64cc-480d-9551-9b3148c1b13b

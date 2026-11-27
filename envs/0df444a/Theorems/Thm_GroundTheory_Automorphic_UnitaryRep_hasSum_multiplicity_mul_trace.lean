@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_hasSum_multiplicity_mul_trace
 -- name    : GroundTheory.Automorphic.UnitaryRep.hasSum_multiplicity_mul_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:06.041992+00:00
 -- url     : https://prove2.me/theorems/0d52fda2-1194-5312-b6b1-e904833c4c69

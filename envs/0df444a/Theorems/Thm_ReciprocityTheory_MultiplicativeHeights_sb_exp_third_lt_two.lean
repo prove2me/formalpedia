@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_exp_third_lt_two
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_exp_third_lt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:39.190896+00:00
 -- url     : https://prove2.me/theorems/91501d1e-92ec-4c28-bf2d-be3a144cb640

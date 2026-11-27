@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_exists_den_lattice
 -- name    : PI.WAU.exists_den_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:59.816851+00:00
 -- url     : https://prove2.me/theorems/00ffb1ee-a84e-5f36-96cd-0dc8c48916b6

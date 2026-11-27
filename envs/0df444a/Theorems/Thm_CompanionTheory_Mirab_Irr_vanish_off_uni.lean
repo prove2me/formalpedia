@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_vanish_off_uni
 -- name    : CompanionTheory.Mirab.Irr.vanish_off_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:19:24.567219+00:00
 -- url     : https://prove2.me/theorems/a391a4a7-afe9-4561-ba19-71834d639ded

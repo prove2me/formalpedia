@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ReducedNormalisationPlace_proof_e05612a93a3d
 -- name    : P2M_GroundTheory_Heights__Heights_ReducedNormalisationPlace_proof_e05612a93a3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:47:42.283575+00:00
 -- url     : https://prove2.me/theorems/8bc1960e-f5d1-5982-915b-6c7902fce702

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_norm_toC_b3fd3ce1b283
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_norm_toC_b3fd3ce1b283
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:32:47.52803+00:00
 -- url     : https://prove2.me/theorems/d9a751fd-cb03-543e-8e7e-50afea3ce062

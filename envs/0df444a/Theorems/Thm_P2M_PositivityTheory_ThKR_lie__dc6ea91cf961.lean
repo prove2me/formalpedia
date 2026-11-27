@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_ThKR_lie__dc6ea91cf961
 -- name    : P2M_PositivityTheory_ThKR_lie__dc6ea91cf961
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:23.768195+00:00
 -- url     : https://prove2.me/theorems/cef43dcc-b690-522b-97db-5610fab05b8f

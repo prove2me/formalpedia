@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDiscreteValuationRing_of_etale_of_isLocalHom
 -- name    : GlobalTheory.isDiscreteValuationRing_of_etale_of_isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:11.433018+00:00
 -- url     : https://prove2.me/theorems/29c35379-32f9-57e2-a800-847429bb3e36

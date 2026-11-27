@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_range_of_profinite_circle
 -- name    : GroundTheory.Global.finite_range_of_profinite_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:55:27.004384+00:00
 -- url     : https://prove2.me/theorems/3593d4e2-16ec-5df6-a5c7-79c0e50214e0

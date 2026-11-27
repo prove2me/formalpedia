@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_binary_gram_integral
 -- name    : GlobalTheory.T.local_binary_gram_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:23.094932+00:00
 -- url     : https://prove2.me/theorems/621dbe81-38e5-4a51-a026-926d5ad8bcb5

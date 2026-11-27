@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ap_lintegral_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ap_lintegral_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:29:03.616274+00:00
 -- url     : https://prove2.me/theorems/ba230680-814f-4689-af80-0c4d0d167ab1

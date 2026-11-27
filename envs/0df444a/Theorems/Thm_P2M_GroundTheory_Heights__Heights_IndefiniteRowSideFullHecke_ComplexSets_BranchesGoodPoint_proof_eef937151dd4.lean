@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchesGoodPoint_proof_eef937151dd4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchesGoodPoint_proof_eef937151dd4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:42.170814+00:00
 -- url     : https://prove2.me/theorems/8ca02d97-8051-5e97-a088-8e5aeab83b37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodicSchwarzLemma_periodic_schwarz
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodicSchwarzLemma.periodic_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:12:57.334081+00:00
 -- url     : https://prove2.me/theorems/39db5b4f-b332-4e2f-b681-21f59b6d4b13

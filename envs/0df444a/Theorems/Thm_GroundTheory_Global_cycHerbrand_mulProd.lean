@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_mulProd
 -- name    : GroundTheory.Global.cycHerbrand_mulProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:56:23.830044+00:00
 -- url     : https://prove2.me/theorems/bcd03dd5-14b4-47c3-926e-ca35af32c122

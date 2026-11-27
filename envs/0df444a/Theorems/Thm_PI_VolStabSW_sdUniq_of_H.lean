@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_sdUniq_of_H
 -- name    : PI.VolStabSW.sdUniq_of_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:49:17.085158+00:00
 -- url     : https://prove2.me/theorems/3e1a44ee-aeeb-5278-9529-af6c374a24a5

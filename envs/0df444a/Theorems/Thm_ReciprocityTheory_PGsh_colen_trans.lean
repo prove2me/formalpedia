@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_colen_trans
 -- name    : ReciprocityTheory.PGsh.colen_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:32.789798+00:00
 -- url     : https://prove2.me/theorems/04d3c00f-a08a-4469-a056-347f07c42dd5

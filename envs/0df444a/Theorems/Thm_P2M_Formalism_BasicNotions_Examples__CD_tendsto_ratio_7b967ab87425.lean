@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_tendsto_ratio_7b967ab87425
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_tendsto_ratio_7b967ab87425
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:34.411804+00:00
 -- url     : https://prove2.me/theorems/24a5272c-854a-4bfb-89ac-35d90a3ae878

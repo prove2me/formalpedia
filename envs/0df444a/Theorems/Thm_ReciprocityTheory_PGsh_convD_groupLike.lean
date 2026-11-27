@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_convD_groupLike
 -- name    : ReciprocityTheory.PGsh.convD_groupLike
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:17.139462+00:00
 -- url     : https://prove2.me/theorems/fb8b6d8a-0e1b-5605-bbf3-e6a1145c3585

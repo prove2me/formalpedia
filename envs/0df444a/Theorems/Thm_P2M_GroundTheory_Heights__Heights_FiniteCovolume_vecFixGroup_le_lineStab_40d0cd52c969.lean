@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_vecFixGroup_le_lineStab_40d0cd52c969
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_vecFixGroup_le_lineStab_40d0cd52c969
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:16:32.909236+00:00
 -- url     : https://prove2.me/theorems/0559abaa-f953-4aef-af03-52001cba55d8

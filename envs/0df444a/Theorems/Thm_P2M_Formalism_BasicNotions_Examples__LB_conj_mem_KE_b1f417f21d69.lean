@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_conj_mem_KE_b1f417f21d69
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_conj_mem_KE_b1f417f21d69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:41:46.413875+00:00
 -- url     : https://prove2.me/theorems/540d1765-22c2-4968-a053-68e2714bad7b

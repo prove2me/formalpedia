@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_domRing_self_le_54dbb7098c5f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_domRing_self_le_54dbb7098c5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:29.337841+00:00
 -- url     : https://prove2.me/theorems/721d769b-ad5a-5597-80a1-6bc55a093668

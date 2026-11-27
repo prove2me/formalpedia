@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_star_fixed_reps
 -- name    : PIW.AdelClassFin.star_fixed_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:29.588112+00:00
 -- url     : https://prove2.me/theorems/91deb2d6-9029-4262-89ec-a473e940abe3

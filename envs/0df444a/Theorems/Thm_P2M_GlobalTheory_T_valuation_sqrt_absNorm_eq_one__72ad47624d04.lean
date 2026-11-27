@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_valuation_sqrt_absNorm_eq_one__72ad47624d04
 -- name    : P2M_GlobalTheory_T_valuation_sqrt_absNorm_eq_one__72ad47624d04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:53.608694+00:00
 -- url     : https://prove2.me/theorems/1061f151-ab5e-453f-9f52-c77228ccc35a

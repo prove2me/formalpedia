@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_nineCmpFS_of_nineAddFS
 -- name    : PositivityTheory.Lit1.PTN.nineCmpFS_of_nineAddFS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:33.046951+00:00
 -- url     : https://prove2.me/theorems/1dc4abeb-c93a-4a49-b9b8-7378fc770460

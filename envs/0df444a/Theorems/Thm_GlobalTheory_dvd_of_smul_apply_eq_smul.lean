@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvd_of_smul_apply_eq_smul
 -- name    : GlobalTheory.dvd_of_smul_apply_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:55.395454+00:00
 -- url     : https://prove2.me/theorems/7de85035-2756-485b-8fa3-e4c85f10e9d8

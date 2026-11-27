@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_primaryComponent_cohomology_eq_bot_of_cdp_lt
 -- name    : GroundTheory.ProfCoh.primaryComponent_cohomology_eq_bot_of_cdp_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:02:46.963803+00:00
 -- url     : https://prove2.me/theorems/f9b2e1f8-204f-4b09-bc98-c30fd4305835

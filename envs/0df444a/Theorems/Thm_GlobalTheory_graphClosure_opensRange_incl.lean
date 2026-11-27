@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_opensRange_incl
 -- name    : GlobalTheory.graphClosure.opensRange_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:52.14785+00:00
 -- url     : https://prove2.me/theorems/5735593a-e8c0-4a6b-821b-232bed058e54

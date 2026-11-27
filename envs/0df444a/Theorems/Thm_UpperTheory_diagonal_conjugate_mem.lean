@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_diagonal_conjugate_mem
 -- name    : UpperTheory.diagonal_conjugate_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:51.357896+00:00
 -- url     : https://prove2.me/theorems/08924516-9893-54d1-8c8f-b428f7ceaca4

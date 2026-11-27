@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HomogGeneratorsExist_proof_a5c999dabf98
 -- name    : P2M_GroundTheory_Heights__Heights_HomogGeneratorsExist_proof_a5c999dabf98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:16:24.301194+00:00
 -- url     : https://prove2.me/theorems/d6c10c96-bf39-41a2-abe9-3decfe5ba37d

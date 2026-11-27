@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreD_psi_smul_right
 -- name    : PositivityTheory.Rg.Sw.LC.CoreD.psi_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:53:15.865364+00:00
 -- url     : https://prove2.me/theorems/4ad2354b-e400-4f22-a35b-06fa88c5d7e3

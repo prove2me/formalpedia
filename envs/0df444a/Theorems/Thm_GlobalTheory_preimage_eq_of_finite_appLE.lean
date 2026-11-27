@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preimage_eq_of_finite_appLE
 -- name    : GlobalTheory.preimage_eq_of_finite_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:50:19.867471+00:00
 -- url     : https://prove2.me/theorems/68baddd6-9c09-5946-bc5c-963eeb09db62

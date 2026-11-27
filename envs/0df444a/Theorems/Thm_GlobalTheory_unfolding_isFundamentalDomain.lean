@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unfolding_isFundamentalDomain
 -- name    : GlobalTheory.unfolding_isFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:14.966797+00:00
 -- url     : https://prove2.me/theorems/32bc6edf-43a9-400c-b925-049738e1edb5

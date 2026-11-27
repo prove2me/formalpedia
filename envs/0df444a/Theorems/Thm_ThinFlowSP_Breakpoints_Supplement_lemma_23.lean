@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_Supplement_lemma_23
 -- name    : ThinFlowSP.Breakpoints.Supplement.lemma_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:46:11.694627+00:00
 -- url     : https://prove2.me/theorems/2ed94ec5-ec4a-4651-af72-7ffb5067d656

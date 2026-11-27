@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_eq_borelGL_mul_kGL
 -- name    : GroundTheory.Automorphic.GL2Classical.eq_borelGL_mul_kGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:51.517839+00:00
 -- url     : https://prove2.me/theorems/9a3ba2d1-d2c8-467e-9259-71365947b231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587
 -- name    : P2M_GroundTheory_Heights__Heights_NormalCurveJacobian_proof_a94c044bf587
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:18.427488+00:00
 -- url     : https://prove2.me/theorems/7169f727-d20e-453b-82da-6647d18f2657

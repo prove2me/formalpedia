@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_siegelSubDomain_holds
 -- name    : ReciprocityTheory.PTheta.siegelSubDomain_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:39.562152+00:00
 -- url     : https://prove2.me/theorems/e357dc82-65d3-4bba-9424-3285e23d92e6

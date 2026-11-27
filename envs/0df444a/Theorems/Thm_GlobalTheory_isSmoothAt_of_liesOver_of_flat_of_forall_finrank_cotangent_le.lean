@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSmoothAt_of_liesOver_of_flat_of_forall_finrank_cotangent_le
 -- name    : GlobalTheory.isSmoothAt_of_liesOver_of_flat_of_forall_finrank_cotangent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:42:52.281156+00:00
 -- url     : https://prove2.me/theorems/8e2148d1-ff36-5cd0-b295-b849bb7faa48

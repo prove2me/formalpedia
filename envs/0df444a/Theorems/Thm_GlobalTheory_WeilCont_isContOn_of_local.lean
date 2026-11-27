@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCont_isContOn_of_local
 -- name    : GlobalTheory.WeilCont.isContOn_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:30.131961+00:00
 -- url     : https://prove2.me/theorems/06497592-8c8d-5966-a187-f9c7b40c849c

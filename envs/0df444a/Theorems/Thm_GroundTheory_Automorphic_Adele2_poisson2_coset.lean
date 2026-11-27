@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_poisson2_coset
 -- name    : GroundTheory.Automorphic.Adele2.poisson2_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:02.283912+00:00
 -- url     : https://prove2.me/theorems/6c41d545-e771-5230-89e7-7e232e615cdb

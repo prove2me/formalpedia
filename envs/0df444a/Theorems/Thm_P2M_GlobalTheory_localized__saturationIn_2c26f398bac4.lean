@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_localized__saturationIn_2c26f398bac4
 -- name    : P2M_GlobalTheory_localized__saturationIn_2c26f398bac4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:13.577941+00:00
 -- url     : https://prove2.me/theorems/5812fb1f-6d01-44c0-a329-4380f36d3745

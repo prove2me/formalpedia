@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernelsCommuteTwistedAlt
 -- name    : GlobalTheory.T.kernelsCommuteTwistedAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:48.264797+00:00
 -- url     : https://prove2.me/theorems/68d08e13-2ef1-48d6-b55f-9b14b52f6471

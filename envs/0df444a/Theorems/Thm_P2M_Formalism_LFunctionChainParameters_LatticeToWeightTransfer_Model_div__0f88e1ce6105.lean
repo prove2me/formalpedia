@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_Model_div__0f88e1ce6105
 -- name    : P2M_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_Model_div__0f88e1ce6105
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:11:50.268149+00:00
 -- url     : https://prove2.me/theorems/6c7e68a3-c321-5b5e-af45-eadad0979b9d

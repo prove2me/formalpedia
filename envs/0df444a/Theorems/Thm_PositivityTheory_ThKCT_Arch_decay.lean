@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_decay
 -- name    : PositivityTheory.ThKCT.Arch.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:59:06.324106+00:00
 -- url     : https://prove2.me/theorems/49568ce8-5857-4554-bb2e-a1016529acaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_C4_Bq_NQ_projected_block_lower_sum
 -- name    : PositivityTheory.SiegelWeilFormula.Act.C4.Bq.NQ.projected_block_lower_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:56:23.408055+00:00
 -- url     : https://prove2.me/theorems/022deeaa-299e-5a43-87c8-7ee66f73233c

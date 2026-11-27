@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lib_AdeleIntA_isInt_add
 -- name    : ReciprocityTheory.ChartRestriction.G.Lib.AdeleIntA.isInt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:19:58.064609+00:00
 -- url     : https://prove2.me/theorems/a0688bd8-56fe-44d6-b716-678e4e550935

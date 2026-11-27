@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_LocalResidues_exists_frac
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.LocalResidues.exists_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:19.137091+00:00
 -- url     : https://prove2.me/theorems/c7756abc-92bd-49a6-9a7a-45b635c2340d

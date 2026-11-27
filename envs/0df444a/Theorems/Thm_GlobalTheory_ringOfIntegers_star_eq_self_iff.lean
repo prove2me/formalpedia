@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringOfIntegers_star_eq_self_iff
 -- name    : GlobalTheory.ringOfIntegers_star_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:50:03.913196+00:00
 -- url     : https://prove2.me/theorems/b9d05856-4117-5b19-ab74-2cceb54e87ec

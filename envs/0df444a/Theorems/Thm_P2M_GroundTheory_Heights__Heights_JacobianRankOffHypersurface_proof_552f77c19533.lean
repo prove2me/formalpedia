@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_proof_552f77c19533
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_proof_552f77c19533
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:23:36.629966+00:00
 -- url     : https://prove2.me/theorems/04207b76-075e-484f-9c73-bfc498299855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_of_finiteDimensional
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:38.21839+00:00
 -- url     : https://prove2.me/theorems/d436330a-6dee-5eda-800a-cc0aa435a25e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unipotent_convergence_of_parabolic
 -- name    : GlobalTheory.T.unipotent_convergence_of_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:39.083266+00:00
 -- url     : https://prove2.me/theorems/5fe35802-1c65-46de-a141-6d604bd6bce1

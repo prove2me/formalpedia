@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_tateModule_inv_eq_padicPow
 -- name    : Reformulated.AutPerF.tateModule.inv_eq_padicPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:33.795252+00:00
 -- url     : https://prove2.me/theorems/4c8a14b6-d62c-4fbb-97bc-a1f8c726f31b

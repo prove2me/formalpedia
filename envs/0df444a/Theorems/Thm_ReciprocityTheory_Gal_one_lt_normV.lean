@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Gal_one_lt_normV
 -- name    : ReciprocityTheory.Gal.one_lt_normV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:08.830637+00:00
 -- url     : https://prove2.me/theorems/0796e762-c0b1-46a6-9f38-a3ca689a835d

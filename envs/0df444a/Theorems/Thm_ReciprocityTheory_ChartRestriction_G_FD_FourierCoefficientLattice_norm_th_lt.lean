@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCoefficientLattice_norm_th_lt
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientLattice.norm_th_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:12.020882+00:00
 -- url     : https://prove2.me/theorems/37b3aea9-d9ce-424a-9584-70e76a586f27

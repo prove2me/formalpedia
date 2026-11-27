@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_IncidenceNull_hypotheses_inhabited_12b7884d8066
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_IncidenceNull_hypotheses_inhabited_12b7884d8066
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:12.746433+00:00
 -- url     : https://prove2.me/theorems/dd2f6339-d84e-58b0-aefb-d780d190fd68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_cut_unitary
 -- name    : GlobalTheory.UnitLemma.Orbit.cut_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:21.946488+00:00
 -- url     : https://prove2.me/theorems/c390d34b-1744-4388-a7fc-31641bf61270

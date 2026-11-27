@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuativeExtension_trans
 -- name    : GroundTheory.LocalField.valuativeExtension_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:05:05.030573+00:00
 -- url     : https://prove2.me/theorems/f0f50e3a-c62e-468f-a6c6-0b87507901d4

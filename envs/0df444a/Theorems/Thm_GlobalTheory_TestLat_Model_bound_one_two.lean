@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_bound_one_two
 -- name    : GlobalTheory.TestLat.Model.bound_one_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:32.836461+00:00
 -- url     : https://prove2.me/theorems/502f92ff-43a1-51c6-b1c4-7c3e9f34e96b

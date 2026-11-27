@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_Cx_H_hom_ext
 -- name    : ReciprocityTheory.Coh.Cx.H_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:27:47.711583+00:00
 -- url     : https://prove2.me/theorems/1ef636a5-824b-47cb-a0ed-c95992d4c46c

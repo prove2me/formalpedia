@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_resNormal_holds
 -- name    : ReciprocityTheory.Coh.resNormal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:27:57.212143+00:00
 -- url     : https://prove2.me/theorems/d5c37586-9b04-4998-836e-5930c58f2c81

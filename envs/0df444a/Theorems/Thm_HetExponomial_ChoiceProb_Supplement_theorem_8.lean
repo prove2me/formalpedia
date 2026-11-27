@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_Supplement_theorem_8
 -- name    : HetExponomial.ChoiceProb.Supplement.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:39:52.875332+00:00
 -- url     : https://prove2.me/theorems/e20e92ee-4f01-4030-a952-82d1f01461f1

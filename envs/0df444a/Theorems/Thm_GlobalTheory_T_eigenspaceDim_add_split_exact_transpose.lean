@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eigenspaceDim_add_split_exact_transpose
 -- name    : GlobalTheory.T.eigenspaceDim_add_split_exact_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:30:52.699027+00:00
 -- url     : https://prove2.me/theorems/5cf32639-5637-58d7-bdae-9656847ae761

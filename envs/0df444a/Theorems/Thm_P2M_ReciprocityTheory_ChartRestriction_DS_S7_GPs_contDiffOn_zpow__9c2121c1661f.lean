@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_GPs_contDiffOn_zpow__9c2121c1661f
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_GPs_contDiffOn_zpow__9c2121c1661f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:44:13.767911+00:00
 -- url     : https://prove2.me/theorems/479391ea-dfc1-4d57-9703-51c43a55d866

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_vecInner
 -- name    : PositivityTheory.Rg.BcB.E1.vecInner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:55.362663+00:00
 -- url     : https://prove2.me/theorems/21e486d3-9624-4016-997f-990677436b6d

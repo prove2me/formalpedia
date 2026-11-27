@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_reads_wholePoint_77686a288d68
 -- name    : P2M_GroundTheory_Heights__Heights_reads_wholePoint_77686a288d68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:16.566796+00:00
 -- url     : https://prove2.me/theorems/729e05be-7eb3-4a2b-87da-9f6de2fe4ed8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_oneStep_of
 -- name    : PositivityTheory.Rg.BcB.E2.oneStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:04.117953+00:00
 -- url     : https://prove2.me/theorems/415f00fe-7a66-4c7d-8348-e4baa428df6e

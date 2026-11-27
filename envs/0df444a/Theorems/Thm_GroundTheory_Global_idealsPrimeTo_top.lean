@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_idealsPrimeTo_top
 -- name    : GroundTheory.Global.idealsPrimeTo_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:50.637498+00:00
 -- url     : https://prove2.me/theorems/bb121a5e-56e4-4ffa-9a55-83a0319d565c

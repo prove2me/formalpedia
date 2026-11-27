@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_nonempty_addEquiv_decompositionDegreeImage
 -- name    : GroundTheory.Global.Cyclotomic.nonempty_addEquiv_decompositionDegreeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:55:09.84358+00:00
 -- url     : https://prove2.me/theorems/5a8c9cb0-0f24-4580-907a-31d395a0b52e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Bmp_dich
 -- name    : GlobalTheory.ThK.Dbl.Bmp.dich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:08.0228+00:00
 -- url     : https://prove2.me/theorems/b915bfc1-1d87-44d8-a8b6-da3d40b1e483

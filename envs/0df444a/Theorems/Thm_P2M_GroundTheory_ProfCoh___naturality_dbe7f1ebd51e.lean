@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh___naturality_dbe7f1ebd51e
 -- name    : P2M_GroundTheory_ProfCoh___naturality_dbe7f1ebd51e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:43:12.17205+00:00
 -- url     : https://prove2.me/theorems/3ff5ad9b-6e70-4cbf-9458-1dd1a5972954

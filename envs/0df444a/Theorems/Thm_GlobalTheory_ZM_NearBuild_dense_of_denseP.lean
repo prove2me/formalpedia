@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_dense_of_denseP
 -- name    : GlobalTheory.ZM.NearBuild.dense_of_denseP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:18.485607+00:00
 -- url     : https://prove2.me/theorems/393e88ec-f4df-414c-9a73-429f7fe17414

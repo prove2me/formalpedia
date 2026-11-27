@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_exists_isFrobSS
 -- name    : GlobalTheory.WeilDeligne.exists_isFrobSS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:18:54.667733+00:00
 -- url     : https://prove2.me/theorems/6bf173c8-b87a-4c47-b537-1584bfe283f0

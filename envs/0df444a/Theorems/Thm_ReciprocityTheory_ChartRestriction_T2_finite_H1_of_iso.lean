@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_finite_H1_of_iso
 -- name    : ReciprocityTheory.ChartRestriction.T2.finite_H1_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:31:36.484622+00:00
 -- url     : https://prove2.me/theorems/e0611a0a-0f73-4d17-a791-c6dcc4f15a2c

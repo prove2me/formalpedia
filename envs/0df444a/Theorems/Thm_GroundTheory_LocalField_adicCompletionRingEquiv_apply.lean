@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_adicCompletionRingEquiv_apply
 -- name    : GroundTheory.LocalField.adicCompletionRingEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:25.508634+00:00
 -- url     : https://prove2.me/theorems/6d90d0b5-460a-496e-9554-63a4cfd4eabb

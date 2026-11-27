@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_localFactor_eq
 -- name    : GroundTheory.Global.localFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:37.734055+00:00
 -- url     : https://prove2.me/theorems/97ad6287-e375-5a37-aa9e-ee215a66c6f0

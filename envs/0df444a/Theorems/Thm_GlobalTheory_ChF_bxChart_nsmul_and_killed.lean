@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_bxChart_nsmul_and_killed
 -- name    : GlobalTheory.ChF.bxChart_nsmul_and_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:16:29.428811+00:00
 -- url     : https://prove2.me/theorems/b555add3-1646-5360-befe-a9a4d576dec3

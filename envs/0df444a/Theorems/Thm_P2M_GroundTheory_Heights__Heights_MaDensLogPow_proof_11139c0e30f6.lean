@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLogPow_proof_11139c0e30f6
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLogPow_proof_11139c0e30f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:08.689189+00:00
 -- url     : https://prove2.me/theorems/8ab5926a-3081-4013-8cef-fc305d9a2f68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedEqMDP_Discrete_Supplement_theorem_5_1
 -- name    : RelaxedEqMDP.Discrete.Supplement.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:11:53.397708+00:00
 -- url     : https://prove2.me/theorems/2bbe12dc-8728-49ea-a6ab-159ff519063d

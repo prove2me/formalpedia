@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_ConeScaling_proof_785cf6226a51
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_ConeScaling_proof_785cf6226a51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:22.282224+00:00
 -- url     : https://prove2.me/theorems/e63b088a-6df0-458e-a062-ddc689066318

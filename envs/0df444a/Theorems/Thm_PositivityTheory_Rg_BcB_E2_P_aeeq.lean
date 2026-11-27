@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_aeeq
 -- name    : PositivityTheory.Rg.BcB.E2.P.aeeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:27.065393+00:00
 -- url     : https://prove2.me/theorems/78aa5265-b14d-4869-b7a2-065094b531b3

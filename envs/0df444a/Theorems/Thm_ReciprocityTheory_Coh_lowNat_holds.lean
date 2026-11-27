@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_lowNat_holds
 -- name    : ReciprocityTheory.Coh.lowNat_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:42.954504+00:00
 -- url     : https://prove2.me/theorems/3f6cbded-479d-54e0-a9bf-7501e3c1b5ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_gapAbs_of
 -- name    : PositivityTheory.Rg.Rs.gapAbs_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:33.929182+00:00
 -- url     : https://prove2.me/theorems/d5301b31-c31c-4b15-95e1-aa0933710f4a

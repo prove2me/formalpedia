@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_pos_smul_eq_of_linearIndependent_cone__6b20dd24ee8e
 -- name    : P2M_GlobalTheory_T_exists_pos_smul_eq_of_linearIndependent_cone__6b20dd24ee8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:43.311934+00:00
 -- url     : https://prove2.me/theorems/6b4ce564-57df-46b8-840b-065ea213b0e2

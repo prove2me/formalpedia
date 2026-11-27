@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_pr_eq_zero_of_swap_cob
 -- name    : ReciprocityTheory.ChartRestriction.T2.pr_eq_zero_of_swap_cob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:27:33.03499+00:00
 -- url     : https://prove2.me/theorems/cbf2943a-0b78-501d-a50b-e0cff467e0e4

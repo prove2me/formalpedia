@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesRing_proof_87f55ab5dcff
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesRing_proof_87f55ab5dcff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:56.034657+00:00
 -- url     : https://prove2.me/theorems/e16f0a05-4eaa-4c7a-a04e-0b492918b502

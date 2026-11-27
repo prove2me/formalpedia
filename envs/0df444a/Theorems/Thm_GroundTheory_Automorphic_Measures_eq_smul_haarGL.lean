@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_eq_smul_haarGL
 -- name    : GroundTheory.Automorphic.Measures.eq_smul_haarGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:47.26314+00:00
 -- url     : https://prove2.me/theorems/b520b1c2-3900-513a-8448-32e6ddca5367

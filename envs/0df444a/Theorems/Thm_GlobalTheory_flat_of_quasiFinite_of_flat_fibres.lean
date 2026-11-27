@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_quasiFinite_of_flat_fibres
 -- name    : GlobalTheory.flat_of_quasiFinite_of_flat_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:07:50.138661+00:00
 -- url     : https://prove2.me/theorems/3acbc90c-4571-4c76-86d5-6b87187c1da1

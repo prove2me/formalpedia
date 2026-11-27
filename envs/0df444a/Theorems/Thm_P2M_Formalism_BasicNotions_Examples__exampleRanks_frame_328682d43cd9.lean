@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exampleRanks_frame_328682d43cd9
 -- name    : P2M_Formalism_BasicNotions_Examples__exampleRanks_frame_328682d43cd9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:40.557973+00:00
 -- url     : https://prove2.me/theorems/0606342b-f2d6-5084-a14a-70834a369d25

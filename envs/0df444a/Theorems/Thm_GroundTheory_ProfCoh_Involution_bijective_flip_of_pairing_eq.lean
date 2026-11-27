@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_bijective_flip_of_pairing_eq
 -- name    : GroundTheory.ProfCoh.Involution.bijective_flip_of_pairing_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:44.119536+00:00
 -- url     : https://prove2.me/theorems/640bf988-373e-4c1e-ba91-98a8016e9346

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_shortExact_tensorEquiv
 -- name    : GroundTheory.Arith.SchemeCoh.shortExact_tensorEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:00:42.867662+00:00
 -- url     : https://prove2.me/theorems/c071251b-736b-59bd-90f3-85808c475d8e

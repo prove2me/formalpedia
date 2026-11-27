@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SplitDict_four__om_zGL_eq_chr_trace_mul_b98df81161e5
 -- name    : P2M_GlobalTheory_SplitDict_four__om_zGL_eq_chr_trace_mul_b98df81161e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:36.513704+00:00
 -- url     : https://prove2.me/theorems/4c9f0dc4-424b-45b3-aa39-156e0d117cc5

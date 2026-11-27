@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_thetaOne_of
 -- name    : GlobalTheory.ThetaExh.Check.thetaOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:24.602881+00:00
 -- url     : https://prove2.me/theorems/2adbe00b-ea80-5a2c-a9d2-a1fa3ba50714

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_Supplement_theorem_3_2_class3_delay_bound
 -- name    : MulticlassQNet.SingleStation.Supplement.theorem_3_2_class3_delay_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:30:37.017933+00:00
 -- url     : https://prove2.me/theorems/0af31147-88da-407f-b52c-ff2180655b88

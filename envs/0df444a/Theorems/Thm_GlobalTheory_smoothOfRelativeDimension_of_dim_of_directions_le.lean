@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothOfRelativeDimension_of_dim_of_directions_le
 -- name    : GlobalTheory.smoothOfRelativeDimension_of_dim_of_directions_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:15:45.009123+00:00
 -- url     : https://prove2.me/theorems/98b146e1-80f8-52a1-9b29-a66b17be9df8

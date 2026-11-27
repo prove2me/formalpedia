@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_cpow_of_pos_circle
 -- name    : GroundTheory.Global.existsUnique_cpow_of_pos_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:31.044844+00:00
 -- url     : https://prove2.me/theorems/df252f5a-2ca7-444b-80bd-00eaf667878f

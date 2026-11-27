@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Pf_AXO_pO_id
 -- name    : MainStatements.Hodge.Pf.AXO.pO_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:23:17.596287+00:00
 -- url     : https://prove2.me/theorems/e79656e4-ab1f-59b1-88f6-15ece648e0d9

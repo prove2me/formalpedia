@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SFam_eq_constPt
 -- name    : GlobalTheory.ZM.SFam.eq_constPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:57.916053+00:00
 -- url     : https://prove2.me/theorems/364039d3-4fb3-53a3-b371-13fa4513e17e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lbIsoPull_eq_of_coheight_le_one
 -- name    : GlobalTheory.existsUnique_lbIsoPull_eq_of_coheight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:33.531725+00:00
 -- url     : https://prove2.me/theorems/d3bed0f0-96e9-53ba-a44d-1d2964e47c4c

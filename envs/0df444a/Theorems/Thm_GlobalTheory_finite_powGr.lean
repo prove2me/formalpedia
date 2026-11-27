@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_powGr
 -- name    : GlobalTheory.finite_powGr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:12.317539+00:00
 -- url     : https://prove2.me/theorems/fbecb42a-bfaa-429f-9f50-f98f66204804

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_proof_5ed92fbeca18
 -- name    : P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_proof_5ed92fbeca18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:01.160622+00:00
 -- url     : https://prove2.me/theorems/4eb5c423-117e-4a49-8932-b37a805cab89

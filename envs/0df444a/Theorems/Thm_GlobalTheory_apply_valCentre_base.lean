@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_apply_valCentre_base
 -- name    : GlobalTheory.apply_valCentre_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:46.298721+00:00
 -- url     : https://prove2.me/theorems/4c9a7f48-533b-5b5c-953c-c031a9fbc7ff

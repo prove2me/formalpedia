@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_add_formEq
 -- name    : GlobalTheory.UU.RelModel.add_formEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:06:56.933832+00:00
 -- url     : https://prove2.me/theorems/f02e3845-7d7d-4639-842a-c1b862cf82f6

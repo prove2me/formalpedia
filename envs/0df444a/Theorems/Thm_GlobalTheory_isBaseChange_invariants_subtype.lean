@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isBaseChange_invariants_subtype
 -- name    : GlobalTheory.isBaseChange_invariants_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:05.854392+00:00
 -- url     : https://prove2.me/theorems/020d1703-2a02-469a-8d02-b4e6fd4b323d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartProjIndep_proof_b20fbf74e715
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartProjIndep_proof_b20fbf74e715
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:00:10.61241+00:00
 -- url     : https://prove2.me/theorems/71090541-4204-5fb8-8f50-e7dbab9750e6

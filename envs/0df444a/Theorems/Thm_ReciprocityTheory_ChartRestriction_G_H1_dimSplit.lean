@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_dimSplit
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.dimSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:24:47.917441+00:00
 -- url     : https://prove2.me/theorems/8d744819-f332-56a2-a350-d13f4eb48495

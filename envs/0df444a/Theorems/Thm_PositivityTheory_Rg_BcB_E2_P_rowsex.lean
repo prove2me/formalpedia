@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_rowsex
 -- name    : PositivityTheory.Rg.BcB.E2.P.rowsex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:46.797546+00:00
 -- url     : https://prove2.me/theorems/49147d55-84cd-4a7a-9c1b-8a1a40f48957

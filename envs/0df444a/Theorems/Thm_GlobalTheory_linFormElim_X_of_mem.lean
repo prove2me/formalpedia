@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linFormElim_X_of_mem
 -- name    : GlobalTheory.linFormElim_X_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:04.443649+00:00
 -- url     : https://prove2.me/theorems/e0b5791c-8578-4c09-8892-910a713ab335

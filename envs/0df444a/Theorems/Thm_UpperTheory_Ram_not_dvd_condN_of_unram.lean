@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_not_dvd_condN_of_unram
 -- name    : UpperTheory.Ram.not_dvd_condN_of_unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:38.226468+00:00
 -- url     : https://prove2.me/theorems/11e44bf1-fae8-402b-b2ff-ef3ea0167982

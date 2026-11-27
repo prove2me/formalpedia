@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartRingDescription_proof_2ced52265063
 -- name    : P2M_GroundTheory_Heights__Heights_ChartRingDescription_proof_2ced52265063
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:47.209812+00:00
 -- url     : https://prove2.me/theorems/537a9053-5b18-44dd-9bab-d0ae9dd13941

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_proof_59fe66e6e306
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_proof_59fe66e6e306
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:13:30.465195+00:00
 -- url     : https://prove2.me/theorems/43b28e36-942c-4fc0-8ec9-26f2bbaf2907

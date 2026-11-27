@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_cellMat_zero
 -- name    : ReciprocityTheory.AnForm.P.cellMat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:05.680349+00:00
 -- url     : https://prove2.me/theorems/af3605c3-fe34-49a8-975f-059ce9255ae4

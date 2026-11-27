@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_unifBaseChangeInj_of_seamsCS
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.unifBaseChangeInj_of_seamsCS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:15:10.222691+00:00
 -- url     : https://prove2.me/theorems/a24e597c-21c7-4719-85b0-b26cb4693a13

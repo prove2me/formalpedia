@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelDict_sections_eq_level
 -- name    : GlobalTheory.LevelDict.sections_eq_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:30:51.362088+00:00
 -- url     : https://prove2.me/theorems/2158ba76-88ce-4edd-9ce9-2a9855c70f83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smul_le_smul_iff
 -- name    : GroundTheory.Global.IdeleGroup.smul_le_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:21.187915+00:00
 -- url     : https://prove2.me/theorems/f6311c49-7f42-4bb2-93f5-bd901e0310ee

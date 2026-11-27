@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basicOpenFamily_apply
 -- name    : GlobalTheory.basicOpenFamily_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:29.085131+00:00
 -- url     : https://prove2.me/theorems/79789609-37ac-4bdb-9e73-89faa055a838

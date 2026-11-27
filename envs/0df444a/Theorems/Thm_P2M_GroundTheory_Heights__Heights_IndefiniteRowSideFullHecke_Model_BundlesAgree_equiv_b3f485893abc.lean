@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BundlesAgree_equiv_b3f485893abc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BundlesAgree_equiv_b3f485893abc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:24:39.312116+00:00
 -- url     : https://prove2.me/theorems/cd77bc24-9f55-5b78-9566-78d2f0b3b49a

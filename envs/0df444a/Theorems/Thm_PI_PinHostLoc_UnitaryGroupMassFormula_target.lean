@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PinHostLoc_UnitaryGroupMassFormula_target
 -- name    : PI.PinHostLoc.UnitaryGroupMassFormula.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:00.833217+00:00
 -- url     : https://prove2.me/theorems/fee2ce9c-b5b9-583b-a901-98c7a85a1ee5

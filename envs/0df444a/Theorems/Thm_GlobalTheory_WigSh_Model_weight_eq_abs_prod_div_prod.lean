@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_weight_eq_abs_prod_div_prod
 -- name    : GlobalTheory.WigSh.Model.weight_eq_abs_prod_div_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:32.510622+00:00
 -- url     : https://prove2.me/theorems/11ba8876-06cd-45e0-876c-55c9c42991c3

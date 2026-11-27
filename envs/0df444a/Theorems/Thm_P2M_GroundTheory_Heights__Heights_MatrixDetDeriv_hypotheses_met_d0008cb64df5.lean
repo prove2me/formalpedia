@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MatrixDetDeriv_hypotheses_met_d0008cb64df5
 -- name    : P2M_GroundTheory_Heights__Heights_MatrixDetDeriv_hypotheses_met_d0008cb64df5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:30:46.985101+00:00
 -- url     : https://prove2.me/theorems/23f6561e-edd6-46f0-9dc7-5a57d804f81d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadLocal_proof_e912a1c73c42
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadLocal_proof_e912a1c73c42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:54.525375+00:00
 -- url     : https://prove2.me/theorems/01a216a7-7365-5872-b756-f189fe779627

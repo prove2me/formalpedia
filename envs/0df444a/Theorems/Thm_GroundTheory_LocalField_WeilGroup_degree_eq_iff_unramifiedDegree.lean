@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_degree_eq_iff_unramifiedDegree
 -- name    : GroundTheory.LocalField.WeilGroup.degree_eq_iff_unramifiedDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:26.569849+00:00
 -- url     : https://prove2.me/theorems/118a8705-1b37-4ed1-8fe1-fb1a43e059fc

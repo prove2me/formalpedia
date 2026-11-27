@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ptNorm_eq_ptNorm_maxMetric
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.ptNorm_eq_ptNorm_maxMetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:14:04.242119+00:00
 -- url     : https://prove2.me/theorems/43b178a9-eb94-47b4-9722-0dcf1efb461a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxSpl_mem_span_iff
 -- name    : MassDataIdxSpl.mem_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:33.210257+00:00
 -- url     : https://prove2.me/theorems/66970912-63f4-53c4-b738-7d57d31a5dd0

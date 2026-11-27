@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycTateNegOneOrbitEquiv_symm_mk
 -- name    : GroundTheory.Global.cycTateNegOneOrbitEquiv_symm_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:56:24.430888+00:00
 -- url     : https://prove2.me/theorems/76d355b6-53c0-445c-bf0f-d732f49b3ec7

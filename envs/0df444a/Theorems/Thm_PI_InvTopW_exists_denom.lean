@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_exists_denom
 -- name    : PI.InvTopW.exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:51:52.026811+00:00
 -- url     : https://prove2.me/theorems/0be47680-716f-5839-9645-42335c5763e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPrime_map_C_sup_span_linForm
 -- name    : GlobalTheory.isPrime_map_C_sup_span_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:08.546811+00:00
 -- url     : https://prove2.me/theorems/d82798c5-55b1-4a4d-8159-fab2bf5f644b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosedEmbedding_diagOneUnitaryGroupEmbedding
 -- name    : GlobalTheory.T.isClosedEmbedding_diagOneUnitaryGroupEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:00.793057+00:00
 -- url     : https://prove2.me/theorems/3aefc600-703e-5cff-9a2f-190de85b6032

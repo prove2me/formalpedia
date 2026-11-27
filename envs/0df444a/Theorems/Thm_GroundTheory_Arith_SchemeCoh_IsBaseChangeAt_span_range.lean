@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsBaseChangeAt_span_range
 -- name    : GroundTheory.Arith.SchemeCoh.IsBaseChangeAt.span_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:01.825546+00:00
 -- url     : https://prove2.me/theorems/743452ce-b9c4-43f5-bb40-101c171de44b

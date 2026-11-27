@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isOpen_range_powMonoidHom_adicCompletion
 -- name    : GroundTheory.Global.isOpen_range_powMonoidHom_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:29.700317+00:00
 -- url     : https://prove2.me/theorems/e86ac40a-c54f-4729-a310-4b8abfa31fb9

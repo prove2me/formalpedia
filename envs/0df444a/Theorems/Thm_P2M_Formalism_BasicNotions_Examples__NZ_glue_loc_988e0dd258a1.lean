@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_glue_loc_988e0dd258a1
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_glue_loc_988e0dd258a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:19.925715+00:00
 -- url     : https://prove2.me/theorems/be72041f-15df-5984-b712-f014d27e303e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinear_proof_cf015ad227a3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinear_proof_cf015ad227a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:03.676845+00:00
 -- url     : https://prove2.me/theorems/e3ce5e74-06c3-578f-a187-746ea5ad2499

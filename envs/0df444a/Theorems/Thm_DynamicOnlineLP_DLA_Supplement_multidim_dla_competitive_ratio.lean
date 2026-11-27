@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_Supplement_multidim_dla_competitive_ratio
 -- name    : DynamicOnlineLP.DLA.Supplement.multidim_dla_competitive_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:12:42.84934+00:00
 -- url     : https://prove2.me/theorems/32296474-72c9-4b7a-92fc-4e9622fd4cb4

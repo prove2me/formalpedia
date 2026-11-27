@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedVehicleApprox_Pricing_Supplement_lemma_21
 -- name    : SharedVehicleApprox.Pricing.Supplement.lemma_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:35:59.702006+00:00
 -- url     : https://prove2.me/theorems/bf216614-027f-4f2c-9bd3-67c0bc4960e5

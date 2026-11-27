@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_witData_refl
 -- name    : GlobalTheory.HostModel.witData_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:27:31.834809+00:00
 -- url     : https://prove2.me/theorems/d07def79-2bc2-4df3-976f-94f8c2a30916

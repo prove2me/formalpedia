@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Hgt_exists_cover
 -- name    : GlobalTheory.ThK.Dbl.Hgt.exists_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:08.135243+00:00
 -- url     : https://prove2.me/theorems/bcedff24-cf3c-5bfa-87c2-5fe6f8d055ee

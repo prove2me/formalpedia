@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_sumI_of_finite
 -- name    : GlobalTheory.UT.sumI_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:41.171632+00:00
 -- url     : https://prove2.me/theorems/21ce3f06-179b-48f1-92bf-a615cafe2c2b

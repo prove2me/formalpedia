@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeMean_eq_of_periodic
 -- name    : GlobalTheory.latticeMean_eq_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:45.291875+00:00
 -- url     : https://prove2.me/theorems/ef09c655-7d58-522c-a863-75b4b76aefb9

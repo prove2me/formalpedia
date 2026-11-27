@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_lseV_hyp_inhabited
 -- name    : ReciprocityTheory.L2DbarEstimates.lseV_hyp_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:13.041058+00:00
 -- url     : https://prove2.me/theorems/5e06d629-31bb-4cea-ac07-f2c0650d102e

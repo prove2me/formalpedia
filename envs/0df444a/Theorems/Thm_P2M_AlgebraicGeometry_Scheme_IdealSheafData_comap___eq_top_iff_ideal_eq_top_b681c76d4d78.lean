@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap___eq_top_iff_ideal_eq_top_b681c76d4d78
 -- name    : P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap___eq_top_iff_ideal_eq_top_b681c76d4d78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:51.046507+00:00
 -- url     : https://prove2.me/theorems/b80f1ffe-b5e1-58bc-b509-bac95b884bf1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_setOf_submodule_le_relIndex_eq_le
 -- name    : GlobalTheory.finite_and_ncard_setOf_submodule_le_relIndex_eq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:48.845968+00:00
 -- url     : https://prove2.me/theorems/f7e9ff65-9c15-50fb-9780-704e0d9853be

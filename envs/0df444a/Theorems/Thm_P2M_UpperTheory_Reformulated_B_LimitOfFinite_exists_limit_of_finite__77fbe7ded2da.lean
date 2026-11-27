@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_LimitOfFinite_exists_limit_of_finite__77fbe7ded2da
 -- name    : P2M_UpperTheory_Reformulated_B_LimitOfFinite_exists_limit_of_finite__77fbe7ded2da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:42.886204+00:00
 -- url     : https://prove2.me/theorems/6e34a311-1c55-51cf-806c-4d47cd5fe7cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LatticePointCount_hilbDegreeBound_alt_of_statement_660b2a7918ff
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LatticePointCount_hilbDegreeBound_alt_of_statement_660b2a7918ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:26:23.025917+00:00
 -- url     : https://prove2.me/theorems/6c6e0b25-7400-5dcc-99b3-9f8e8df47959

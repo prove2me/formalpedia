@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adb_continuous_mixedDisc
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adb_continuous_mixedDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:19:42.893925+00:00
 -- url     : https://prove2.me/theorems/34eb01ef-d8f0-54cd-922e-d0db987116e4

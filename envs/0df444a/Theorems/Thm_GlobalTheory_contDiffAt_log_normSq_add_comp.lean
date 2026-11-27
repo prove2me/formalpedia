@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiffAt_log_normSq_add_comp
 -- name    : GlobalTheory.contDiffAt_log_normSq_add_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:05.588509+00:00
 -- url     : https://prove2.me/theorems/5f23fdc3-827e-47df-9fac-e7d5de984fb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRatioBasis_proof_f83996677b7d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRatioBasis_proof_f83996677b7d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:26:32.244673+00:00
 -- url     : https://prove2.me/theorems/749ec418-a718-57a0-867f-0efa007ac8bc

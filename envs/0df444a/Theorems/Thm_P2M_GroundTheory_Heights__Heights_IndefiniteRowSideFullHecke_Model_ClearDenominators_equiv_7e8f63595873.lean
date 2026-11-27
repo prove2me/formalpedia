@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_ClearDenominators_equiv_7e8f63595873
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_ClearDenominators_equiv_7e8f63595873
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:24:30.969292+00:00
 -- url     : https://prove2.me/theorems/6fd7f706-2b8c-5c1d-8b73-ca87613e7ad6

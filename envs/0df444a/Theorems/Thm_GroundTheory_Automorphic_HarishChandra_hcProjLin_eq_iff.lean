@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hcProjLin_eq_iff
 -- name    : GroundTheory.Automorphic.HarishChandra.hcProjLin_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:13.650046+00:00
 -- url     : https://prove2.me/theorems/4683948a-b6ea-5550-9a77-aec4e7ff4c25

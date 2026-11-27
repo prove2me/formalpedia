@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_setting_inhabited_56f02d49d4cc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_setting_inhabited_56f02d49d4cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:17.773265+00:00
 -- url     : https://prove2.me/theorems/d52d27cc-67b3-44fd-8583-63da1cabea69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_RightCosetSpaceCompact_exists_isCompact_subset_mk_image__602cb71fd151
 -- name    : P2M_UpperTheory_Reformulated_B_RightCosetSpaceCompact_exists_isCompact_subset_mk_image__602cb71fd151
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:44:39.590939+00:00
 -- url     : https://prove2.me/theorems/dc950127-674c-4d59-a985-ea03134079a5

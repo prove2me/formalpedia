@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutMultPos_proof_956f8e168a21
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutMultPos_proof_956f8e168a21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:28:45.426534+00:00
 -- url     : https://prove2.me/theorems/ebe13d05-4421-5724-958a-d32f6d1e7171

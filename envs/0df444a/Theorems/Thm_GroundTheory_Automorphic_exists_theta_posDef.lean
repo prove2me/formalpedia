@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_theta_posDef
 -- name    : GroundTheory.Automorphic.exists_theta_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:14.593439+00:00
 -- url     : https://prove2.me/theorems/aa73109b-0db8-47e5-a3b9-e36c4bb0a82e

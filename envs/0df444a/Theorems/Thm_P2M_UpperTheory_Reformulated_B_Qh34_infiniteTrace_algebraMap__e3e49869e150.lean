@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qh34_infiniteTrace_algebraMap__e3e49869e150
 -- name    : P2M_UpperTheory_Reformulated_B_Qh34_infiniteTrace_algebraMap__e3e49869e150
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:10.266339+00:00
 -- url     : https://prove2.me/theorems/fd394b79-d153-453b-8e0a-ee7c4812f123

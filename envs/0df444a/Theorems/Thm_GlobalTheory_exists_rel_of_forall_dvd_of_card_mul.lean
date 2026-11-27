@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rel_of_forall_dvd_of_card_mul
 -- name    : GlobalTheory.exists_rel_of_forall_dvd_of_card_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:12.036811+00:00
 -- url     : https://prove2.me/theorems/cdab2659-65ca-525c-9d05-419e4990a896

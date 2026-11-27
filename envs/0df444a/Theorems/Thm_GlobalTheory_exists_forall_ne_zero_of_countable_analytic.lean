@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_forall_ne_zero_of_countable_analytic
 -- name    : GlobalTheory.exists_forall_ne_zero_of_countable_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:08.426531+00:00
 -- url     : https://prove2.me/theorems/19e0a662-10e8-4bc8-9d1e-e5bc48fc76f8

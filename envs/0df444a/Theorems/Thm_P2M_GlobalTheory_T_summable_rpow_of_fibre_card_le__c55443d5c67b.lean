@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_summable_rpow_of_fibre_card_le__c55443d5c67b
 -- name    : P2M_GlobalTheory_T_summable_rpow_of_fibre_card_le__c55443d5c67b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:47.829315+00:00
 -- url     : https://prove2.me/theorems/397a7aad-39d6-445b-b4a3-6e892965854d

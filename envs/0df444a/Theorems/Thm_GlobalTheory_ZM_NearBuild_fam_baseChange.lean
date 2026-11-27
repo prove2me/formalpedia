@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_fam_baseChange
 -- name    : GlobalTheory.ZM.NearBuild.fam_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:46:23.545961+00:00
 -- url     : https://prove2.me/theorems/b5f04da1-c295-44db-b22b-51b12ce9b655

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HorizontalAvoidingForm_proof_d9953d4d60b8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HorizontalAvoidingForm_proof_d9953d4d60b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:35:21.637408+00:00
 -- url     : https://prove2.me/theorems/8d49ee71-7d08-5d25-b5b3-d190bb473738

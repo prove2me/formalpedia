@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_es_ne_e
 -- name    : PI.QnRT.es_ne_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:53:35.54805+00:00
 -- url     : https://prove2.me/theorems/bcc91d2e-eeea-571d-8468-c343db78f228

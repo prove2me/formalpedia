@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trdeg_tensor_complex_eq
 -- name    : GlobalTheory.T.trdeg_tensor_complex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:39:51.020806+00:00
 -- url     : https://prove2.me/theorems/fdf193a7-f518-531d-88f6-6223f627dfed

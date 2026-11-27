@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymStability_proof_fff293b9fb01
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymStability_proof_fff293b9fb01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:08:01.592802+00:00
 -- url     : https://prove2.me/theorems/dcb0d61f-a4d3-4ee8-9e07-9925ab310266

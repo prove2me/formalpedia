@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSMulRegular_coker_dualMap_of_exact_fibres
 -- name    : GlobalTheory.isSMulRegular_coker_dualMap_of_exact_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:48:48.206062+00:00
 -- url     : https://prove2.me/theorems/27a27d27-3942-53ee-a454-df8da9309bd2

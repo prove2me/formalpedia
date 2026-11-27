@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_evInt
 -- name    : PositivityTheory.ThKG.Std.evInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:10:23.646565+00:00
 -- url     : https://prove2.me/theorems/c76ec5d9-905c-4b48-ab0a-e088546dbe72

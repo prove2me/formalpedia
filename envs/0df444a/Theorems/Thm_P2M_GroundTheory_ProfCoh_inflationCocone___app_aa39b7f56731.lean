@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_inflationCocone___app_aa39b7f56731
 -- name    : P2M_GroundTheory_ProfCoh_inflationCocone___app_aa39b7f56731
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:54:37.260804+00:00
 -- url     : https://prove2.me/theorems/92991713-0e12-4ccf-b4ef-4d17118b3eec

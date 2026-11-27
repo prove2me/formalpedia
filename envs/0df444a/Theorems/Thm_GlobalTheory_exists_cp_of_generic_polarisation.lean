@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cp_of_generic_polarisation
 -- name    : GlobalTheory.exists_cp_of_generic_polarisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:32:34.726554+00:00
 -- url     : https://prove2.me/theorems/689ed431-da2a-5c5b-9a94-d3bf3854cfcb

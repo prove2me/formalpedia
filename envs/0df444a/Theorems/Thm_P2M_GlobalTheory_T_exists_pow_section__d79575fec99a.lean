@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_pow_section__d79575fec99a
 -- name    : P2M_GlobalTheory_T_exists_pow_section__d79575fec99a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:17:57.790959+00:00
 -- url     : https://prove2.me/theorems/cda424db-2a77-586f-aeca-17111decf39d

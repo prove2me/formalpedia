@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isDerivedOn_natural
 -- name    : ReciprocityTheory.ChartRestriction.DS.isDerivedOn_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:57.865272+00:00
 -- url     : https://prove2.me/theorems/2fa78383-bd8c-432c-9cc6-3cc71b8bb8cc

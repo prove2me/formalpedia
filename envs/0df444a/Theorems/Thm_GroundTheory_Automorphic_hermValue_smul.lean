@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermValue_smul
 -- name    : GroundTheory.Automorphic.hermValue_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:09.526473+00:00
 -- url     : https://prove2.me/theorems/817a3e32-5c97-5a59-8fba-54b0355081a4

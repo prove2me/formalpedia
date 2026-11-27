@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_ker_theta_eq_span_omega
 -- name    : Reformulated.AutPerF.Ainf.ker_theta_eq_span_omega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:33.725243+00:00
 -- url     : https://prove2.me/theorems/ae064bc0-3ce8-4573-89f5-342f61a00335

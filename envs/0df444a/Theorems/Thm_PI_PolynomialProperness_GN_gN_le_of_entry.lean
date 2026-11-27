@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_gN_le_of_entry
 -- name    : PI.PolynomialProperness.GN.gN_le_of_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:54:38.189815+00:00
 -- url     : https://prove2.me/theorems/1e054b5c-ee7f-4498-a0cd-265bde3c5a20

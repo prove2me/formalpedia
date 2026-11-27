@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_perpVector
 -- name    : GlobalTheory.map_perpVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:26.284988+00:00
 -- url     : https://prove2.me/theorems/c63fbb46-d187-44c1-912f-39fe586a31a2

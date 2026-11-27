@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMLengthParameters_proof_d4051ecf08a7
 -- name    : P2M_GroundTheory_Heights__Heights_CMLengthParameters_proof_d4051ecf08a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:45.476079+00:00
 -- url     : https://prove2.me/theorems/e2956b7d-1e78-4028-ac23-2530fa98a926

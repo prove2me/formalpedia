@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_G_Triv_conj_pow__253044874253
 -- name    : P2M_Formalism_L2_G_Triv_conj_pow__253044874253
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:11:11.719288+00:00
 -- url     : https://prove2.me/theorems/ed0a8e84-22d1-54d1-afd4-5fe28eb7d242

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TrdegAdjoin_exists_C_of_mem_adjoin_d114cee15beb
 -- name    : P2M_GroundTheory_Heights__Heights_TrdegAdjoin_exists_C_of_mem_adjoin_d114cee15beb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:57.381853+00:00
 -- url     : https://prove2.me/theorems/e08e4b83-3b99-4afb-bd32-737b1f15d39e

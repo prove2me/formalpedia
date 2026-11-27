@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticDerivBound_hypotheses_met_3b731d8aa3fe
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticDerivBound_hypotheses_met_3b731d8aa3fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:08:12.09186+00:00
 -- url     : https://prove2.me/theorems/d3434dae-e437-418c-8aa8-e57cb65ef60a

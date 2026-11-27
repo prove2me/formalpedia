@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_jointWin_of
 -- name    : UpperTheory.V.jointWin_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:55.323946+00:00
 -- url     : https://prove2.me/theorems/76bc0230-2894-4eb2-8c85-64a5459c702c

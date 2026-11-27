@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_algHom_comp_of_etale_of_henselian
 -- name    : GlobalTheory.bijective_algHom_comp_of_etale_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:16.190628+00:00
 -- url     : https://prove2.me/theorems/e63c570c-4b11-5f96-a65c-3cc8a481bd10

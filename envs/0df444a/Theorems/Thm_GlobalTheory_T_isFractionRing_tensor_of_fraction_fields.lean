@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFractionRing_tensor_of_fraction_fields
 -- name    : GlobalTheory.T.isFractionRing_tensor_of_fraction_fields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:33:58.477902+00:00
 -- url     : https://prove2.me/theorems/af0bfe2f-1dc0-57de-bac4-aff2fe93bd1a

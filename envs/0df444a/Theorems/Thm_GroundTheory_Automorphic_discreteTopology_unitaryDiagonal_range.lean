@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_discreteTopology_unitaryDiagonal_range
 -- name    : GroundTheory.Automorphic.discreteTopology_unitaryDiagonal_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:22.608777+00:00
 -- url     : https://prove2.me/theorems/5dbf3e79-6f7c-501b-a8ca-ed4b6b00abe5

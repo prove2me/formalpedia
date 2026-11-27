@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_BoundedMonomials_equiv_f77c21673c51
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_BoundedMonomials_equiv_f77c21673c51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:15:53.135283+00:00
 -- url     : https://prove2.me/theorems/70fcd08f-3283-524a-b6ff-4046882af625

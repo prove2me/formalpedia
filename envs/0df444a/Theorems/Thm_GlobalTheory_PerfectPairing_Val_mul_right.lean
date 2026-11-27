@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_Val_mul_right
 -- name    : GlobalTheory.PerfectPairing.Val.mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:19:30.187736+00:00
 -- url     : https://prove2.me/theorems/ef10e13f-0301-4e09-819a-fa9726733949

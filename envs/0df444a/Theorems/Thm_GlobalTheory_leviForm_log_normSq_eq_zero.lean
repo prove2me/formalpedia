@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leviForm_log_normSq_eq_zero
 -- name    : GlobalTheory.leviForm_log_normSq_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:10.001441+00:00
 -- url     : https://prove2.me/theorems/ff5bb1bc-07e2-4b0b-ae13-13dc9680cd00

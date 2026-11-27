@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_DoubleCosetCovolume_proof_725d3a3e6c3f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_DoubleCosetCovolume_proof_725d3a3e6c3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:12:48.073237+00:00
 -- url     : https://prove2.me/theorems/05f502ef-0fdf-4aef-8ed3-013c345440cf

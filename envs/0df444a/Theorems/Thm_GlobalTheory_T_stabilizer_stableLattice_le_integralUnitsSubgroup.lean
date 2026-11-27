@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stabilizer_stableLattice_le_integralUnitsSubgroup
 -- name    : GlobalTheory.T.stabilizer_stableLattice_le_integralUnitsSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:21.75026+00:00
 -- url     : https://prove2.me/theorems/4895ff9b-9a47-56fc-836a-4a8b757dafb3

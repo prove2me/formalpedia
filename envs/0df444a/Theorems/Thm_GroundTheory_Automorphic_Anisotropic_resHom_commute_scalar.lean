@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resHom_commute_scalar
 -- name    : GroundTheory.Automorphic.Anisotropic.resHom_commute_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:56.487453+00:00
 -- url     : https://prove2.me/theorems/74d2c4c1-0f7d-5b64-a5f5-f828f03addf9

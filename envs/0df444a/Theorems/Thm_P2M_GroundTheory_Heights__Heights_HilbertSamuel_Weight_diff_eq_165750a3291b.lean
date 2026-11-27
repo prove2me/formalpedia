@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_Weight_diff_eq_165750a3291b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_Weight_diff_eq_165750a3291b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:57.307133+00:00
 -- url     : https://prove2.me/theorems/6dcdb77b-b105-5909-8def-868e6877a541

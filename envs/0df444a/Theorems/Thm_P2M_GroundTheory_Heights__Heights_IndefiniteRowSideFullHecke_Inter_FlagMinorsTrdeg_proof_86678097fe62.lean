@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMinorsTrdeg_proof_86678097fe62
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMinorsTrdeg_proof_86678097fe62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:30:18.165149+00:00
 -- url     : https://prove2.me/theorems/819330b0-cb32-41dd-8e79-971bb8be028c

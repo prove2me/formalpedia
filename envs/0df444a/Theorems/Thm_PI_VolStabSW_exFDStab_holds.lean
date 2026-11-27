@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_exFDStab_holds
 -- name    : PI.VolStabSW.exFDStab_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:56:39.877668+00:00
 -- url     : https://prove2.me/theorems/cd6d533c-2267-405d-8b24-bb79bf82d4df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeJacMeasurable_proof_d10b79c0fe5d
 -- name    : P2M_GroundTheory_Heights__Heights_ConeJacMeasurable_proof_d10b79c0fe5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:10:16.40192+00:00
 -- url     : https://prove2.me/theorems/0fabcaa0-b4da-5321-9bb1-b3f2998b2530

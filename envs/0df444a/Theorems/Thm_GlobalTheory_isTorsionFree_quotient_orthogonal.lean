@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTorsionFree_quotient_orthogonal
 -- name    : GlobalTheory.isTorsionFree_quotient_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:32.6469+00:00
 -- url     : https://prove2.me/theorems/4a369d6e-5b04-48cd-8c67-2ab526991c9c

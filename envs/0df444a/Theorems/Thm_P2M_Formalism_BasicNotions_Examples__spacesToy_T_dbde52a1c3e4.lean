@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__spacesToy_T_dbde52a1c3e4
 -- name    : P2M_Formalism_BasicNotions_Examples__spacesToy_T_dbde52a1c3e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:56.588554+00:00
 -- url     : https://prove2.me/theorems/88b41320-ec06-5ca0-b713-94bb5bbada72

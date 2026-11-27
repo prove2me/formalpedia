@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_modQ_eq_one_closure
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.modQ_eq_one_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:48.770751+00:00
 -- url     : https://prove2.me/theorems/91cc8580-f4d5-5b58-80c9-59f50605c3ad

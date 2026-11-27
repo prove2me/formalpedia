@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_PlaneRefl_hf_add_left
 -- name    : GlobalTheory.UTrans.PlaneRefl.hf_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:00.24162+00:00
 -- url     : https://prove2.me/theorems/cfa5d2cc-e81e-5150-8ecb-571b146bb1b2

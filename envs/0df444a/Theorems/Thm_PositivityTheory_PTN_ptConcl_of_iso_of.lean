@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PTN_ptConcl_of_iso_of
 -- name    : PositivityTheory.PTN.ptConcl_of_iso_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:50:53.594074+00:00
 -- url     : https://prove2.me/theorems/763a472a-608f-5ff1-a066-6d243e8d2053

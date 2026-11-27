@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EagonNorthcottZ_frame_of
 -- name    : PI.EagonNorthcottZ.frame_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:55.957333+00:00
 -- url     : https://prove2.me/theorems/e0323f56-86b9-5877-bd39-93ad8e0889f7

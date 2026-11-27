@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_integral_of_simeq_alt
 -- name    : PI.JetsPhW.W.integral_of_simeq_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:46:04.622796+00:00
 -- url     : https://prove2.me/theorems/05b1d7f7-c193-5f48-88aa-32119d578448

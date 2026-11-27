@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_hasProd_compl_finset
 -- name    : PositivityTheory.Lord.hasProd_compl_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:29.208354+00:00
 -- url     : https://prove2.me/theorems/ff9ac30d-7613-44aa-a2e1-15403d00e37c

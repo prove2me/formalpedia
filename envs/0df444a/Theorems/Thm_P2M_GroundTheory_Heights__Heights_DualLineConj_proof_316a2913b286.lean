@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineConj_proof_316a2913b286
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineConj_proof_316a2913b286
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:16:12.150118+00:00
 -- url     : https://prove2.me/theorems/7ad9adc2-6bdd-51b4-9d1d-a7e1d8006220

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_PrimeOpensCover_proof_bf26e60194e1
 -- name    : P2M_GroundTheory_Heights__Heights_Model_PrimeOpensCover_proof_bf26e60194e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:50.505822+00:00
 -- url     : https://prove2.me/theorems/d627cc3b-5a25-4fe7-97a7-2c4b71378a83

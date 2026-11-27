@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Up_Definite_mem_dom
 -- name    : GlobalTheory.Up.Definite.mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:08.3358+00:00
 -- url     : https://prove2.me/theorems/f769a618-a451-452e-92e7-019d66cf37eb

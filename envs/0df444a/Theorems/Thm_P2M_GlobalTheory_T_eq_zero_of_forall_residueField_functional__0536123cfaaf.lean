@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_eq_zero_of_forall_residueField_functional__0536123cfaaf
 -- name    : P2M_GlobalTheory_T_eq_zero_of_forall_residueField_functional__0536123cfaaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:27.9682+00:00
 -- url     : https://prove2.me/theorems/83d2b21a-580a-47ac-8b29-da74bc5827f7

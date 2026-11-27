@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_relCov
 -- name    : PI.QnHermHaar.relCov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:47.542538+00:00
 -- url     : https://prove2.me/theorems/06ab971d-2118-4233-b480-f14e2ba5596e

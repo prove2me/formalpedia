@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_bijective_of_unramified_of_unique_geometric_point
 -- name    : GlobalTheory.algebraMap_bijective_of_unramified_of_unique_geometric_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:53.807696+00:00
 -- url     : https://prove2.me/theorems/31123743-5949-5ae6-a161-ac441ad242ad

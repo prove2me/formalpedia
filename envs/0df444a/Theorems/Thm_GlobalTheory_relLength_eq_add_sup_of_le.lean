@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_eq_add_sup_of_le
 -- name    : GlobalTheory.relLength_eq_add_sup_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:02.636941+00:00
 -- url     : https://prove2.me/theorems/b4fc16ad-2d29-5530-9381-829720ac8536

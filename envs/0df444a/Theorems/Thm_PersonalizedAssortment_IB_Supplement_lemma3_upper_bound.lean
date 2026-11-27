@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_Supplement_lemma3_upper_bound
 -- name    : PersonalizedAssortment.IB.Supplement.lemma3_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:27:45.040567+00:00
 -- url     : https://prove2.me/theorems/96680487-4a26-4f74-8050-77e319b0d6b5

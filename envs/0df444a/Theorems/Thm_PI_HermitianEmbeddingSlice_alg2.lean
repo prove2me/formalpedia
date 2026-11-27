@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HermitianEmbeddingSlice_alg2
 -- name    : PI.HermitianEmbeddingSlice.alg2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:46:44.486717+00:00
 -- url     : https://prove2.me/theorems/6a483cc1-391b-40a7-a678-29922d89708f

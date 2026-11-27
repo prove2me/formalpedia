@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_Sd_coe_herm_smul
 -- name    : PI.OmFibreUniq.W.Sd.coe_herm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:00.056275+00:00
 -- url     : https://prove2.me/theorems/25267163-c6c8-4d04-81a2-5f9199ac6044

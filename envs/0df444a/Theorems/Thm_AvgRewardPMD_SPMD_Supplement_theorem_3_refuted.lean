@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgRewardPMD_SPMD_Supplement_theorem_3_refuted
 -- name    : AvgRewardPMD.SPMD.Supplement.theorem_3_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:26:54.749844+00:00
 -- url     : https://prove2.me/theorems/738f42d4-134f-43aa-9efb-c392577da308

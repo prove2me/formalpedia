@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_ChLiftW_int_valued_zero
 -- name    : PI.VolStabSW.ChLiftW.int_valued_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:33.986819+00:00
 -- url     : https://prove2.me/theorems/15857686-1801-5aa0-83ff-3b4f9298f383

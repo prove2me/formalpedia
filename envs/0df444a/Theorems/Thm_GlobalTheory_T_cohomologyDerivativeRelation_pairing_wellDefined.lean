@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cohomologyDerivativeRelation_pairing_wellDefined
 -- name    : GlobalTheory.T.cohomologyDerivativeRelation_pairing_wellDefined
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:36:38.113919+00:00
 -- url     : https://prove2.me/theorems/77d4d085-54c9-454e-a2b6-d71d759c79e9

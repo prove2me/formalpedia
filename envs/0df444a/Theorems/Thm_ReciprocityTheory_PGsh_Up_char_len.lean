@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_char_len
 -- name    : ReciprocityTheory.PGsh.Up.char_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:27:16.64315+00:00
 -- url     : https://prove2.me/theorems/78415bbe-cad8-5342-a748-3eee0b98500e

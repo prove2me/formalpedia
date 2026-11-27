@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shortest_vector_strict_of_mul
 -- name    : GlobalTheory.shortest_vector_strict_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:08.811506+00:00
 -- url     : https://prove2.me/theorems/7d7552c9-2b34-4a3b-b7c2-b2943508f1eb

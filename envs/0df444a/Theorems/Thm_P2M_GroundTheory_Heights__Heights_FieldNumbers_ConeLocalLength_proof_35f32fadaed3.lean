@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeLocalLength_proof_35f32fadaed3
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeLocalLength_proof_35f32fadaed3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:14:31.879483+00:00
 -- url     : https://prove2.me/theorems/5f8b49b6-1301-427d-80f1-6232da1499f1

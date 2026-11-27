@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_appTop_injective
 -- name    : GlobalTheory.UnitRigidity.appTop_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:57.796697+00:00
 -- url     : https://prove2.me/theorems/fe7913b0-55f0-4716-bb92-63358e34f874

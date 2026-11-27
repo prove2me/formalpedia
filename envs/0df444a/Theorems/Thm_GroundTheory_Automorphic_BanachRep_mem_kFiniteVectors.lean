@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_BanachRep_mem_kFiniteVectors
 -- name    : GroundTheory.Automorphic.BanachRep.mem_kFiniteVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:57:11.978059+00:00
 -- url     : https://prove2.me/theorems/52c69e34-b34b-54bb-8407-96da7b390173

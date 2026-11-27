@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_FrobeniusLift_inf_ker_le_inf
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.FrobeniusLift.inf_ker_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:30.915054+00:00
 -- url     : https://prove2.me/theorems/2f512c02-df7d-51e0-b99b-63e7c03a98de

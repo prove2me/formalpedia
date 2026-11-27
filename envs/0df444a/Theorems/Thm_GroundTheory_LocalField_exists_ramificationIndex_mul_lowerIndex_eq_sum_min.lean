@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_ramificationIndex_mul_lowerIndex_eq_sum_min
 -- name    : GroundTheory.LocalField.exists_ramificationIndex_mul_lowerIndex_eq_sum_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:04:56.133745+00:00
 -- url     : https://prove2.me/theorems/106276ad-621e-5c0b-8322-7d55e2927e39

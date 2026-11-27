@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueA_incl_apply
 -- name    : PI.ScRefExists.GlueA.incl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:10.250806+00:00
 -- url     : https://prove2.me/theorems/d62e72cf-01ed-54d8-a7db-8c67c2e15d7c

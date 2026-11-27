@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_flat_quotient_pow
 -- name    : GlobalTheory.flat_of_flat_quotient_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:55.086535+00:00
 -- url     : https://prove2.me/theorems/7b947d32-8c7a-5886-be32-1a8770a7b045

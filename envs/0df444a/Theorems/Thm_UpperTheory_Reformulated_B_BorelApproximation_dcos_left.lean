@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_BorelApproximation_dcos_left
 -- name    : UpperTheory.Reformulated.B.BorelApproximation.dcos_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:49.396805+00:00
 -- url     : https://prove2.me/theorems/f96f1f57-8111-4525-8884-5ac209464903

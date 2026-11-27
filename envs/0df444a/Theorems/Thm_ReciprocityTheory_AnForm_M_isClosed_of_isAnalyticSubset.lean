@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isClosed_of_isAnalyticSubset
 -- name    : ReciprocityTheory.AnForm.M.isClosed_of_isAnalyticSubset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:03:08.631894+00:00
 -- url     : https://prove2.me/theorems/b37a70fc-e6d3-45cb-9826-3258e0581934

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_ind__stdSum_ee64510dd378
 -- name    : P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_ind__stdSum_ee64510dd378
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:05.515526+00:00
 -- url     : https://prove2.me/theorems/82eeace5-2b19-44aa-bff6-338298c2482b

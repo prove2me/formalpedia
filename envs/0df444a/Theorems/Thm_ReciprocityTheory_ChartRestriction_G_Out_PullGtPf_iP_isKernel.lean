@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_PullGtPf_iP_isKernel
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.PullGtPf.iP_isKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.972423+00:00
 -- url     : https://prove2.me/theorems/eaeeddec-78f2-5c83-afa2-2e424a1e8da2

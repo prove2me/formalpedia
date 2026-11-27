@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_fittGe
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.fittGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:31:46.822177+00:00
 -- url     : https://prove2.me/theorems/0c2f577e-6229-59f4-a567-d14b893ad276

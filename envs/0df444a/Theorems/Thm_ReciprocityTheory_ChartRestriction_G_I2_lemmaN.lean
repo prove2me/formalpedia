@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_lemmaN
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.lemmaN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:02:32.638426+00:00
 -- url     : https://prove2.me/theorems/bc1fdcb3-a394-467c-90e7-09ca9e4ce4e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adensF_continuousOn
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adensF_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:20:15.770681+00:00
 -- url     : https://prove2.me/theorems/d10d2352-ffb9-448e-84de-27f573cdc317

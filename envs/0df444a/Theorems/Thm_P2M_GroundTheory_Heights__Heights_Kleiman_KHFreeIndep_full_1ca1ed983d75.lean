@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_full_1ca1ed983d75
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_full_1ca1ed983d75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:19.08333+00:00
 -- url     : https://prove2.me/theorems/8e557cd8-1496-506a-95fc-629585d9d56f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_maCof
 -- name    : ReciprocityTheory.L2DbarEstimates.I.maCof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:27.352141+00:00
 -- url     : https://prove2.me/theorems/318f6359-88b0-51c6-8a9a-86b52ef7bd83

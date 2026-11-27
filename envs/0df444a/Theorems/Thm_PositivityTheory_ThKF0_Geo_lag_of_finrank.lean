@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_lag_of_finrank
 -- name    : PositivityTheory.ThKF0.Geo.lag_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:50.14249+00:00
 -- url     : https://prove2.me/theorems/300dfc02-83c3-4998-a2fa-2624cd186295

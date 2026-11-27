@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_NoetherIntegralClosureFinite_proof_fe8e972c5744
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_NoetherIntegralClosureFinite_proof_fe8e972c5744
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:12:01.178214+00:00
 -- url     : https://prove2.me/theorems/c80b0887-0ded-4fe9-a7ca-910f3f151541

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_exists_extension_mem_range_77423260147f
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_exists_extension_mem_range_77423260147f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:40.45292+00:00
 -- url     : https://prove2.me/theorems/a787a111-0b6e-4325-a468-45e4a3a20a1e

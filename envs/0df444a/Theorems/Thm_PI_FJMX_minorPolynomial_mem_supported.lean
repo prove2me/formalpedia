@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_minorPolynomial_mem_supported
 -- name    : PI.FJMX.minorPolynomial_mem_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:07.680819+00:00
 -- url     : https://prove2.me/theorems/cd6b3dee-fd59-4eae-869d-8aa516728f19

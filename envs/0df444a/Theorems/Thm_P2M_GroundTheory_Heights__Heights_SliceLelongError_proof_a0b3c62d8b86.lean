@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLelongError_proof_a0b3c62d8b86
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLelongError_proof_a0b3c62d8b86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:39:05.073052+00:00
 -- url     : https://prove2.me/theorems/8bd2a7b1-c44f-40c9-b461-d713c7910081

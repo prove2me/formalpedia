@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_integral_inner_of_tendsto_eLpNorm_two
 -- name    : GlobalTheory.tendsto_integral_inner_of_tendsto_eLpNorm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:54.219647+00:00
 -- url     : https://prove2.me/theorems/3c834b36-ecda-4fb9-861a-4d3a46398161

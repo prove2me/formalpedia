@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isAdicComplete_of_le_of_isNoetherianRing__21bff474f4ec
 -- name    : P2M_GlobalTheory_T_isAdicComplete_of_le_of_isNoetherianRing__21bff474f4ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:36.586466+00:00
 -- url     : https://prove2.me/theorems/23e27ade-344d-5f14-bfc1-d03691003122

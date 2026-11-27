@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_LevUnder_lev_bas_pow
 -- name    : GlobalTheory.ZM.LevUnder.lev_bas_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:23.489644+00:00
 -- url     : https://prove2.me/theorems/162a0187-6ae0-49ae-ae3d-e3a0c6755dd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_stableLattices_product_eq_q_pow_mul
 -- name    : GlobalTheory.T.sum_stableLattices_product_eq_q_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:00.408631+00:00
 -- url     : https://prove2.me/theorems/280228e6-c574-4b2c-8708-9c21bd724aa2

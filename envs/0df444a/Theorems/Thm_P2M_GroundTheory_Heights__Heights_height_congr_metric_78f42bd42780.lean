@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_height_congr_metric_78f42bd42780
 -- name    : P2M_GroundTheory_Heights__Heights_height_congr_metric_78f42bd42780
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:47:43.799394+00:00
 -- url     : https://prove2.me/theorems/d08d87a2-03ae-4178-9641-f43a3313c54d

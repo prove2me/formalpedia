@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfC_maj_nonneg_orth
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfC.maj_nonneg_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:27.856677+00:00
 -- url     : https://prove2.me/theorems/49ebd122-4c01-42c9-b90e-e9ff34640cd5

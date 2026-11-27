@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_IntegralPointThroughPrime_proof_f638112ced1e
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_IntegralPointThroughPrime_proof_f638112ced1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:22.659626+00:00
 -- url     : https://prove2.me/theorems/bc5285b7-2bed-5106-8e88-e655db7c4f3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_sv_sum
 -- name    : PI.UnitaryGroupMassFormula.LCG.sv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:22.813144+00:00
 -- url     : https://prove2.me/theorems/66cd08c2-6894-4648-b1d9-c2c36ee6f8c3

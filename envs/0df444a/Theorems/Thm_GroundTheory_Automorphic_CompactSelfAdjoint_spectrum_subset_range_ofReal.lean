@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_spectrum_subset_range_ofReal
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.spectrum_subset_range_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:11.847228+00:00
 -- url     : https://prove2.me/theorems/aeccff82-cd0d-4bf5-bf6d-15e84e545d44

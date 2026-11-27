@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChowNormForm_hypotheses_inhabited_f5f45697a837
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChowNormForm_hypotheses_inhabited_f5f45697a837
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:24.421803+00:00
 -- url     : https://prove2.me/theorems/6cce73be-266c-4c26-ab45-9284006a2bf3

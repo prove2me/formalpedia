@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_inertia_decompositionMulEquiv
 -- name    : GroundTheory.Global.map_inertia_decompositionMulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:18.500307+00:00
 -- url     : https://prove2.me/theorems/5a5c8404-70fe-440f-8e37-7a4da4e9c39f

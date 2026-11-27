@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_form_apply_neg_star
 -- name    : GlobalTheory.isoTransvection.form_apply_neg_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:06.436792+00:00
 -- url     : https://prove2.me/theorems/782b24dd-6216-4bd9-926a-d29a82c13e05

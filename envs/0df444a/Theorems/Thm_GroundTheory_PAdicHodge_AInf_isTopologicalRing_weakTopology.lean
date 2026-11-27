@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_isTopologicalRing_weakTopology
 -- name    : GroundTheory.PAdicHodge.AInf.isTopologicalRing_weakTopology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:10:09.264982+00:00
 -- url     : https://prove2.me/theorems/b235b04a-64d5-55b1-8c80-9f64db736e40

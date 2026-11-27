@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSub_range
 -- name    : GlobalTheory.UnramSub.range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:31.447905+00:00
 -- url     : https://prove2.me/theorems/e0ad7824-f29d-5d0a-ac81-4490875d9697

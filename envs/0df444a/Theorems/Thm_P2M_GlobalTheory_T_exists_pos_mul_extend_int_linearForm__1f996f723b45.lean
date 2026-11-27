@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_pos_mul_extend_int_linearForm__1f996f723b45
 -- name    : P2M_GlobalTheory_T_exists_pos_mul_extend_int_linearForm__1f996f723b45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:17.167619+00:00
 -- url     : https://prove2.me/theorems/a71b49ee-8d81-5407-a711-efa7065b96da

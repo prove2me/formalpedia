@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_basis_ne_zero_of_etale
 -- name    : GlobalTheory.discr_basis_ne_zero_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:05.8998+00:00
 -- url     : https://prove2.me/theorems/64cf4fd5-a6ce-4df9-b946-03e41a28cc7e

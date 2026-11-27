@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_ideal_mul_principal
 -- name    : PIW.AdelClassFin.ideal_mul_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:14.833291+00:00
 -- url     : https://prove2.me/theorems/d8c61f51-20d2-49ef-ad2e-d0473c05eab4

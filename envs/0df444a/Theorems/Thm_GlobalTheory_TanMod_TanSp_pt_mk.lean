@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanMod_TanSp_pt_mk
 -- name    : GlobalTheory.TanMod.TanSp.pt_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:58.053985+00:00
 -- url     : https://prove2.me/theorems/b1faf48f-d338-501a-af2b-7e2913ae7ba7

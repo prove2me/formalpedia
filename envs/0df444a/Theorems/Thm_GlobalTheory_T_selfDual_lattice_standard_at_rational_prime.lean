@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDual_lattice_standard_at_rational_prime
 -- name    : GlobalTheory.T.selfDual_lattice_standard_at_rational_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:42.755061+00:00
 -- url     : https://prove2.me/theorems/cd6bf937-2635-4e9d-b469-177835843196

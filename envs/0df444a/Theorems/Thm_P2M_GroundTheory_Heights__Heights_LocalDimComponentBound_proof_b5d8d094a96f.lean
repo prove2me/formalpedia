@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalDimComponentBound_proof_b5d8d094a96f
 -- name    : P2M_GroundTheory_Heights__Heights_LocalDimComponentBound_proof_b5d8d094a96f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:48.186809+00:00
 -- url     : https://prove2.me/theorems/2672d7ab-9733-549b-956e-dc50cc0ec7a3

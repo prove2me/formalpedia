@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_Pi_of_fix
 -- name    : PI.VolSemiDirect.W.PG.Dat.Pi_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:28.639619+00:00
 -- url     : https://prove2.me/theorems/8a942f70-2b96-4756-b687-e742146735db

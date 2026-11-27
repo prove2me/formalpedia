@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_tateCohomology_neg_one
 -- name    : GroundTheory.GroupCoh.natCard_tateCohomology_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:43.876727+00:00
 -- url     : https://prove2.me/theorems/0cc223d3-4a1b-4c1d-bdc8-3fda4965a43a

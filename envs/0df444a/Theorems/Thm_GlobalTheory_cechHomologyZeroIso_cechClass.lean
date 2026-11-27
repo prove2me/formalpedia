@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHomologyZeroIso_cechClass
 -- name    : GlobalTheory.cechHomologyZeroIso_cechClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:56.863284+00:00
 -- url     : https://prove2.me/theorems/23655e7e-b8a2-4da6-910f-27b3d04898b2

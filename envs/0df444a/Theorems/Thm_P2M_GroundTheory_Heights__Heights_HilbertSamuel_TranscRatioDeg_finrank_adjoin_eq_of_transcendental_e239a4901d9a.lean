@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_finrank_adjoin_eq_of_transcendental_e239a4901d9a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_finrank_adjoin_eq_of_transcendental_e239a4901d9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:14:44.580281+00:00
 -- url     : https://prove2.me/theorems/6b9c86fa-8c74-58ef-926f-e834b47ec505

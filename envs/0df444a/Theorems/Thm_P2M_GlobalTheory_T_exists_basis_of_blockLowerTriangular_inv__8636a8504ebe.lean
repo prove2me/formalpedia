@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_basis_of_blockLowerTriangular_inv__8636a8504ebe
 -- name    : P2M_GlobalTheory_T_exists_basis_of_blockLowerTriangular_inv__8636a8504ebe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:35.780274+00:00
 -- url     : https://prove2.me/theorems/f2edda97-1836-47ea-abdc-d7914540ac63

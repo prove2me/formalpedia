@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechCubePushforwardIso_hom_app_apply
 -- name    : GlobalTheory.cechCubePushforwardIso_hom_app_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:55.110011+00:00
 -- url     : https://prove2.me/theorems/84d70700-1052-4a24-a24c-10c267c90956

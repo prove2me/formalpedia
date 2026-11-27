@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_SP_minorZ__of_5b1e138ee56d
 -- name    : P2M_PositivityTheory_Rg_Sw_SP_minorZ__of_5b1e138ee56d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:43:34.115494+00:00
 -- url     : https://prove2.me/theorems/ec9c09c1-09d6-42ac-9a87-9a2a07e99c2b

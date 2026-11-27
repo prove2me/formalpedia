@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_onG_ne_zero
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.onG_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:10.170488+00:00
 -- url     : https://prove2.me/theorems/41934edb-7c10-542b-a3b5-4cbd5c55c292

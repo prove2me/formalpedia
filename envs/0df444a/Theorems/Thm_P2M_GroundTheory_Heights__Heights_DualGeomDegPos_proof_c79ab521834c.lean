@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualGeomDegPos_proof_c79ab521834c
 -- name    : P2M_GroundTheory_Heights__Heights_DualGeomDegPos_proof_c79ab521834c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:15.219048+00:00
 -- url     : https://prove2.me/theorems/3e545515-bc5b-56f0-a1b2-6366f0b6d406

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HodgeTateStep_torsionEnd___041ee141d4de
 -- name    : P2M_GlobalTheory_HodgeTateStep_torsionEnd___041ee141d4de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:24:48.524866+00:00
 -- url     : https://prove2.me/theorems/126f340a-da31-4b2c-ac47-642f9d2b33d0

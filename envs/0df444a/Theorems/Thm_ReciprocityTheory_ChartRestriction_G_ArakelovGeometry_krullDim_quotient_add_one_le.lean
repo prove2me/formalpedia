@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_krullDim_quotient_add_one_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.krullDim_quotient_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:11:52.9751+00:00
 -- url     : https://prove2.me/theorems/bb68f000-a5d3-49e4-adae-2e5ce7f34dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLog_lie_of_fixed
 -- name    : GlobalTheory.UnitaryLog.lie_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:03.239095+00:00
 -- url     : https://prove2.me/theorems/99365026-f00c-51f0-9027-c51426a42df7

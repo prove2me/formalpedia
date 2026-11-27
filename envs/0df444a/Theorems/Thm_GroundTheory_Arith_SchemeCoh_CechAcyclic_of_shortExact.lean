@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechAcyclic_of_shortExact
 -- name    : GroundTheory.Arith.SchemeCoh.CechAcyclic.of_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:08.706995+00:00
 -- url     : https://prove2.me/theorems/33d88eaa-4727-45d9-8812-e1ca34549931

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_twentyfive_missing_cell_halfbox_bound
 -- name    : CirclePackingConstants.twentyfive_missing_cell_halfbox_bound
--- status  : Open
+-- status  : Proved
 -- author  : @parclytaxel
 -- created : 2026-11-10T17:58:46.143349+00:00
 -- url     : https://prove2.me/theorems/8fb934b7-bfe0-4ddf-934a-1fc9b9479ccd

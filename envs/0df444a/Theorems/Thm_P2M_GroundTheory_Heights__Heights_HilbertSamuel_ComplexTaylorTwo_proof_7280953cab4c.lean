@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexTaylorTwo_proof_7280953cab4c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexTaylorTwo_proof_7280953cab4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:24.015434+00:00
 -- url     : https://prove2.me/theorems/34568c11-78e0-4bc9-b396-ec19b9846465

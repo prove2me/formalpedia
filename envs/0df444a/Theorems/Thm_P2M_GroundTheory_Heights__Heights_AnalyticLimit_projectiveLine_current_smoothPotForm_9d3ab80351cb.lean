@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_projectiveLine_current_smoothPotForm_9d3ab80351cb
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_projectiveLine_current_smoothPotForm_9d3ab80351cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:31.741358+00:00
 -- url     : https://prove2.me/theorems/29e05be0-c192-51ff-9d60-7736c6854242

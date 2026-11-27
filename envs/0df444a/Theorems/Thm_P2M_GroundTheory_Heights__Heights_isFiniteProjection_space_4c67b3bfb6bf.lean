@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isFiniteProjection_space_4c67b3bfb6bf
 -- name    : P2M_GroundTheory_Heights__Heights_isFiniteProjection_space_4c67b3bfb6bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:19.214801+00:00
 -- url     : https://prove2.me/theorems/e7dac0aa-de0f-4bde-af03-9d1821c39047

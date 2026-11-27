@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointConj_proof_df3b6b8304a7
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointConj_proof_df3b6b8304a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:10.002719+00:00
 -- url     : https://prove2.me/theorems/55b3040b-93dc-54d4-9ab8-0c8419b99cb8

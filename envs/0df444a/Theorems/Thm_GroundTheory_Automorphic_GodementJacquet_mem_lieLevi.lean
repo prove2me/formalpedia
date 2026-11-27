@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_mem_lieLevi
 -- name    : GroundTheory.Automorphic.GodementJacquet.mem_lieLevi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:49.713222+00:00
 -- url     : https://prove2.me/theorems/50df0909-4eb6-53de-bb38-9e1e8a504047

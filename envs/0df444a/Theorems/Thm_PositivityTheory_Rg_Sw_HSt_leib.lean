@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_leib
 -- name    : PositivityTheory.Rg.Sw.HSt.leib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:52:47.552835+00:00
 -- url     : https://prove2.me/theorems/489dda42-88d4-49ac-8da5-fb7c2671780c

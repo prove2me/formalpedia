@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgRight_adjugate_last_mul
 -- name    : GlobalTheory.WigSh.OmgRight.adjugate_last_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:15.78759+00:00
 -- url     : https://prove2.me/theorems/e1ec55bc-7d0c-5fc4-9f2a-be7ba9b798d8

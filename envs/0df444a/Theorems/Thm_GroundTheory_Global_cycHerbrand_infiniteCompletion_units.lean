@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_infiniteCompletion_units
 -- name    : GroundTheory.Global.cycHerbrand_infiniteCompletion_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:57:06.090886+00:00
 -- url     : https://prove2.me/theorems/b2e9e2a3-1f41-5ae4-a405-dfbb39d0118d

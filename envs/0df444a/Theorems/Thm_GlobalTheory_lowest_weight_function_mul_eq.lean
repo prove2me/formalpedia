@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lowest_weight_function_mul_eq
 -- name    : GlobalTheory.lowest_weight_function_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:56.805943+00:00
 -- url     : https://prove2.me/theorems/cd3a70cd-b53b-5958-93fe-479de347e06c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_exp_deriv
 -- name    : PI.exp_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:43.686294+00:00
 -- url     : https://prove2.me/theorems/4898c51d-03ce-472c-b7e7-33baf3192dab

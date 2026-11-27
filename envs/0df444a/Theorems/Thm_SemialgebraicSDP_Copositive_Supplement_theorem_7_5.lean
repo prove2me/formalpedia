@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemialgebraicSDP_Copositive_Supplement_theorem_7_5
 -- name    : SemialgebraicSDP.Copositive.Supplement.theorem_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:42:39.881576+00:00
 -- url     : https://prove2.me/theorems/f85261e5-46e4-4fc8-93e5-f6f81cab8f56

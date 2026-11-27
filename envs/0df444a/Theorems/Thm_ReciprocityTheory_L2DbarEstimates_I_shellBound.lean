@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_shellBound
 -- name    : ReciprocityTheory.L2DbarEstimates.I.shellBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:15.711144+00:00
 -- url     : https://prove2.me/theorems/e54a3a62-955d-45f6-908b-04ac6a722e12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldLoss_LatVol_varLat_basis_open_vol
 -- name    : GlobalTheory.UnfoldLoss.LatVol.varLat_basis_open_vol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:07.556336+00:00
 -- url     : https://prove2.me/theorems/1b2b6e2a-315c-4515-b250-89278401a5fa

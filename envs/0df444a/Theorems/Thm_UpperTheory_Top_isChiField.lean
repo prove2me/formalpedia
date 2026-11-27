@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_isChiField
 -- name    : UpperTheory.Top.isChiField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:57.384806+00:00
 -- url     : https://prove2.me/theorems/eff0f959-9137-41ac-8186-c16bfc108476

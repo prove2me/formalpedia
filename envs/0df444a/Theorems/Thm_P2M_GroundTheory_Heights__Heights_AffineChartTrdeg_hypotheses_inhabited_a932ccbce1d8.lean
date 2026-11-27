@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AffineChartTrdeg_hypotheses_inhabited_a932ccbce1d8
 -- name    : P2M_GroundTheory_Heights__Heights_AffineChartTrdeg_hypotheses_inhabited_a932ccbce1d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:58.402167+00:00
 -- url     : https://prove2.me/theorems/af4ab178-7987-568e-9330-5f4c2a3edeba

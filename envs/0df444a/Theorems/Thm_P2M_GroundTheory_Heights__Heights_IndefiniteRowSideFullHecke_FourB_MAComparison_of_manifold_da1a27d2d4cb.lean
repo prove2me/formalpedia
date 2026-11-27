@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_MAComparison_of_manifold_da1a27d2d4cb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_MAComparison_of_manifold_da1a27d2d4cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:33:21.896362+00:00
 -- url     : https://prove2.me/theorems/e2b7899e-f5c0-4c81-ad2f-e44b52eea049

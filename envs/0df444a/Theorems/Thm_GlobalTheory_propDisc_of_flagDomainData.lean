@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_propDisc_of_flagDomainData
 -- name    : GlobalTheory.propDisc_of_flagDomainData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:11.947558+00:00
 -- url     : https://prove2.me/theorems/2d92ef92-4f92-5f88-a6b5-237f87ff6b6c

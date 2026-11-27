@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ker_ne_bot_and_not_effCartier_of_two_le_dim
 -- name    : GlobalTheory.T.ker_ne_bot_and_not_effCartier_of_two_le_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:32.161529+00:00
 -- url     : https://prove2.me/theorems/22df8924-2d1f-5fbf-942c-88cc08ede1fa

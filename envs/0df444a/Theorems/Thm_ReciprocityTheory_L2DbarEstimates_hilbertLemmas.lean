@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_hilbertLemmas
 -- name    : ReciprocityTheory.L2DbarEstimates.hilbertLemmas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:44.854046+00:00
 -- url     : https://prove2.me/theorems/dc7138db-f6dd-4f75-a40c-ed545489b7f8

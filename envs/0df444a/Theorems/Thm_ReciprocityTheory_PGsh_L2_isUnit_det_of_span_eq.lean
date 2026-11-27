@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_isUnit_det_of_span_eq
 -- name    : ReciprocityTheory.PGsh.L2.isUnit_det_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:33.801458+00:00
 -- url     : https://prove2.me/theorems/be69bdf6-a008-551e-821e-c79668ef63e1

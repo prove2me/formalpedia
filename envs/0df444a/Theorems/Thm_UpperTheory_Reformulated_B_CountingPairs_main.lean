@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_CountingPairs_main
 -- name    : UpperTheory.Reformulated.B.CountingPairs.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:20.418199+00:00
 -- url     : https://prove2.me/theorems/4c25a648-f1dd-462c-8705-995a3755102b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_lag_abs_sum_le_one
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.lag_abs_sum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:08.187191+00:00
 -- url     : https://prove2.me/theorems/5929dc13-8e76-4807-a3b1-a651de16c430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_tw_apply
 -- name    : UpperTheory.V.Chr.tw_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:50.81308+00:00
 -- url     : https://prove2.me/theorems/528971d7-42b0-4bc5-bfa4-1152708c7cb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_affineComp_germ
 -- name    : GroundTheory.Global.Elliptic.affineComp_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:31.027189+00:00
 -- url     : https://prove2.me/theorems/7318cf61-e9dc-4ef5-8768-3d714cc45fbb

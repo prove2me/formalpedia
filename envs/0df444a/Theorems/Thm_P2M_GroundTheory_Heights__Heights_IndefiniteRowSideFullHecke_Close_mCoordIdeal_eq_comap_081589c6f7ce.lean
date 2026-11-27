@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mCoordIdeal_eq_comap_081589c6f7ce
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mCoordIdeal_eq_comap_081589c6f7ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:15.619645+00:00
 -- url     : https://prove2.me/theorems/d89dd7df-6102-5439-b4fa-03cc8c748a68

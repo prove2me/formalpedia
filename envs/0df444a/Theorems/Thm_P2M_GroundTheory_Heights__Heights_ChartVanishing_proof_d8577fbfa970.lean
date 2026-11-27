@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_proof_d8577fbfa970
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_proof_d8577fbfa970
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:24:48.388455+00:00
 -- url     : https://prove2.me/theorems/18b71675-8dff-56b1-9e98-fbfa20895e39

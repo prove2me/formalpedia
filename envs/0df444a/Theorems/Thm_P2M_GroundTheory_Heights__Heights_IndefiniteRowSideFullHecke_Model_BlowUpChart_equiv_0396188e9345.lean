@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BlowUpChart_equiv_0396188e9345
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_BlowUpChart_equiv_0396188e9345
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:53.996632+00:00
 -- url     : https://prove2.me/theorems/344e4677-f3d5-49c7-a00a-10e78d27010c

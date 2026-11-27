@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Supernatural_ofNat_injective
 -- name    : GroundTheory.ProfCoh.Supernatural.ofNat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:13.001108+00:00
 -- url     : https://prove2.me/theorems/1b0b65f9-0dc5-4c6f-a5d0-6a1cc174cfab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_proof_503a46b2f3aa
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_proof_503a46b2f3aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:35.304856+00:00
 -- url     : https://prove2.me/theorems/7b83853f-ed90-41b9-9e39-fc98ad877d3a

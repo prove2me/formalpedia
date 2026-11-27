@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_Supplement_corollary_4_1
 -- name    : ProjSelfConcordant.ConicExt.Supplement.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:19:42.214643+00:00
 -- url     : https://prove2.me/theorems/c8f4433a-b165-4f5b-ba53-e38718942a53

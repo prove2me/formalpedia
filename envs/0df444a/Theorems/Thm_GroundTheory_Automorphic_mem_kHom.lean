@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_kHom
 -- name    : GroundTheory.Automorphic.mem_kHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:02.654374+00:00
 -- url     : https://prove2.me/theorems/0a664f91-2e71-5105-bb7a-00b987391049

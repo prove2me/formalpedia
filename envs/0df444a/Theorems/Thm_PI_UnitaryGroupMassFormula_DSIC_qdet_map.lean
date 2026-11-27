@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_qdet_map
 -- name    : PI.UnitaryGroupMassFormula.DSIC.qdet_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:53:41.868003+00:00
 -- url     : https://prove2.me/theorems/0206ee43-8ebe-4b64-b728-7be57ae06464

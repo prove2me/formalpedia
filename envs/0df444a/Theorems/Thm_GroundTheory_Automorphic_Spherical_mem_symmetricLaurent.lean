@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_mem_symmetricLaurent
 -- name    : GroundTheory.Automorphic.Spherical.mem_symmetricLaurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:25.881956+00:00
 -- url     : https://prove2.me/theorems/fdd788f3-8f23-5945-9b03-757a0f269b6e

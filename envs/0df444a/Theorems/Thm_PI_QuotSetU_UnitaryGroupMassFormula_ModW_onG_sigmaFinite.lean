@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_ModW_onG_sigmaFinite
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.ModW.onG_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:34.699879+00:00
 -- url     : https://prove2.me/theorems/0f7636b4-1a28-4423-9dfb-326c12d6de10

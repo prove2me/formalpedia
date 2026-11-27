@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianLogGrowth_full_04386b8b5fed
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-27T05:04:01.163069+00:00
+-- url     : https://prove2.me/submissions/1e599f71-771d-45ed-a23d-eca232ef1904
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HodgeLowerBound_PLaplacianLogGrowth
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HodgeLowerBound_PFsPotLaplacian
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HodgeLowerBound_PInvDerivDecay
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HodgeLowerBound_PLaplacianDecayZero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HodgeLowerBound_AssemblyLaplacianLogGrowth
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FsPotLaplacian_proof_8f110261dda5
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_InvDerivDecay_proof_df326dbb8b19
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianDecayZero_proof_0954bde49798
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianLogGrowth_proof_9994d7304fbb
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.LowerBoundFree
+namespace GroundTheory.Heights₂.Heights.LowerBoundFree
+namespace LaplacianLogGrowth
+theorem _root_.solution : LaplacianLogGrowth.Statement :=
+  LaplacianLogGrowth.proof FsPotLaplacian.proof InvDerivDecay.proof LaplacianDecayZero.proof
+end LaplacianLogGrowth
+end GroundTheory.Heights₂.Heights.LowerBoundFree

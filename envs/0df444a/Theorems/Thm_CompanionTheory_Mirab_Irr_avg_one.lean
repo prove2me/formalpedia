@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_avg_one
 -- name    : CompanionTheory.Mirab.Irr.avg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:10:14.044866+00:00
 -- url     : https://prove2.me/theorems/77ec0fc8-466f-5026-a859-e795253215c7

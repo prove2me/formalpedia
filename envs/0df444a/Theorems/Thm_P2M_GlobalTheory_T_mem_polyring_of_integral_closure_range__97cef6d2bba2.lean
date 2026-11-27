@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mem_polyring_of_integral_closure_range__97cef6d2bba2
 -- name    : P2M_GlobalTheory_T_mem_polyring_of_integral_closure_range__97cef6d2bba2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:45.740219+00:00
 -- url     : https://prove2.me/theorems/998dddea-b8cf-4cb6-9494-cd28496995f8

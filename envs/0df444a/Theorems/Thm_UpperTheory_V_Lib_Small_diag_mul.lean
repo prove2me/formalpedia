@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_diag_mul
 -- name    : UpperTheory.V.Lib.Small.diag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:58.799412+00:00
 -- url     : https://prove2.me/theorems/1516cd71-9520-43da-9054-00ab1b06acfc

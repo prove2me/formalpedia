@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_UnitarySelfGeneration_Mend_spectralNorm_le_one_iff_isIntegral
 -- name    : PositivityTheory.UnitarySelfGeneration.Mend.spectralNorm_le_one_iff_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:24.568088+00:00
 -- url     : https://prove2.me/theorems/097a5d1a-b047-45c8-9cee-e58eb409fc0c

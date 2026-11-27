@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_unit_2
 -- name    : MassDataIdxCore.unit_2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:03:32.677953+00:00
 -- url     : https://prove2.me/theorems/f4f63840-299e-5b8b-bf15-b75d03205ebc

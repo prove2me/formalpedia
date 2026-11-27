@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_localization_ne_top
 -- name    : GlobalTheory.addVal_localization_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:19.358255+00:00
 -- url     : https://prove2.me/theorems/412c4bd9-4cc9-441d-978d-61a989212307

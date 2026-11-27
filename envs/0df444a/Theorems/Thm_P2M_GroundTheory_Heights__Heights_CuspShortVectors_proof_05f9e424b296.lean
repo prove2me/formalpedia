@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspShortVectors_proof_05f9e424b296
 -- name    : P2M_GroundTheory_Heights__Heights_CuspShortVectors_proof_05f9e424b296
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:52.071132+00:00
 -- url     : https://prove2.me/theorems/299232ab-1509-5681-bb4b-805b23e6de56

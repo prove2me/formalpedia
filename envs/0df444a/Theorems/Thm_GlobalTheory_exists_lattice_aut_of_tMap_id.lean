@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lattice_aut_of_tMap_id
 -- name    : GlobalTheory.exists_lattice_aut_of_tMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T17:45:00.234843+00:00
 -- url     : https://prove2.me/theorems/6f6f6bf2-ae5e-5671-98c3-49a80745d606

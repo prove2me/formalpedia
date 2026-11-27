@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_flowMinimumLowerBound_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.flowMinimumLowerBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:15:56.430641+00:00
 -- url     : https://prove2.me/theorems/9475a03f-c205-5191-b5a2-62df88016f60

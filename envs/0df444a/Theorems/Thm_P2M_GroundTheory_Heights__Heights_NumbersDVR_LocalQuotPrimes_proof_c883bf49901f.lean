@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotPrimes_proof_c883bf49901f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotPrimes_proof_c883bf49901f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:30.44371+00:00
 -- url     : https://prove2.me/theorems/e8bac44f-f960-4cd3-b909-6a08c0e61fcc

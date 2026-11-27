@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smulHom_eq_smul_id
 -- name    : GlobalTheory.smulHom_eq_smul_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:55.737774+00:00
 -- url     : https://prove2.me/theorems/d82a924e-0cb2-486c-b1f2-10cbb2722992

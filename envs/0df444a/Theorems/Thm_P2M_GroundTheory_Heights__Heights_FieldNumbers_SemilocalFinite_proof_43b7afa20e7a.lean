@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalFinite_proof_43b7afa20e7a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalFinite_proof_43b7afa20e7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:21.397304+00:00
 -- url     : https://prove2.me/theorems/9ddfe545-185a-5955-98af-8c3fa73c417c

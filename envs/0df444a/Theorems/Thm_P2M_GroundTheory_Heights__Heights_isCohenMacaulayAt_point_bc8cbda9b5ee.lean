@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isCohenMacaulayAt_point_bc8cbda9b5ee
 -- name    : P2M_GroundTheory_Heights__Heights_isCohenMacaulayAt_point_bc8cbda9b5ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:46.253101+00:00
 -- url     : https://prove2.me/theorems/475b2a70-9cc4-52ad-9712-8755e0bfb7e4

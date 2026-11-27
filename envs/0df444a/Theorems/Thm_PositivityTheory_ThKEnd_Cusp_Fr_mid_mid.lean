@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_Fr_mid_mid
 -- name    : PositivityTheory.ThKEnd.Cusp.Fr.mid_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:59:25.349183+00:00
 -- url     : https://prove2.me/theorems/2c52c4f4-9554-5746-9536-f9cbb2dcfeda

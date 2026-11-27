@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Choice_isDiv_complex_circle
 -- name    : KStar.Choice.isDiv_complex_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:07.714811+00:00
 -- url     : https://prove2.me/theorems/ba0f67cc-132a-4c81-bee7-d8f4513c46a6

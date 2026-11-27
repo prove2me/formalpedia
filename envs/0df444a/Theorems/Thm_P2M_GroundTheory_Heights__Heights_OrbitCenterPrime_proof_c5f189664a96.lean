@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCenterPrime_proof_c5f189664a96
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCenterPrime_proof_c5f189664a96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:01.479479+00:00
 -- url     : https://prove2.me/theorems/26777719-ef01-5faa-b1d1-dc1e8f81362c

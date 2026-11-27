@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mean_fundamentalDomain_eq_of_periodic
 -- name    : GlobalTheory.mean_fundamentalDomain_eq_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:32.922849+00:00
 -- url     : https://prove2.me/theorems/31ba20cb-ff48-5e1b-afa6-a0f8582e52c9

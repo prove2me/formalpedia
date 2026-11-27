@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenQueue_ProductForm_Supplement_theorem_4
 -- name    : TokenQueue.ProductForm.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:20:12.282511+00:00
 -- url     : https://prove2.me/theorems/242e1a42-995a-40e2-a9dd-08182d156268

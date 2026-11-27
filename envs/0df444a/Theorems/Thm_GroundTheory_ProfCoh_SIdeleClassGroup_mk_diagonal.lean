@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_SIdeleClassGroup_mk_diagonal
 -- name    : GroundTheory.ProfCoh.SIdeleClassGroup.mk_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:00.47809+00:00
 -- url     : https://prove2.me/theorems/a9e9f309-d5ab-5713-ac18-ecce7b0e0e45

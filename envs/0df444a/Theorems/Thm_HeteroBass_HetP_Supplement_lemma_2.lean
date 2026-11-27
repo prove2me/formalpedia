@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeteroBass_HetP_Supplement_lemma_2
 -- name    : HeteroBass.HetP.Supplement.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:29:35.50101+00:00
 -- url     : https://prove2.me/theorems/38fec184-baa0-4125-b307-c0339e87bb93

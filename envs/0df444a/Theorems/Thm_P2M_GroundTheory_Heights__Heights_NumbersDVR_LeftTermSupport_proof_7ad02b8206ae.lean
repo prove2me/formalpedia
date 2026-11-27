@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LeftTermSupport_proof_7ad02b8206ae
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LeftTermSupport_proof_7ad02b8206ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:18.895778+00:00
 -- url     : https://prove2.me/theorems/62d1cfef-a55f-57ad-bb40-5d19bf712f87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_coe_restrictionInv_apply
 -- name    : GroundTheory.GroupCoh.coe_restrictionInv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:56.821466+00:00
 -- url     : https://prove2.me/theorems/5522a23a-04b2-524a-9837-7f90fb77f41e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramified_of_tower_right
 -- name    : GroundTheory.LocalField.IsUnramified.of_tower_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:59:05.346863+00:00
 -- url     : https://prove2.me/theorems/7454e651-a1e7-4057-8c6b-b58c084e1378

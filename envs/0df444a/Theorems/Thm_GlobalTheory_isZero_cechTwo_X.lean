@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isZero_cechTwo_X
 -- name    : GlobalTheory.isZero_cechTwo_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:50:58.917882+00:00
 -- url     : https://prove2.me/theorems/a865212f-8f9b-4876-919c-28ffe506fe2b

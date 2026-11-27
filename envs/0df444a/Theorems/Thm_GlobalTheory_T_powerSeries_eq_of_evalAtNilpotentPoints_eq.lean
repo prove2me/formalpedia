@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_powerSeries_eq_of_evalAtNilpotentPoints_eq
 -- name    : GlobalTheory.T.powerSeries_eq_of_evalAtNilpotentPoints_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:12:59.878259+00:00
 -- url     : https://prove2.me/theorems/40176b53-8dd6-416e-b306-e3c96525e39d

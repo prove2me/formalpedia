@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_degree_mulIsogeny
 -- name    : GroundTheory.Arith.Abelian.degree_mulIsogeny
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:39.991575+00:00
 -- url     : https://prove2.me/theorems/ba11f501-6ede-5e4a-8120-4a419251d0bc

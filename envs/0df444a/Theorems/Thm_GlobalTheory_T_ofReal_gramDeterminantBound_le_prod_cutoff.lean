@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ofReal_gramDeterminantBound_le_prod_cutoff
 -- name    : GlobalTheory.T.ofReal_gramDeterminantBound_le_prod_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:00.442307+00:00
 -- url     : https://prove2.me/theorems/62ce2203-81e2-5e8d-adef-f9f908a690a0

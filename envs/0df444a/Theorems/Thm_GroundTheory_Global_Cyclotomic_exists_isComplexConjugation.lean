@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_isComplexConjugation
 -- name    : GroundTheory.Global.Cyclotomic.exists_isComplexConjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:56:30.206337+00:00
 -- url     : https://prove2.me/theorems/44e76e0c-c937-4cf2-9ed3-2c46e7c2dbbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartImagMean_proof_b67275b98349
 -- name    : P2M_GroundTheory_Heights__Heights_ChartImagMean_proof_b67275b98349
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:08.241047+00:00
 -- url     : https://prove2.me/theorems/a08b572a-58f6-5cc5-b400-1066114ed527

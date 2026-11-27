@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_exists_eq_exp
 -- name    : UpperTheory.V.Lib.Small.exists_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:49.784303+00:00
 -- url     : https://prove2.me/theorems/6e1c888c-ba1c-4dee-9a78-e13d2c6497c9

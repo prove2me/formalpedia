@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_saturationIn
 -- name    : GlobalTheory.finrank_saturationIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:09.869982+00:00
 -- url     : https://prove2.me/theorems/517b46dc-1360-57e8-83fa-b8b566054d11

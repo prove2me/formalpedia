@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_reciprocityMap_surjective
 -- name    : GroundTheory.Global.RationalSymbol.reciprocityMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:34.138821+00:00
 -- url     : https://prove2.me/theorems/accea1e6-4d81-5a8a-8ae0-ec4a122d253c

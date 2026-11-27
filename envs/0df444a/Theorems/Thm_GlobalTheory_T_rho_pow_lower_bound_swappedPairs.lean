@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rho_pow_lower_bound_swappedPairs
 -- name    : GlobalTheory.T.rho_pow_lower_bound_swappedPairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:37:04.948892+00:00
 -- url     : https://prove2.me/theorems/d9ddbcbd-0df4-4bc3-87a9-64c85520159a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_goodReduction
 -- name    : GroundTheory.Global.eventually_goodReduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:24.731103+00:00
 -- url     : https://prove2.me/theorems/8513116c-9c6b-5fa8-a5b2-150e513f9e5c

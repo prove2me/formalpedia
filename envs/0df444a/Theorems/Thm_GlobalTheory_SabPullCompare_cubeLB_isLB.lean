@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SabPullCompare_cubeLB_isLB
 -- name    : GlobalTheory.SabPullCompare.cubeLB_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:31.771081+00:00
 -- url     : https://prove2.me/theorems/c6b1f4ab-7a70-43c3-bd16-3afa4921feb1

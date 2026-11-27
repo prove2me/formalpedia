@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_weak_bounded
 -- name    : PositivityTheory.ThKG.Loc.Bump.weak_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:01:05.653742+00:00
 -- url     : https://prove2.me/theorems/ebbb16f7-21e4-4fec-a6ad-9cb3cf784c87

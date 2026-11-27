@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbIso_spreads_out
 -- name    : GlobalTheory.lbIso_spreads_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:09:55.981983+00:00
 -- url     : https://prove2.me/theorems/f7bd385e-dd0c-446a-adb4-83cbeadaa3e4

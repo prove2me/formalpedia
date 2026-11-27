@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_intAt_sum
 -- name    : PI.TwNormLat.W.intAt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:37.018958+00:00
 -- url     : https://prove2.me/theorems/c9f46776-4104-52c5-bced-58b0a3c7da84

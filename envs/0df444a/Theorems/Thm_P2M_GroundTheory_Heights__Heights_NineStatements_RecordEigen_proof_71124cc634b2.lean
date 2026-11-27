@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_RecordEigen_proof_71124cc634b2
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_RecordEigen_proof_71124cc634b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:32:01.289912+00:00
 -- url     : https://prove2.me/theorems/7ce09bf2-b118-4a90-9d6a-e4253d14cbf2

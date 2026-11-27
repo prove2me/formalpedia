@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HLambdaG_Main_Supplement_theorem_3
 -- name    : HLambdaG.Main.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:04:00.436032+00:00
 -- url     : https://prove2.me/theorems/36ecd25f-ad5d-4616-8cca-4abaf82a1973

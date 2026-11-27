@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_vInv_mem
 -- name    : PI.JetsPhW.Inv.vInv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:46:25.712841+00:00
 -- url     : https://prove2.me/theorems/e09509dd-0e03-4295-bb77-bd226e210a3a

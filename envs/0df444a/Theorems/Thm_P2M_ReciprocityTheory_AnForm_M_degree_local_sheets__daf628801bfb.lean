@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_degree_local_sheets__daf628801bfb
 -- name    : P2M_ReciprocityTheory_AnForm_M_degree_local_sheets__daf628801bfb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:40.271198+00:00
 -- url     : https://prove2.me/theorems/c03be8a1-7c35-5a5d-9cff-c1d0638bc7b3

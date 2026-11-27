@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_inhabit_thm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.inhabit_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:10.948617+00:00
 -- url     : https://prove2.me/theorems/21068314-4be9-4287-8602-b289d786fb44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_logMonoTestInt_thm
 -- name    : ReciprocityTheory.AnForm.A.logMonoTestInt_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:01:40.978803+00:00
 -- url     : https://prove2.me/theorems/84eed208-5722-44a5-b1ef-45f0d4bcafe4

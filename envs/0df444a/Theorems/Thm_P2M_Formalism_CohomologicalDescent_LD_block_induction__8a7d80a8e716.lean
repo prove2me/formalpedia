@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LD_block_induction__8a7d80a8e716
 -- name    : P2M_Formalism_CohomologicalDescent_LD_block_induction__8a7d80a8e716
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:41.804199+00:00
 -- url     : https://prove2.me/theorems/ed7ff8e4-e6d9-539e-8c1b-38d92d98c401

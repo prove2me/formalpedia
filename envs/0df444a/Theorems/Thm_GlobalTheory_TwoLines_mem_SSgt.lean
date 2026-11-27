@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_mem_SSgt
 -- name    : GlobalTheory.TwoLines.mem_SSgt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:48.774693+00:00
 -- url     : https://prove2.me/theorems/ce9f68f6-9fa4-5466-9fe9-ce143cff4d31

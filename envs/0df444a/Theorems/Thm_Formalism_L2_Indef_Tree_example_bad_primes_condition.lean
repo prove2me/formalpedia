@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_bad_primes_condition
 -- name    : Formalism.L2.Indef.Tree.example_bad_primes_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:44:43.798966+00:00
 -- url     : https://prove2.me/theorems/3614f40d-8dc2-4509-8dbf-8520eedfcf98

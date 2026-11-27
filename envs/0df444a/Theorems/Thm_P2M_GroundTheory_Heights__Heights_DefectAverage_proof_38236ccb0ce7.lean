@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DefectAverage_proof_38236ccb0ce7
 -- name    : P2M_GroundTheory_Heights__Heights_DefectAverage_proof_38236ccb0ce7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:40.992387+00:00
 -- url     : https://prove2.me/theorems/c899a3eb-e757-53d8-a565-b97293654048

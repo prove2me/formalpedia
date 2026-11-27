@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exchangeToPositionOne_uniform_in_level
 -- name    : GlobalTheory.T.exchangeToPositionOne_uniform_in_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:14.179343+00:00
 -- url     : https://prove2.me/theorems/c696a2fe-9ea5-491c-bb1b-acec766a4192

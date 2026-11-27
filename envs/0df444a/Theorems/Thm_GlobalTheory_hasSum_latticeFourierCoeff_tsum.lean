@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_latticeFourierCoeff_tsum
 -- name    : GlobalTheory.hasSum_latticeFourierCoeff_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:08.840104+00:00
 -- url     : https://prove2.me/theorems/6d02e1d8-b0cb-4ea4-a180-d2cea691e282

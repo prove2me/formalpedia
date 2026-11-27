@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_FrechetDerivEvaluation_hasFDerivAt_eval__c9547fbfe4f6
 -- name    : P2M_UpperTheory_Reformulated_B_FrechetDerivEvaluation_hasFDerivAt_eval__c9547fbfe4f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:41.888294+00:00
 -- url     : https://prove2.me/theorems/804fed5c-7b8f-55cf-af06-e0fb8f6b8487

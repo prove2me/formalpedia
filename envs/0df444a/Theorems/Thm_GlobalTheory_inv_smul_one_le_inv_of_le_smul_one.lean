@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inv_smul_one_le_inv_of_le_smul_one
 -- name    : GlobalTheory.inv_smul_one_le_inv_of_le_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:01.940238+00:00
 -- url     : https://prove2.me/theorems/0a326d97-bfd8-4708-b3a8-5442beb37971

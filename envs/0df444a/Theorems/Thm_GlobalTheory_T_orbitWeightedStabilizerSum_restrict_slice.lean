@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbitWeightedStabilizerSum_restrict_slice
 -- name    : GlobalTheory.T.orbitWeightedStabilizerSum_restrict_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:30.679389+00:00
 -- url     : https://prove2.me/theorems/3aa64598-d963-5001-9c54-f54a11fdee7c

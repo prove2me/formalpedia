@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__toySData_atP_7e9f553f1302
 -- name    : P2M_Formalism_BasicNotions_Examples__toySData_atP_7e9f553f1302
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:11:44.044034+00:00
 -- url     : https://prove2.me/theorems/dcbe785c-f00e-5152-9626-b6376b6b88ab

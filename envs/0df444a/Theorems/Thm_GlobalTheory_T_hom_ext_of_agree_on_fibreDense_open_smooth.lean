@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hom_ext_of_agree_on_fibreDense_open_smooth
 -- name    : GlobalTheory.T.hom_ext_of_agree_on_fibreDense_open_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:47:44.736595+00:00
 -- url     : https://prove2.me/theorems/e9badf67-d036-4c1d-a0b8-183c0dad9203

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PivotLast_proof_5acde1d3fec9
 -- name    : P2M_GroundTheory_Heights__Heights_PivotLast_proof_5acde1d3fec9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:38.3353+00:00
 -- url     : https://prove2.me/theorems/04a3577b-a053-41b0-999f-1bb15c6d8ee3

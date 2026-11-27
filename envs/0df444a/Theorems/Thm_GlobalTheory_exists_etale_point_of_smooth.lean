@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_etale_point_of_smooth
 -- name    : GlobalTheory.exists_etale_point_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:57.925333+00:00
 -- url     : https://prove2.me/theorems/df3b0080-4000-4768-a226-8ef14d3d314a

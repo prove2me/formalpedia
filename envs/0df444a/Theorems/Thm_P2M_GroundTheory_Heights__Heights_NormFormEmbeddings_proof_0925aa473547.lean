@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormFormEmbeddings_proof_0925aa473547
 -- name    : P2M_GroundTheory_Heights__Heights_NormFormEmbeddings_proof_0925aa473547
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:32.774545+00:00
 -- url     : https://prove2.me/theorems/1ee39f4a-506b-579f-b1d0-8c18ad401f47

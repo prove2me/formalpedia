@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_exists_mul_inv_pow_mem
 -- name    : GroundTheory.PAdicHodge.SenTateChar.exists_mul_inv_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:08.17768+00:00
 -- url     : https://prove2.me/theorems/d8e5a0b8-3872-40a8-8307-1064a711c237

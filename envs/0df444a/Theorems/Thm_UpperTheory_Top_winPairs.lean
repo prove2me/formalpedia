@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_winPairs
 -- name    : UpperTheory.Top.winPairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:16.165187+00:00
 -- url     : https://prove2.me/theorems/f3158bed-4082-447d-9d09-64b0ad52c7ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_exists_smoothLocus
 -- name    : GlobalTheory.WeierstrassCurve.exists_smoothLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:43.739371+00:00
 -- url     : https://prove2.me/theorems/f1a25e1b-c5a0-4d8c-88e1-603d363d2b37

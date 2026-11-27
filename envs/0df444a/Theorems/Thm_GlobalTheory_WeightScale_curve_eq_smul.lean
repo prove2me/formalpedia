@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightScale_curve_eq_smul
 -- name    : GlobalTheory.WeightScale.curve_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:57.062996+00:00
 -- url     : https://prove2.me/theorems/9bf2298d-b581-5b8f-9552-7aeda9bbf359

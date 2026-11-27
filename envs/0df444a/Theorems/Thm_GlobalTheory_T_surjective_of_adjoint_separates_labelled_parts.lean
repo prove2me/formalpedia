@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_surjective_of_adjoint_separates_labelled_parts
 -- name    : GlobalTheory.T.surjective_of_adjoint_separates_labelled_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:27.873808+00:00
 -- url     : https://prove2.me/theorems/a8fe507c-51f4-4697-919e-42e8d19142f5

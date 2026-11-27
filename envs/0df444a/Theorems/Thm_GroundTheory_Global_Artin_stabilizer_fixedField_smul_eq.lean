@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_stabilizer_fixedField_smul_eq
 -- name    : GroundTheory.Global.Artin.stabilizer_fixedField_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:29.079671+00:00
 -- url     : https://prove2.me/theorems/fa4810a5-adcb-5a3f-8ad4-994d2f1ae01d

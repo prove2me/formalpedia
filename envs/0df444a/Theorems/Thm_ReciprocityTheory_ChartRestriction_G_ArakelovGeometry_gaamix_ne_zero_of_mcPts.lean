@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaamix_ne_zero_of_mcPts
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaamix_ne_zero_of_mcPts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:40.460797+00:00
 -- url     : https://prove2.me/theorems/3aa61fb7-3c3d-4123-b529-641128d80f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_sum_translate
 -- name    : PositivityTheory.Mirab.Irr.sum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:15:56.789599+00:00
 -- url     : https://prove2.me/theorems/cad465d8-f4c0-463b-8465-58128d6e848c

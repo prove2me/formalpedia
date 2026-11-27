@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_projLineCharts_not_subset_ball_b02a71e9ede9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_projLineCharts_not_subset_ball_b02a71e9ede9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:09:21.329087+00:00
 -- url     : https://prove2.me/theorems/ca6aa631-a9ba-49ad-b99e-af74afa033e4

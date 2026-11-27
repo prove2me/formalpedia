@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgTw_isMQ_empty
 -- name    : PositivityTheory.RgTw.isMQ_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:28.704301+00:00
 -- url     : https://prove2.me/theorems/48211258-92ef-5dd3-9e87-14f7a5e67ac2

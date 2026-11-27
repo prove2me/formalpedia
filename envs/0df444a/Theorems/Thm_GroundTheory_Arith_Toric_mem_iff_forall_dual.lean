@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_mem_iff_forall_dual
 -- name    : GroundTheory.Arith.Toric.mem_iff_forall_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:40.990059+00:00
 -- url     : https://prove2.me/theorems/a6b52008-f6f0-4886-a7a6-e69e025ee3cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_of_lattice_decay_of_injective
 -- name    : GlobalTheory.T.summable_of_lattice_decay_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:42.981052+00:00
 -- url     : https://prove2.me/theorems/ea2946f7-2989-402b-94a0-5c5250a3313b

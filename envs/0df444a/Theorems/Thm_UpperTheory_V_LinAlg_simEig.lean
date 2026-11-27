@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_LinAlg_simEig
 -- name    : UpperTheory.V.LinAlg.simEig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:17.28123+00:00
 -- url     : https://prove2.me/theorems/18684acc-f90b-5054-a70f-81b249ebe1d0

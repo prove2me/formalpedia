@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_ValAt_famHol
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.ValAt.famHol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:19.939589+00:00
 -- url     : https://prove2.me/theorems/fbd73dc7-bc06-5a8c-8688-91ab902874ba

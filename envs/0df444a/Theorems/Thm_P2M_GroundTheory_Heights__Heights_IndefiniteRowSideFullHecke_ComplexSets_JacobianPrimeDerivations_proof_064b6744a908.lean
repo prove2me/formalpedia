@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_JacobianPrimeDerivations_proof_064b6744a908
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_JacobianPrimeDerivations_proof_064b6744a908
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:17:10.144687+00:00
 -- url     : https://prove2.me/theorems/2bf199bd-1886-4835-ba08-0fa2180beddf

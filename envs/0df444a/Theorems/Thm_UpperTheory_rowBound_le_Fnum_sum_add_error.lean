@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_rowBound_le_Fnum_sum_add_error
 -- name    : UpperTheory.rowBound_le_Fnum_sum_add_error
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:39:59.019797+00:00
 -- url     : https://prove2.me/theorems/fd3d92b7-0249-5df8-b140-459b83f0a979

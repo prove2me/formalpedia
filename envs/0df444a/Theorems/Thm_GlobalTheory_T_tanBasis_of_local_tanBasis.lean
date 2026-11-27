@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tanBasis_of_local_tanBasis
 -- name    : GlobalTheory.T.tanBasis_of_local_tanBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:48:31.404624+00:00
 -- url     : https://prove2.me/theorems/452a041b-b2d8-497b-b54a-c01f9139732d

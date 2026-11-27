@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolyNonvanishDense_proof_de87f7ac635d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolyNonvanishDense_proof_de87f7ac635d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:11.626057+00:00
 -- url     : https://prove2.me/theorems/37f03060-d72e-4ef2-814b-7a7c5dcc957e

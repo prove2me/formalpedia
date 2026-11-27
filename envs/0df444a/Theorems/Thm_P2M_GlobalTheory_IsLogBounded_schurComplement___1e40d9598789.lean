@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IsLogBounded_schurComplement___1e40d9598789
 -- name    : P2M_GlobalTheory_IsLogBounded_schurComplement___1e40d9598789
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:28.710806+00:00
 -- url     : https://prove2.me/theorems/2495de00-d36e-4d79-aae0-f0ce6448e206

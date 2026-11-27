@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_free_action_etale_and_descent
 -- name    : GlobalTheory.free_action_etale_and_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:57.268852+00:00
 -- url     : https://prove2.me/theorems/53103874-5e66-4876-afae-08688691af4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_resDeg_point_7c1566581954
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_resDeg_point_7c1566581954
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:12:20.72928+00:00
 -- url     : https://prove2.me/theorems/829e61a2-e3d4-513b-81a3-e864b6a73d2f

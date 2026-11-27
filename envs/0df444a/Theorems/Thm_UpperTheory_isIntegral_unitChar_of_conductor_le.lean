@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_isIntegral_unitChar_of_conductor_le
 -- name    : UpperTheory.isIntegral_unitChar_of_conductor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:30.971716+00:00
 -- url     : https://prove2.me/theorems/d17e096c-0785-42f2-b8b6-b7ad0a2f9863

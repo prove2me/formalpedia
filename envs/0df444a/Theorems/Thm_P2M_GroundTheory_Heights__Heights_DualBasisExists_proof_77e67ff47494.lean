@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualBasisExists_proof_77e67ff47494
 -- name    : P2M_GroundTheory_Heights__Heights_DualBasisExists_proof_77e67ff47494
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:33.076963+00:00
 -- url     : https://prove2.me/theorems/e3556ebb-4722-5e6f-ad78-9675ceb0275e

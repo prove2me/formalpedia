@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_mem_range_ofP
 -- name    : HostParam.Seam.mem_range_ofP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:10.46589+00:00
 -- url     : https://prove2.me/theorems/afd97170-371e-5d8b-868d-b491a6b0b81a

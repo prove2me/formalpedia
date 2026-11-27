@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAbCube_exactAt_zero_one
 -- name    : GlobalTheory.cechAbCube_exactAt_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:31.896382+00:00
 -- url     : https://prove2.me/theorems/885a2699-8899-48a0-8ae0-3330117aacbd

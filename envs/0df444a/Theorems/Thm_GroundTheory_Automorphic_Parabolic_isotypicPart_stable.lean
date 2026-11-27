@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isotypicPart_stable
 -- name    : GroundTheory.Automorphic.Parabolic.isotypicPart_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:34:13.136349+00:00
 -- url     : https://prove2.me/theorems/e2de6373-cd91-4d5b-ade5-f044c7a48e1f

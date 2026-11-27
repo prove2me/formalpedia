@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointVertR_proof_310f3b5bfc03
 -- name    : P2M_GroundTheory_Heights__Heights_PointVertR_proof_310f3b5bfc03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:21.736631+00:00
 -- url     : https://prove2.me/theorems/bf1fb01c-559a-5c18-915d-eb282a26cf6c

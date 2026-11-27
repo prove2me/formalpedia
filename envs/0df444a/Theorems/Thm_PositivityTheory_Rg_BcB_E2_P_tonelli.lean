@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_tonelli
 -- name    : PositivityTheory.Rg.BcB.E2.P.tonelli
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:02.956646+00:00
 -- url     : https://prove2.me/theorems/ef03228d-863a-5125-8e7a-5f75ffb81198

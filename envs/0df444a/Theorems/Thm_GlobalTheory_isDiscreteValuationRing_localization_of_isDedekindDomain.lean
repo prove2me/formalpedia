@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDiscreteValuationRing_localization_of_isDedekindDomain
 -- name    : GlobalTheory.isDiscreteValuationRing_localization_of_isDedekindDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:01.886099+00:00
 -- url     : https://prove2.me/theorems/d19ffa07-4412-5ed9-a1af-ada5da4d8c80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_norm_mem_invariants
 -- name    : Neutral.B1.norm_mem_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:01.326416+00:00
 -- url     : https://prove2.me/theorems/462e6d51-4505-5e7d-a91c-e5d461e3d6bc

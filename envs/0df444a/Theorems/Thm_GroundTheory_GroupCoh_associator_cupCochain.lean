@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_associator_cupCochain
 -- name    : GroundTheory.GroupCoh.associator_cupCochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:47.478418+00:00
 -- url     : https://prove2.me/theorems/f895009c-2145-5b49-850f-e6647084dd42

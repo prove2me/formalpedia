@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yt7_lift_finite
 -- name    : UpperTheory.Reformulated.B.Yt7.lift_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:09:16.840705+00:00
 -- url     : https://prove2.me/theorems/97c555b4-33c0-477c-89bc-6dad3c50ef80

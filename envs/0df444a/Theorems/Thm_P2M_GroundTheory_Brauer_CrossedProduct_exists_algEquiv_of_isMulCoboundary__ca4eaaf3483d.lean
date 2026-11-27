@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_CrossedProduct_exists_algEquiv_of_isMulCoboundary__ca4eaaf3483d
 -- name    : P2M_GroundTheory_Brauer_CrossedProduct_exists_algEquiv_of_isMulCoboundary__ca4eaaf3483d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:40.608636+00:00
 -- url     : https://prove2.me/theorems/0bb2537c-26cc-40a1-ba16-0ae2fb434211

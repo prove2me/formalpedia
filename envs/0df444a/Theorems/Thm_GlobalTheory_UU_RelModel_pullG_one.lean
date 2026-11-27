@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_pullG_one
 -- name    : GlobalTheory.UU.RelModel.pullG_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:06:55.272159+00:00
 -- url     : https://prove2.me/theorems/df883bbb-4eac-4315-aa57-703a36f777ed

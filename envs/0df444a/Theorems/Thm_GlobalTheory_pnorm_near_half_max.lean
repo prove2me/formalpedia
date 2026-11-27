@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pnorm_near_half_max
 -- name    : GlobalTheory.pnorm_near_half_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:50:18.623744+00:00
 -- url     : https://prove2.me/theorems/53cd8060-e8d6-5b55-b4f2-116e3220af30

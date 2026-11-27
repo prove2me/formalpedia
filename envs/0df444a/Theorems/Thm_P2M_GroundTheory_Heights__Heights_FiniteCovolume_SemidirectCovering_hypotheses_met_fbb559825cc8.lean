@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_SemidirectCovering_hypotheses_met_fbb559825cc8
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_SemidirectCovering_hypotheses_met_fbb559825cc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:33:18.285682+00:00
 -- url     : https://prove2.me/theorems/c12dba83-9d93-5f54-a786-95311cae35bb

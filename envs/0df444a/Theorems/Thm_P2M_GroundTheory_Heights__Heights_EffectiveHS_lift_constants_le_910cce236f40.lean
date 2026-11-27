@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_constants_le_910cce236f40
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_lift_constants_le_910cce236f40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:10:40.46107+00:00
 -- url     : https://prove2.me/theorems/9138e747-ddda-4586-a954-6394466a1917

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cyclotomic_base_ring_inverting_prime
 -- name    : GlobalTheory.T.exists_cyclotomic_base_ring_inverting_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:46.429655+00:00
 -- url     : https://prove2.me/theorems/8cfd2311-9b04-5be8-9c24-5daa4d1eabc8

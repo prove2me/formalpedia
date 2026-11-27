@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_fg_iff_dualFG
 -- name    : GroundTheory.Arith.Toric.fg_iff_dualFG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:59.374667+00:00
 -- url     : https://prove2.me/theorems/5d44c7f0-1f13-4e7e-9892-e328394e5831

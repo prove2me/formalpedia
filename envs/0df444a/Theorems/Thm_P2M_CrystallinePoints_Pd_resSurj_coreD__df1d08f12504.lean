@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CrystallinePoints_Pd_resSurj_coreD__df1d08f12504
 -- name    : P2M_CrystallinePoints_Pd_resSurj_coreD__df1d08f12504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:10.596059+00:00
 -- url     : https://prove2.me/theorems/8c1affd7-92bf-50ae-9957-686aa142930a

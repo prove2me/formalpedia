@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_basisMatrix_sq_9d2569546e77
 -- name    : P2M_GroundTheory_Heights__Heights_det_basisMatrix_sq_9d2569546e77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:46.169948+00:00
 -- url     : https://prove2.me/theorems/5033aa16-e499-5b2f-a7cb-e346a14c4567

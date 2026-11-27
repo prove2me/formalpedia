@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_idempotent_eq_of_basicOpen_eq__e96164f40167
 -- name    : P2M_GlobalTheory_T_idempotent_eq_of_basicOpen_eq__e96164f40167
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:46.63795+00:00
 -- url     : https://prove2.me/theorems/8fa76e91-6909-42a6-846c-278eef96cb45

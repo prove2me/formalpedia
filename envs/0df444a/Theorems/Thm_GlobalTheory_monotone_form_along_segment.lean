@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_monotone_form_along_segment
 -- name    : GlobalTheory.monotone_form_along_segment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:05.61346+00:00
 -- url     : https://prove2.me/theorems/b3bc09ff-0db3-5d1a-b0af-196ebb1b3956

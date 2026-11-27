@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_ApP_isFrac
 -- name    : PI.ScRefExists.ApP.isFrac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:02.25542+00:00
 -- url     : https://prove2.me/theorems/5ce0ca5d-7f22-447f-8379-073bb143e810

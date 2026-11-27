@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hdim_eq_zero_iff
 -- name    : GlobalTheory.hdim_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:01.004994+00:00
 -- url     : https://prove2.me/theorems/2118ee16-9365-54a6-80ef-cbe606169fc6

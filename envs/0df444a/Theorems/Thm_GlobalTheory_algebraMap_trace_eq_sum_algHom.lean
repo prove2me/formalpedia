@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_trace_eq_sum_algHom
 -- name    : GlobalTheory.algebraMap_trace_eq_sum_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:23.497825+00:00
 -- url     : https://prove2.me/theorems/6fa7a624-9451-5803-93b6-e544c12b8c46

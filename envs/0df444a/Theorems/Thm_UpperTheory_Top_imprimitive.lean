@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_imprimitive
 -- name    : UpperTheory.Top.imprimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:36.788832+00:00
 -- url     : https://prove2.me/theorems/65a516ef-6921-488f-af31-ffb130f2727f

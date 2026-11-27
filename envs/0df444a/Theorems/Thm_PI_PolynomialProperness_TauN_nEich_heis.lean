@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_nEich_heis
 -- name    : PI.PolynomialProperness.TauN.nEich_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:46.670062+00:00
 -- url     : https://prove2.me/theorems/35840071-8c86-5b8b-91ff-c74d45e717c2

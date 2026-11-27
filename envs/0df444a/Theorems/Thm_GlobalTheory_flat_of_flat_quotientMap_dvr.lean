@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_flat_quotientMap_dvr
 -- name    : GlobalTheory.flat_of_flat_quotientMap_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:49.086819+00:00
 -- url     : https://prove2.me/theorems/fe1b39b1-306b-54dc-96c6-ff8aa5f2ce53

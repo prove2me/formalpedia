@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isLocalHom_normIntegers
 -- name    : GlobalTheory.exists_isLocalHom_normIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:42.075746+00:00
 -- url     : https://prove2.me/theorems/33462c4c-2a0c-4453-9766-4634dd2778e9

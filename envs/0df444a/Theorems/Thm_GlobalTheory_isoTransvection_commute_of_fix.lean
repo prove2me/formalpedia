@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_commute_of_fix
 -- name    : GlobalTheory.isoTransvection.commute_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:13.057012+00:00
 -- url     : https://prove2.me/theorems/0b480171-8765-4787-8d01-1f41453d25a9

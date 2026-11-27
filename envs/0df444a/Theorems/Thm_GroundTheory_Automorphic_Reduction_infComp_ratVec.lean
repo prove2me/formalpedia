@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_infComp_ratVec
 -- name    : GroundTheory.Automorphic.Reduction.infComp_ratVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:55:28.675289+00:00
 -- url     : https://prove2.me/theorems/7d0c417b-33a7-4460-8285-8dca2ad26920

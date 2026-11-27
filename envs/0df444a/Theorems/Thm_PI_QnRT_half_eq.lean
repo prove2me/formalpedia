@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_half_eq
 -- name    : PI.QnRT.half_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:53.950442+00:00
 -- url     : https://prove2.me/theorems/c1256bce-d485-58f7-b729-c2c6d5976a73

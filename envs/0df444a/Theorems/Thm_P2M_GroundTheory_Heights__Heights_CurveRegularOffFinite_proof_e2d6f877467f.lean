@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveRegularOffFinite_proof_e2d6f877467f
 -- name    : P2M_GroundTheory_Heights__Heights_CurveRegularOffFinite_proof_e2d6f877467f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:05.999664+00:00
 -- url     : https://prove2.me/theorems/94766aac-1dfe-5f87-ad71-4b13c46131f3

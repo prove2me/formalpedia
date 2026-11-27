@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_totally_disconnected_product_locally_compact
 -- name    : GlobalTheory.T.totally_disconnected_product_locally_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:40:40.717831+00:00
 -- url     : https://prove2.me/theorems/82a95b2d-b7cc-50ac-9178-bdf6e27a76db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_twentyfive_cell_occupancy
 -- name    : CirclePackingConstants.twentyfive_cell_occupancy
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-07T06:17:57.755017+00:00
 -- url     : https://prove2.me/theorems/a2118eae-3d22-4481-99ec-ef039a967c49

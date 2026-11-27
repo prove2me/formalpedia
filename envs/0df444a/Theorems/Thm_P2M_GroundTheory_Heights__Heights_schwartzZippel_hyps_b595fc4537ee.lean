@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_schwartzZippel_hyps_b595fc4537ee
 -- name    : P2M_GroundTheory_Heights__Heights_schwartzZippel_hyps_b595fc4537ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:47:48.906339+00:00
 -- url     : https://prove2.me/theorems/a346794d-81de-5bc6-a4fe-e371b7edf18e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_levi_rh_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.levi_rh_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:30.481642+00:00
 -- url     : https://prove2.me/theorems/816a2bf8-9b13-56da-92dc-7ddf236e1281

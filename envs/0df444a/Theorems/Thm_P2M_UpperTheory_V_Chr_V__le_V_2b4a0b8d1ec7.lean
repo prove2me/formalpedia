@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_V_Chr_V__le_V_2b4a0b8d1ec7
 -- name    : P2M_UpperTheory_V_Chr_V__le_V_2b4a0b8d1ec7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:48.348321+00:00
 -- url     : https://prove2.me/theorems/adbf9cda-dbed-51fc-b6d0-a84cb858d176

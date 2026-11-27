@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentHorizontal_proof_c8d8960800f0
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentHorizontal_proof_c8d8960800f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:13:55.824118+00:00
 -- url     : https://prove2.me/theorems/6bf64e2f-7b6e-5d20-99b2-c56d105df7d2

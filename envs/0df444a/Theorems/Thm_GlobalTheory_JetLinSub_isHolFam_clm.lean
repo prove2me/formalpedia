@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_isHolFam_clm
 -- name    : GlobalTheory.JetLinSub.isHolFam_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:40:58.861725+00:00
 -- url     : https://prove2.me/theorems/838c7f10-dd07-57e0-89ec-be6f665adc44

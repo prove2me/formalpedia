@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_gaussian_lattice_add_le
 -- name    : GlobalTheory.tsum_gaussian_lattice_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:32.064591+00:00
 -- url     : https://prove2.me/theorems/5a925b61-91fc-46cf-aaa2-a20d953700dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegrallyClosed_of_smooth
 -- name    : GlobalTheory.isIntegrallyClosed_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:04.967736+00:00
 -- url     : https://prove2.me/theorems/253a6e9f-acbb-443e-88e8-49102fbf2e1f

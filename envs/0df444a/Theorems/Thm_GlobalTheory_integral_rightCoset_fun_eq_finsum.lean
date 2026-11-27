@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_rightCoset_fun_eq_finsum
 -- name    : GlobalTheory.integral_rightCoset_fun_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:06.28765+00:00
 -- url     : https://prove2.me/theorems/8c38cfbd-0fe0-49f3-aaed-8036634ee09e

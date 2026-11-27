@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_lin_mul_tanMat
 -- name    : GlobalTheory.ChF.lin_mul_tanMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:17:24.512235+00:00
 -- url     : https://prove2.me/theorems/8b22fe38-e313-5aaf-b55e-7ddbc556ada0

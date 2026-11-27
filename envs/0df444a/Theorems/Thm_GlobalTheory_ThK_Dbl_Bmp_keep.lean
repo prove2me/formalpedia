@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Bmp_keep
 -- name    : GlobalTheory.ThK.Dbl.Bmp.keep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:08.693063+00:00
 -- url     : https://prove2.me/theorems/07cc8d2f-d750-4e41-b77f-5b0fca5e0ccf

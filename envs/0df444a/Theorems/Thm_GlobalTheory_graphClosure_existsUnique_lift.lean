@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_existsUnique_lift
 -- name    : GlobalTheory.graphClosure.existsUnique_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:40.437882+00:00
 -- url     : https://prove2.me/theorems/a7802116-7195-41a3-a747-81bdcef58a66

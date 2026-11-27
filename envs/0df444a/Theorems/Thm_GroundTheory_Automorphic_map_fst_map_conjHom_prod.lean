@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_map_fst_map_conjHom_prod
 -- name    : GroundTheory.Automorphic.map_fst_map_conjHom_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:45.541903+00:00
 -- url     : https://prove2.me/theorems/b2c1ae88-dbff-520c-bae1-3213eb2d256d

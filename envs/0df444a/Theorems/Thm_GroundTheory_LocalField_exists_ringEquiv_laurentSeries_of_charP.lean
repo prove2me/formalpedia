@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_ringEquiv_laurentSeries_of_charP
 -- name    : GroundTheory.LocalField.exists_ringEquiv_laurentSeries_of_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:08.767059+00:00
 -- url     : https://prove2.me/theorems/c7396101-8225-5f21-8662-6a7539aa6220

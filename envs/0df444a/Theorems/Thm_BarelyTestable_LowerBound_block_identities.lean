@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_block_identities
 -- name    : BarelyTestable.LowerBound.block_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:23:41.788841+00:00
 -- url     : https://prove2.me/theorems/962a2c9c-49eb-4bf5-b12a-bda551569edf

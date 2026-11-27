@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_Loc_main
 -- name    : PI.DIP.Loc.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:33.446674+00:00
 -- url     : https://prove2.me/theorems/061daacc-3de6-48ab-8d7b-97a94668dbce

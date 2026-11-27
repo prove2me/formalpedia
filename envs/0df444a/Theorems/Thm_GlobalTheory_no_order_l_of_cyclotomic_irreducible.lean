@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_no_order_l_of_cyclotomic_irreducible
 -- name    : GlobalTheory.no_order_l_of_cyclotomic_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:07.562282+00:00
 -- url     : https://prove2.me/theorems/3def5c2e-3b91-4d97-a84e-79dae6ec29ea

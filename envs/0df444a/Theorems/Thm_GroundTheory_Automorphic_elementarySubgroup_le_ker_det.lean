@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_elementarySubgroup_le_ker_det
 -- name    : GroundTheory.Automorphic.elementarySubgroup_le_ker_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:52.200226+00:00
 -- url     : https://prove2.me/theorems/0e36cd61-457b-46e1-ab6a-b58cbc7aa3b6

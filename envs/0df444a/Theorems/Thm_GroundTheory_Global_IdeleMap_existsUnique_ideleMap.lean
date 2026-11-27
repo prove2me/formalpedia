@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleMap_existsUnique_ideleMap
 -- name    : GroundTheory.Global.IdeleMap.existsUnique_ideleMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:01.456162+00:00
 -- url     : https://prove2.me/theorems/7c040c30-d618-5597-9b38-18eb1a621ba7

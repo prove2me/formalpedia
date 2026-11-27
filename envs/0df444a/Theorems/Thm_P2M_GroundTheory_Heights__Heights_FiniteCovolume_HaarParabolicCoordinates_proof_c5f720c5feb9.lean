@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_HaarParabolicCoordinates_proof_c5f720c5feb9
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_HaarParabolicCoordinates_proof_c5f720c5feb9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:46.415297+00:00
 -- url     : https://prove2.me/theorems/b6873ddf-9d02-4f1d-be95-799b392214b9

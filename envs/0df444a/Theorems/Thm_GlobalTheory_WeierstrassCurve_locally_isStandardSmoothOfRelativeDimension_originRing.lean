@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_locally_isStandardSmoothOfRelativeDimension_originRing
 -- name    : GlobalTheory.WeierstrassCurve.locally_isStandardSmoothOfRelativeDimension_originRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:30.495868+00:00
 -- url     : https://prove2.me/theorems/b017ec4d-ca6b-444e-86e9-ac87960be485

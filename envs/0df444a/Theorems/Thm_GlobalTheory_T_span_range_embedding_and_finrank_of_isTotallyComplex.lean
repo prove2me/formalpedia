@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_range_embedding_and_finrank_of_isTotallyComplex
 -- name    : GlobalTheory.T.span_range_embedding_and_finrank_of_isTotallyComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:40.931816+00:00
 -- url     : https://prove2.me/theorems/d8beed78-ca9e-4e79-a651-8327a3f1c9e7

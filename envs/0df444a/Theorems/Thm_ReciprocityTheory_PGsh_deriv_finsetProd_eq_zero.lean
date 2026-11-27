@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_deriv_finsetProd_eq_zero
 -- name    : ReciprocityTheory.PGsh.deriv_finsetProd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:29.966376+00:00
 -- url     : https://prove2.me/theorems/9dc4856b-7e78-4a6e-9677-59121cbc2727

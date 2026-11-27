@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_tatePair_flip_bijective
 -- name    : GroundTheory.ProfCoh.Involution.tatePair_flip_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:20.550624+00:00
 -- url     : https://prove2.me/theorems/dd661ad2-80a3-51d5-8be0-b47b255f2de3

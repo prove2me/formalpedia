@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_blkCurve
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.blkCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:03:36.475662+00:00
 -- url     : https://prove2.me/theorems/e76ad856-13b1-4524-ba12-6ffcd5819353

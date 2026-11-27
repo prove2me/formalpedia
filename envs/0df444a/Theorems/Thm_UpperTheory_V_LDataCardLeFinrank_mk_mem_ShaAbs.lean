@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_LDataCardLeFinrank_mk_mem_ShaAbs
 -- name    : UpperTheory.V.LDataCardLeFinrank.mk_mem_ShaAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:42:08.930168+00:00
 -- url     : https://prove2.me/theorems/d030805b-606e-4ef9-86bb-0da04df55004

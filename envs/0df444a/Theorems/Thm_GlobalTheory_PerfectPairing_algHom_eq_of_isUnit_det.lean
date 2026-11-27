@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_algHom_eq_of_isUnit_det
 -- name    : GlobalTheory.PerfectPairing.algHom_eq_of_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:32:54.292437+00:00
 -- url     : https://prove2.me/theorems/d43bc28c-cabb-5e6b-aecf-08a4ffc1d31a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_nat_mul_integral
 -- name    : GlobalTheory.UnRep.exists_nat_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:46.381802+00:00
 -- url     : https://prove2.me/theorems/13ea7ab4-260b-49cf-a9ca-0ed861d18336

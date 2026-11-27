@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_H_map_g_map_f
 -- name    : GroundTheory.Arith.SchemeCoh.H.map_g_map_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:40.912639+00:00
 -- url     : https://prove2.me/theorems/1b15e0a5-17be-4e8a-909b-67e12d1c2c44

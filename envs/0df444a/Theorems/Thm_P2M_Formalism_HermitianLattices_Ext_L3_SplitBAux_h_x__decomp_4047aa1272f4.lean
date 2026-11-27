@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_SplitBAux_h_x__decomp_4047aa1272f4
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_SplitBAux_h_x__decomp_4047aa1272f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:11:46.706532+00:00
 -- url     : https://prove2.me/theorems/12b9cebd-f5cb-56f2-b7d5-4fde16cf145f

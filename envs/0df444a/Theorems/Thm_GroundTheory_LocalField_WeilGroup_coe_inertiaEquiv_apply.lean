@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_coe_inertiaEquiv_apply
 -- name    : GroundTheory.LocalField.WeilGroup.coe_inertiaEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:38.911799+00:00
 -- url     : https://prove2.me/theorems/e53af2c4-21e7-5fd1-9d55-bef0a2002031

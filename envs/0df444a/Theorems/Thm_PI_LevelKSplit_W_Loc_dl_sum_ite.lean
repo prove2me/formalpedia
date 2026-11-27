@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Loc_dl_sum_ite
 -- name    : PI.LevelKSplit.W.Loc.dl_sum_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:46:12.052468+00:00
 -- url     : https://prove2.me/theorems/bf71f818-6031-4286-8614-554540d98213

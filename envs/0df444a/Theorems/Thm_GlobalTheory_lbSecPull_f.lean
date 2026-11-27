@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbSecPull_f
 -- name    : GlobalTheory.lbSecPull_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:50.998044+00:00
 -- url     : https://prove2.me/theorems/2bb5c04b-3c36-4f59-baad-de332cfc3cb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_conjCLM_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.conjCLM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:34.292802+00:00
 -- url     : https://prove2.me/theorems/086ec0e9-1076-40fe-a112-c71d2236e2ce

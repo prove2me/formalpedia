@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_coordMap_eq_6f1bbfd28cfa
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_coordMap_eq_6f1bbfd28cfa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:55.426517+00:00
 -- url     : https://prove2.me/theorems/aef2a22f-a0e0-534f-bc01-2a678374e6a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_map_mem_orthIn
 -- name    : GroundTheory.Automorphic.PeterssonComplement.map_mem_orthIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:40.314397+00:00
 -- url     : https://prove2.me/theorems/81589b7f-2e11-4b82-bf79-f152349c17ef

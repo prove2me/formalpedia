@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_separating_basicOpen_functions__3526d83d5c45
 -- name    : P2M_GlobalTheory_T_exists_separating_basicOpen_functions__3526d83d5c45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:26.387635+00:00
 -- url     : https://prove2.me/theorems/91e3135b-eb45-5211-9d1f-e79ea34de5d1

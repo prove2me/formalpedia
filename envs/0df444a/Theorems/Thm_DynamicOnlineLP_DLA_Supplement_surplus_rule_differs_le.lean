@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynamicOnlineLP_DLA_Supplement_surplus_rule_differs_le
 -- name    : DynamicOnlineLP.DLA.Supplement.surplus_rule_differs_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:10:26.008674+00:00
 -- url     : https://prove2.me/theorems/c9d612f4-8597-4a7a-806b-d480818e9e6b

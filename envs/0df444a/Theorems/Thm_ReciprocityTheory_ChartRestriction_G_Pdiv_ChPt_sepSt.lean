@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_ChPt_sepSt
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.ChPt.sepSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.705727+00:00
 -- url     : https://prove2.me/theorems/092e37f7-c000-5dea-b044-bce223af7b9e

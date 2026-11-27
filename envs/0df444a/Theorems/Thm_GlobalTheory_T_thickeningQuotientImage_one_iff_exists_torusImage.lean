@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thickeningQuotientImage_one_iff_exists_torusImage
 -- name    : GlobalTheory.T.thickeningQuotientImage_one_iff_exists_torusImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T17:56:27.385891+00:00
 -- url     : https://prove2.me/theorems/ba835be9-1a53-4ef2-8ea0-b9df72483e91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_rectCauchy
 -- name    : PI.EF.rectCauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:16.733388+00:00
 -- url     : https://prove2.me/theorems/6bf0149f-d6f9-4a97-b8b1-88c541e9ca7c

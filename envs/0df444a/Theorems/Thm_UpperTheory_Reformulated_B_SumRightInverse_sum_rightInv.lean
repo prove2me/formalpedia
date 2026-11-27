@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_SumRightInverse_sum_rightInv
 -- name    : UpperTheory.Reformulated.B.SumRightInverse.sum_rightInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:53.641806+00:00
 -- url     : https://prove2.me/theorems/dd70b571-d796-43c7-a915-520e74259031

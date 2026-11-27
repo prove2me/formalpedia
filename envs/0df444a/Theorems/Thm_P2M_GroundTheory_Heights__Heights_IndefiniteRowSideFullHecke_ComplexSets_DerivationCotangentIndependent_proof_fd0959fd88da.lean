@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_DerivationCotangentIndependent_proof_fd0959fd88da
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_DerivationCotangentIndependent_proof_fd0959fd88da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:16:05.9965+00:00
 -- url     : https://prove2.me/theorems/50160d2b-fc76-453f-963b-a1a701fc6a02

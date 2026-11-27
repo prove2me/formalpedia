@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_genericFibre_of_isReduced
 -- name    : GlobalTheory.isReduced_genericFibre_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:53.455024+00:00
 -- url     : https://prove2.me/theorems/cf89702b-bbee-4120-be0e-2aecc8f1ab4a

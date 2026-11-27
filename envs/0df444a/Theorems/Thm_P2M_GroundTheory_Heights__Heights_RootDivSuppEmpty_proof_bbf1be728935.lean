@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDivSuppEmpty_proof_bbf1be728935
 -- name    : P2M_GroundTheory_Heights__Heights_RootDivSuppEmpty_proof_bbf1be728935
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:25.250479+00:00
 -- url     : https://prove2.me/theorems/51c1ae74-3e60-58e0-89c3-9588bfb99d32

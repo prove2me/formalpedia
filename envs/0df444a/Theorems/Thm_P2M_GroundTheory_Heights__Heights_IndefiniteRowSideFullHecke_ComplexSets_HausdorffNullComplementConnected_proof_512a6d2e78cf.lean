@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HausdorffNullComplementConnected_proof_512a6d2e78cf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HausdorffNullComplementConnected_proof_512a6d2e78cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:16:38.311878+00:00
 -- url     : https://prove2.me/theorems/940868a5-b1de-4b36-a34c-0b79519db6d9

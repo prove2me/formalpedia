@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_sum_smul_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.sum_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:12.80273+00:00
 -- url     : https://prove2.me/theorems/901c1f0f-3f5a-4bb4-8249-e6708b7e1b1d

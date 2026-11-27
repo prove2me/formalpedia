@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_primeCountBound_of
 -- name    : PI.PC.primeCountBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:56.116681+00:00
 -- url     : https://prove2.me/theorems/69671836-d699-593e-b4a1-89326c3a194d

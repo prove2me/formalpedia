@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linear_longExact
 -- name    : GlobalTheory.linear_longExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:39.768806+00:00
 -- url     : https://prove2.me/theorems/c7f1eec0-738d-5c34-903a-1d3f4d270587

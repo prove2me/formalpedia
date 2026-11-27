@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_noZeroDivisors_tensor
 -- name    : GlobalTheory.UnitRigidity.noZeroDivisors_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:20:16.702439+00:00
 -- url     : https://prove2.me/theorems/102557c0-8cb8-4864-b48c-22d46e7ca3f7

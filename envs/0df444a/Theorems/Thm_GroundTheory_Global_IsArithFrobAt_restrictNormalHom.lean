@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IsArithFrobAt_restrictNormalHom
 -- name    : GroundTheory.Global.IsArithFrobAt.restrictNormalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:25.750752+00:00
 -- url     : https://prove2.me/theorems/7d28b51e-373b-47ea-b394-93ce673735a3

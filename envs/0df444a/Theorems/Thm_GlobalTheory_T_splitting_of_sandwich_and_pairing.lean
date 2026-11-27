@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitting_of_sandwich_and_pairing
 -- name    : GlobalTheory.T.splitting_of_sandwich_and_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:49.208115+00:00
 -- url     : https://prove2.me/theorems/f52655e0-de2c-43b9-a1c3-ba235dbe4d9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isDomain_localization_of_smooth
 -- name    : GroundTheory.Arith.SchemeCoh.isDomain_localization_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:23.976216+00:00
 -- url     : https://prove2.me/theorems/8f1a92f1-98b1-5d13-a0a9-5aab78c89eab

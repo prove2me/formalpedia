@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cochainsMap_f_hom_apply
 -- name    : GroundTheory.ProfCoh.cochainsMap_f_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:29.155293+00:00
 -- url     : https://prove2.me/theorems/53826e55-2268-42d8-ae44-7ae74aafb076

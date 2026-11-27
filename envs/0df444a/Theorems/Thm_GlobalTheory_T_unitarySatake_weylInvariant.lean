@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitarySatake_weylInvariant
 -- name    : GlobalTheory.T.unitarySatake_weylInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:46.981466+00:00
 -- url     : https://prove2.me/theorems/396f7fc4-8eb7-5154-9c36-c24c1ccf2270

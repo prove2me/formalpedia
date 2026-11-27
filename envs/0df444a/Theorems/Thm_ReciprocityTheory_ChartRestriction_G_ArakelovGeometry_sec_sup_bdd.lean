@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sec_sup_bdd
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sec_sup_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:06:28.161731+00:00
 -- url     : https://prove2.me/theorems/6e01b2fe-b40d-4fa7-996b-aa5332b71e90

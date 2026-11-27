@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_mem_nonZeroDivisors_of_isUnit_coeff_one
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.mem_nonZeroDivisors_of_isUnit_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:56.585821+00:00
 -- url     : https://prove2.me/theorems/68b923a7-4f4d-5496-82dd-42daac3344d0

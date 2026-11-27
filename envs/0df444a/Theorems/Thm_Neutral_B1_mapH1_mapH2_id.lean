@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mapH1_mapH2_id
 -- name    : Neutral.B1.mapH1_mapH2_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:06.175971+00:00
 -- url     : https://prove2.me/theorems/848f5bc6-eebe-464f-97a3-74ee2f18205a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasG_lhol_congr
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasG.lhol_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:08:56.188448+00:00
 -- url     : https://prove2.me/theorems/8903eebe-18a5-4217-8433-dafb09a2758b

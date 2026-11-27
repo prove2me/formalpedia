@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_factor_zo
 -- name    : PositivityTheory.Lord.factor_zo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:13.737867+00:00
 -- url     : https://prove2.me/theorems/c792898c-ba41-487d-a00e-50fcc105ffb0

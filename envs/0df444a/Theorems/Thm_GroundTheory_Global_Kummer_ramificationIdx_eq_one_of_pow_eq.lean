@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Kummer_ramificationIdx_eq_one_of_pow_eq
 -- name    : GroundTheory.Global.Kummer.ramificationIdx_eq_one_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:58.331614+00:00
 -- url     : https://prove2.me/theorems/7ff31a12-d288-5bf1-b05b-234148ec46b1

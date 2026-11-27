@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_siegel_coordinates
 -- name    : GlobalTheory.exists_siegel_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:51:25.445959+00:00
 -- url     : https://prove2.me/theorems/3b8af778-420f-52de-a749-2439ce9cd97e

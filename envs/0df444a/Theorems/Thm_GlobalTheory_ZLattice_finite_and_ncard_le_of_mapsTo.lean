@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZLattice_finite_and_ncard_le_of_mapsTo
 -- name    : GlobalTheory.ZLattice_finite_and_ncard_le_of_mapsTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:02.307387+00:00
 -- url     : https://prove2.me/theorems/48d602eb-5e8c-4e9a-a493-2a935a6b87c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scalar_hermitian_trace_and_unit
 -- name    : GlobalTheory.T.scalar_hermitian_trace_and_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:28.75538+00:00
 -- url     : https://prove2.me/theorems/0b77b733-4600-4172-a38e-d6acd1edf7d9

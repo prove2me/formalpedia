@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_wedge_ne_zero_of_linearIndependent
 -- name    : ReciprocityTheory.PGsh.wedge_ne_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:15.337843+00:00
 -- url     : https://prove2.me/theorems/f84b1a1b-0339-40d8-a672-78a80be8dbcb

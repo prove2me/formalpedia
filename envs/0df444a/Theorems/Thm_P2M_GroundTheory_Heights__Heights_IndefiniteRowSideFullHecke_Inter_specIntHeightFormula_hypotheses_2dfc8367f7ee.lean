@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_specIntHeightFormula_hypotheses_2dfc8367f7ee
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_specIntHeightFormula_hypotheses_2dfc8367f7ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:25:27.558039+00:00
 -- url     : https://prove2.me/theorems/e23ab235-0f90-5f64-8054-19dee3f1620c

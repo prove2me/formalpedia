@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_restrictScalars_eq_finsum
 -- name    : GlobalTheory.length_restrictScalars_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:05.919363+00:00
 -- url     : https://prove2.me/theorems/d04e6737-602b-4654-a688-9f8de1f56533

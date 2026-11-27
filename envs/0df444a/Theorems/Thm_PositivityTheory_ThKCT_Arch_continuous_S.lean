@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_continuous_S
 -- name    : PositivityTheory.ThKCT.Arch.continuous_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:57:46.556644+00:00
 -- url     : https://prove2.me/theorems/0f02584e-fa2e-5b40-bf6d-369afe309bab

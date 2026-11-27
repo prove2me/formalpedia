@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackingInterval_ATE_Supplement_theorem_5
 -- name    : HackingInterval.ATE.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:57:30.509884+00:00
 -- url     : https://prove2.me/theorems/1c6fb17e-efec-4b7b-88be-3272cabd57be

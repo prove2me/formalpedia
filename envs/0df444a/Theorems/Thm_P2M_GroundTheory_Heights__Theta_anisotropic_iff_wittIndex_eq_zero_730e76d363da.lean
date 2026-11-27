@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_anisotropic_iff_wittIndex_eq_zero_730e76d363da
 -- name    : P2M_GroundTheory_Heights__Theta_anisotropic_iff_wittIndex_eq_zero_730e76d363da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:25.933364+00:00
 -- url     : https://prove2.me/theorems/47812cbe-b33e-4622-8bf5-942623d5373e

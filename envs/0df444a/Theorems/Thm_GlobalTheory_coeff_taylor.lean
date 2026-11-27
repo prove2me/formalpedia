@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_taylor
 -- name    : GlobalTheory.coeff_taylor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:49:38.42626+00:00
 -- url     : https://prove2.me/theorems/b9cc3152-b1d3-5a4f-bc3a-0986eaaa7927

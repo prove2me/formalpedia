@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_PullGtPf_qP_surj
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.PullGtPf.qP_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:32:05.940494+00:00
 -- url     : https://prove2.me/theorems/39b81ce1-0be0-462c-91d1-ca3475e8e5cd

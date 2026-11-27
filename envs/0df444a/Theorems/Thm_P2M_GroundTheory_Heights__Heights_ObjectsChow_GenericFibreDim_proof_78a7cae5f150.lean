@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_proof_78a7cae5f150
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_proof_78a7cae5f150
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:34:42.736602+00:00
 -- url     : https://prove2.me/theorems/124b032c-b7ab-47fa-b876-f9d56459769c

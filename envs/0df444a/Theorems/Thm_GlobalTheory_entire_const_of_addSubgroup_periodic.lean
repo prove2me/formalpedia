@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_const_of_addSubgroup_periodic
 -- name    : GlobalTheory.entire_const_of_addSubgroup_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:32.559823+00:00
 -- url     : https://prove2.me/theorems/b01ec6bf-a565-4fd4-a121-00a8656e90b4

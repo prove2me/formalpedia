@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturation_smul
 -- name    : GlobalTheory.saturation_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:09.031074+00:00
 -- url     : https://prove2.me/theorems/cf2d2fcf-12b6-555d-993e-88c7c439ffbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_rowseig
 -- name    : PositivityTheory.Rg.BcB.E2.P.rowseig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:03.655868+00:00
 -- url     : https://prove2.me/theorems/5dff3f2a-a958-4e56-9e01-459bad703a9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAbelianScheme_powObj_of_isAbelianScheme
 -- name    : GlobalTheory.isAbelianScheme_powObj_of_isAbelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:05.57794+00:00
 -- url     : https://prove2.me/theorems/acc26b9a-2536-4112-90a1-389dde3d58be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Choice_adeleMap_spec
 -- name    : KStar.Choice.adeleMap_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:38.108929+00:00
 -- url     : https://prove2.me/theorems/63e0467b-c407-5f3f-ac2d-4d78f15f7f5f

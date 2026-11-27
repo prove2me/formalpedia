@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_IsStable_union
 -- name    : GroundTheory.Automorphic.RestrictedTensor.IsStable.union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:10.1322+00:00
 -- url     : https://prove2.me/theorems/f91eb22f-d7fe-4b14-a182-16d3d275165f

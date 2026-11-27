@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isZero_presheafCechH
 -- name    : GlobalTheory.isZero_presheafCechH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:48.44165+00:00
 -- url     : https://prove2.me/theorems/196ccaa5-0139-4202-a036-74408dca74a6

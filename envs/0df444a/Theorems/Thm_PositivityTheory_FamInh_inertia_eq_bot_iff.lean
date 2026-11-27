@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_inertia_eq_bot_iff
 -- name    : PositivityTheory.FamInh.inertia_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:57.318997+00:00
 -- url     : https://prove2.me/theorems/0d66c021-0168-42f3-97e1-0e194347c0b9

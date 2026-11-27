@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_proof_387b2376297d
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_proof_387b2376297d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:33.990081+00:00
 -- url     : https://prove2.me/theorems/f6b28e3a-3543-5b9f-bddc-ca842087b9a9

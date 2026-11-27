@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_eq_of_pOf_eq
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.eq_of_pOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:03:02.620991+00:00
 -- url     : https://prove2.me/theorems/e868b12b-7b01-4f4e-b926-d75c8d4d0f62

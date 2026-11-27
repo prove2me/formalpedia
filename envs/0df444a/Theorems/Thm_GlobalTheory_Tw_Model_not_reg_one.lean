@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_not_reg_one
 -- name    : GlobalTheory.Tw.Model.not_reg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:55.241255+00:00
 -- url     : https://prove2.me/theorems/edbe2a3e-6574-41bc-abba-ef578b3d5246

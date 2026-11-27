@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFinite_fromNormalization_of_genericallyFinite
 -- name    : GlobalTheory.isFinite_fromNormalization_of_genericallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:19.079977+00:00
 -- url     : https://prove2.me/theorems/a282ba99-3d41-5d2d-85ef-852fcb55b789

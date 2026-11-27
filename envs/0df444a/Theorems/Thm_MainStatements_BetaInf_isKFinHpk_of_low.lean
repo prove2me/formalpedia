@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_isKFinHpk_of_low
 -- name    : MainStatements.BetaInf.isKFinHpk_of_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:55.993705+00:00
 -- url     : https://prove2.me/theorems/aaf197a6-76eb-581e-83da-9b53768bd051

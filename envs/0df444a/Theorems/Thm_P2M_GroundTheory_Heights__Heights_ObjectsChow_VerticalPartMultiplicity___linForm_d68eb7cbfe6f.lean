@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity___linForm_d68eb7cbfe6f
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity___linForm_d68eb7cbfe6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:33:27.93686+00:00
 -- url     : https://prove2.me/theorems/33d00b62-0fa8-4cc0-903c-37280d004ba4

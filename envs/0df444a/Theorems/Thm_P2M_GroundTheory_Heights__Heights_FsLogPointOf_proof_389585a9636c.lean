@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FsLogPointOf_proof_389585a9636c
 -- name    : P2M_GroundTheory_Heights__Heights_FsLogPointOf_proof_389585a9636c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:13:46.980387+00:00
 -- url     : https://prove2.me/theorems/726e5e03-73a5-4c8e-aedd-dd937071c2b4

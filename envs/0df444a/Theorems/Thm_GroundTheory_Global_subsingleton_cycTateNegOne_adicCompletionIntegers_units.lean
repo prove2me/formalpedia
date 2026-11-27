@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_subsingleton_cycTateNegOne_adicCompletionIntegers_units
 -- name    : GroundTheory.Global.subsingleton_cycTateNegOne_adicCompletionIntegers_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:12.734351+00:00
 -- url     : https://prove2.me/theorems/93e3c517-a3e4-515b-a8f3-512c487db133

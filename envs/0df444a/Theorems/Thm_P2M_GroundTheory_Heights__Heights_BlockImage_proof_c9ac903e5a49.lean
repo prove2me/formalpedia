@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockImage_proof_c9ac903e5a49
 -- name    : P2M_GroundTheory_Heights__Heights_BlockImage_proof_c9ac903e5a49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:30.490799+00:00
 -- url     : https://prove2.me/theorems/5d72ce99-4df4-5b43-b5ac-d7024f10b4bc

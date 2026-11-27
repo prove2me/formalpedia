@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_maDensity_nonneg_loc
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_maDensity_nonneg_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:20:28.094304+00:00
 -- url     : https://prove2.me/theorems/4d16bfc8-2f80-401f-85f2-ba7e6bf1876d

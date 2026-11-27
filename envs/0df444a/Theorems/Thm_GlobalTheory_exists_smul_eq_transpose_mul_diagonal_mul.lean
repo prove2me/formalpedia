@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_eq_transpose_mul_diagonal_mul
 -- name    : GlobalTheory.exists_smul_eq_transpose_mul_diagonal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:20.278055+00:00
 -- url     : https://prove2.me/theorems/af759b6d-d02f-5987-bbd2-bbdedb1887ab

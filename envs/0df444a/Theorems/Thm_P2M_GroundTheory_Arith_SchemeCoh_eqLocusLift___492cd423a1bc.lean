@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_eqLocusLift___492cd423a1bc
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_eqLocusLift___492cd423a1bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:28.536136+00:00
 -- url     : https://prove2.me/theorems/c0816bbd-915f-5b57-b029-362376430a99

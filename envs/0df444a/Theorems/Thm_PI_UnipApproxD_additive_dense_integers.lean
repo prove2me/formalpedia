@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnipApproxD_additive_dense_integers
 -- name    : PI.UnipApproxD.additive_dense_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:47:51.316069+00:00
 -- url     : https://prove2.me/theorems/7b9133ee-f32d-5b7e-bfe3-59605d94b622

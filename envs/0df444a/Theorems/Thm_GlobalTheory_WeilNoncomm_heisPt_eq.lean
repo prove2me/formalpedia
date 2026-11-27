@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_heisPt_eq
 -- name    : GlobalTheory.WeilNoncomm.heisPt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:25:06.427887+00:00
 -- url     : https://prove2.me/theorems/68def83a-e55b-4705-8b0d-d248c18a4494

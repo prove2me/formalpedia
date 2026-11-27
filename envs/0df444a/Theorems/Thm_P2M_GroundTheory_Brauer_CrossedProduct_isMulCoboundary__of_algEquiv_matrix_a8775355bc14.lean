@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_algEquiv_matrix_a8775355bc14
 -- name    : P2M_GroundTheory_Brauer_CrossedProduct_isMulCoboundary__of_algEquiv_matrix_a8775355bc14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:35.758614+00:00
 -- url     : https://prove2.me/theorems/4a327974-ffb8-4403-80bf-2c6fa26d5e15

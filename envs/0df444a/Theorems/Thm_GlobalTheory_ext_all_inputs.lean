@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ext_all_inputs
 -- name    : GlobalTheory.ext_all_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:28.437147+00:00
 -- url     : https://prove2.me/theorems/59f0d44c-b0c7-468a-a9e8-d8bb4eb7394f

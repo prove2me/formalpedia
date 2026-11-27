@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FiniteGL_signGL__cuspidal_fcc895e2b0eb
 -- name    : P2M_GlobalTheory_FiniteGL_signGL__cuspidal_fcc895e2b0eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:03:28.663946+00:00
 -- url     : https://prove2.me/theorems/177ba5ec-e0f3-5187-af0f-f0340cf89537

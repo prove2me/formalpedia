@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multihomogeneous_nonvanishing_on_join
 -- name    : GlobalTheory.T.multihomogeneous_nonvanishing_on_join
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:54.091977+00:00
 -- url     : https://prove2.me/theorems/a7ed4301-55da-42ac-afe6-7465aa3b1afc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistDual_exists_dual
 -- name    : GlobalTheory.TwistDual.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:06.689899+00:00
 -- url     : https://prove2.me/theorems/8b3d8973-e52c-4e49-9425-f30cb4679158

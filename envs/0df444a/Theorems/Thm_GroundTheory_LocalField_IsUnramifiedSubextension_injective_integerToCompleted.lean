@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_injective_integerToCompleted
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.injective_integerToCompleted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:52.726205+00:00
 -- url     : https://prove2.me/theorems/e571bb8f-35f5-4b1a-b632-f96c7320a6a8

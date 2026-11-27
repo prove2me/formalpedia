@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_Statics_Supplement_theorem_4
 -- name    : TwoSidedMatching.Statics.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:06:10.887705+00:00
 -- url     : https://prove2.me/theorems/b4f27210-1427-49a2-88f0-a70315db321c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_charKer
 -- name    : GroundTheory.ProfCoh.mem_charKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:18.019314+00:00
 -- url     : https://prove2.me/theorems/6fd155dd-cab7-4e1f-965e-d863ff8c92d0

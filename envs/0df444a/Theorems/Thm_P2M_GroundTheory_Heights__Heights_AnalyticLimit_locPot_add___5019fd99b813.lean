@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_locPot_add___5019fd99b813
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_locPot_add___5019fd99b813
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:40.47897+00:00
 -- url     : https://prove2.me/theorems/0e141f41-7e87-4ed4-93b1-47b65d683e89

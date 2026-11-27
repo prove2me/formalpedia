@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_NormLeOneOfMonicRoot_norm_le_one_of_monic_root__86b9da74710a
 -- name    : P2M_UpperTheory_Reformulated_B_NormLeOneOfMonicRoot_norm_le_one_of_monic_root__86b9da74710a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:19.428205+00:00
 -- url     : https://prove2.me/theorems/d319adaf-a89a-4b08-a7fd-b7cd1cfb6bce

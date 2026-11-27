@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigA_trace_mul_dual
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigA.trace_mul_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:14:14.536643+00:00
 -- url     : https://prove2.me/theorems/3f412dda-5e65-4af6-a39a-5d63e894c1fe

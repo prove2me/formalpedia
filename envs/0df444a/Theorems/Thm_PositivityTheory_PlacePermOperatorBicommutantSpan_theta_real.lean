@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_theta_real
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.theta_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:12.309801+00:00
 -- url     : https://prove2.me/theorems/c51521fe-e546-56ac-9126-c69e50c89a48

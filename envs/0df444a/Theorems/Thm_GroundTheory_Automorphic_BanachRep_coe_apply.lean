@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_BanachRep_coe_apply
 -- name    : GroundTheory.Automorphic.BanachRep.coe_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:57.606621+00:00
 -- url     : https://prove2.me/theorems/b0c75ec1-0164-5ea5-90c9-0f496929d8ce

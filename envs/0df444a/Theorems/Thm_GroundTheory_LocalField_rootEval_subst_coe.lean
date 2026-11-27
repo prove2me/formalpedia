@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_rootEval_subst_coe
 -- name    : GroundTheory.LocalField.rootEval_subst_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:38.170436+00:00
 -- url     : https://prove2.me/theorems/11bb8cfd-af7f-5bfa-ac73-28058b4de867

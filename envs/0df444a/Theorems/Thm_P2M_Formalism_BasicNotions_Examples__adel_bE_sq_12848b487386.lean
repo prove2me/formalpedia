@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__adel_bE_sq_12848b487386
 -- name    : P2M_Formalism_BasicNotions_Examples__adel_bE_sq_12848b487386
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:08:23.513802+00:00
 -- url     : https://prove2.me/theorems/d0eaf308-67d7-4ffc-861d-2836288c5556

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogDetGramSubmean_proof_d28cd87f7053
 -- name    : P2M_GroundTheory_Heights__Heights_LogDetGramSubmean_proof_d28cd87f7053
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:11.666868+00:00
 -- url     : https://prove2.me/theorems/0c6e3523-64af-527c-bafa-40e0646aea15

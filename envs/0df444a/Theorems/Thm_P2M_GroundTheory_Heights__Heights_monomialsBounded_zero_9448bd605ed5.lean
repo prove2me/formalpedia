@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_monomialsBounded_zero_9448bd605ed5
 -- name    : P2M_GroundTheory_Heights__Heights_monomialsBounded_zero_9448bd605ed5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:40.807394+00:00
 -- url     : https://prove2.me/theorems/e402d78a-59eb-4bc1-a5a4-8b6a0913b6ef

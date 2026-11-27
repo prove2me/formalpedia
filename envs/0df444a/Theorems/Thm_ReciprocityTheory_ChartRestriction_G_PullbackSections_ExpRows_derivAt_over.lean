@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_ExpRows_derivAt_over
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.ExpRows.derivAt_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:07:59.952063+00:00
 -- url     : https://prove2.me/theorems/13d89d30-9668-468e-b825-4e17d02335cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatChartChangeVar_proof_b8227cd2a891
 -- name    : P2M_GroundTheory_Heights__Heights_RatChartChangeVar_proof_b8227cd2a891
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:36.316587+00:00
 -- url     : https://prove2.me/theorems/3fcf69ff-6b0a-51b4-a033-fe2888a426de

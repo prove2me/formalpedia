@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isRegularRing_of_smooth_field
 -- name    : GroundTheory.Arith.SchemeCoh.isRegularRing_of_smooth_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:37.690094+00:00
 -- url     : https://prove2.me/theorems/3b3b358a-dedd-58b9-a076-8f5146a96492

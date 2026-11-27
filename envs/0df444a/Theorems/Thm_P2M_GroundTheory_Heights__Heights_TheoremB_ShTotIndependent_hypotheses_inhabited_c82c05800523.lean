@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_ShTotIndependent_hypotheses_inhabited_c82c05800523
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:46.639514+00:00
 -- url     : https://prove2.me/theorems/b0523e55-982d-4f9e-bca0-f0f51d4713c1

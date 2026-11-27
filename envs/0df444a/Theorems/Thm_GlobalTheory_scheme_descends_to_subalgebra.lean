@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_scheme_descends_to_subalgebra
 -- name    : GlobalTheory.scheme_descends_to_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:53.051812+00:00
 -- url     : https://prove2.me/theorems/6fd14225-5b5d-4194-8ce2-ae39bb836eee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_Sd_sdEx_of
 -- name    : PI.OmFibreUniq.W.Sd.sdEx_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:33.217798+00:00
 -- url     : https://prove2.me/theorems/e87756a1-9362-4c77-a27c-66fc5bbd414c

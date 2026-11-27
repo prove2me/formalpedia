@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaIntegral_proof_d778110fc310
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaIntegral_proof_d778110fc310
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:53.590406+00:00
 -- url     : https://prove2.me/theorems/2640af73-646b-523d-9948-42cc63c6183c

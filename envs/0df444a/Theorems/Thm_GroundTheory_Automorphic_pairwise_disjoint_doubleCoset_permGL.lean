@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_pairwise_disjoint_doubleCoset_permGL
 -- name    : GroundTheory.Automorphic.pairwise_disjoint_doubleCoset_permGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:50.399981+00:00
 -- url     : https://prove2.me/theorems/1f1aaf51-739f-5798-98e3-5f4da1682609

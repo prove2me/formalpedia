@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_translates_eq_doubleCoset_average
 -- name    : GlobalTheory.T.sum_translates_eq_doubleCoset_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:29.774451+00:00
 -- url     : https://prove2.me/theorems/9ed87983-51a2-595c-970c-b67861575db8

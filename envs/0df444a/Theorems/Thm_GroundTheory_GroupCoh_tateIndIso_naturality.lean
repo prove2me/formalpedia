@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateIndIso_naturality
 -- name    : GroundTheory.GroupCoh.tateIndIso_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:59:32.412544+00:00
 -- url     : https://prove2.me/theorems/f2e20d74-92a1-4a15-bb0c-0b660e8b0b79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_mem_Edag
 -- name    : GroundTheory.PAdicHodge.TeichLift.mem_Edag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:02:12.516508+00:00
 -- url     : https://prove2.me/theorems/cb3fafff-37bc-48f1-a966-0ddd1c9e5718

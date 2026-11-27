@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_sum_ceil_off_le
 -- name    : UpperTheory.Ram.Fun.sum_ceil_off_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:15.690117+00:00
 -- url     : https://prove2.me/theorems/ad29186f-e9ba-47c1-89be-4cc8131d885e

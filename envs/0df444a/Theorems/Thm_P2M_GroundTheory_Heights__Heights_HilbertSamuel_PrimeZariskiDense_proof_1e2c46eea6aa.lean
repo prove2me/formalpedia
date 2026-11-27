@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeZariskiDense_proof_1e2c46eea6aa
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeZariskiDense_proof_1e2c46eea6aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:14:29.934203+00:00
 -- url     : https://prove2.me/theorems/5fb8dace-b6a7-4886-9e15-879004055cbf

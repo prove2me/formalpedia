@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_fg_subalgebra_desc_away
 -- name    : GlobalTheory.exists_fg_subalgebra_desc_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:18.819566+00:00
 -- url     : https://prove2.me/theorems/a6ea27f2-ffcb-432c-8abc-91f5dc6b7c81

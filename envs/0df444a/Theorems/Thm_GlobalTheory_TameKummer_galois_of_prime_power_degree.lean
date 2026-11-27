@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_galois_of_prime_power_degree
 -- name    : GlobalTheory.TameKummer.galois_of_prime_power_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:27.917079+00:00
 -- url     : https://prove2.me/theorems/f1b1792c-cc22-5e3a-bf47-8cf9102980e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_tensor_iff_forall_height_eq_one_of_isReflexive
 -- name    : GlobalTheory.mem_range_tensor_iff_forall_height_eq_one_of_isReflexive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:00.170332+00:00
 -- url     : https://prove2.me/theorems/1b94835a-8589-453b-b6a5-57238e5170e1

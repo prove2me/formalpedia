@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_card__Sq_eq_zero_e9e6c439b282
 -- name    : P2M_GroundTheory_Arith_Abelian_card__Sq_eq_zero_e9e6c439b282
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:08.57681+00:00
 -- url     : https://prove2.me/theorems/c7181255-250f-56fb-af6a-5c0c2c4e2a99

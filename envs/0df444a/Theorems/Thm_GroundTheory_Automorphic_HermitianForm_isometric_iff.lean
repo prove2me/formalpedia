@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_isometric_iff
 -- name    : GroundTheory.Automorphic.HermitianForm.isometric_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:22.334292+00:00
 -- url     : https://prove2.me/theorems/1f45ea00-8a64-5846-aedb-ebd5dbc6fdec

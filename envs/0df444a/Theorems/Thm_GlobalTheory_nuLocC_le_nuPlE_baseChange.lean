@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nuLocC_le_nuPlE_baseChange
 -- name    : GlobalTheory.nuLocC_le_nuPlE_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:57:58.367142+00:00
 -- url     : https://prove2.me/theorems/6ade42ae-90c2-51bf-9c10-46bc10d62a96

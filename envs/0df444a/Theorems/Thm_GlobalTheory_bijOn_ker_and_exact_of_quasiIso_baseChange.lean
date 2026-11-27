@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijOn_ker_and_exact_of_quasiIso_baseChange
 -- name    : GlobalTheory.bijOn_ker_and_exact_of_quasiIso_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:28.465469+00:00
 -- url     : https://prove2.me/theorems/21b3d2e6-3c0f-52ae-8824-209af08b6a47

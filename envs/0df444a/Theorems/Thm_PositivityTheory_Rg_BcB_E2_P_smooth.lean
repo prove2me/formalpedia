@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_smooth
 -- name    : PositivityTheory.Rg.BcB.E2.P.smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:38.856349+00:00
 -- url     : https://prove2.me/theorems/ac1e16d1-b368-4e39-bdc1-2785cd518402

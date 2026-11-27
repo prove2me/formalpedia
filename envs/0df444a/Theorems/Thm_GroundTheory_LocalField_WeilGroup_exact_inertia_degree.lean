@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_exact_inertia_degree
 -- name    : GroundTheory.LocalField.WeilGroup.exact_inertia_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:59.034822+00:00
 -- url     : https://prove2.me/theorems/23e82a7e-a24f-5e17-b554-ab068831b84d

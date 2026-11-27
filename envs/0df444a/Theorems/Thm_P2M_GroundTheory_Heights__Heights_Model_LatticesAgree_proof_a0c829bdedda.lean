@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_LatticesAgree_proof_a0c829bdedda
 -- name    : P2M_GroundTheory_Heights__Heights_Model_LatticesAgree_proof_a0c829bdedda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:50.562315+00:00
 -- url     : https://prove2.me/theorems/bdd75d7f-caa0-47ac-8229-ffc8844b4a4f

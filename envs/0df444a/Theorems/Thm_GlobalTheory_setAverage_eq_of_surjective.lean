@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setAverage_eq_of_surjective
 -- name    : GlobalTheory.setAverage_eq_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:06.048393+00:00
 -- url     : https://prove2.me/theorems/8c531ff7-e652-4866-8391-28286604a9b5

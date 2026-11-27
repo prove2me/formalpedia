@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_eq_or_eq_conjugate_of_mk_eq_5310c7c00837
 -- name    : P2M_GroundTheory_Heights__Theta_eq_or_eq_conjugate_of_mk_eq_5310c7c00837
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:03.539724+00:00
 -- url     : https://prove2.me/theorems/ab22bdf7-d874-58e2-aa00-76fccb42308d

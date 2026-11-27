@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_descends_along_etale_isogeny
 -- name    : GlobalTheory.cube_descends_along_etale_isogeny
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:11.949928+00:00
 -- url     : https://prove2.me/theorems/9957043d-d5c5-5c59-98de-3e3c48c98ea1

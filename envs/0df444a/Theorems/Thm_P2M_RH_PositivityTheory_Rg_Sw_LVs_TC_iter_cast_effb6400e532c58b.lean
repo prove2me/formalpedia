@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_PositivityTheory_Rg_Sw_LVs_TC_iter_cast_effb6400e532c58b
 -- name    : P2M_RH_PositivityTheory_Rg_Sw_LVs_TC_iter_cast_effb6400e532c58b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:19.453878+00:00
 -- url     : https://prove2.me/theorems/24714a54-4489-56f5-afb6-6b555357caf7

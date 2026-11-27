@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopExt_range_pow_eq_map
 -- name    : GlobalTheory.TopExt.range_pow_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:15.579459+00:00
 -- url     : https://prove2.me/theorems/ea1cc748-dd9f-4f1b-9516-d1cf6cdd76fe

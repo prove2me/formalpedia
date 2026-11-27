@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergy_proof_2d481867e789
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergy_proof_2d481867e789
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:18:57.546471+00:00
 -- url     : https://prove2.me/theorems/46679d87-a17c-51af-8e54-d50e65a61e08

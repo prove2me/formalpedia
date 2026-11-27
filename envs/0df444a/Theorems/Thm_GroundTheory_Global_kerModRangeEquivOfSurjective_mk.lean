@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_kerModRangeEquivOfSurjective_mk
 -- name    : GroundTheory.Global.kerModRangeEquivOfSurjective_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:27.154062+00:00
 -- url     : https://prove2.me/theorems/bf16d480-aab5-4298-941c-931b3f39cfc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_curveChartMono_notMem_6e92c9cb1350
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_curveChartMono_notMem_6e92c9cb1350
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:33.567937+00:00
 -- url     : https://prove2.me/theorems/7e0f77d8-781e-55dc-869c-960f48c322e2

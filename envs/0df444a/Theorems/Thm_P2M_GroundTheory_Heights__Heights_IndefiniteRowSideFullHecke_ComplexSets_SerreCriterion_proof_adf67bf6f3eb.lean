@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreCriterion_proof_adf67bf6f3eb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreCriterion_proof_adf67bf6f3eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:51.171625+00:00
 -- url     : https://prove2.me/theorems/7fea1e14-b5b8-45c9-8c53-8cc95b7f66b4

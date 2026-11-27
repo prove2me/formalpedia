@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_range_finiteLocalNorm_eq_top_of_isFiniteSplit
 -- name    : GroundTheory.Global.IdeleNorm.range_finiteLocalNorm_eq_top_of_isFiniteSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:48.306085+00:00
 -- url     : https://prove2.me/theorems/e123c224-d248-5855-86b1-0041186b13c8

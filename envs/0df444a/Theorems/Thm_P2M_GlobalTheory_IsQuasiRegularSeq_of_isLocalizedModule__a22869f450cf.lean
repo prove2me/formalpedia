@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IsQuasiRegularSeq_of_isLocalizedModule__a22869f450cf
 -- name    : P2M_GlobalTheory_IsQuasiRegularSeq_of_isLocalizedModule__a22869f450cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:50.885042+00:00
 -- url     : https://prove2.me/theorems/44289940-1ce1-5712-bbd1-482079915fc3

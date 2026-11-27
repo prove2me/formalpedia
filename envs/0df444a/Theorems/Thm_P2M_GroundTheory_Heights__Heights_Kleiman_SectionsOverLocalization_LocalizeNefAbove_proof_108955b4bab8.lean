@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeNefAbove_proof_108955b4bab8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeNefAbove_proof_108955b4bab8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:37.178602+00:00
 -- url     : https://prove2.me/theorems/3b6ca9c4-8c39-41f4-b840-8a9b92939103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_Heis_isTopologicalGroup
 -- name    : PositivityTheory.ThKR.Sieg.Heis.isTopologicalGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:33.606933+00:00
 -- url     : https://prove2.me/theorems/7676d11e-4682-41a8-82fc-f7d2f589c4f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_haar_map_mul_right_of_mem_compact_subgroup
 -- name    : GlobalTheory.haar_map_mul_right_of_mem_compact_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:05.816804+00:00
 -- url     : https://prove2.me/theorems/e33bf602-dd50-4c1c-a823-eab3ff523b60

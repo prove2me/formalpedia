@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isEmbedding_val_inv
 -- name    : GroundTheory.Global.IdeleGroup.isEmbedding_val_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:01.849072+00:00
 -- url     : https://prove2.me/theorems/072337be-57c8-47a4-baab-c1f5d642434c

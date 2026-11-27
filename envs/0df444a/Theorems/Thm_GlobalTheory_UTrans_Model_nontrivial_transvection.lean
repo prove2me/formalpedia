@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_nontrivial_transvection
 -- name    : GlobalTheory.UTrans.Model.nontrivial_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:04.546276+00:00
 -- url     : https://prove2.me/theorems/9015ac15-3f0a-45ec-9817-7d7a0f8a9f17

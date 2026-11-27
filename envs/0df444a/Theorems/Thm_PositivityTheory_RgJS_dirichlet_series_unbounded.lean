@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_dirichlet_series_unbounded
 -- name    : PositivityTheory.RgJS.dirichlet_series_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:42.118944+00:00
 -- url     : https://prove2.me/theorems/4938db4e-5539-4f70-921f-1cf6653b1e9f

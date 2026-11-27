@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap___comp_eq_of_comap___eq_7a5b1c1303a7
 -- name    : P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap___comp_eq_of_comap___eq_7a5b1c1303a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:04:13.256614+00:00
 -- url     : https://prove2.me/theorems/2a743bc3-152c-4a47-948b-cac0db0aa027

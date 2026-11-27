@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_quotInt_of_isCompact
 -- name    : GlobalTheory.Tw.quotInt_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:16.296881+00:00
 -- url     : https://prove2.me/theorems/87b1563d-13bf-4c99-8b60-0e39e6388e17

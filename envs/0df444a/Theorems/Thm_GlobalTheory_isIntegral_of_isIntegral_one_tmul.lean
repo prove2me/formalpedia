@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_isIntegral_one_tmul
 -- name    : GlobalTheory.isIntegral_of_isIntegral_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:18.119935+00:00
 -- url     : https://prove2.me/theorems/7f075c68-ab6c-57af-8daa-ecb63f1bb041

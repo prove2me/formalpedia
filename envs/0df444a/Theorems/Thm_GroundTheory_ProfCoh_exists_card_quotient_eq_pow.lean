@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_card_quotient_eq_pow
 -- name    : GroundTheory.ProfCoh.exists_card_quotient_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:18.150363+00:00
 -- url     : https://prove2.me/theorems/ad2057d4-652b-5c92-b258-7f691384b2c6

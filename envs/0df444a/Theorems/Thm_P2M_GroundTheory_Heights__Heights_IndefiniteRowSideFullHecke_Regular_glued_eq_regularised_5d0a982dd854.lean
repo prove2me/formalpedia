@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_glued_eq_regularised_5d0a982dd854
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_glued_eq_regularised_5d0a982dd854
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:36.722796+00:00
 -- url     : https://prove2.me/theorems/9bc64e6a-79c1-52be-a31d-b8c036c22f77

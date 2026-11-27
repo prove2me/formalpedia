@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_explicitFormula_of_leaves
 -- name    : PI.EF.explicitFormula_of_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:30.786784+00:00
 -- url     : https://prove2.me/theorems/ca2198a4-b207-4d3e-b624-d99567f519aa

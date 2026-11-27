@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finrank_eq_natDegree_of_isEisensteinAt
 -- name    : GroundTheory.LocalField.finrank_eq_natDegree_of_isEisensteinAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:04.708112+00:00
 -- url     : https://prove2.me/theorems/4b2a9bd4-6947-50d0-b867-ad9ca612f3d2

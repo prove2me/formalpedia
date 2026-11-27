@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurable_chartWeight_053ad593250d
 -- name    : P2M_GroundTheory_Heights__Heights_measurable_chartWeight_053ad593250d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:08.889098+00:00
 -- url     : https://prove2.me/theorems/bbee4d53-7382-4655-ad8d-a3cfd498b29d

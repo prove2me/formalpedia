@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_pderiv_mem_supported
 -- name    : PI.FJMX.pderiv_mem_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:12.551317+00:00
 -- url     : https://prove2.me/theorems/8404b71c-6c7d-44c3-a23a-417634279e58

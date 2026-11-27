@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_map_g_surjective
 -- name    : GlobalTheory.cohOn.map_g_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:33.739118+00:00
 -- url     : https://prove2.me/theorems/3e7ed103-d9f6-42c5-a629-3091c338eb3d

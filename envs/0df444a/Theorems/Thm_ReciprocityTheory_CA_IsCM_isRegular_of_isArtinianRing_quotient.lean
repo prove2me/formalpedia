@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_isRegular_of_isArtinianRing_quotient
 -- name    : ReciprocityTheory.CA.IsCM.isRegular_of_isArtinianRing_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:20.349232+00:00
 -- url     : https://prove2.me/theorems/5c5f6dbb-858d-4e70-b1fc-8f4eb27e40f8

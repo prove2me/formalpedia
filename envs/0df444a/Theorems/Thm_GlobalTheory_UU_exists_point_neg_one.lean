@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_point_neg_one
 -- name    : GlobalTheory.UU.exists_point_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:10:28.289502+00:00
 -- url     : https://prove2.me/theorems/67ae5150-bc43-40cc-b22d-ef82de3b5c43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_isAdicComplete_teichmuller
 -- name    : GroundTheory.PAdicHodge.AInf.isAdicComplete_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:42.57805+00:00
 -- url     : https://prove2.me/theorems/36e498cb-86cd-5fac-acc8-14c55e7653f7

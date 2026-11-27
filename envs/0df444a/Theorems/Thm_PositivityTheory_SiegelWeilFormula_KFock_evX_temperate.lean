@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_evX_temperate
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.evX_temperate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:54.084297+00:00
 -- url     : https://prove2.me/theorems/63f82c64-a140-4e4d-89fb-7529864d07c0

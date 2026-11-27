@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_densePrimes_univ_iff
 -- name    : GlobalTheory.ZM.DwModel.densePrimes_univ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:08.717525+00:00
 -- url     : https://prove2.me/theorems/6023ebfa-fd82-51c1-8c3c-2be1d62108fb

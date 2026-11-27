@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_IsFrobSS_charpoly_eq
 -- name    : GlobalTheory.WeilDeligne.IsFrobSS.charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:18:46.828162+00:00
 -- url     : https://prove2.me/theorems/018b9995-e067-4bd1-a451-198cc3a36ed6

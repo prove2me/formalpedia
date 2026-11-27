@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_galois_t2Space
 -- name    : GroundTheory.ProfCoh.galois_t2Space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:30.83703+00:00
 -- url     : https://prove2.me/theorems/365ac44a-a69c-496f-82b7-8bde4d0fb29e

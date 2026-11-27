@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_injective_map_of_int_ker
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.injective_map_of_int_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:48:26.171884+00:00
 -- url     : https://prove2.me/theorems/56383841-4173-4be5-a98b-bda34c4c9d60

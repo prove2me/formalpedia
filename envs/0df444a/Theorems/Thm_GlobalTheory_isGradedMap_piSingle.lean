@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isGradedMap_piSingle
 -- name    : GlobalTheory.isGradedMap_piSingle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:08.858807+00:00
 -- url     : https://prove2.me/theorems/01c14d6d-1473-57e7-a3ae-0e58238e5b74

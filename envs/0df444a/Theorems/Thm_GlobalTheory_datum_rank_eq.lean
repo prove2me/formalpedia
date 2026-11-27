@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_rank_eq
 -- name    : GlobalTheory.datum_rank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:37:33.181032+00:00
 -- url     : https://prove2.me/theorems/47a16e32-4dcc-4915-9a83-4b2b9738cb9d

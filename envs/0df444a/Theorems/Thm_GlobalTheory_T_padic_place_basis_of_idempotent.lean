@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padic_place_basis_of_idempotent
 -- name    : GlobalTheory.T.padic_place_basis_of_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:35:14.502099+00:00
 -- url     : https://prove2.me/theorems/f7dd4a9c-3889-51bc-9b55-a8c2b0bc0f21

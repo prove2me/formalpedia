@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_isIrreducible_trivial_9a2bb254c85d
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_isIrreducible_trivial_9a2bb254c85d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:39.252314+00:00
 -- url     : https://prove2.me/theorems/4fee1dc6-e139-4cc8-87c0-b6820ee2947d

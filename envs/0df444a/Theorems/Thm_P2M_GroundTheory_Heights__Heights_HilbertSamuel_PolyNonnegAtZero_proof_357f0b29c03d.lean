@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolyNonnegAtZero_proof_357f0b29c03d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolyNonnegAtZero_proof_357f0b29c03d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:13:54.267522+00:00
 -- url     : https://prove2.me/theorems/b0efd0c8-b970-40c4-a199-8ba7d170cf96

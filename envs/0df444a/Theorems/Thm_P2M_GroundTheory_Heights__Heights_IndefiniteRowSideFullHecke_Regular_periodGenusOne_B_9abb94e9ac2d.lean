@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_periodGenusOne_B_9abb94e9ac2d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_periodGenusOne_B_9abb94e9ac2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:55.388779+00:00
 -- url     : https://prove2.me/theorems/d4c498de-224d-5c6c-a6af-51f107120163

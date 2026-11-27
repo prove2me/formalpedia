@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_conj_character_mul_character_self
 -- name    : GlobalTheory.integral_conj_character_mul_character_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:05.217801+00:00
 -- url     : https://prove2.me/theorems/90a837dc-5750-5ae3-a600-37540514b68b

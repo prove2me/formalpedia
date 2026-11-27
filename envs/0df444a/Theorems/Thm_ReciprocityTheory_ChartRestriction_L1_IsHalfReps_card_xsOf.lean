@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsHalfReps_card_xsOf
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsHalfReps.card_xsOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:50.405606+00:00
 -- url     : https://prove2.me/theorems/e213a10c-c76b-4ede-913f-a1c60e593524

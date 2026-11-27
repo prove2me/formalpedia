@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_RepStatement_mono
 -- name    : GlobalTheory.UnRep.Compare.RepStatement.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:27.327332+00:00
 -- url     : https://prove2.me/theorems/7d053884-f62b-47b1-8acf-60837a0841f8

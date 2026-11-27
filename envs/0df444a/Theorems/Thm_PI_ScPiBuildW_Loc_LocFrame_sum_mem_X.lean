@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_sum_mem_X
 -- name    : PI.ScPiBuildW.Loc.LocFrame.sum_mem_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:25.525116+00:00
 -- url     : https://prove2.me/theorems/f7c9e766-b639-5152-9fbc-82d13c3509ed

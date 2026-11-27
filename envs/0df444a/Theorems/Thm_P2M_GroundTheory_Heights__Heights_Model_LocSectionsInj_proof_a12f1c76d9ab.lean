@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_LocSectionsInj_proof_a12f1c76d9ab
 -- name    : P2M_GroundTheory_Heights__Heights_Model_LocSectionsInj_proof_a12f1c76d9ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:00.817795+00:00
 -- url     : https://prove2.me/theorems/0156dd61-bdca-502a-b7a8-6026c6767ad2

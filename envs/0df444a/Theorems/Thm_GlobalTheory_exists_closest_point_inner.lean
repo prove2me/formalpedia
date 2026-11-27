@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_closest_point_inner
 -- name    : GlobalTheory.exists_closest_point_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:24.187962+00:00
 -- url     : https://prove2.me/theorems/d7d55b9a-d76a-5697-a1ca-12ec35b61c02

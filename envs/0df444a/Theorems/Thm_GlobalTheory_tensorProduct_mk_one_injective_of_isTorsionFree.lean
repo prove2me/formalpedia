@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorProduct_mk_one_injective_of_isTorsionFree
 -- name    : GlobalTheory.tensorProduct_mk_one_injective_of_isTorsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:34.14116+00:00
 -- url     : https://prove2.me/theorems/11d10fba-acc8-5f2b-801e-b5b4423f902f

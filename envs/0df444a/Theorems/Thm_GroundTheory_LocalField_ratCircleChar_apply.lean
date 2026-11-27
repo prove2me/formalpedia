@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ratCircleChar_apply
 -- name    : GroundTheory.LocalField.ratCircleChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:07.925094+00:00
 -- url     : https://prove2.me/theorems/f5d77364-940e-590a-b70b-a1a74ec6b440

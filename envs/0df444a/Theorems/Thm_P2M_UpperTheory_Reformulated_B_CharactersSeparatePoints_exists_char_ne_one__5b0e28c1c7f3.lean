@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_CharactersSeparatePoints_exists_char_ne_one__5b0e28c1c7f3
 -- name    : P2M_UpperTheory_Reformulated_B_CharactersSeparatePoints_exists_char_ne_one__5b0e28c1c7f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:47.758872+00:00
 -- url     : https://prove2.me/theorems/43e9cf7b-6da0-45c8-ab29-ad63b4a7e289

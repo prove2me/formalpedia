@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_padic_finiteDimensional_of_charZero
 -- name    : GroundTheory.LocalField.exists_padic_finiteDimensional_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:51.782795+00:00
 -- url     : https://prove2.me/theorems/073cc870-605d-4904-b276-4f985ccce95e

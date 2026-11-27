@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreDimensionZero_proof_d388a6d67a0b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreDimensionZero_proof_d388a6d67a0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:26.634705+00:00
 -- url     : https://prove2.me/theorems/390c85cc-2645-4b91-a9b4-586e029844ef

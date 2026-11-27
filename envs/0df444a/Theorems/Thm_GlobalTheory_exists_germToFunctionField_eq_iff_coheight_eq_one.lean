@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_germToFunctionField_eq_iff_coheight_eq_one
 -- name    : GlobalTheory.exists_germToFunctionField_eq_iff_coheight_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:25.539555+00:00
 -- url     : https://prove2.me/theorems/5130519e-2b02-5df4-9f07-7afdfefe087a

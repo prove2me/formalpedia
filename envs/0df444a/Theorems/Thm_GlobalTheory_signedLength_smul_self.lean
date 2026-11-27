@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_signedLength_smul_self
 -- name    : GlobalTheory.signedLength_smul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:51.577696+00:00
 -- url     : https://prove2.me/theorems/c288a758-aeb4-4d20-aaec-95042e9b2ed0

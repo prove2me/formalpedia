@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finrank_invariants_leftRegular_tprod
 -- name    : GroundTheory.ProfCoh.finrank_invariants_leftRegular_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:01:53.383137+00:00
 -- url     : https://prove2.me/theorems/8a6b3920-88be-5cc6-94c1-f2f7bc95337e

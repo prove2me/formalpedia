@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxFrA_intVec_smul
 -- name    : MassDataIdxFrA.intVec_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:25.387897+00:00
 -- url     : https://prove2.me/theorems/ea336ffb-1d17-5234-8ebf-67228d605b9f

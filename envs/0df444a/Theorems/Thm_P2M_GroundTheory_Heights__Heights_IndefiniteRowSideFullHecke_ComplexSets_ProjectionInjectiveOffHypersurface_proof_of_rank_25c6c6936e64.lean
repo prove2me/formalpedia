@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProjectionInjectiveOffHypersurface_proof_of_rank_25c6c6936e64
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProjectionInjectiveOffHypersurface_proof_of_rank_25c6c6936e64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:29:11.4935+00:00
 -- url     : https://prove2.me/theorems/08652a21-a88f-4245-9f66-760efcdb9a56

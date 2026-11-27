@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_zero_mem_KSet_rankTwo_9c1fdb6b33be
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_zero_mem_KSet_rankTwo_9c1fdb6b33be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:19.168891+00:00
 -- url     : https://prove2.me/theorems/1e1a6dcf-945f-59c0-ad3a-bd1dbcfa1a58

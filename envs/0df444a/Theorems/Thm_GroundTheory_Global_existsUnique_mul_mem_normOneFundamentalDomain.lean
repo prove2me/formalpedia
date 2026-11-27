@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_mul_mem_normOneFundamentalDomain
 -- name    : GroundTheory.Global.existsUnique_mul_mem_normOneFundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:32.065974+00:00
 -- url     : https://prove2.me/theorems/d8dacfa5-51dc-4cd5-82a5-ff14d4784988

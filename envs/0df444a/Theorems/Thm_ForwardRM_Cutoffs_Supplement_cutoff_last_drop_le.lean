@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForwardRM_Cutoffs_Supplement_cutoff_last_drop_le
 -- name    : ForwardRM.Cutoffs.Supplement.cutoff_last_drop_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:23:35.3983+00:00
 -- url     : https://prove2.me/theorems/bab1b930-b323-4e00-b29e-a5ca81dd0288

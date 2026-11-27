@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_coprime_QSq_of_splitK
 -- name    : UpperTheory.Ram.Fun.coprime_QSq_of_splitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:34:17.930921+00:00
 -- url     : https://prove2.me/theorems/cf4543c1-3e71-480c-8906-c045da991815

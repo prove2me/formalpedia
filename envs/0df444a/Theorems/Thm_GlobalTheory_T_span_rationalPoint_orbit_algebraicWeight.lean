@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_rationalPoint_orbit_algebraicWeight
 -- name    : GlobalTheory.T.span_rationalPoint_orbit_algebraicWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:17.864872+00:00
 -- url     : https://prove2.me/theorems/724486bd-f9a7-478e-a4e6-412f1f003b04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_rho_eq
 -- name    : UpperTheory.V.Chr.rho_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:16.198497+00:00
 -- url     : https://prove2.me/theorems/76d99ab4-8831-560b-853c-f82fa63ad07b

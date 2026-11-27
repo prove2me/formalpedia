@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isMultiHomogIdeal_coordIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isMultiHomogIdeal_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:21.038348+00:00
 -- url     : https://prove2.me/theorems/d5e318c0-423a-4a26-a2c7-e1a507ffdbe1

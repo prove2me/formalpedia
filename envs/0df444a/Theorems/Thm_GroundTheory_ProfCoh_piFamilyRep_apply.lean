@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_piFamilyRep_apply
 -- name    : GroundTheory.ProfCoh.piFamilyRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:11.156744+00:00
 -- url     : https://prove2.me/theorems/4eebf931-7b40-52cb-abe7-5153bd41b876

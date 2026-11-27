@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdR_iSup_fil
 -- name    : Reformulated.AutPerF.BdR.iSup_fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:11:51.76041+00:00
 -- url     : https://prove2.me/theorems/be86d4bf-f8a1-5f00-a074-a2254a92d43e

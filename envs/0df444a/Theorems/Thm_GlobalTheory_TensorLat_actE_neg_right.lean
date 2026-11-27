@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_actE_neg_right
 -- name    : GlobalTheory.TensorLat.actE_neg_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:29:52.941412+00:00
 -- url     : https://prove2.me/theorems/ebcdb726-4728-4b8a-a1d1-0c57c7964368

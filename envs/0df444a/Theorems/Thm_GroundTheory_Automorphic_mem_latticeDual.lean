@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_latticeDual
 -- name    : GroundTheory.Automorphic.mem_latticeDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:02.643287+00:00
 -- url     : https://prove2.me/theorems/594b0d3a-906c-40bb-8475-20075f5570b2

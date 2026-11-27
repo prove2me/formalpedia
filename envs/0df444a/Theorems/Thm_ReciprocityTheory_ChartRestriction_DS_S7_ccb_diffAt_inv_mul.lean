@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ccb_diffAt_inv_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ccb_diffAt_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:15.910155+00:00
 -- url     : https://prove2.me/theorems/05c288d4-6f8c-4894-8188-4510edf3e037

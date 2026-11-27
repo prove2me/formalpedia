@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HammingSumset729_Approximation_fact_A_2
 -- name    : HammingSumset729.Approximation.fact_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:41:50.916773+00:00
 -- url     : https://prove2.me/theorems/38d89a38-eacd-4c4f-b8ef-558ff31868a8

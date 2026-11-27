@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_integral_vadd_eq_zero
 -- name    : GroundTheory.Automorphic.GL2Classical.integral_vadd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:51.077871+00:00
 -- url     : https://prove2.me/theorems/c6861eb3-846f-4488-9629-da818a4f0fc8

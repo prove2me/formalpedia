@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_stableInv_self
 -- name    : GroundTheory.Automorphic.HermitianForm.stableInv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:26.135414+00:00
 -- url     : https://prove2.me/theorems/5d39630d-9ef1-4dca-a076-d019d106e858

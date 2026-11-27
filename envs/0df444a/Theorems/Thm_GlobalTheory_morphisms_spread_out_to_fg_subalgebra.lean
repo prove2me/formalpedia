@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_morphisms_spread_out_to_fg_subalgebra
 -- name    : GlobalTheory.morphisms_spread_out_to_fg_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:35.384096+00:00
 -- url     : https://prove2.me/theorems/aefa3545-3d3a-4c4e-b89c-1b7e900c7e8c

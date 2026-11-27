@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_WOnLatG_main
 -- name    : PI.UnitaryGroupMassFormula.WOnLatG.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:15.22961+00:00
 -- url     : https://prove2.me/theorems/edd62a49-7b68-53af-b476-abfc7bdfc46a

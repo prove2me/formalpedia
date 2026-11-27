@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_nonempty_place_rat_0f70ae9a74c3
 -- name    : P2M_GroundTheory_Heights__Heights_nonempty_place_rat_0f70ae9a74c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:04.986275+00:00
 -- url     : https://prove2.me/theorems/fa4fc9f1-5e43-51a4-bdd1-128e60a364af

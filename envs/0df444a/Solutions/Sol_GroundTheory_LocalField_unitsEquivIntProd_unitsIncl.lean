@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for GroundTheory.LocalField.unitsEquivIntProd_unitsIncl
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-27T04:47:47.35089+00:00
+-- url     : https://prove2.me/submissions/4bf43bc1-94cb-487a-ab77-308340e06998
+
+import Mathlib
+import Definitions.Def_GroundTheory_LocalFields_UnitsBasic
+import Theorems.Thm_GroundTheory_LocalField_unitsEquivIntProd_symm_apply
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+open GroundTheory GroundTheory.LocalField
+open ValuativeRel IsLocalRing
+open scoped WithZero
+variable (K : Type*) [Field K] [ValuativeRel K] [TopologicalSpace K] [IsNonarchimedeanLocalField K]
+variable {K}
+namespace GroundTheory.LocalField
+theorem _root_.solution {ϖ : 𝒪[K]} (hϖ : Irreducible ϖ) (u : 𝒪[K]ˣ) :
+    unitsEquivIntProd hϖ (unitsIncl K u) = (1, u) := by
+  rw [← MulEquiv.eq_symm_apply, unitsEquivIntProd_symm_apply]
+  ext
+  simp [coe_unitsOfIntProd]
+end GroundTheory.LocalField

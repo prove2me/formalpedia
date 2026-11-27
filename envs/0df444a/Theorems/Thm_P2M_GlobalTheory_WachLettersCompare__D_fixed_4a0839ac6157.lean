@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WachLettersCompare__D_fixed_4a0839ac6157
 -- name    : P2M_GlobalTheory_WachLettersCompare__D_fixed_4a0839ac6157
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:25.792165+00:00
 -- url     : https://prove2.me/theorems/25c38416-2c28-5150-94ee-edf12d884190

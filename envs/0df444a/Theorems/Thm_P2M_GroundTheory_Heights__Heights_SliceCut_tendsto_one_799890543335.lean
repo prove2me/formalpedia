@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_tendsto_one_799890543335
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_tendsto_one_799890543335
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:37:29.495969+00:00
 -- url     : https://prove2.me/theorems/70e8450a-b5dc-56f2-8c10-b781b313e6a3

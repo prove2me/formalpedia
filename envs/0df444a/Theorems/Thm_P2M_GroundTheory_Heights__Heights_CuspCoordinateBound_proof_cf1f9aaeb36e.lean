@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_proof_cf1f9aaeb36e
 -- name    : P2M_GroundTheory_Heights__Heights_CuspCoordinateBound_proof_cf1f9aaeb36e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:30.530822+00:00
 -- url     : https://prove2.me/theorems/7cfc852a-39b2-52b2-b8bf-624a04187b08

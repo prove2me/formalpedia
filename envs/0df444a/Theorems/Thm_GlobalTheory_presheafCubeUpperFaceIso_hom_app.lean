@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_presheafCubeUpperFaceIso_hom_app
 -- name    : GlobalTheory.presheafCubeUpperFaceIso_hom_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:51.545723+00:00
 -- url     : https://prove2.me/theorems/744de796-93cf-5575-8c04-e50afcbf368b

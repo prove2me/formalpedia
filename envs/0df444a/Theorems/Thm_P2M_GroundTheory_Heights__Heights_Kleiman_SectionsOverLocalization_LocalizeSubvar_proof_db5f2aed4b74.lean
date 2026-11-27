@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_proof_db5f2aed4b74
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeSubvar_proof_db5f2aed4b74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:02.363954+00:00
 -- url     : https://prove2.me/theorems/4d032768-f897-458d-ab56-18cb1dc025eb

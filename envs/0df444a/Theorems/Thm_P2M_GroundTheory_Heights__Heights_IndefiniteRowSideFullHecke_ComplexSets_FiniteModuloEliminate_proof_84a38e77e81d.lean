@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteModuloEliminate_proof_84a38e77e81d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteModuloEliminate_proof_84a38e77e81d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:53.142885+00:00
 -- url     : https://prove2.me/theorems/b31ef4ef-fd0e-5d81-b619-1f3d50e5df1e

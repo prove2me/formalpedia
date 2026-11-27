@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_quadraticForm_end
 -- name    : GlobalTheory.SS.exists_quadraticForm_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:10:54.365801+00:00
 -- url     : https://prove2.me/theorems/55170975-a530-4957-ba14-02dc57d4f081

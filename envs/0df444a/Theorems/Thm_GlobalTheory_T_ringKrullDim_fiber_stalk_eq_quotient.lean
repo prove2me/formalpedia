@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ringKrullDim_fiber_stalk_eq_quotient
 -- name    : GlobalTheory.T.ringKrullDim_fiber_stalk_eq_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:26.379418+00:00
 -- url     : https://prove2.me/theorems/275627fb-2ad8-4529-9920-b1451da361e1

@@ -49362,7 +49362,7 @@
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound4b", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreAState2", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound4b", "child": "IntMul_Kappa_R8_Data_BitOppbankLab1", "via": ["statement"]}
 {"parent": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABound4b", "child": "IntMul_Kappa_R8_Data_BitOppbankBlock0CoreABits", "via": ["statement"]}
-{"parent": "TFIMPhaseDiagram.Classical.Supplement.prop_30", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["statement"]}
+{"parent": "TFIMPhaseDiagram.Classical.Supplement.prop_30", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["solution", "statement"]}
 {"parent": "HDXHitting.Supplement.theorem_4_1", "child": "HDXHitting_IsPartiteHDX", "via": ["statement"]}
 {"parent": "HDXHitting.Supplement.theorem_4_1", "child": "HDXConc_SecondEigLE", "via": ["statement"]}
 {"parent": "HDXHitting.Supplement.theorem_4_1", "child": "HDXHitting_IsTopDist", "via": ["statement"]}
@@ -50606,7 +50606,7 @@
 {"parent": "ElimAgree_Supplement_CellMass", "child": "ElimAgree_halfSetChannel", "via": ["statement"]}
 {"parent": "StochAutoreg.Supplement.theorem_6_5", "child": "StochAutoreg_mCoT", "via": ["statement"]}
 {"parent": "StochAutoreg.Supplement.theorem_6_5", "child": "StochAutoreg_mE2E", "via": ["statement"]}
-{"parent": "TFIMPhaseDiagram.Classical.Supplement.lemma_27", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["statement"]}
+{"parent": "TFIMPhaseDiagram.Classical.Supplement.lemma_27", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.kronecker_pos_transpose", "child": "UniversalTensorSquares", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.kronecker_pos_transpose", "child": "OAIQ259US001", "via": ["statement"]}
 {"parent": "ContractionLemma.Supplement.theorem_10_4_oracle_separations", "child": "ContractionLemma_Supplement_Quantum", "via": ["statement"]}
@@ -51675,8 +51675,8 @@
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.sivp_dimension_dispatch", "child": "InfoLossLAR_RegevSketch_DGS", "via": ["solution", "statement"]}
 {"parent": "LocalOccupancyIS.Glauber.Supplement.theorem_8", "child": "LocalOccupancyIS_Glauber_Supplement_MadParameters", "via": ["statement"]}
 {"parent": "HamSimTradeoff_AncillaDepth_Supplement_Balanced", "child": "HamSimTradeoff_AncillaDepth_Supplement_LCU", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.Supplement.lemma_C_2", "child": "ParityDegreeDepth_Main_Context", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.Supplement.lemma_C_2", "child": "ParityDegreeDepth_Main_Supplement_ThresholdWeight", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.Supplement.lemma_C_2", "child": "ParityDegreeDepth_Main_Context", "via": ["solution", "statement"]}
+{"parent": "ParityDegreeDepth.Main.Supplement.lemma_C_2", "child": "ParityDegreeDepth_Main_Supplement_ThresholdWeight", "via": ["solution", "statement"]}
 {"parent": "MeanCertificates1424.Hardness.Supplement.theorem_5_2", "child": "MeanCertificates1424_Hardness_Supplement_RAM", "via": ["statement"]}
 {"parent": "FiniteSampleDependence.Rigidity.Supplement.faithful_iff_two", "child": "FiniteSampleDependence_Rigidity_Supplement_Model", "via": ["statement"]}
 {"parent": "FiniteSampleDependence.Rigidity.Supplement.faithful_iff_two", "child": "FiniteSampleDependence_Rigidity_PolynomialAlgebra", "via": ["statement"]}
@@ -55943,7 +55943,7 @@
 {"parent": "Kyprianou.Ch04.generalLevyItoFormulaV2", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
 {"parent": "TightQLB.Supplement.theorem_5_6", "child": "TightQLB_Supplement_Level", "via": ["statement"]}
 {"parent": "ParityDegreeDepth.Main.Supplement.theorem_1_5", "child": "ParityDegreeDepth_Main_Context", "via": ["statement"]}
-{"parent": "ParityDegreeDepth.Main.Supplement.theorem_1_5", "child": "ParityDegreeDepth_Main_Supplement_ThresholdWeight", "via": ["statement"]}
+{"parent": "ParityDegreeDepth.Main.Supplement.theorem_1_5", "child": "ParityDegreeDepth_Main_Supplement_ThresholdWeight", "via": ["solution", "statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_3_9", "child": "QVolTransducer_Supplement_perpVec", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_3_9", "child": "QVolTransducer_starState", "via": ["statement"]}
 {"parent": "QVolTransducer.Supplement.theorem_3_9", "child": "mm_basic", "via": ["statement"]}
@@ -58017,7 +58017,7 @@
 {"parent": "DisjointPathsDAG.Supplement.theorem_6_8", "child": "DisjointPathsDAG_Graph", "via": ["statement"]}
 {"parent": "DisjointPathsDAG.Supplement.theorem_6_8", "child": "DisjointPathsDAG_Supplement_Guarantees", "via": ["statement"]}
 {"parent": "DisjointPathsDAG.Supplement.theorem_6_8", "child": "mme_omega", "via": ["statement"]}
-{"parent": "TFIMPhaseDiagram.Classical.Supplement.prop_26", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["statement"]}
+{"parent": "TFIMPhaseDiagram.Classical.Supplement.prop_26", "child": "TFIMPhaseDiagram_Classical_Supplement_deviations", "via": ["solution", "statement"]}
 {"parent": "SingleSampleCombPI.XOS.Supplement.theorem_4_7", "child": "SingleSampleCombPI_XOS_Supplement_GreedyDR", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.Supplement.lemma_6_1", "child": "ParityBarrier563_Trilinear_Correlation", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.Supplement.lemma_6_1", "child": "ParityBarrier563_Trilinear_Supplement_DecisionTree", "via": ["statement"]}

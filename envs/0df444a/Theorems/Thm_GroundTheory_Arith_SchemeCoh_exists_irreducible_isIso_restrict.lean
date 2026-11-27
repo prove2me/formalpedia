@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_exists_irreducible_isIso_restrict
 -- name    : GroundTheory.Arith.SchemeCoh.exists_irreducible_isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:37.257788+00:00
 -- url     : https://prove2.me/theorems/d24ce0d7-1c34-45c4-a8fe-c1abf3d5a99a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_isHermFrame_blockDiagonal__b858d1ae694e
 -- name    : P2M_GlobalTheory_HermFrame_isHermFrame_blockDiagonal__b858d1ae694e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:57.196302+00:00
 -- url     : https://prove2.me/theorems/02e1431e-3b14-4827-8d0b-2afaf9fff8a5

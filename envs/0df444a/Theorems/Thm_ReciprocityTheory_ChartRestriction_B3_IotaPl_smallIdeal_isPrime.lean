@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_B3_IotaPl_smallIdeal_isPrime
 -- name    : ReciprocityTheory.ChartRestriction.B3.IotaPl.smallIdeal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:07.454264+00:00
 -- url     : https://prove2.me/theorems/37482c8d-af18-4f1d-8558-727e86eebed7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_SliceClasses_eig_lift
 -- name    : PositivityTheory.Rg.Rs.SliceClasses.eig_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:02.611916+00:00
 -- url     : https://prove2.me/theorems/5f63ac90-f1ff-54f6-a3cc-065f09c030ee

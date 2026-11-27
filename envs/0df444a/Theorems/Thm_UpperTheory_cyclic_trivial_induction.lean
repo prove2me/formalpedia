@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_cyclic_trivial_induction
 -- name    : UpperTheory.cyclic_trivial_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:02.041518+00:00
 -- url     : https://prove2.me/theorems/57b1b79b-24ec-447c-923c-b7097f58a723

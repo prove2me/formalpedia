@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightScale_isSumTriple_cubeRoot
 -- name    : GlobalTheory.WeightScale.isSumTriple_cubeRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:39.376986+00:00
 -- url     : https://prove2.me/theorems/71ab0472-ca2d-46e1-a05c-04fe351f378f

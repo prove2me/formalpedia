@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfB_chosenFrame_isOrthogonal
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfB.chosenFrame_isOrthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:44.037092+00:00
 -- url     : https://prove2.me/theorems/c5cf7aac-1dcf-469a-9ea3-f332bf630dd4

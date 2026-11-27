@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesGroupHard_VertexCover_Supplement_section_B_2
 -- name    : BayesGroupHard.VertexCover.Supplement.section_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:47:32.736577+00:00
 -- url     : https://prove2.me/theorems/8cbcaeef-9a30-4258-8213-cc45145b4d80

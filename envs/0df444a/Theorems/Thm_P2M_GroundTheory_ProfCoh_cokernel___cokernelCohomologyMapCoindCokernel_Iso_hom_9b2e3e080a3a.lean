@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_cokernel___cokernelCohomologyMapCoindCokernel_Iso_hom_9b2e3e080a3a
 -- name    : P2M_GroundTheory_ProfCoh_cokernel___cokernelCohomologyMapCoindCokernel_Iso_hom_9b2e3e080a3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:43:37.387491+00:00
 -- url     : https://prove2.me/theorems/f2b2f660-7512-49dd-b07e-b83618b90bd6

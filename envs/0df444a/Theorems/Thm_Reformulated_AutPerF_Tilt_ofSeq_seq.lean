@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_ofSeq_seq
 -- name    : Reformulated.AutPerF.Tilt.ofSeq_seq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:38:18.51308+00:00
 -- url     : https://prove2.me/theorems/6ce4b88b-6225-4405-9677-141eb7979323

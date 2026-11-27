@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_deg_eq
 -- name    : GroundTheory.FunctionField.Place.LiesOver.deg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:29.017566+00:00
 -- url     : https://prove2.me/theorems/f116cb42-fb32-4b56-9b3e-a62776de52c1

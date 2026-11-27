@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateCohomologyNegOneIso_hom_homology__7077d76d9fc2
 -- name    : P2M_GroundTheory_GroupCoh_tateCohomologyNegOneIso_hom_homology__7077d76d9fc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:08:05.992671+00:00
 -- url     : https://prove2.me/theorems/e11091ca-7f34-5158-ab8b-6609732e91e5

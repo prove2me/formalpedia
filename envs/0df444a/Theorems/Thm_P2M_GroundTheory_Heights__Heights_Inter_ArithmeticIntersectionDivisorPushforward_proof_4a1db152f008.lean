@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionDivisorPushforward_proof_4a1db152f008
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionDivisorPushforward_proof_4a1db152f008
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:27:30.268835+00:00
 -- url     : https://prove2.me/theorems/1af76742-3d7c-5c63-97dd-856d4f6c8332

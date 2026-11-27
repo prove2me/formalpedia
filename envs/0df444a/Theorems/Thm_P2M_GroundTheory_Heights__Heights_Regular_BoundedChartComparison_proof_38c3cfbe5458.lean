@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_BoundedChartComparison_proof_38c3cfbe5458
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_BoundedChartComparison_proof_38c3cfbe5458
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:12.449077+00:00
 -- url     : https://prove2.me/theorems/8999b14a-fc5e-44b1-9341-3ff4e5ea4766

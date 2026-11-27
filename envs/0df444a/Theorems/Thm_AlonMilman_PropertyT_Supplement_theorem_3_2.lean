@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman_PropertyT_Supplement_theorem_3_2
 -- name    : AlonMilman.PropertyT.Supplement.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:31:34.29499+00:00
 -- url     : https://prove2.me/theorems/20afc41e-7658-428a-b589-55c028e3ec38

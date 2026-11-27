@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_stdLat_eq_span
 -- name    : PI.UG.W.stdLat_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:38.487906+00:00
 -- url     : https://prove2.me/theorems/cff1b0ba-d640-5359-b4f9-975b3dfcf37e

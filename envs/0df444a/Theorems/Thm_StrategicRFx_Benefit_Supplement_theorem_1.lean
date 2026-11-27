@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicRFx_Benefit_Supplement_theorem_1
 -- name    : StrategicRFx.Benefit.Supplement.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:12:08.908793+00:00
 -- url     : https://prove2.me/theorems/26eafe01-abbd-4da1-98c4-77b86b57bb72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FragileBandit_CauchyTail_Supplement_theorem_3_counterexample
 -- name    : FragileBandit.CauchyTail.Supplement.theorem_3_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:04:47.775119+00:00
 -- url     : https://prove2.me/theorems/b383c479-4ed1-459c-a196-545b5ad1e98c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_aeval_latticeCoord_5374d9b57203
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_aeval_latticeCoord_5374d9b57203
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:32:00.812606+00:00
 -- url     : https://prove2.me/theorems/0b70a7a6-aa58-589f-81c6-15fae89fec8d

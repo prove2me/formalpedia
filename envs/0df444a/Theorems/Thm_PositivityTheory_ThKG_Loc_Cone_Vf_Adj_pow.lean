@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Cone_Vf_Adj_pow
 -- name    : PositivityTheory.ThKG.Loc.Cone.Vf.Adj.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:45.904046+00:00
 -- url     : https://prove2.me/theorems/ac3f1e86-1c9d-41f1-9753-960e4ad5aa19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_eq_zero_of_teichmuller_mul_eq_zero
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.eq_zero_of_teichmuller_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:58.93632+00:00
 -- url     : https://prove2.me/theorems/cfbb8a87-b57f-4735-b9b7-e8a5b9e060f9

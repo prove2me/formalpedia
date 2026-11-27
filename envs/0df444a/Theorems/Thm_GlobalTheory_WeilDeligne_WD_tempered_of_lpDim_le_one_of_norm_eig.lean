@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_WD_tempered_of_lpDim_le_one_of_norm_eig
 -- name    : GlobalTheory.WeilDeligne.WD.tempered_of_lpDim_le_one_of_norm_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T17:05:30.724801+00:00
 -- url     : https://prove2.me/theorems/00a5f75f-ee59-5a9e-8311-f8db19d9aa00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonempty_structureSheafCohomologyModel_of_quasiIso
 -- name    : GlobalTheory.T.nonempty_structureSheafCohomologyModel_of_quasiIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:09:18.501563+00:00
 -- url     : https://prove2.me/theorems/8d4b7a45-b91a-41a3-af84-c067f7e26044

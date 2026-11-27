@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TorusCompat_of_comp_right
 -- name    : GlobalTheory.UU.TorusCompat.of_comp_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:17.676208+00:00
 -- url     : https://prove2.me/theorems/cf64add9-9b06-5ad9-b790-0ea570b02f87

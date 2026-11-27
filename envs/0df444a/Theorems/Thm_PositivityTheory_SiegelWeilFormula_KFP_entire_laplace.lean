@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFP_entire_laplace
 -- name    : PositivityTheory.SiegelWeilFormula.KFP.entire_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:32.476809+00:00
 -- url     : https://prove2.me/theorems/0497db7e-5ffd-58cc-89e8-a9a6ce5a4e50

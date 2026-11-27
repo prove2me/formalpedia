@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassPos_of_found_5deccf67aa12
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassPos_of_found_5deccf67aa12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:20.332434+00:00
 -- url     : https://prove2.me/theorems/d02233cb-aa67-541a-82d4-a5cc3acf7b3f

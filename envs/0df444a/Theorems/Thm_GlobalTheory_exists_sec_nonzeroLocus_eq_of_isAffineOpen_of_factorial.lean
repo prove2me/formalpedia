@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_nonzeroLocus_eq_of_isAffineOpen_of_factorial
 -- name    : GlobalTheory.exists_sec_nonzeroLocus_eq_of_isAffineOpen_of_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:58:17.778528+00:00
 -- url     : https://prove2.me/theorems/f7d57053-4308-468e-842e-0cada80d7607

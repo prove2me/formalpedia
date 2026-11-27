@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_ker_localClass
 -- name    : GroundTheory.Global.KummerIndex.ker_localClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:52.805586+00:00
 -- url     : https://prove2.me/theorems/84de6cb3-deb1-519c-bdb1-f45e04548093

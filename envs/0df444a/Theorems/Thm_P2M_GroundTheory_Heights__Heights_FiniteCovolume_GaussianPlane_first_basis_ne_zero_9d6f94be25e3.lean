@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_first_basis_ne_zero_9d6f94be25e3
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_first_basis_ne_zero_9d6f94be25e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:17:22.016825+00:00
 -- url     : https://prove2.me/theorems/501367ac-1c81-5520-a8a5-2ecbc196bd70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_fderiv_integral_mul_kernel_apply__4434511597b8
 -- name    : P2M_GlobalTheory_T_fderiv_integral_mul_kernel_apply__4434511597b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:58.847915+00:00
 -- url     : https://prove2.me/theorems/5622ddc5-2593-4be0-9b1c-e38874cfcd26

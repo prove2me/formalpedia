@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_exists_root
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:23.921475+00:00
 -- url     : https://prove2.me/theorems/6db46e53-f333-5cf8-b828-158763e74cff

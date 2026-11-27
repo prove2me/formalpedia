@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_compound_map
 -- name    : GroundTheory.PAdicHodge.compound_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:26.402876+00:00
 -- url     : https://prove2.me/theorems/db738e6a-51e5-4320-a022-08b8b8871c70

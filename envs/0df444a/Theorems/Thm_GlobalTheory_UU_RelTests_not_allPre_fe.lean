@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelTests_not_allPre_fe
 -- name    : GlobalTheory.UU.RelTests.not_allPre_fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:20:05.324362+00:00
 -- url     : https://prove2.me/theorems/6b135b7d-4d98-437e-a9e3-b79650b82793

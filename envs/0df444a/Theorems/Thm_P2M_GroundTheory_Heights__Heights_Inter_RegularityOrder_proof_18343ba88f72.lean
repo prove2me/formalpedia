@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityOrder_proof_18343ba88f72
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityOrder_proof_18343ba88f72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:30.276842+00:00
 -- url     : https://prove2.me/theorems/400595fe-917c-4160-8274-a7a485e02c86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_kernelPositive_hyps_inhabited_43b4aec49229
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_kernelPositive_hyps_inhabited_43b4aec49229
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:30:17.904739+00:00
 -- url     : https://prove2.me/theorems/8655929b-26b8-5b06-8f37-9f1a0da1f47c

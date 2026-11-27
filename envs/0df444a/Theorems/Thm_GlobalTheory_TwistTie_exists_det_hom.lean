@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTie_exists_det_hom
 -- name    : GlobalTheory.TwistTie.exists_det_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:33.067399+00:00
 -- url     : https://prove2.me/theorems/8d77a755-dfef-54d4-91ed-cedc9249dabe

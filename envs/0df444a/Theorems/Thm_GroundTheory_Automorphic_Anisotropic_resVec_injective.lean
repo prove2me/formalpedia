@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resVec_injective
 -- name    : GroundTheory.Automorphic.Anisotropic.resVec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:34.374506+00:00
 -- url     : https://prove2.me/theorems/b6ef9460-5f3e-5c7b-bf50-2d6dbfbf2ffb

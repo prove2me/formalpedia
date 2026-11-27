@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_WittOrbit_map_mul__1fe27c0cd3d2
 -- name    : P2M_GlobalTheory_CompanionTheory_WittOrbit_map_mul__1fe27c0cd3d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:05.944373+00:00
 -- url     : https://prove2.me/theorems/77c96ed6-af28-427a-84fc-3c0e09d6f1b1

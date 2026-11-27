@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedLaplaceExponent_continuousOn
 -- name    : Kyprianou.Ch05.killedLaplaceExponent_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-27T01:25:20.151804+00:00
 -- url     : https://prove2.me/theorems/8db0cd15-5acf-457b-ba5a-7fe3ba6dc735

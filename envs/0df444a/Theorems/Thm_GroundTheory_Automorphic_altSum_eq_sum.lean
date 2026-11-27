@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_altSum_eq_sum
 -- name    : GroundTheory.Automorphic.altSum_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:23.720485+00:00
 -- url     : https://prove2.me/theorems/9d750f3c-f433-42ac-8f4f-2bf4fe4ab120

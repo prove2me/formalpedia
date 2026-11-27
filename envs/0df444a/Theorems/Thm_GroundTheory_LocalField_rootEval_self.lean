@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_rootEval_self
 -- name    : GroundTheory.LocalField.rootEval_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:27.801886+00:00
 -- url     : https://prove2.me/theorems/9e2756b5-2086-5adc-b7af-3f924c8afa35

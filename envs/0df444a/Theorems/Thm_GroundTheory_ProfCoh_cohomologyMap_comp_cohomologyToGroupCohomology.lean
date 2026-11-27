@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cohomologyMap_comp_cohomologyToGroupCohomology
 -- name    : GroundTheory.ProfCoh.cohomologyMap_comp_cohomologyToGroupCohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:06.785983+00:00
 -- url     : https://prove2.me/theorems/908e4686-dc21-4a0f-880c-c6347065676d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_InterSumTopVanish_proof_c8faf6a00019
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_InterSumTopVanish_proof_c8faf6a00019
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:31:56.396796+00:00
 -- url     : https://prove2.me/theorems/050b138c-6cc0-40ed-a611-7de550d196ec

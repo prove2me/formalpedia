@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSumMeasurable_proof_e76877c982e9
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSumMeasurable_proof_e76877c982e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:36:38.849643+00:00
 -- url     : https://prove2.me/theorems/de54eb4a-2ea0-4e96-b98c-e5b8fe081065

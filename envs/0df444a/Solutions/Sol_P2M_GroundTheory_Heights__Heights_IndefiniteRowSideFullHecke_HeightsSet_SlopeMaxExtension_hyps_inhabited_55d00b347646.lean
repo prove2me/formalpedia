@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_SlopeMaxExtension_hyps_inhabited_55d00b347646
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-27T05:07:30.685115+00:00
+-- url     : https://prove2.me/submissions/ec57cb91-f259-49cb-bd2f-73a4e435dee5
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ArithmeticHilbertSamuelLowerBound
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterNamed
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterSt
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithDegree
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightsOfSets_IsSaturatedFirstCoordinateLine
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSaturated_firstCoordinateLine_9fe2fc0c34b2
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.HeightsSet
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I1 ReciprocityTheory.ChartRestriction.G.AI.I4
+open NumberField
+namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.HeightsSet
+namespace SlopeMaxExtension
+theorem _root_.solution : IsSaturated (HermitianBundle.standard ℚ 2) firstCoordinateLine :=
+  isSaturated_firstCoordinateLine
+end SlopeMaxExtension
+end GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.HeightsSet

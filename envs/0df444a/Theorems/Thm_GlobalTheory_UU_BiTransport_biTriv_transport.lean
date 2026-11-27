@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_BiTransport_biTriv_transport
 -- name    : GlobalTheory.UU.BiTransport.biTriv_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T16:45:52.410215+00:00
 -- url     : https://prove2.me/theorems/983c0940-964d-44cb-9f2f-7257c458ddf3

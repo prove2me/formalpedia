@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaIntSeries_proof_bfabda1bca0c
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaIntSeries_proof_bfabda1bca0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:04.528671+00:00
 -- url     : https://prove2.me/theorems/e2a4ac17-9fd1-44b5-8a7a-e355d7d98611

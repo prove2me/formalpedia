@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuation_det_eq_exp_neg_signedLength
 -- name    : GlobalTheory.valuation_det_eq_exp_neg_signedLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:24.763627+00:00
 -- url     : https://prove2.me/theorems/660a062f-ede3-54db-a96e-489fd02cf58d

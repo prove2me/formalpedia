@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mul_norm_sq_le_norm_proj_apply_sq_of_spanning_parts
 -- name    : GlobalTheory.mul_norm_sq_le_norm_proj_apply_sq_of_spanning_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:17.519886+00:00
 -- url     : https://prove2.me/theorems/dcada95b-f466-489e-95f9-7e4677f8618b

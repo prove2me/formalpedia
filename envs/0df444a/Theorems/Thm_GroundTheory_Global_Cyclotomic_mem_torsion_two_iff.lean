@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_mem_torsion_two_iff
 -- name    : GroundTheory.Global.Cyclotomic.mem_torsion_two_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:56:18.514022+00:00
 -- url     : https://prove2.me/theorems/8e24c769-bf94-4606-ab54-0a332761ec1f

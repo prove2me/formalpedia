@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_algebraMap_norm_eq_prod
 -- name    : GroundTheory.Global.SemiLocal.algebraMap_norm_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:35.938696+00:00
 -- url     : https://prove2.me/theorems/b74e152c-ecbd-5aa6-924c-455eb55e98b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_continuousAt_of_continuousAt_apply_of_bounded
 -- name    : GlobalTheory.T.schwartz_continuousAt_of_continuousAt_apply_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:13.726903+00:00
 -- url     : https://prove2.me/theorems/c33d4c99-89c0-45c7-8a7c-ec181e409e8f

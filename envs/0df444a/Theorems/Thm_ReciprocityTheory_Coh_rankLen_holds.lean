@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_rankLen_holds
 -- name    : ReciprocityTheory.Coh.rankLen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:27:45.424827+00:00
 -- url     : https://prove2.me/theorems/1bec4b53-d3e7-4b0c-a710-d1fa409af8d7

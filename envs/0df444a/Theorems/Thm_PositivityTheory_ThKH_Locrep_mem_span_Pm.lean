@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_mem_span_Pm
 -- name    : PositivityTheory.ThKH.Locrep.mem_span_Pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:16.945111+00:00
 -- url     : https://prove2.me/theorems/d089402c-9c9f-48cb-a322-9b1d220d726e

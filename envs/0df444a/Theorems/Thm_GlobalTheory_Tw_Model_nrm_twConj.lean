@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_nrm_twConj
 -- name    : GlobalTheory.Tw.Model.nrm_twConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:47.939227+00:00
 -- url     : https://prove2.me/theorems/3a985e21-80de-5ab4-9329-f675973e8bdf

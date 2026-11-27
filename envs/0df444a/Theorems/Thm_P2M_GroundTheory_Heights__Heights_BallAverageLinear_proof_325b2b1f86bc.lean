@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BallAverageLinear_proof_325b2b1f86bc
 -- name    : P2M_GroundTheory_Heights__Heights_BallAverageLinear_proof_325b2b1f86bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:59.496416+00:00
 -- url     : https://prove2.me/theorems/26477caf-78ba-5f9e-a3f5-eab5d14df80c

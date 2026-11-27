@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_splitsCompletely_iff_isFiniteSplit
 -- name    : GroundTheory.Global.InfinitePlace.splitsCompletely_iff_isFiniteSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:07.666271+00:00
 -- url     : https://prove2.me/theorems/ab310109-0bbd-52ee-94fa-14c982d586f8

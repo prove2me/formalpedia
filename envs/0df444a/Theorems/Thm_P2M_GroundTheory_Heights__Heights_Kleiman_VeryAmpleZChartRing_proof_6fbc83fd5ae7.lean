@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZChartRing_proof_6fbc83fd5ae7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZChartRing_proof_6fbc83fd5ae7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:19.613608+00:00
 -- url     : https://prove2.me/theorems/e64d8da4-4aa0-51b8-9aa0-06f43279a444

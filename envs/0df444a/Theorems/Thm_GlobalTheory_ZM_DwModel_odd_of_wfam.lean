@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_odd_of_wfam
 -- name    : GlobalTheory.ZM.DwModel.odd_of_wfam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:37.859554+00:00
 -- url     : https://prove2.me/theorems/ea9985d3-dc9c-508a-be90-f1e18c66d75a

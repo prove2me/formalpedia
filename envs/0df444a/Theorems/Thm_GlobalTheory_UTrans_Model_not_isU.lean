@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_not_isU
 -- name    : GlobalTheory.UTrans.Model.not_isU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:58.078173+00:00
 -- url     : https://prove2.me/theorems/781eb4e0-c26c-557d-8ff8-8681d1751af3

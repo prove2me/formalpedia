@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_coe_fixedModule
 -- name    : GroundTheory.LocalField.Abstract.coe_fixedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:57.216987+00:00
 -- url     : https://prove2.me/theorems/2ac60530-1097-4453-860c-05fb841432dd

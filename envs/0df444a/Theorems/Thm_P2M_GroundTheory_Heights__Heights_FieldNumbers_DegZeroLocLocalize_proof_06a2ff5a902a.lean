@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocLocalize_proof_06a2ff5a902a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocLocalize_proof_06a2ff5a902a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:16:58.578527+00:00
 -- url     : https://prove2.me/theorems/ff4eaf02-cd1a-51aa-b80d-47b2e0f358e9

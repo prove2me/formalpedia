@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMLocusOpen_proof_bfff3a21f3de
 -- name    : P2M_GroundTheory_Heights__Heights_CMLocusOpen_proof_bfff3a21f3de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:44.202206+00:00
 -- url     : https://prove2.me/theorems/472de55d-9eb7-45ae-ae45-86b012fb7c37

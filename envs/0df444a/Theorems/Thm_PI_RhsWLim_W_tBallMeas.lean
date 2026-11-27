@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_tBallMeas
 -- name    : PI.RhsWLim.W.tBallMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:19.427801+00:00
 -- url     : https://prove2.me/theorems/d8750290-ca66-4db6-9188-200f589a6b9f

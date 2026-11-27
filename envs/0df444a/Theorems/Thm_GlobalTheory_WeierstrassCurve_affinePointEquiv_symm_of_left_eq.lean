@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_affinePointEquiv_symm_of_left_eq
 -- name    : GlobalTheory.WeierstrassCurve.affinePointEquiv_symm_of_left_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:08.624129+00:00
 -- url     : https://prove2.me/theorems/28e77218-ef4c-53b6-bf06-1a6ff4495508

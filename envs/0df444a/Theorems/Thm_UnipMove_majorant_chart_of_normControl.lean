@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_majorant_chart_of_normControl
 -- name    : UnipMove.majorant_chart_of_normControl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:06.322185+00:00
 -- url     : https://prove2.me/theorems/9a463f33-ce25-465d-978b-e36cd2d543b3

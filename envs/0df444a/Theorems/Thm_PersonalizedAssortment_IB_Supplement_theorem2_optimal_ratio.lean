@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_Supplement_theorem2_optimal_ratio
 -- name    : PersonalizedAssortment.IB.Supplement.theorem2_optimal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:28:21.608797+00:00
 -- url     : https://prove2.me/theorems/03ed90f7-f6d9-4124-98e5-ddb33631836c

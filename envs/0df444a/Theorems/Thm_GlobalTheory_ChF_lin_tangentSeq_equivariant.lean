@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_lin_tangentSeq_equivariant
 -- name    : GlobalTheory.ChF.lin_tangentSeq_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:18:29.267485+00:00
 -- url     : https://prove2.me/theorems/abc18811-29c5-50ed-a1a3-93c9709adddc

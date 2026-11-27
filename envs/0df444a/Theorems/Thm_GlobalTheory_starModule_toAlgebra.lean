@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_starModule_toAlgebra
 -- name    : GlobalTheory.starModule_toAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:44.511646+00:00
 -- url     : https://prove2.me/theorems/dabd8843-bc3c-5fde-8466-46e92126df4b

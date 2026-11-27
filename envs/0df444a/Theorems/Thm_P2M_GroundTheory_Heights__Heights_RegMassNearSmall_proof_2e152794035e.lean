@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegMassNearSmall_proof_2e152794035e
 -- name    : P2M_GroundTheory_Heights__Heights_RegMassNearSmall_proof_2e152794035e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:35:08.160789+00:00
 -- url     : https://prove2.me/theorems/0e18068c-d032-5c0b-91a0-416db53c1479

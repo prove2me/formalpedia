@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ideal_eq_bot_of_flat_quotient_of_map_maximalIdeal
 -- name    : GlobalTheory.ideal_eq_bot_of_flat_quotient_of_map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:09.55527+00:00
 -- url     : https://prove2.me/theorems/a34a878f-fd09-411c-9040-4b7749f38e64

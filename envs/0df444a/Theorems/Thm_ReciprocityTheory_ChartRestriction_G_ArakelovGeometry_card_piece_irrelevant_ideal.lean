@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_piece_irrelevant_ideal
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_piece_irrelevant_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:11:02.792677+00:00
 -- url     : https://prove2.me/theorems/048838de-42a7-5755-a321-9d1cba9b3150

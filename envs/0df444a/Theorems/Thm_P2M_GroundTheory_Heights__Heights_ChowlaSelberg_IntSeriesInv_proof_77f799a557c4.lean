@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesInv_proof_77f799a557c4
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesInv_proof_77f799a557c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:05.939965+00:00
 -- url     : https://prove2.me/theorems/513b5446-424a-47e3-b0db-cce72c27d9a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_BigA_projPerp_self
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.BigA.projPerp_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:11:05.374241+00:00
 -- url     : https://prove2.me/theorems/cd624bc2-ce1f-47a9-a2dd-6c9bb2fa2f2d

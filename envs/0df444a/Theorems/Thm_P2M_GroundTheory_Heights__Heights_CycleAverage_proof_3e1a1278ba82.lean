@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CycleAverage_proof_3e1a1278ba82
 -- name    : P2M_GroundTheory_Heights__Heights_CycleAverage_proof_3e1a1278ba82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:51.112136+00:00
 -- url     : https://prove2.me/theorems/718ceb19-4b8d-5976-af35-1081c5915429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_SAOpenHolds_hyps_24f5835ce3b9
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_SAOpenHolds_hyps_24f5835ce3b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:24.266968+00:00
 -- url     : https://prove2.me/theorems/810f51c8-3738-5cd4-940c-124da395c4c6

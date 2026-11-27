@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_exists_place_between
 -- name    : PositivityTheory.FamInh.exists_place_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:01.585434+00:00
 -- url     : https://prove2.me/theorems/b3ea7d5c-773e-4494-b740-ae65d29d80c0

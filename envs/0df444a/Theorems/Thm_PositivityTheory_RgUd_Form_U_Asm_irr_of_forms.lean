@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Form_U_Asm_irr_of_forms
 -- name    : PositivityTheory.RgUd.Form.U.Asm.irr_of_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:58.832488+00:00
 -- url     : https://prove2.me/theorems/95bed959-033a-4217-8091-177895c52190

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_int_span_norm_ge_7217af94a27b
 -- name    : P2M_GroundTheory_Heights__Heights_int_span_norm_ge_7217af94a27b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:01.863953+00:00
 -- url     : https://prove2.me/theorems/b4724d00-0483-4289-ae4b-499345b1933d

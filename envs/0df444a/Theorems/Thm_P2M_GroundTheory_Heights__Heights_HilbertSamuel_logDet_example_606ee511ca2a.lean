@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_logDet_example_606ee511ca2a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_logDet_example_606ee511ca2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:43.194481+00:00
 -- url     : https://prove2.me/theorems/7aaf5252-61b9-5ed9-ba3d-e07ea4561bcf

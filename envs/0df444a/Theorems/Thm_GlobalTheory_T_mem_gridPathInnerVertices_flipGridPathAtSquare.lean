@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_gridPathInnerVertices_flipGridPathAtSquare
 -- name    : GlobalTheory.T.mem_gridPathInnerVertices_flipGridPathAtSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:19.855976+00:00
 -- url     : https://prove2.me/theorems/646a8018-e5db-5671-a31d-fc7317022a12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PeriodRowsCompare_modelsEquiv___da8a0362d520
 -- name    : P2M_GlobalTheory_PeriodRowsCompare_modelsEquiv___da8a0362d520
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:56.14048+00:00
 -- url     : https://prove2.me/theorems/33686f80-a6bb-590f-8240-195bc86c7947

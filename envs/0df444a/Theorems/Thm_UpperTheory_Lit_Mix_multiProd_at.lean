@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Lit_Mix_multiProd_at
 -- name    : UpperTheory.Lit.Mix.multiProd_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:38.434796+00:00
 -- url     : https://prove2.me/theorems/dc3075d3-d85d-4b9e-a9c8-6142a74de2b6

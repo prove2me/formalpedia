@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_recordEigen_bundle_two_50b66b6e533b
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_recordEigen_bundle_two_50b66b6e533b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:54.34291+00:00
 -- url     : https://prove2.me/theorems/d1bc1176-da8b-4d50-8c1e-2764ef184314

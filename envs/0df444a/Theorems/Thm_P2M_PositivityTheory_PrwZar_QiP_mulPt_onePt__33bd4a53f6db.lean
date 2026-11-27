@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_PrwZar_QiP_mulPt_onePt__33bd4a53f6db
 -- name    : P2M_PositivityTheory_PrwZar_QiP_mulPt_onePt__33bd4a53f6db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:44:11.253995+00:00
 -- url     : https://prove2.me/theorems/66bf487e-ba96-42c8-ac77-eca6e25e8d88

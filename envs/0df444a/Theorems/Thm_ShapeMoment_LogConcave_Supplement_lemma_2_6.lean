@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_Supplement_lemma_2_6
 -- name    : ShapeMoment.LogConcave.Supplement.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:09:43.395116+00:00
 -- url     : https://prove2.me/theorems/e3a55f51-32e5-427d-9c33-e25a8a4b52d1

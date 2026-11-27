@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FibrePoints_proof_790197ee5e1c
 -- name    : P2M_GroundTheory_Heights__Heights_FibrePoints_proof_790197ee5e1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:12:14.957509+00:00
 -- url     : https://prove2.me/theorems/710660d2-6f19-44a0-a139-790eef57da2d

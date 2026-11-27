@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_le_of_frequently_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.le_of_frequently_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:41.250992+00:00
 -- url     : https://prove2.me/theorems/35625ff0-2311-449f-b870-4f2187a1f541

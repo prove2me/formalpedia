@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_RestrictAutomorphism_exists_alg
 -- name    : UpperTheory.Reformulated.B.RestrictAutomorphism.exists_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:05:17.819714+00:00
 -- url     : https://prove2.me/theorems/7384680b-b071-44c8-8928-8fd5b60d9866

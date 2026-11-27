@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_quad_monoDiag
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.quad_monoDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:21:13.957093+00:00
 -- url     : https://prove2.me/theorems/a97a9236-e7e1-5b63-80a6-bfe5f5d06fec

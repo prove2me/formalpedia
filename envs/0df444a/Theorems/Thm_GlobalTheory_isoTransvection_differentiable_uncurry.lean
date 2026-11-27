@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_differentiable_uncurry
 -- name    : GlobalTheory.isoTransvection.differentiable_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:05.160833+00:00
 -- url     : https://prove2.me/theorems/92142594-0ef6-575f-a67f-8a48253ea716

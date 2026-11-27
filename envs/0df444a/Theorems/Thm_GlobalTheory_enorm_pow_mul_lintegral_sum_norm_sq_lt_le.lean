@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_lintegral_sum_norm_sq_lt_le
 -- name    : GlobalTheory.enorm_pow_mul_lintegral_sum_norm_sq_lt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:27.197509+00:00
 -- url     : https://prove2.me/theorems/9e798a2d-e634-5ec9-8e69-76e0cb95120c

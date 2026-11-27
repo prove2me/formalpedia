@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_toricBlock_fdce5cfc9cdb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_toricBlock_fdce5cfc9cdb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:26.400327+00:00
 -- url     : https://prove2.me/theorems/1ddee7bd-5d15-4dfc-9a05-02153fa44b73

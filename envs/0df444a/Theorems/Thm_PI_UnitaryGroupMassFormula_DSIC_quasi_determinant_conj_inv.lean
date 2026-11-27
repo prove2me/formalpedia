@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_quasi_determinant_conj_inv
 -- name    : PI.UnitaryGroupMassFormula.DSIC.quasi_determinant_conj_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:29.079011+00:00
 -- url     : https://prove2.me/theorems/c1da56bb-9529-523a-a315-946745c8bf78

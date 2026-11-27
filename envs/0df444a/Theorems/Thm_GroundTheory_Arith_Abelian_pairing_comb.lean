@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_pairing_comb
 -- name    : GroundTheory.Arith.Abelian.pairing_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:19.377841+00:00
 -- url     : https://prove2.me/theorems/df7a84e1-2a0a-5629-b548-ef305c24b691

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_lieGroup_GL_complex_real
 -- name    : GroundTheory.Automorphic.lieGroup_GL_complex_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:40.011042+00:00
 -- url     : https://prove2.me/theorems/308490ca-b5ff-4dad-9f5c-6e01930188e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_operator_parametric_extension
 -- name    : GlobalTheory.T.schwartz_operator_parametric_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:40.985597+00:00
 -- url     : https://prove2.me/theorems/dd97137c-d4f3-5d2f-a16b-448e8b1aed13

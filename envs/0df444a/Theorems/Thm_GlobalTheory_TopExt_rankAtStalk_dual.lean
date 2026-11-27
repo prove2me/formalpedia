@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopExt_rankAtStalk_dual
 -- name    : GlobalTheory.TopExt.rankAtStalk_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:31.725806+00:00
 -- url     : https://prove2.me/theorems/8df1a144-32ad-522f-b222-a8c2d5643ce7

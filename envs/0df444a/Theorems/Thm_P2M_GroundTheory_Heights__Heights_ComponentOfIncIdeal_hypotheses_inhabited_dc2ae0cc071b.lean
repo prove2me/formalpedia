@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b
 -- name    : P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:10:08.401429+00:00
 -- url     : https://prove2.me/theorems/fadb6076-452a-53ce-b748-f63fbbd093b2

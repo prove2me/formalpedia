@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qh26_aux4
 -- name    : UpperTheory.Reformulated.B.Qh26.aux4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:34.341948+00:00
 -- url     : https://prove2.me/theorems/7a4a1dbd-da78-5ceb-805e-9d6b8aedf738

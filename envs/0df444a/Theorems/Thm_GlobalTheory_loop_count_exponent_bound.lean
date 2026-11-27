@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_loop_count_exponent_bound
 -- name    : GlobalTheory.loop_count_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:35.456085+00:00
 -- url     : https://prove2.me/theorems/cff668da-f4e2-4975-83ef-cc886edd7255

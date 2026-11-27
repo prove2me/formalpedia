@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_finsum_ord_mul_inertiaDeg_eq_finrank_mul_ord__1fcb71323d4a
 -- name    : P2M_GlobalTheory_T_finsum_ord_mul_inertiaDeg_eq_finrank_mul_ord__1fcb71323d4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:18.919564+00:00
 -- url     : https://prove2.me/theorems/0e6e18b0-5440-5d8c-b97a-34411a3cea97

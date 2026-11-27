@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_normal_subgroup_holds
 -- name    : PI.VolSemiDirect.W.normal_subgroup_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:49.670204+00:00
 -- url     : https://prove2.me/theorems/ef1b6f84-9f0f-419c-bae6-842d939a0b56

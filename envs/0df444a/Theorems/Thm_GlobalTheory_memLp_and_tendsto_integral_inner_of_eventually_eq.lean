@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_memLp_and_tendsto_integral_inner_of_eventually_eq
 -- name    : GlobalTheory.memLp_and_tendsto_integral_inner_of_eventually_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:20.058353+00:00
 -- url     : https://prove2.me/theorems/21cf52b2-8747-58c8-b636-ddebbe367560

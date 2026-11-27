@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_divFin_of_lawA3__ca8ab2190a30
 -- name    : P2M_Formalism_L2_Pj_divFin_of_lawA3__ca8ab2190a30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:50.951796+00:00
 -- url     : https://prove2.me/theorems/6c699fbd-f779-428b-8e89-154c22e0b2c2

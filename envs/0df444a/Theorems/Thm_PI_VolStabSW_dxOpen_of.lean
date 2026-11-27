@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_dxOpen_of
 -- name    : PI.VolStabSW.dxOpen_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:32.750867+00:00
 -- url     : https://prove2.me/theorems/a8b6e1a7-eaa5-4742-b78c-eb74e704f1a8

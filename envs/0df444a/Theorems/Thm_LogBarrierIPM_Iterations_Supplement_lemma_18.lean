@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogBarrierIPM_Iterations_Supplement_lemma_18
 -- name    : LogBarrierIPM.Iterations.Supplement.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:24:07.69318+00:00
 -- url     : https://prove2.me/theorems/fa012484-6227-4560-bf4e-7f325c28fdd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_StModel_detect_mat
 -- name    : PI.SqPairLocal.StModel.detect_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:13.820904+00:00
 -- url     : https://prove2.me/theorems/24064fce-dc2c-4d44-9f13-efbbe1167606

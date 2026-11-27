@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_modularJ_expansion_and_polynomial_and_isIntegral
 -- name    : GlobalTheory.modularJ_expansion_and_polynomial_and_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:01.622851+00:00
 -- url     : https://prove2.me/theorems/04b27153-84aa-5556-8347-45833d0282cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_proof_758aa28dabbc
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_proof_758aa28dabbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:15.715648+00:00
 -- url     : https://prove2.me/theorems/c3727492-cafc-5796-959f-fb4edf02ea78

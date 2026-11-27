@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Dim_index_uniSub
 -- name    : CompanionTheory.Mirab.Dim.index_uniSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:27:22.515578+00:00
 -- url     : https://prove2.me/theorems/7985d420-70ba-4796-832f-89e902620921

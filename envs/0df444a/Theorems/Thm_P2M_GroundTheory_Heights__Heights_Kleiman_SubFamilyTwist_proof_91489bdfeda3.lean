@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SubFamilyTwist_proof_91489bdfeda3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SubFamilyTwist_proof_91489bdfeda3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:30:12.900882+00:00
 -- url     : https://prove2.me/theorems/8b36b234-19d2-5648-9640-e80fdf4a6e05

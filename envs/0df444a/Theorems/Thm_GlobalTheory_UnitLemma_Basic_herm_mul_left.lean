@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Basic_herm_mul_left
 -- name    : GlobalTheory.UnitLemma.Basic.herm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:09.015242+00:00
 -- url     : https://prove2.me/theorems/25a0a12e-73f2-51e1-84ff-dc07bce181c4

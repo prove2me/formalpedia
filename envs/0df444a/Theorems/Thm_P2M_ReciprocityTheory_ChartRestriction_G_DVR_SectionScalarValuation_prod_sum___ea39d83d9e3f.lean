@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_DVR_SectionScalarValuation_prod_sum___ea39d83d9e3f
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_DVR_SectionScalarValuation_prod_sum___ea39d83d9e3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:05:56.917201+00:00
 -- url     : https://prove2.me/theorems/3ee3e7f6-e6f9-4f00-8bb2-e5a4f9873c27

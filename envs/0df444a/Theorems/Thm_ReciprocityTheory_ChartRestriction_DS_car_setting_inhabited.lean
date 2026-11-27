@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_car_setting_inhabited
 -- name    : ReciprocityTheory.ChartRestriction.DS.car_setting_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:54.788768+00:00
 -- url     : https://prove2.me/theorems/3fad849f-0b09-4a07-8559-6ba1504398b6

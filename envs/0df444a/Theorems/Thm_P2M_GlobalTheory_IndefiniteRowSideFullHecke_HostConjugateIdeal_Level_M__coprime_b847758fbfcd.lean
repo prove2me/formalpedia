@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Level_M__coprime_b847758fbfcd
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Level_M__coprime_b847758fbfcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:59.304528+00:00
 -- url     : https://prove2.me/theorems/c5246416-da60-456a-850c-9e7545e4bd32

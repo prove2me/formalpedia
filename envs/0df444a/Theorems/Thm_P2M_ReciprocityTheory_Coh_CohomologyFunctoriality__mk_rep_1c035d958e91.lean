@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__mk_rep_1c035d958e91
 -- name    : P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__mk_rep_1c035d958e91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:43.446276+00:00
 -- url     : https://prove2.me/theorems/8334d766-e94e-4c2f-93b8-4c90e2ba86f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_Supplement_cor_B_2
 -- name    : StableDispatch.Markov.Supplement.cor_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:44:54.524741+00:00
 -- url     : https://prove2.me/theorems/7a3ec3fe-be25-4e99-ab46-b10d6ba67a26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaFibre_proof_474689c51549
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaFibre_proof_474689c51549
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:40.698918+00:00
 -- url     : https://prove2.me/theorems/ae59af36-0845-5363-aa30-9260e7d0609f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_not_dvd_prime_of_ne_c6e40708c32a
 -- name    : P2M_GroundTheory_Heights__Heights_Model_not_dvd_prime_of_ne_c6e40708c32a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:24.719362+00:00
 -- url     : https://prove2.me/theorems/3a76dd42-8b8d-5127-a7d6-cdcec45195dd

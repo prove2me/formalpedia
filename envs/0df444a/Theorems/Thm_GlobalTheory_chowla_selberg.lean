@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chowla_selberg
 -- name    : GlobalTheory.chowla_selberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:15.261656+00:00
 -- url     : https://prove2.me/theorems/bf6ead34-8081-46ff-9f60-be0bd3d41858

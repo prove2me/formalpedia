@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocalRing_proof_0d5be8a28901
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocalRing_proof_0d5be8a28901
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:16.796543+00:00
 -- url     : https://prove2.me/theorems/faef26ed-014d-5033-87be-4b0c0cd86803

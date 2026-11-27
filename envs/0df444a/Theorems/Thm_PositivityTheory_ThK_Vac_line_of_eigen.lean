@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_Vac_line_of_eigen
 -- name    : PositivityTheory.ThK.Vac.line_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:09.324421+00:00
 -- url     : https://prove2.me/theorems/10429846-1a89-4f76-93e9-f2978c09ea97

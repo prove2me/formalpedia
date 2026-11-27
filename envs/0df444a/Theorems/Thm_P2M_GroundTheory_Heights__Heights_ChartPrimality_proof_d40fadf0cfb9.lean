@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartPrimality_proof_d40fadf0cfb9
 -- name    : P2M_GroundTheory_Heights__Heights_ChartPrimality_proof_d40fadf0cfb9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:03.179811+00:00
 -- url     : https://prove2.me/theorems/a9d15be5-fc19-577f-94a9-fb53fa93ac93

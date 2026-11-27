@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cris_SqExt___val_f4635455550d
 -- name    : P2M_GlobalTheory_Cris_SqExt___val_f4635455550d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:57.713588+00:00
 -- url     : https://prove2.me/theorems/01b87056-3f81-5094-b465-287ab636ed88

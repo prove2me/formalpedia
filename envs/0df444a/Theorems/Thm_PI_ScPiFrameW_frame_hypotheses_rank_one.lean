@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_frame_hypotheses_rank_one
 -- name    : PI.ScPiFrameW.frame_hypotheses_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:08.095958+00:00
 -- url     : https://prove2.me/theorems/c5d2f09b-ba07-477b-a93f-91e6af80ecbb

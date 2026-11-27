@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_IsTransport_torus
 -- name    : GlobalTheory.ArcTransport.IsTransport.torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:36:56.693393+00:00
 -- url     : https://prove2.me/theorems/d45a3a2a-bac2-511d-8ffb-affae472f043

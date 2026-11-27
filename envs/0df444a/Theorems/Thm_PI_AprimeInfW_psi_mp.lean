@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_psi_mp
 -- name    : PI.AprimeInfW.psi_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:35.08873+00:00
 -- url     : https://prove2.me/theorems/e050ba48-452b-46ed-bb57-ba9e30f93093

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_Supplement_theorem32_9
 -- name    : ShockWear.Inherit.Supplement.theorem32_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:50:30.244374+00:00
 -- url     : https://prove2.me/theorems/8b77ec33-65d8-4002-b87a-b8e8330f6e49

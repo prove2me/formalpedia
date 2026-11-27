@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_grMap_smul
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.grMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:14.119439+00:00
 -- url     : https://prove2.me/theorems/39ff9770-2577-5e0d-949f-8ed2ccac67d7

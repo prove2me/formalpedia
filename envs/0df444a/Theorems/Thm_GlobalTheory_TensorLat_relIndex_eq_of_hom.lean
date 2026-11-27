@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_relIndex_eq_of_hom
 -- name    : GlobalTheory.TensorLat.relIndex_eq_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:04:44.848577+00:00
 -- url     : https://prove2.me/theorems/8d289d8d-e274-5a2b-994b-beccf5743b08

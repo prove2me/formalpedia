@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_powObj_hom
 -- name    : GlobalTheory.smooth_powObj_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:29.268146+00:00
 -- url     : https://prove2.me/theorems/e14663bb-2741-4d72-95ef-7ad800cbf160

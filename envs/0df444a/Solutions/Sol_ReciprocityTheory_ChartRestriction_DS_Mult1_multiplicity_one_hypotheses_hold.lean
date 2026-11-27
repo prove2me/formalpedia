@@ -1,0 +1,60 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.DS.Mult1.multiplicity_one_hypotheses_hold
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-27T04:51:39.400236+00:00
+-- url     : https://prove2.me/submissions/133a8693-20b7-42f0-ae10-c131099a5227
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_MultiplicityOne_UnitaryGroupStructuralFacts
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_HeisenbergHaarFactsHold
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalG
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_MultiplicityOne_InHolds
+import Theorems.Thm_Formalism_FourierDecayAlt_P_ae_equality_from_test_functions
+import Theorems.Thm_Formalism_FourierDecayAlt_P_b2_rank_one_coord
+import Theorems.Thm_Formalism_FourierDecayAlt_P_bruhat_big_cell_factorization
+import Theorems.Thm_Formalism_FourierDecayAlt_P_conjugation_preserves_haar
+import Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_jacobian_every_setting
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_b_from_xi
+import Theorems.Thm_Formalism_FourierDecayAlt_P_normalisation_unique_every_setting
+import Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_ae_convergence_continuity
+import Theorems.Thm_Formalism_FourierDecayAlt_P_phase_function_bound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_regularised_average_identity
+import Theorems.Thm_Formalism_FourierDecayAlt_P_regularized_beta_bound_continuity_sesquilinear
+import Theorems.Thm_Formalism_FourierDecayAlt_P_setting_with_prescribed_data_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unfolding_identity_of_integration_formula
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_weyl_properties
+import Theorems.Thm_Formalism_QuantumDeterminants_ellAdd
+import Theorems.Thm_Formalism_QuantumDeterminants_nSubgroup
+import Theorems.Thm_Formalism_QuantumDeterminants_uWNormal
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_heisenbergHaarFacts_hold
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.DS ReciprocityTheory.ChartRestriction.DS.Mult1
+namespace ReciprocityTheory.ChartRestriction.DS.Mult1
+theorem _root_.solution : UnitaryGroupStructuralFacts :=
+  ⟨ReciprocityTheory.ChartRestriction.DS.Xi.heisenbergHaarFacts_hold,
+    Formalism.FourierDecayAlt.P.setting_with_prescribed_data_exists,
+    Formalism.FourierDecayAlt.P.b2_rank_one_coord,
+    Formalism.FourierDecayAlt.P.bruhat_big_cell_factorization,
+    Formalism.FourierDecayAlt.P.unipotent_weyl_properties,
+    Formalism.FourierDecayAlt.P.conjugation_preserves_haar,
+    Formalism.FourierDecayAlt.P.lemma_b_from_xi,
+    Formalism.FourierDecayAlt.P.orbital_integral_ae_convergence_continuity,
+    Formalism.FourierDecayAlt.P.phase_function_bound,
+    Formalism.FourierDecayAlt.P.regularized_beta_bound_continuity_sesquilinear,
+    Formalism.FourierDecayAlt.P.regularised_average_identity,
+    Formalism.FourierDecayAlt.P.unfolding_identity_of_integration_formula,
+    Formalism.FourierDecayAlt.P.ae_equality_from_test_functions,
+    Formalism.FourierDecayAlt.P.dilation_jacobian_every_setting,
+    Formalism.FourierDecayAlt.P.normalisation_unique_every_setting,
+    Formalism.QuantumDeterminants.uWNormal,
+    Formalism.QuantumDeterminants.ellAdd,
+    Formalism.QuantumDeterminants.nSubgroup⟩
+end ReciprocityTheory.ChartRestriction.DS.Mult1

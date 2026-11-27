@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFiniteLength_restrictScalars_of_finite
 -- name    : GlobalTheory.isFiniteLength_restrictScalars_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:05.962891+00:00
 -- url     : https://prove2.me/theorems/d3fb0719-72d0-5a22-b547-7039f2ae9b5f

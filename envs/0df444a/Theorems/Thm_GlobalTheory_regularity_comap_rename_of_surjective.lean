@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_regularity_comap_rename_of_surjective
 -- name    : GlobalTheory.regularity_comap_rename_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:22.437717+00:00
 -- url     : https://prove2.me/theorems/39351ffe-2084-4fee-b756-a4a2d49a14a1

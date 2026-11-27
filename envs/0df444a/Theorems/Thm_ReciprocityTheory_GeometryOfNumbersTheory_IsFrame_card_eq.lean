@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_IsFrame_card_eq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.IsFrame.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:28.463882+00:00
 -- url     : https://prove2.me/theorems/d7fb3f8a-838d-5d9d-8e20-a2e88a60533d

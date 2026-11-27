@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionNorm_proof_feadc2837ee9
 -- name    : P2M_GroundTheory_Heights__Heights_SectionNorm_proof_feadc2837ee9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:38:31.086338+00:00
 -- url     : https://prove2.me/theorems/8b0d3772-984f-5adc-a935-aa5ccee71b15

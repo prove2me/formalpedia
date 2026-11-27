@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_legendreCurve_c__2f3c0f8196e8
 -- name    : P2M_GlobalTheory_legendreCurve_c__2f3c0f8196e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:00.383115+00:00
 -- url     : https://prove2.me/theorems/c80e1e46-8f3b-52d4-94b4-ce8bbe0d413d

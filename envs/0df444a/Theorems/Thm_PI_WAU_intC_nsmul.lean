@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_intC_nsmul
 -- name    : PI.WAU.intC_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:53.74802+00:00
 -- url     : https://prove2.me/theorems/3d879dbe-ad8a-5acc-b75d-b6b95b4869f4

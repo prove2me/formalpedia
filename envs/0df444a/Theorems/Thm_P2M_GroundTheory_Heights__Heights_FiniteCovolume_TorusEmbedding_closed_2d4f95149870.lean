@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusEmbedding_closed_2d4f95149870
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusEmbedding_closed_2d4f95149870
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:13:38.190153+00:00
 -- url     : https://prove2.me/theorems/8da46c90-82a7-5799-9b67-a29b9e40ff7e

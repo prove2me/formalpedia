@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_overEquivalence_inverse_left
 -- name    : GroundTheory.Arith.SchemeCoh.overEquivalence_inverse_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:34.983216+00:00
 -- url     : https://prove2.me/theorems/429efcae-5ba5-5689-854d-200629cff8b9

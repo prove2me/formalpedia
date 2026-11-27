@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_local_iso
 -- name    : kernel_local_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:42.965646+00:00
 -- url     : https://prove2.me/theorems/67ed5b9b-8352-4564-8de9-7a4e2c71d7a6

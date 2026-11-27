@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_Factorization_Supplement_coneRank_eq_least_lift
 -- name    : ConeLifts.Factorization.Supplement.coneRank_eq_least_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:50:05.012585+00:00
 -- url     : https://prove2.me/theorems/2d152b38-7fdb-4d9b-b6bb-4994093f271e

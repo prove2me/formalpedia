@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockForms_not_mem_3c0f34b00d5e
 -- name    : P2M_GroundTheory_Heights__Heights_blockForms_not_mem_3c0f34b00d5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:18.721336+00:00
 -- url     : https://prove2.me/theorems/3ae7ddb3-7a8e-4519-9ea4-860b961233fa

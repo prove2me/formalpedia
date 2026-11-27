@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_jacC_id
 -- name    : ReciprocityTheory.AnForm.A.jacC_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:01:07.815188+00:00
 -- url     : https://prove2.me/theorems/cf994e35-3189-4611-a7f2-24205f396afc

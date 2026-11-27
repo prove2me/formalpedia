@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_pullLoc_of
 -- name    : PI.VolStabSW.pullLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:50:02.041119+00:00
 -- url     : https://prove2.me/theorems/fb91ce87-1a13-45f8-946a-9d4411cb5703

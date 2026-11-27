@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_witData_neg
 -- name    : GlobalTheory.HostModel.witData_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:21:20.191051+00:00
 -- url     : https://prove2.me/theorems/339fd6d0-6806-42ad-a764-3965febe23be

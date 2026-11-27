@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeSmoothLocalGraph_proof_f25eb5df3510
 -- name    : P2M_GroundTheory_Heights__Heights_ConeSmoothLocalGraph_proof_f25eb5df3510
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:57.764479+00:00
 -- url     : https://prove2.me/theorems/2e617bfb-d5d2-5367-87ef-261abcecf9bb

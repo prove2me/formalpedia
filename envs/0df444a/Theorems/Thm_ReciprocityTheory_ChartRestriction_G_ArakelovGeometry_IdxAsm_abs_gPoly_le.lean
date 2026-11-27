@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_IdxAsm_abs_gPoly_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.IdxAsm.abs_gPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:11:23.717419+00:00
 -- url     : https://prove2.me/theorems/1289465f-c3f1-429c-85ec-5450b3b34544

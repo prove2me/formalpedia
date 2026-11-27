@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_maximalIdeal_le_jacobson_of_finite
 -- name    : GlobalTheory.map_maximalIdeal_le_jacobson_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:03.523154+00:00
 -- url     : https://prove2.me/theorems/d07af6fa-0577-5fbb-a0df-7935b0a457fe

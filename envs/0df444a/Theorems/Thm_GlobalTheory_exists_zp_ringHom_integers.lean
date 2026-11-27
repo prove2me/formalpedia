@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_zp_ringHom_integers
 -- name    : GlobalTheory.exists_zp_ringHom_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:57:10.52589+00:00
 -- url     : https://prove2.me/theorems/1c6d1641-790f-4f44-8ad7-7b6ff883b0b7

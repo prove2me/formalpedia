@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kummer_twist_relation_and_fixed_field
 -- name    : GlobalTheory.kummer_twist_relation_and_fixed_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:14.874866+00:00
 -- url     : https://prove2.me/theorems/e8ace042-41eb-5699-adfb-0075fedbbf77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1GenAmple_projectivePoint_b4e7fddbf0ef
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_h1GenAmple_projectivePoint_b4e7fddbf0ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:16:51.991231+00:00
 -- url     : https://prove2.me/theorems/62c05fae-6bb3-4809-8cfb-c2e30f68200b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_grid_sum_le
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.grid_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:46.213383+00:00
 -- url     : https://prove2.me/theorems/0816b563-3bb1-5c24-8918-7da022f07128

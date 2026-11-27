@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_not_isCuspidal_trivial_73edac78c02a
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_not_isCuspidal_trivial_73edac78c02a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:13.530615+00:00
 -- url     : https://prove2.me/theorems/d4847380-fd69-5449-97ac-6cfc52818a8a

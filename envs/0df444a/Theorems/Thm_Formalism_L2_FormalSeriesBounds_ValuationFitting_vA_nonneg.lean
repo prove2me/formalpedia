@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_vA_nonneg
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.vA_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:33:50.660154+00:00
 -- url     : https://prove2.me/theorems/bc5fa5c0-1b9e-49ea-b7fc-8d94d3b7e945

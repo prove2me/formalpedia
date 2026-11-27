@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_MertensUpper_proof_81f9488f5b02
 -- name    : P2M_GroundTheory_Heights__Heights_Model_MertensUpper_proof_81f9488f5b02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:03.80554+00:00
 -- url     : https://prove2.me/theorems/b2dadfd3-9320-5602-90f2-db9748a616a8

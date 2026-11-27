@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eh_inv_entry
 -- name    : GlobalTheory.eh_inv_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:57:13.361468+00:00
 -- url     : https://prove2.me/theorems/19880829-857d-5fbc-9ba6-1b3ed2f3f5ed

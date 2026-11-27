@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_proof_94d6978acb6f
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_proof_94d6978acb6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:36.241423+00:00
 -- url     : https://prove2.me/theorems/bcff130b-09e8-4ccd-9e9c-891e83d946e4

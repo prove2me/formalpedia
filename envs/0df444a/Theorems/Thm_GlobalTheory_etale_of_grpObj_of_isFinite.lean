@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_etale_of_grpObj_of_isFinite
 -- name    : GlobalTheory.etale_of_grpObj_of_isFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:53.023501+00:00
 -- url     : https://prove2.me/theorems/5b5b99ab-e712-5dc6-be08-a985f0fb2748

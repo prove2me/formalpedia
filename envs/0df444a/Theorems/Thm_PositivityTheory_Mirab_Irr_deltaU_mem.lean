@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_deltaU_mem
 -- name    : PositivityTheory.Mirab.Irr.deltaU_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:21:59.821277+00:00
 -- url     : https://prove2.me/theorems/d68c28cd-e34a-56cb-929e-3c5061df961e

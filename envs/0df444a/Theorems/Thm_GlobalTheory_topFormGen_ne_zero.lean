@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormGen_ne_zero
 -- name    : GlobalTheory.topFormGen_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:44.471801+00:00
 -- url     : https://prove2.me/theorems/7a795217-f87e-58b0-98e6-d0a38078c4db

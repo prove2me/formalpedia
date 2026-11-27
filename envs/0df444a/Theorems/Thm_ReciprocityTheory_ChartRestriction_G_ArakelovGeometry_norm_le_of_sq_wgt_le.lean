@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_norm_le_of_sq_wgt_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.norm_le_of_sq_wgt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:37:29.442724+00:00
 -- url     : https://prove2.me/theorems/b0584a32-9d11-49c1-9afc-8577197f2846

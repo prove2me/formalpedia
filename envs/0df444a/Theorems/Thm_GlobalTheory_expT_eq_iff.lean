@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expT_eq_iff
 -- name    : GlobalTheory.expT_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:17:30.251356+00:00
 -- url     : https://prove2.me/theorems/c992b471-4efc-4a59-ad22-676c34b19078

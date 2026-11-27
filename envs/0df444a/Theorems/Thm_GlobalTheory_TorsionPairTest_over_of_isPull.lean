@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_over_of_isPull
 -- name    : GlobalTheory.TorsionPairTest.over_of_isPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:33:25.078383+00:00
 -- url     : https://prove2.me/theorems/625a9a38-983f-58a6-8f8e-96d9834d7391

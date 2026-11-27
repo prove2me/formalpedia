@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KWhit_MeasG_covol_unique
 -- name    : PositivityTheory.SiegelWeilFormula.KWhit.MeasG.covol_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:57:09.048143+00:00
 -- url     : https://prove2.me/theorems/f544695e-9ffe-4888-84bf-16fb8cd53fbc

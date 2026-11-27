@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_proof_7c784f48e4b3
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_proof_7c784f48e4b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:09.943402+00:00
 -- url     : https://prove2.me/theorems/0eba7a0c-7ce8-485d-94ae-358c78e07bb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_PositiveSetup_Supplement_value_horizon_monotone
 -- name    : GallegoOzerADI.PositiveSetup.Supplement.value_horizon_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:41:25.399389+00:00
 -- url     : https://prove2.me/theorems/32d4d78b-8d0a-40e4-8ff9-a4f1d07eb132

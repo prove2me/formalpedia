@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_ellipsoidR_props
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.ellipsoidR_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:43.67633+00:00
 -- url     : https://prove2.me/theorems/e45dd9b5-1dc4-4bea-a0b6-822d750c0056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_deg_surjective
 -- name    : GlobalTheory.WeilDeligne.deg_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:08:03.482479+00:00
 -- url     : https://prove2.me/theorems/3e2dec8c-b588-4794-8701-8943ddc19faa

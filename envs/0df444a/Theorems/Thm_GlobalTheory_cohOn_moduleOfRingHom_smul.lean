@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_moduleOfRingHom_smul
 -- name    : GlobalTheory.cohOn.moduleOfRingHom_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:24.86365+00:00
 -- url     : https://prove2.me/theorems/eddc59a4-abba-4425-aba8-39995aaa29e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_ringHom_padicAlgCl_ne_zero__274806442fd5
 -- name    : P2M_GlobalTheory_T_exists_ringHom_padicAlgCl_ne_zero__274806442fd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:07:31.607127+00:00
 -- url     : https://prove2.me/theorems/5a59acde-776d-4d72-b037-95b374656ee5

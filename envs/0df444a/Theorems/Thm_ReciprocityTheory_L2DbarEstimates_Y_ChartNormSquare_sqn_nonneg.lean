@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ChartNormSquare_sqn_nonneg
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ChartNormSquare.sqn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:10.864834+00:00
 -- url     : https://prove2.me/theorems/ecb17c52-bd46-5064-adea-c6f918130752

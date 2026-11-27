@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoisyPrototyping_ReservationPolicy_Supplement_theorem_2
 -- name    : NoisyPrototyping.ReservationPolicy.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:47:36.073051+00:00
 -- url     : https://prove2.me/theorems/aa304b1d-0cdb-422e-b57f-5a1b9754cee1

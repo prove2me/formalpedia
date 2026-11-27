@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_Y_rmRho__monotone_29154a1d1bb7
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_Y_rmRho__monotone_29154a1d1bb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:52.556492+00:00
 -- url     : https://prove2.me/theorems/761dfc6f-9a42-57a4-bedb-f57c010f5039

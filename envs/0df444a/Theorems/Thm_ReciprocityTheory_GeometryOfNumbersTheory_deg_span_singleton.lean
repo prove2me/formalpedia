@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_deg_span_singleton
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.deg_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:15.575918+00:00
 -- url     : https://prove2.me/theorems/05d36a66-1a42-5005-a79d-c6744d8b3b4a

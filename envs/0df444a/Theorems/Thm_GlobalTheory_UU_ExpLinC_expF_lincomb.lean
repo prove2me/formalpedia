@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_ExpLinC_expF_lincomb
 -- name    : GlobalTheory.UU.ExpLinC.expF_lincomb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:20:23.087838+00:00
 -- url     : https://prove2.me/theorems/99d513bd-7906-5fef-b5cb-b3beb7ee41bf

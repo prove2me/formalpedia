@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongLimitGoodPoints_proof_51f69a1f7f0d
 -- name    : P2M_GroundTheory_Heights__Heights_LelongLimitGoodPoints_proof_51f69a1f7f0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:30:10.647589+00:00
 -- url     : https://prove2.me/theorems/374dc53e-cb53-418e-afbc-cce27e56392b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_unitsOutsidePos
 -- name    : GroundTheory.ProfCoh.mem_unitsOutsidePos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:14:51.516714+00:00
 -- url     : https://prove2.me/theorems/9e1ca03a-7d72-5837-bb25-56a404802933

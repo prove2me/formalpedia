@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormFormEval_proof_08cac4a28981
 -- name    : P2M_GroundTheory_Heights__Heights_NormFormEval_proof_08cac4a28981
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:32:30.961277+00:00
 -- url     : https://prove2.me/theorems/49baa63e-887e-45d7-b110-71fb58300bbc

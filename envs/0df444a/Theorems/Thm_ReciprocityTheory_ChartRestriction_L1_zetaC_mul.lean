@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_zetaC_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.zetaC_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:26:37.280829+00:00
 -- url     : https://prove2.me/theorems/55e38c07-9f80-4e44-8796-ad420356843f

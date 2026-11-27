@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_first_order_rigid
 -- name    : GlobalTheory.TangentRigid.first_order_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:40:29.234587+00:00
 -- url     : https://prove2.me/theorems/1e6efc91-ff2e-5b54-ba9e-d5c8f7469851

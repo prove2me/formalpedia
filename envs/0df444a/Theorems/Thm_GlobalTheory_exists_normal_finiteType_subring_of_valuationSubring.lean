@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_normal_finiteType_subring_of_valuationSubring
 -- name    : GlobalTheory.exists_normal_finiteType_subring_of_valuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:17:45.801181+00:00
 -- url     : https://prove2.me/theorems/bd7ee5b5-e421-426e-ab07-b7d5364dda69

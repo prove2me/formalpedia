@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finset_types_of_bounded_bases
 -- name    : GlobalTheory.exists_finset_types_of_bounded_bases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:51:17.016133+00:00
 -- url     : https://prove2.me/theorems/4aadae3d-30ab-5ff7-ad77-1b7613d18b4c

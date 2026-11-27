@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_conj_of_roots
 -- name    : UpperTheory.V.Lib.Small.conj_of_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:07.051367+00:00
 -- url     : https://prove2.me/theorems/1f37af07-6a73-429a-a98d-6d94f708b83d

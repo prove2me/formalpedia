@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_gsFieldEquiv_apply_apply
 -- name    : GroundTheory.ProfCoh.gsFieldEquiv_apply_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:26.885674+00:00
 -- url     : https://prove2.me/theorems/dd74f3ff-fb51-5c78-b9b3-f0af83626859

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_eq_pow_valuation_of_le_one
 -- name    : GroundTheory.Arith.Abelian.exists_eq_pow_valuation_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:28.415201+00:00
 -- url     : https://prove2.me/theorems/5bc67f1b-8914-4183-82b4-0c3dd4c0639b

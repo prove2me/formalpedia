@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartNormCount_proof_7d8415c731a6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartNormCount_proof_7d8415c731a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:10:14.627987+00:00
 -- url     : https://prove2.me/theorems/4573a57d-e26a-4609-afe5-e76344b74ded

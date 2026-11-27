@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_proof_7524a88636ba
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_proof_7524a88636ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:31:36.67614+00:00
 -- url     : https://prove2.me/theorems/fbceeb3c-f013-52df-907f-1ed7ace0008e

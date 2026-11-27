@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringRadius_le_of_span_eq_top
 -- name    : GlobalTheory.coveringRadius_le_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:31.939207+00:00
 -- url     : https://prove2.me/theorems/da9db3b8-de24-5c21-8636-e40fbee0dbaf

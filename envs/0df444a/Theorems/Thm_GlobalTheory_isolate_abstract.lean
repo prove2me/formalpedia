@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isolate_abstract
 -- name    : GlobalTheory.isolate_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:35.367879+00:00
 -- url     : https://prove2.me/theorems/0c93c6bf-5811-4bf5-8d08-ca8d29e36490

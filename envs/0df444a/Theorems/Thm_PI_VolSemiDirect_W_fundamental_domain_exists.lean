@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_fundamental_domain_exists
 -- name    : PI.VolSemiDirect.W.fundamental_domain_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:47.602354+00:00
 -- url     : https://prove2.me/theorems/23d4a6bf-6547-461d-9a01-b5c46a6e06e9

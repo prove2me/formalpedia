@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_degree_eq_pow_of_growth
 -- name    : GlobalTheory.UU.degree_eq_pow_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:25.956522+00:00
 -- url     : https://prove2.me/theorems/79c72c27-2ce6-5fec-bfbd-68f266304106

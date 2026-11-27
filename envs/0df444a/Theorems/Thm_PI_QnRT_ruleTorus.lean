@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_ruleTorus
 -- name    : PI.QnRT.ruleTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:59.295188+00:00
 -- url     : https://prove2.me/theorems/a5169613-2d6e-5b68-8927-7bef5a5cf1f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_superIndex_dvd_of_le
 -- name    : GroundTheory.ProfCoh.superIndex_dvd_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:49.053595+00:00
 -- url     : https://prove2.me/theorems/2c2c577d-84a8-54a9-b906-d6ab95528aa4

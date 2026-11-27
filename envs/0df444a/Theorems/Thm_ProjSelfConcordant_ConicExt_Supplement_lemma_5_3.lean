@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_Supplement_lemma_5_3
 -- name    : ProjSelfConcordant.ConicExt.Supplement.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:22:47.598523+00:00
 -- url     : https://prove2.me/theorems/948a98b7-404c-4595-921f-f209f21bd39b

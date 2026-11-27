@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_proof_f9871f7476d3
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_proof_f9871f7476d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:51.451001+00:00
 -- url     : https://prove2.me/theorems/a1a6e33d-da61-403b-a930-9e7071b40a0b

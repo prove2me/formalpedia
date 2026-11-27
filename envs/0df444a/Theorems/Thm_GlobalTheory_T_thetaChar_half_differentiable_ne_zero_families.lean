@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaChar_half_differentiable_ne_zero_families
 -- name    : GlobalTheory.T.thetaChar_half_differentiable_ne_zero_families
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:30:55.289631+00:00
 -- url     : https://prove2.me/theorems/beb5392a-cb8b-45dd-9554-7a654cbfb1a7

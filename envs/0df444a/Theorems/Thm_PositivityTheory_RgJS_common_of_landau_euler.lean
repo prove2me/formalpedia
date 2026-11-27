@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_common_of_landau_euler
 -- name    : PositivityTheory.RgJS.common_of_landau_euler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:46.273246+00:00
 -- url     : https://prove2.me/theorems/56d70a2f-c5f0-404b-856f-42b39fe25d09

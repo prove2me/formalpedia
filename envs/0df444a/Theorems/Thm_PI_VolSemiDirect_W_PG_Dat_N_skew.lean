@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_N_skew
 -- name    : PI.VolSemiDirect.W.PG.Dat.N_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:30.403187+00:00
 -- url     : https://prove2.me/theorems/3a1b1ee2-175d-4e98-a794-b08a461ada50

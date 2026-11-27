@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_shortFamilyNumbers_le
 -- name    : GlobalTheory.log_shortFamilyNumbers_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:23.445482+00:00
 -- url     : https://prove2.me/theorems/9e9f860d-b100-4e1d-b66d-cb8f5e4daac7

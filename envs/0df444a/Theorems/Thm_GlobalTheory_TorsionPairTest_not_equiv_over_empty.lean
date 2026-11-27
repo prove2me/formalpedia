@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_not_equiv_over_empty
 -- name    : GlobalTheory.TorsionPairTest.not_equiv_over_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:37:21.957991+00:00
 -- url     : https://prove2.me/theorems/75fd384f-a0b0-5cc3-83c7-a2dd1c219ed9

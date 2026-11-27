@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AbCoh_sum_sum__Two_of_symm_2966c7908e33
 -- name    : P2M_GlobalTheory_AbCoh_sum_sum__Two_of_symm_2966c7908e33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T17:07:49.135455+00:00
 -- url     : https://prove2.me/theorems/98303488-a063-445d-9fec-b49471dedfc1

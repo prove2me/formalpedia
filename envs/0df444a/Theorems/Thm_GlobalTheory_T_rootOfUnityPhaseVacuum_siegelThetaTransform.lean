@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootOfUnityPhaseVacuum_siegelThetaTransform
 -- name    : GlobalTheory.T.rootOfUnityPhaseVacuum_siegelThetaTransform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:24.674008+00:00
 -- url     : https://prove2.me/theorems/b082cbb0-dc21-50ee-b172-ae75d7dd8028

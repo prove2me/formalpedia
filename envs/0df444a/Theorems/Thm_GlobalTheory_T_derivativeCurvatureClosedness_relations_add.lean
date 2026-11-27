@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_derivativeCurvatureClosedness_relations_add
 -- name    : GlobalTheory.T.derivativeCurvatureClosedness_relations_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:32:55.478833+00:00
 -- url     : https://prove2.me/theorems/3e14a29f-6e17-5ea6-85da-d34bfa8c5ec0

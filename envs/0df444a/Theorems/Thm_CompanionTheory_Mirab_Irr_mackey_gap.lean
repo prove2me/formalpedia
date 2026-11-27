@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_mackey_gap
 -- name    : CompanionTheory.Mirab.Irr.mackey_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:17:18.827079+00:00
 -- url     : https://prove2.me/theorems/b38febd8-d849-5ef3-9980-ec67f8b6d139

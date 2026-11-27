@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_meromorphicAt_prod
 -- name    : PositivityTheory.Lord.meromorphicAt_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:28.665626+00:00
 -- url     : https://prove2.me/theorems/4f958d49-b349-4439-8007-058cec6502fa

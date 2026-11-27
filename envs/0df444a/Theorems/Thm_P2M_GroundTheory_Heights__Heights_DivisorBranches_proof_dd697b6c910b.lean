@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorBranches_proof_dd697b6c910b
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorBranches_proof_dd697b6c910b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:17.038194+00:00
 -- url     : https://prove2.me/theorems/ae333969-a5bb-4d5c-8c71-8e070418ea41

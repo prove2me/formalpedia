@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreRadicalAway_proof_3bba55793312
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreRadicalAway_proof_3bba55793312
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:15.551004+00:00
 -- url     : https://prove2.me/theorems/95488786-6ad6-55a3-a099-903e8fd1b0a5

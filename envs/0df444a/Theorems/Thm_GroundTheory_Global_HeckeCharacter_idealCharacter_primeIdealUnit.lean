@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_idealCharacter_primeIdealUnit
 -- name    : GroundTheory.Global.HeckeCharacter.idealCharacter_primeIdealUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:13.803646+00:00
 -- url     : https://prove2.me/theorems/2ea84273-b795-5b36-8533-e243070597f4

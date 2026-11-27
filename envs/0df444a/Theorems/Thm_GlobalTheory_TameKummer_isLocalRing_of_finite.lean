@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_isLocalRing_of_finite
 -- name    : GlobalTheory.TameKummer.isLocalRing_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:29.243802+00:00
 -- url     : https://prove2.me/theorems/55501041-4397-47a6-9d0a-69509fbf23a0

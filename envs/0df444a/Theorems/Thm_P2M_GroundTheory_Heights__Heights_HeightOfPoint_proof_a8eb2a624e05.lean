@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfPoint_proof_a8eb2a624e05
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfPoint_proof_a8eb2a624e05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:55.94502+00:00
 -- url     : https://prove2.me/theorems/a85ba983-e3c6-5314-922f-96aa208480d4

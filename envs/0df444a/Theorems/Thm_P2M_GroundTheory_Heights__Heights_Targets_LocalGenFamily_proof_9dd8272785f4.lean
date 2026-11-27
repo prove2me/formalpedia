@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LocalGenFamily_proof_9dd8272785f4
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LocalGenFamily_proof_9dd8272785f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:39:47.649071+00:00
 -- url     : https://prove2.me/theorems/afa02ffd-98db-4614-aedb-44b85f9759a8

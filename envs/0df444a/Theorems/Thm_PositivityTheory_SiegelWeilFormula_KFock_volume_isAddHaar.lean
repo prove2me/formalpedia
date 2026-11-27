@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_volume_isAddHaar
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.volume_isAddHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:35.410983+00:00
 -- url     : https://prove2.me/theorems/90f57bf5-5ac4-565a-8010-398c3c1b472e

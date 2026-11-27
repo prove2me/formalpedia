@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_diagInvol
 -- name    : PI.QnHermHaar.diagInvol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:47:48.286667+00:00
 -- url     : https://prove2.me/theorems/cd6a67ea-c580-50ab-93d6-fb2c0ebd191f

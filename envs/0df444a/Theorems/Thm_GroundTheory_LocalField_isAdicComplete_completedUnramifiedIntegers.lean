@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isAdicComplete_completedUnramifiedIntegers
 -- name    : GroundTheory.LocalField.isAdicComplete_completedUnramifiedIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:21.76332+00:00
 -- url     : https://prove2.me/theorems/b26e8a3b-b7d3-5107-a2ac-1e67b7e5e81d

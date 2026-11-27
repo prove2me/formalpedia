@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalIdeles_realEquiv_apply
 -- name    : GroundTheory.Global.RationalIdeles.realEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:00:44.929824+00:00
 -- url     : https://prove2.me/theorems/bb6130c9-00a5-48a8-bfff-de93d674c0de

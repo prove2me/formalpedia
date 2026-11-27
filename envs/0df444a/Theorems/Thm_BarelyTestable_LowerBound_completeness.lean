@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_completeness
 -- name    : BarelyTestable.LowerBound.completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:16.928251+00:00
 -- url     : https://prove2.me/theorems/12887db1-529a-4762-9494-08062760b0c2

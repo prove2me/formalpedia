@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_unramifiedClosure_of_forall_approx
 -- name    : GroundTheory.PAdicHodge.mem_unramifiedClosure_of_forall_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:52.210632+00:00
 -- url     : https://prove2.me/theorems/507bed07-b395-4544-a32d-35815ea431cf

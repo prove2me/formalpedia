@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_char_inv_mul
 -- name    : CompanionTheory.Mirab.Irr.char_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:18:41.569743+00:00
 -- url     : https://prove2.me/theorems/084dd655-546b-4a24-9c62-eb245974a4c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_mul_hom_exp
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.mul_hom_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:44.154376+00:00
 -- url     : https://prove2.me/theorems/7a3eda3f-96f8-5711-ac96-3fa4824800d3

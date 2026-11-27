@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_glChart_apply
 -- name    : GroundTheory.Automorphic.Measures.glChart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:40.243834+00:00
 -- url     : https://prove2.me/theorems/2a68ff84-3ef7-5600-9d0c-91f4d1c55b64

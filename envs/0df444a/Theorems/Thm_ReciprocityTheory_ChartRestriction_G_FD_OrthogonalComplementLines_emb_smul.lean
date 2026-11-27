@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthogonalComplementLines_emb_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthogonalComplementLines.emb_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:40.892614+00:00
 -- url     : https://prove2.me/theorems/0625d1d8-b13c-4fa5-b594-3081f3866bd7

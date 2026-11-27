@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_stabilizer_restrictNormalHom
 -- name    : GroundTheory.Global.map_stabilizer_restrictNormalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:51.646387+00:00
 -- url     : https://prove2.me/theorems/e065f772-c4c6-5c58-9f22-6c65c9b2f108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_zero_mem_Hset
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.zero_mem_Hset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:26:22.107988+00:00
 -- url     : https://prove2.me/theorems/033e6c27-baa0-4051-a5ab-f29638e0acda

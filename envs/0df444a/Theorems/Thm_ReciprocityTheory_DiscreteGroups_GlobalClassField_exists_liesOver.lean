@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_exists_liesOver
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.exists_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:54.318562+00:00
 -- url     : https://prove2.me/theorems/5845a231-2c97-4fa2-bbe8-9a37eddf3b69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_IsFunctionField_of_functionField
 -- name    : GroundTheory.FunctionField.IsFunctionField.of_functionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:52.885289+00:00
 -- url     : https://prove2.me/theorems/ef67b075-821f-4902-a736-57815dac73ec

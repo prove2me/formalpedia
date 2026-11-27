@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_existsUnique_isUnramifiedSubextension
 -- name    : GroundTheory.LocalField.existsUnique_isUnramifiedSubextension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:43.654917+00:00
 -- url     : https://prove2.me/theorems/900017b7-5255-5420-84ca-5b2c28df681c

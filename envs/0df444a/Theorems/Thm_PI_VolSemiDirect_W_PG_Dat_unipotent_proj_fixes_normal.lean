@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_PG_Dat_unipotent_proj_fixes_normal
 -- name    : PI.VolSemiDirect.W.PG.Dat.unipotent_proj_fixes_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:05.574887+00:00
 -- url     : https://prove2.me/theorems/267e148b-de94-5721-b2bc-5bb17bb6c2cb

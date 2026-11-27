@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedIn_map_subtype_iff
 -- name    : GlobalTheory.isSaturatedIn_map_subtype_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:39.370192+00:00
 -- url     : https://prove2.me/theorems/0982c560-734b-597a-8759-2b9efcf94b9a

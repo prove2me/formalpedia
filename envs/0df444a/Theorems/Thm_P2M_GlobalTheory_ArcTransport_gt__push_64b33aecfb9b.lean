@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ArcTransport_gt__push_64b33aecfb9b
 -- name    : P2M_GlobalTheory_ArcTransport_gt__push_64b33aecfb9b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:23:40.385404+00:00
 -- url     : https://prove2.me/theorems/d1bbfe09-45f5-42ad-94f0-5e541b5f6ada

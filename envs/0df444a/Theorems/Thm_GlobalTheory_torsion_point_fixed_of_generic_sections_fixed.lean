@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_point_fixed_of_generic_sections_fixed
 -- name    : GlobalTheory.torsion_point_fixed_of_generic_sections_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:32.592935+00:00
 -- url     : https://prove2.me/theorems/c4890a5e-7814-5da4-9e8c-68b26aa6cadd

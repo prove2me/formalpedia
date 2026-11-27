@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_L2_eq_zero
 -- name    : PositivityTheory.ThKF.L2.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:13.262581+00:00
 -- url     : https://prove2.me/theorems/5ac2f468-c9a5-5b89-8a90-c9055cf15943

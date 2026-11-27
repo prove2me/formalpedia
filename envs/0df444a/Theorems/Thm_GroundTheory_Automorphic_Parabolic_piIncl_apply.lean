@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_piIncl_apply
 -- name    : GroundTheory.Automorphic.Parabolic.piIncl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:30:55.526937+00:00
 -- url     : https://prove2.me/theorems/a94412e5-10f2-563a-9fcd-868a734099e4

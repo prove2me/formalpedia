@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_VacE_coord_gamma
 -- name    : PositivityTheory.Rg.Sw.Glob.VacE.coord_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:35.03875+00:00
 -- url     : https://prove2.me/theorems/7d81b04e-744d-5f32-b6e9-fe3a94062e3e

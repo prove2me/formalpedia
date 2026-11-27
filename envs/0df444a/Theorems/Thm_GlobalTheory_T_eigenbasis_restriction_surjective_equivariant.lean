@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eigenbasis_restriction_surjective_equivariant
 -- name    : GlobalTheory.T.eigenbasis_restriction_surjective_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:14:44.728399+00:00
 -- url     : https://prove2.me/theorems/0d456770-044d-400a-99b0-39e64e107b3b

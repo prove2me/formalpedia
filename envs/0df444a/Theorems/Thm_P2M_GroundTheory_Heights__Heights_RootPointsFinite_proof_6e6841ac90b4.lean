@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointsFinite_proof_6e6841ac90b4
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointsFinite_proof_6e6841ac90b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:29.348078+00:00
 -- url     : https://prove2.me/theorems/b03a3c18-ba5b-4ed2-9df4-a1f40c4cf1f0

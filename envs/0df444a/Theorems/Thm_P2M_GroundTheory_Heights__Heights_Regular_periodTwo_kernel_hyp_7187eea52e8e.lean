@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_periodTwo_kernel_hyp_7187eea52e8e
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_periodTwo_kernel_hyp_7187eea52e8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:29.760735+00:00
 -- url     : https://prove2.me/theorems/1da6e1f8-5c43-4a15-be34-eb9b8a1a13cd

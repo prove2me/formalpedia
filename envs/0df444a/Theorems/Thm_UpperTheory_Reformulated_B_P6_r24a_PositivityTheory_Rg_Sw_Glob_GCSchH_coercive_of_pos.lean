@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r24a_PositivityTheory_Rg_Sw_Glob_GCSchH_coercive_of_pos
 -- name    : UpperTheory.Reformulated.B.P6.r24a.PositivityTheory.Rg.Sw.Glob.GCSchH.coercive_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:15.576056+00:00
 -- url     : https://prove2.me/theorems/837c01c4-799f-5abc-82b8-9004c41cb48e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_of_isIso
 -- name    : GlobalTheory.geometricallyConnected_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:34.931595+00:00
 -- url     : https://prove2.me/theorems/a23ca522-5f7c-5c2e-82a0-3c00545602c8

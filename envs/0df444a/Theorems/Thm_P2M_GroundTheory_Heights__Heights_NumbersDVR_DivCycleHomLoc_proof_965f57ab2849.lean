@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DivCycleHomLoc_proof_965f57ab2849
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DivCycleHomLoc_proof_965f57ab2849
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:35:27.8365+00:00
 -- url     : https://prove2.me/theorems/8f54cf8f-e521-53af-a704-3ed2aac10442

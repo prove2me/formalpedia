@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassZeta_congr
 -- name    : GlobalTheory.weierstrassZeta_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:35.141937+00:00
 -- url     : https://prove2.me/theorems/382a9db9-4a66-40b6-bf1f-64100c6d281a

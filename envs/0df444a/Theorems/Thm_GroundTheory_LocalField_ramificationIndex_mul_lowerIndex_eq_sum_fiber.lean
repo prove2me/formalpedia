@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ramificationIndex_mul_lowerIndex_eq_sum_fiber
 -- name    : GroundTheory.LocalField.ramificationIndex_mul_lowerIndex_eq_sum_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:20.641135+00:00
 -- url     : https://prove2.me/theorems/ab834914-7aba-4506-85f5-f84c88ec96ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_thetaV_eq
 -- name    : PI.InvTopW.thetaV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:57:00.488154+00:00
 -- url     : https://prove2.me/theorems/3403b24f-e1e9-55fc-9826-37754d8bfa3f

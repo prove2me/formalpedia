@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_map_braiding_cupH
 -- name    : GroundTheory.GroupCoh.map_braiding_cupH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:30.875024+00:00
 -- url     : https://prove2.me/theorems/b4bf2f32-6b70-51a4-8983-01f7069f26f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_weylQ
 -- name    : GordanGenProof.weylQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:55.0798+00:00
 -- url     : https://prove2.me/theorems/2d8ce19f-1f9f-5ea4-828a-e676d1ad154d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_tensorEquiv_map_gal
 -- name    : GroundTheory.Global.SemiLocal.tensorEquiv_map_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:59.28423+00:00
 -- url     : https://prove2.me/theorems/584eecb4-2829-5a3d-bff2-76e10c8ef67b

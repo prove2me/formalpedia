@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFinite_fromNormalization_of_locallyOfFiniteType
 -- name    : GlobalTheory.isFinite_fromNormalization_of_locallyOfFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:55.679223+00:00
 -- url     : https://prove2.me/theorems/ebd0f279-8698-4d59-9fff-abb709b111f9

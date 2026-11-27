@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_chartZ_eq
 -- name    : GlobalTheory.WeierstrassCurve.chartZ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:04.816477+00:00
 -- url     : https://prove2.me/theorems/72331434-9a54-5ab2-8fd1-17910e7ce9ab

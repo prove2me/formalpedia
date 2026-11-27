@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_exists_retraction_near_of_unique_point
 -- name    : GlobalTheory.ZM.NearBuild.exists_retraction_near_of_unique_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:42.908019+00:00
 -- url     : https://prove2.me/theorems/5399bcc2-acca-527c-9116-37c0c633af3e

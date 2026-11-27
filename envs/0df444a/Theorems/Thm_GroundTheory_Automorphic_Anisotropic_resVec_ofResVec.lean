@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resVec_ofResVec
 -- name    : GroundTheory.Automorphic.Anisotropic.resVec_ofResVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:04.441118+00:00
 -- url     : https://prove2.me/theorems/ab90ede5-5458-5520-83d6-c3824f7cd563

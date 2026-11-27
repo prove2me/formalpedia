@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjStdMassAt_proof_4e8665ed6da9
 -- name    : P2M_GroundTheory_Heights__Heights_ProjStdMassAt_proof_4e8665ed6da9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:40:48.744115+00:00
 -- url     : https://prove2.me/theorems/7e0e9dc9-d2f9-5e8d-b8f9-f3e91c49c8b8

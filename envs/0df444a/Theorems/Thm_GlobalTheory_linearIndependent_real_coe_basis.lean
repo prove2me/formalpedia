@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linearIndependent_real_coe_basis
 -- name    : GlobalTheory.linearIndependent_real_coe_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:04.249683+00:00
 -- url     : https://prove2.me/theorems/6c3a065b-68bd-4474-ba0f-07ad93cbcbbe

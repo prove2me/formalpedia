@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_BoundedThPsh_ofBoundedPsh___1837e8fb92b2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_BoundedThPsh_ofBoundedPsh___1837e8fb92b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:41.935103+00:00
 -- url     : https://prove2.me/theorems/8739c57a-3b98-5627-bac2-5047ccf4f2bf

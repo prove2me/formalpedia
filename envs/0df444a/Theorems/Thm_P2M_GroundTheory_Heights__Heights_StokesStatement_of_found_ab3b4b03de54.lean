@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesStatement_of_found_ab3b4b03de54
 -- name    : P2M_GroundTheory_Heights__Heights_StokesStatement_of_found_ab3b4b03de54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:35.07446+00:00
 -- url     : https://prove2.me/theorems/70dab5c2-bd94-5baa-bfbe-b5fcaf4d32c4

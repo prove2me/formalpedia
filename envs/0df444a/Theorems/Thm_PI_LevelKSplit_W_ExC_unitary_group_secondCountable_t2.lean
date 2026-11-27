@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_unitary_group_secondCountable_t2
 -- name    : PI.LevelKSplit.W.ExC.unitary_group_secondCountable_t2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:47:29.215077+00:00
 -- url     : https://prove2.me/theorems/0d3f1808-6ad1-42c6-be32-86860da15777

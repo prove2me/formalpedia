@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalizedModule_invariantsMap
 -- name    : GlobalTheory.isLocalizedModule_invariantsMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:33.666397+00:00
 -- url     : https://prove2.me/theorems/47ccfd2e-87da-4b2a-b013-acd10fb18931

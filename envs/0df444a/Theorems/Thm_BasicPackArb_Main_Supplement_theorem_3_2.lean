@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BasicPackArb_Main_Supplement_theorem_3_2
 -- name    : BasicPackArb.Main.Supplement.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:01:54.331854+00:00
 -- url     : https://prove2.me/theorems/b8a31c57-bdbc-439a-a524-e32c327d1739

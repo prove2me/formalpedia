@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_smul_multilinear_eq_zero_of_prod_vanish
 -- name    : GlobalTheory.T.sum_smul_multilinear_eq_zero_of_prod_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:01.09203+00:00
 -- url     : https://prove2.me/theorems/16b690a1-1572-54e4-9383-abea387a8670

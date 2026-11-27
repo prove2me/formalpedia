@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussRing_completion
 -- name    : GlobalTheory.gaussRing_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:51:04.892229+00:00
 -- url     : https://prove2.me/theorems/074f86c3-b17e-5645-91bc-9140df2398f0

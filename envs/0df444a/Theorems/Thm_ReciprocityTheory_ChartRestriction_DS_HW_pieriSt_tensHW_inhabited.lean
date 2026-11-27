@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pieriSt_tensHW_inhabited
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pieriSt_tensHW_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:37.044306+00:00
 -- url     : https://prove2.me/theorems/59264839-4f6a-4740-b699-d5214263322f

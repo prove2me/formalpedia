@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_chartPoint_mem_ca013b7a7355
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_chartPoint_mem_ca013b7a7355
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:28.239538+00:00
 -- url     : https://prove2.me/theorems/0fa8e7d5-155f-539d-bdf3-8d1901485d68

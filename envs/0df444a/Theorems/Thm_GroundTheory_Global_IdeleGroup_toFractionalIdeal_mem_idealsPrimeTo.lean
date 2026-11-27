@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_toFractionalIdeal_mem_idealsPrimeTo
 -- name    : GroundTheory.Global.IdeleGroup.toFractionalIdeal_mem_idealsPrimeTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:06.578542+00:00
 -- url     : https://prove2.me/theorems/19a04d3d-1a12-5f8f-85cb-82e6f22dca58

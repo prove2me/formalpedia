@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_encard_vadd_mem_le_d167ff9ab132
 -- name    : P2M_GroundTheory_Heights__Heights_encard_vadd_mem_le_d167ff9ab132
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:49.004928+00:00
 -- url     : https://prove2.me/theorems/85860650-e90e-444e-a379-cd2f8d822009

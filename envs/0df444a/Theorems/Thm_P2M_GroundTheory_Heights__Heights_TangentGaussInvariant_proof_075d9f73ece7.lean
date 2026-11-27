@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGaussInvariant_proof_075d9f73ece7
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGaussInvariant_proof_075d9f73ece7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:12.125511+00:00
 -- url     : https://prove2.me/theorems/6eee681e-3f66-4343-bbf7-6869f8d0a20d

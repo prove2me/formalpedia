@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolGermPointIdealSpan_proof_312c77722db8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolGermPointIdealSpan_proof_312c77722db8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:15:41.199972+00:00
 -- url     : https://prove2.me/theorems/27cc9b6f-c75c-5ef2-9c6d-36f408c62f8e

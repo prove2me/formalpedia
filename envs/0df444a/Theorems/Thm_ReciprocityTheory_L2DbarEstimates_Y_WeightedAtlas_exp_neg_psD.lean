@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_exp_neg_psD
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.exp_neg_psD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:30:16.892977+00:00
 -- url     : https://prove2.me/theorems/c2c7e410-15db-4984-ba41-b60cfe4fd2ef

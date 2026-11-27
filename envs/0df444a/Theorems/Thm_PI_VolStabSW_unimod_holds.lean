@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_unimod_holds
 -- name    : PI.VolStabSW.unimod_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:49:06.023806+00:00
 -- url     : https://prove2.me/theorems/70903b62-c483-5971-b7be-5222b7d1d492

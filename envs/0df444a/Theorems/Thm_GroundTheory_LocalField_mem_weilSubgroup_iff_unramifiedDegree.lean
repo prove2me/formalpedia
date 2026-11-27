@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_weilSubgroup_iff_unramifiedDegree
 -- name    : GroundTheory.LocalField.mem_weilSubgroup_iff_unramifiedDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:17:29.906016+00:00
 -- url     : https://prove2.me/theorems/ef98a1c9-6c2c-57ba-9cfb-cf62d681d6d1

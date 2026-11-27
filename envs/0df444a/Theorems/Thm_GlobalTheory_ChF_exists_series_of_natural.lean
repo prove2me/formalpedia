@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_exists_series_of_natural
 -- name    : GlobalTheory.ChF.exists_series_of_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:15:02.800302+00:00
 -- url     : https://prove2.me/theorems/909dbf38-1ffe-50c0-99d6-65529f773564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_cub_at_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.cub_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:36:09.572328+00:00
 -- url     : https://prove2.me/theorems/6a6262ca-c703-4132-8c3b-53e01a75b3f0

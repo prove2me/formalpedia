@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_normU_mem_plus
 -- name    : GlobalTheory.UTr.normU_mem_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:34.349955+00:00
 -- url     : https://prove2.me/theorems/20e8c0cb-fe99-5180-a034-772c4b8e77ee

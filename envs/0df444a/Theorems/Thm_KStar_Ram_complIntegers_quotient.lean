@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Ram_complIntegers_quotient
 -- name    : KStar.Ram.complIntegers_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:45.310271+00:00
 -- url     : https://prove2.me/theorems/b1bf67c2-01d8-4075-96ea-33d9bebaa601

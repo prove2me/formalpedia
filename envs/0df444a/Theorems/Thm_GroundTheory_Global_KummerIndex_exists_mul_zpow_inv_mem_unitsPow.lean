@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_exists_mul_zpow_inv_mem_unitsPow
 -- name    : GroundTheory.Global.KummerIndex.exists_mul_zpow_inv_mem_unitsPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:52.974521+00:00
 -- url     : https://prove2.me/theorems/3ed79399-06ff-4b81-b24f-951d59eeced6

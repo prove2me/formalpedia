@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_sum_norm_sq_lt
 -- name    : GlobalTheory.volume_sum_norm_sq_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:15.52522+00:00
 -- url     : https://prove2.me/theorems/b83d2269-2301-5c65-bd78-bae1687cf42b

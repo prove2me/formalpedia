@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PivotBounds_proof_90bf0289c2f7
 -- name    : P2M_GroundTheory_Heights__Heights_PivotBounds_proof_90bf0289c2f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:17.301507+00:00
 -- url     : https://prove2.me/theorems/cf35be39-c119-490c-b8e7-7a8e67a97424

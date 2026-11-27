@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnfairML_Coverage_Supplement_theorem_1
 -- name    : UnfairML.Coverage.Supplement.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:36:12.622861+00:00
 -- url     : https://prove2.me/theorems/760c31c0-f7dd-40c4-9258-0262000e6585

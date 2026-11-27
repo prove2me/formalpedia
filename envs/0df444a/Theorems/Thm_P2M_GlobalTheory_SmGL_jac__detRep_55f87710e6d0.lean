@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_jac__detRep_55f87710e6d0
 -- name    : P2M_GlobalTheory_SmGL_jac__detRep_55f87710e6d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:39.983797+00:00
 -- url     : https://prove2.me/theorems/ceeee2e4-1b70-5f1d-9f3c-df08985b31f9

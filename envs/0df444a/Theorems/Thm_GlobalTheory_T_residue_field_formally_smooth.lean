@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_residue_field_formally_smooth
 -- name    : GlobalTheory.T.residue_field_formally_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:27.279323+00:00
 -- url     : https://prove2.me/theorems/97c5db89-4380-5da3-8cad-76d826ba46ab

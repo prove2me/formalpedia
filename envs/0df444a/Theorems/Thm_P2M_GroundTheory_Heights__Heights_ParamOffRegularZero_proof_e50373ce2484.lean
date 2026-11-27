@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamOffRegularZero_proof_e50373ce2484
 -- name    : P2M_GroundTheory_Heights__Heights_ParamOffRegularZero_proof_e50373ce2484
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:05.557257+00:00
 -- url     : https://prove2.me/theorems/2b6857fc-fec1-57f2-82f8-c40d12a03d36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_tiltIntermediateField
 -- name    : GroundTheory.PAdicHodge.mem_tiltIntermediateField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:52.585466+00:00
 -- url     : https://prove2.me/theorems/7d020db7-59b0-47b5-a6e9-1dd85d33bdf8

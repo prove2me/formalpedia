@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_isTopologicalGroup
 -- name    : GroundTheory.Automorphic.AdelicGLn.isTopologicalGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:12.145554+00:00
 -- url     : https://prove2.me/theorems/b1f137d9-3661-5474-9228-ec475cd30916

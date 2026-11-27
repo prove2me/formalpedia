@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Dim_psiExt_one
 -- name    : CompanionTheory.Mirab.Dim.psiExt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:15:54.310616+00:00
 -- url     : https://prove2.me/theorems/7ef689b2-d79b-53e2-854d-af700a2fdac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isInvariantSection_basicOpen_eq
 -- name    : GlobalTheory.exists_isInvariantSection_basicOpen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:50:11.853421+00:00
 -- url     : https://prove2.me/theorems/e611aef0-9381-5520-9c36-d476608896a5

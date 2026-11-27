@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedHamiltonicity_Main_CycleHost_buildX_exec
 -- name    : DirectedHamiltonicity.Main.CycleHost.buildX_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:01:49.732795+00:00
 -- url     : https://prove2.me/theorems/7ebe730e-719d-42ce-ab0d-5d2bedf49450

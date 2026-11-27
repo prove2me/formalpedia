@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_isometry_ofReal_mul_I_mul
 -- name    : GlobalTheory.isoTransvection.isometry_ofReal_mul_I_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:59.839939+00:00
 -- url     : https://prove2.me/theorems/42b8c2ca-ff21-598f-bbd7-aa694f6b34b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopExt_coe_wedgeMap_tmul
 -- name    : GlobalTheory.TopExt.coe_wedgeMap_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:20.054408+00:00
 -- url     : https://prove2.me/theorems/a3e549ab-ac83-569d-ba55-e512cc090d77

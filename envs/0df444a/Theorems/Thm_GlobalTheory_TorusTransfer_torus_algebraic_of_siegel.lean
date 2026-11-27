@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusTransfer_torus_algebraic_of_siegel
 -- name    : GlobalTheory.TorusTransfer.torus_algebraic_of_siegel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:51:16.856817+00:00
 -- url     : https://prove2.me/theorems/6d838949-ac78-40ed-b7ca-152f4a0acb3a

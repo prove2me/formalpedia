@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_bundleA_isFinite_a4e03d594faf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_bundleA_isFinite_a4e03d594faf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:24.088349+00:00
 -- url     : https://prove2.me/theorems/724ab01d-82fe-45bb-a57f-4f6e4cefa93e

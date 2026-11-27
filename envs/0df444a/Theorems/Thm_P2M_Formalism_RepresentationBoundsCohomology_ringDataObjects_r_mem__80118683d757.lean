@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_RepresentationBoundsCohomology_ringDataObjects_r_mem__80118683d757
 -- name    : P2M_Formalism_RepresentationBoundsCohomology_ringDataObjects_r_mem__80118683d757
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:24:53.973797+00:00
 -- url     : https://prove2.me/theorems/4d0df8f2-a21e-5902-8d3e-98a73dc04e92

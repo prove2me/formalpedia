@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_idempotent_lift_of_henselian
 -- name    : GlobalTheory.existsUnique_idempotent_lift_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:20.397183+00:00
 -- url     : https://prove2.me/theorems/dcfd12aa-22e6-5810-980f-879034cc8876

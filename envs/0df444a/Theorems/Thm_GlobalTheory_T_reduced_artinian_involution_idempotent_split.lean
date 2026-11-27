@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_reduced_artinian_involution_idempotent_split
 -- name    : GlobalTheory.T.reduced_artinian_involution_idempotent_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:31.417745+00:00
 -- url     : https://prove2.me/theorems/54851319-f13b-4a3b-a66c-63a876c0d69e

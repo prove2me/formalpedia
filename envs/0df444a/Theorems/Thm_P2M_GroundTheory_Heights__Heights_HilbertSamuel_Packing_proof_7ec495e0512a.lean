@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_Packing_proof_7ec495e0512a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_Packing_proof_7ec495e0512a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:17.366262+00:00
 -- url     : https://prove2.me/theorems/b1488106-c219-4dcd-8fbb-9c376a81fe1d

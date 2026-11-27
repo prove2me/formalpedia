@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_coeff_le_of_hasSum_of_isAlgClosed
 -- name    : GlobalTheory.norm_coeff_le_of_hasSum_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:58.3819+00:00
 -- url     : https://prove2.me/theorems/132b98f8-ca52-5ae4-98ec-239a31c21c5c

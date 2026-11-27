@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DefectPoint_proof_a283805ec7d4
 -- name    : P2M_GroundTheory_Heights__Heights_DefectPoint_proof_a283805ec7d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:23.279819+00:00
 -- url     : https://prove2.me/theorems/10855627-b877-47fb-b6cc-ecbc7d7a4de1

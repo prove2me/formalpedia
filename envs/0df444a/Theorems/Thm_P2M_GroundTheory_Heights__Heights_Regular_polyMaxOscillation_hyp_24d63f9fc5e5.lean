@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_polyMaxOscillation_hyp_24d63f9fc5e5
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_polyMaxOscillation_hyp_24d63f9fc5e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:54.337703+00:00
 -- url     : https://prove2.me/theorems/dc33ee50-1e42-4a45-b71f-bc63bd81555c

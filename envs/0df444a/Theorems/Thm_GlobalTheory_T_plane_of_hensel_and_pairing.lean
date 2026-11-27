@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_plane_of_hensel_and_pairing
 -- name    : GlobalTheory.T.plane_of_hensel_and_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:54.012802+00:00
 -- url     : https://prove2.me/theorems/326d4f7b-f4a0-56eb-b4d5-da84fdea7542

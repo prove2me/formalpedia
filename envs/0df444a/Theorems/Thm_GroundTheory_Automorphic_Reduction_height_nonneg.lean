@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_height_nonneg
 -- name    : GroundTheory.Automorphic.Reduction.height_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:04.142663+00:00
 -- url     : https://prove2.me/theorems/d2c8485d-a469-552e-ad25-7215ea3b8c89

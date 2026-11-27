@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMHeightAddDim_proof_d95468e9191c
 -- name    : P2M_GroundTheory_Heights__Heights_CMHeightAddDim_proof_d95468e9191c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:26.541539+00:00
 -- url     : https://prove2.me/theorems/a73a8980-a50e-4c71-a044-31c5ad38d9c1

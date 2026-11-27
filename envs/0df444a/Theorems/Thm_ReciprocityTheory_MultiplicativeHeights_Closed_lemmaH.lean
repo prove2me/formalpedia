@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_lemmaH
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.lemmaH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:12.718466+00:00
 -- url     : https://prove2.me/theorems/37f873ea-1177-41b5-a2d7-16e58d19a951

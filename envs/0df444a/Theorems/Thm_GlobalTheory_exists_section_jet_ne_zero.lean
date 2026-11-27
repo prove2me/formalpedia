@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_section_jet_ne_zero
 -- name    : GlobalTheory.exists_section_jet_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:02:48.244827+00:00
 -- url     : https://prove2.me/theorems/4d26d41d-0dd2-4a13-9bb5-be3a8423771e

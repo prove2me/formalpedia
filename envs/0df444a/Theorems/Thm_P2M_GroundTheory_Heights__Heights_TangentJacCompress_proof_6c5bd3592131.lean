@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentJacCompress_proof_6c5bd3592131
 -- name    : P2M_GroundTheory_Heights__Heights_TangentJacCompress_proof_6c5bd3592131
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:15.807517+00:00
 -- url     : https://prove2.me/theorems/8f961c9d-7b07-5b51-aaca-aa5e2bddcc14

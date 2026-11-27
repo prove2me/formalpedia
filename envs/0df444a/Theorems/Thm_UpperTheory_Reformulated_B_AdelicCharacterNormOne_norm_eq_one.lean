@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_AdelicCharacterNormOne_norm_eq_one
 -- name    : UpperTheory.Reformulated.B.AdelicCharacterNormOne.norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:37:58.879543+00:00
 -- url     : https://prove2.me/theorems/aade48f9-2749-5ab1-80df-eb154fff9a4d

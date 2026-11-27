@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_LimitTheorem_hypotheses_inhabited_0b235e09c518
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_LimitTheorem_hypotheses_inhabited_0b235e09c518
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:13.626344+00:00
 -- url     : https://prove2.me/theorems/f0085dec-e592-53d4-83ed-76ebaddca013

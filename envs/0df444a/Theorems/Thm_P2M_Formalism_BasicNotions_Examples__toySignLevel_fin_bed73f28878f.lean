@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__toySignLevel_fin_bed73f28878f
 -- name    : P2M_Formalism_BasicNotions_Examples__toySignLevel_fin_bed73f28878f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:28:33.110438+00:00
 -- url     : https://prove2.me/theorems/3aec697b-05b2-50aa-a717-28440aac5ebc

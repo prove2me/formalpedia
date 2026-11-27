@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvEvalMod_apply
 -- name    : GlobalTheory.mvEvalMod_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:10.321882+00:00
 -- url     : https://prove2.me/theorems/4a9cc1a6-90f7-52ab-8561-36125fbf51df

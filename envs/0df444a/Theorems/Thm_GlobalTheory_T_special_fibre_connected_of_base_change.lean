@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_special_fibre_connected_of_base_change
 -- name    : GlobalTheory.T.special_fibre_connected_of_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:51.27649+00:00
 -- url     : https://prove2.me/theorems/52f7a149-53e4-5a39-b94e-7cdff4381432

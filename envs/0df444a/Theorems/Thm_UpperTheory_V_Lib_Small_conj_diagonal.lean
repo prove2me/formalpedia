@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_conj_diagonal
 -- name    : UpperTheory.V.Lib.Small.conj_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:19.822416+00:00
 -- url     : https://prove2.me/theorems/af4eac6d-743a-5e53-8d5b-bef434bafaa0

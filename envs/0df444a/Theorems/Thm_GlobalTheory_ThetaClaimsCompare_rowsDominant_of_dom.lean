@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_rowsDominant_of_dom
 -- name    : GlobalTheory.ThetaClaimsCompare.rowsDominant_of_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:03.729336+00:00
 -- url     : https://prove2.me/theorems/a64fa5bd-6d04-5902-a1e2-37bd6b7a4855

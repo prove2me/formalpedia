@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalLengthPlaces_proof_9bbe390c61fc
 -- name    : P2M_GroundTheory_Heights__Heights_LocalLengthPlaces_proof_9bbe390c61fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:32:52.804527+00:00
 -- url     : https://prove2.me/theorems/3ace5816-d64e-5c44-af34-093dcacf5815

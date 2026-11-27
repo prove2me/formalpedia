@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Complex_exists_ringEquiv_extend_of_trdeg_eq
 -- name    : GroundTheory.Global.Complex.exists_ringEquiv_extend_of_trdeg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:33.147652+00:00
 -- url     : https://prove2.me/theorems/e9360629-8a38-4322-8120-e5f63fecdecc

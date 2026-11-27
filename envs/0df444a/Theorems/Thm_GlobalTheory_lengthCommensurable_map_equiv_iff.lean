@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_map_equiv_iff
 -- name    : GlobalTheory.lengthCommensurable_map_equiv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:40.804283+00:00
 -- url     : https://prove2.me/theorems/dfdc8efa-f14b-4781-b90a-b9c09df7606c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pnorm_le_exp_neg_tt_near_cusp
 -- name    : GlobalTheory.pnorm_le_exp_neg_tt_near_cusp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:12:52.255744+00:00
 -- url     : https://prove2.me/theorems/1ef1af45-893f-511f-98df-7af6faaf3694

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_hypotheses_seven_bc998a3eb803
 -- name    : P2M_GroundTheory_Heights__Theta_hypotheses_seven_bc998a3eb803
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:08.732434+00:00
 -- url     : https://prove2.me/theorems/5bb29211-5cd2-5d26-a42e-04e384f499f5

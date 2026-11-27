@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_continuous_cycloChar
 -- name    : GroundTheory.PAdicHodge.continuous_cycloChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:26.852047+00:00
 -- url     : https://prove2.me/theorems/6fbee4da-6153-4d3c-9d5c-9e344085fa32

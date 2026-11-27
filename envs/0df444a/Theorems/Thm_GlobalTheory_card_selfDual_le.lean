@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_selfDual_le
 -- name    : GlobalTheory.card_selfDual_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:27.846852+00:00
 -- url     : https://prove2.me/theorems/40ed8849-e74e-49df-9688-1c57d1084393

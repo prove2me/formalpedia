@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_linear_lift_of_isMonHom_uniformisation
 -- name    : GlobalTheory.T.exists_linear_lift_of_isMonHom_uniformisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:34:20.549854+00:00
 -- url     : https://prove2.me/theorems/f6bc0535-9d26-514c-a8d2-1af87b67e26d

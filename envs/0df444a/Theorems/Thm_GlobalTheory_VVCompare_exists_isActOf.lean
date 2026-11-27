@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVCompare_exists_isActOf
 -- name    : GlobalTheory.VVCompare.exists_isActOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:24.266826+00:00
 -- url     : https://prove2.me/theorems/4bd41ead-343e-5c74-9dcb-fbdbd94837b1

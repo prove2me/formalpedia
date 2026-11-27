@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_DerOneAbsH_integral_deriv_zero
 -- name    : PositivityTheory.Rg.Sw.Glob.DerOneAbsH.integral_deriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:54.034625+00:00
 -- url     : https://prove2.me/theorems/f117a6a2-ea03-489e-9c3b-25fa75ae9404

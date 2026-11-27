@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_LDataCardLeFinrank_ineImage_le_decImage
 -- name    : UpperTheory.V.LDataCardLeFinrank.ineImage_le_decImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:23.434803+00:00
 -- url     : https://prove2.me/theorems/cc216a71-b7ac-5f19-b15f-1df3e11a90da

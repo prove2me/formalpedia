@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_integralClosureToPadicAlgClIntegers
 -- name    : GlobalTheory.coe_integralClosureToPadicAlgClIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:03.035176+00:00
 -- url     : https://prove2.me/theorems/7d0e330f-ee2b-4a4c-b6d8-9554f12d59a3

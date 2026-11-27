@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_noShortVectorLowerBound_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.noShortVectorLowerBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:45:37.616835+00:00
 -- url     : https://prove2.me/theorems/2c257f23-cb99-4f24-b8fb-2e821fa54f36

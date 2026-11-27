@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_stab_triv
 -- name    : GlobalTheory.Tw.PFlag.stab_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:18.576323+00:00
 -- url     : https://prove2.me/theorems/cfda11c2-eeed-5193-9b3e-401e71bb8958

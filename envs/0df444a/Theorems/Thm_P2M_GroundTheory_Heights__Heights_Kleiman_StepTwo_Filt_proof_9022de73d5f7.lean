@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepTwo_Filt_proof_9022de73d5f7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepTwo_Filt_proof_9022de73d5f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:29:26.685189+00:00
 -- url     : https://prove2.me/theorems/32018a33-ab50-555b-bfc5-9011158c21d2

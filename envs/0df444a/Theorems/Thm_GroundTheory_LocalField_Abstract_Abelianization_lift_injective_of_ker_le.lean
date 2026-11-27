@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_Abelianization_lift_injective_of_ker_le
 -- name    : GroundTheory.LocalField.Abstract.Abelianization.lift_injective_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:36.09473+00:00
 -- url     : https://prove2.me/theorems/05dc7c73-31cf-40df-8f47-ffd11f5a18ec

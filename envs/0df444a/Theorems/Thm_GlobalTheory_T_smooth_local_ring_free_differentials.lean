@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_local_ring_free_differentials
 -- name    : GlobalTheory.T.smooth_local_ring_free_differentials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:43.08216+00:00
 -- url     : https://prove2.me/theorems/3c858e88-750b-5b36-a500-e69a6cb7328b

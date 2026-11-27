@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_change_variables_determinant_one
 -- name    : PI.TwistedEisensteinNonvanishing.W.change_variables_determinant_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:42.416436+00:00
 -- url     : https://prove2.me/theorems/671925a5-2b0c-50da-a256-ebfc93c5b232

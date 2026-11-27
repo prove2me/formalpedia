@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_pairNorm_homogeneousLift_pos
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.pairNorm_homogeneousLift_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:36.136559+00:00
 -- url     : https://prove2.me/theorems/be23e939-3f6d-5fa0-8b93-9910ee07abc5

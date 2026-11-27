@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_restriction_mem_invariant_H1
 -- name    : UpperTheory.V.Base.restriction_mem_invariant_H1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:47.756634+00:00
 -- url     : https://prove2.me/theorems/3405d13c-41b7-4612-a6de-906c00fb2aa1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointSup_pointSup
 -- name    : GlobalTheory.PointSup.pointSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:00.983187+00:00
 -- url     : https://prove2.me/theorems/625a0174-5c7a-509f-bce8-48abc114ac16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_veryGeneral_point_of_holomorphic_family
 -- name    : GlobalTheory.exists_veryGeneral_point_of_holomorphic_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:56.525444+00:00
 -- url     : https://prove2.me/theorems/0d877866-c02e-4588-8d39-fd0dc7bf2a55

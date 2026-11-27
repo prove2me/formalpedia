@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedVehicleApprox_Pricing_Supplement_theorem_24
 -- name    : SharedVehicleApprox.Pricing.Supplement.theorem_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:38:07.580329+00:00
 -- url     : https://prove2.me/theorems/7100ad6e-5998-421d-b0c2-b6a9bed5f2bd

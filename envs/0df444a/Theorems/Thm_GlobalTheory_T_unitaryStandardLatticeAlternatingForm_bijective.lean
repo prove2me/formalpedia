@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryStandardLatticeAlternatingForm_bijective
 -- name    : GlobalTheory.T.unitaryStandardLatticeAlternatingForm_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:12.208264+00:00
 -- url     : https://prove2.me/theorems/c503d61f-877d-5724-a87b-9d4743892c35

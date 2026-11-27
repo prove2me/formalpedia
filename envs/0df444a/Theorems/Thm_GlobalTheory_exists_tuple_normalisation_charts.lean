@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tuple_normalisation_charts
 -- name    : GlobalTheory.exists_tuple_normalisation_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:16.023827+00:00
 -- url     : https://prove2.me/theorems/54fff478-9ad1-5c2f-a53c-facffbf8db4a

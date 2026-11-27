@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_vala_iff_Aset__0ad87ad3abdb
 -- name    : P2M_Formalism_MainNotions_PlaneGram_vala_iff_Aset__0ad87ad3abdb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:06.375208+00:00
 -- url     : https://prove2.me/theorems/6b9f5de6-664c-5e00-91cc-e5289b0e2a78

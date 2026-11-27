@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_dvr_finite_residueField
 -- name    : GlobalTheory.exists_complete_dvr_finite_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:26.832809+00:00
 -- url     : https://prove2.me/theorems/c69db959-8197-5a28-9713-14ff3c92f2e6

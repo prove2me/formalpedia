@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_baseChange_iff
 -- name    : GlobalTheory.isQuasiRegularSeq_baseChange_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:10.073074+00:00
 -- url     : https://prove2.me/theorems/bc987522-dba2-5fa5-8383-b92568f34e5f

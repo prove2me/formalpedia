@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_OswLocFin_exists_nhds_invariant
 -- name    : PositivityTheory.SiegelWeilFormula.OswLocFin.exists_nhds_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:57:31.764652+00:00
 -- url     : https://prove2.me/theorems/920d2c24-0627-4aab-aab2-fa214d8f7410

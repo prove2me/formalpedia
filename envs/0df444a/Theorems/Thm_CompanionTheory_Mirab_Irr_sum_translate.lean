@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_sum_translate
 -- name    : CompanionTheory.Mirab.Irr.sum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:17:13.451149+00:00
 -- url     : https://prove2.me/theorems/8bd21e31-d67c-5cf6-b17f-f08eedb4ac82

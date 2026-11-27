@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_proof_da2fc6ee9918
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FnDegRelDeg_proof_da2fc6ee9918
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:40:14.289745+00:00
 -- url     : https://prove2.me/theorems/088371b6-fc36-49cc-a452-280f9406b20a

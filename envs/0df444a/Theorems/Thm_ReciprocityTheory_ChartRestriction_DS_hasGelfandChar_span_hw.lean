@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_hasGelfandChar_span_hw
 -- name    : ReciprocityTheory.ChartRestriction.DS.hasGelfandChar_span_hw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:11:12.782477+00:00
 -- url     : https://prove2.me/theorems/750619c7-eed3-48a5-a5d0-0756cc07f433

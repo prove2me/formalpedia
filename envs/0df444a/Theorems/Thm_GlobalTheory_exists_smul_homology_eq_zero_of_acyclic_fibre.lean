@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_homology_eq_zero_of_acyclic_fibre
 -- name    : GlobalTheory.exists_smul_homology_eq_zero_of_acyclic_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:37.143563+00:00
 -- url     : https://prove2.me/theorems/f0809f7d-ed5e-43c7-a82c-e5d080bc1f9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_mem_tensorLat_pi
 -- name    : GlobalTheory.TensorLat.mem_tensorLat_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:29:18.83327+00:00
 -- url     : https://prove2.me/theorems/88436338-aefa-56c9-b372-c80639c62502

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_multiplicity_one_hypotheses_hold
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.multiplicity_one_hypotheses_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:23:28.839328+00:00
 -- url     : https://prove2.me/theorems/274823b7-ed92-42f0-aa55-35a6d1ad4221

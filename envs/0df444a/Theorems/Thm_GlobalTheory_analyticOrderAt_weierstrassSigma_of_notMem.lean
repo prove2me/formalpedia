@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_analyticOrderAt_weierstrassSigma_of_notMem
 -- name    : GlobalTheory.analyticOrderAt_weierstrassSigma_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:30.430218+00:00
 -- url     : https://prove2.me/theorems/c167a7d3-655b-599e-8fef-ba583cfb32e6

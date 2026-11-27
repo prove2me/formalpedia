@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_flA_leviV_log_normSq
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.flA_leviV_log_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:11.846502+00:00
 -- url     : https://prove2.me/theorems/2a1f608e-a9d1-403f-8a6f-20e145b9ed6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_sup_orthIn_eq_top_of_symmetric
 -- name    : GroundTheory.Automorphic.PeterssonComplement.sup_orthIn_eq_top_of_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:40.613302+00:00
 -- url     : https://prove2.me/theorems/971caea8-5b4f-4880-8916-702e47b5d137

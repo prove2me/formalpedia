@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_cycEval_sum_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.cycEval_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:11:02.682708+00:00
 -- url     : https://prove2.me/theorems/6bd42a92-06d2-4490-a1af-6d7b731180e1

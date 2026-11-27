@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_discreteValuationRing
 -- name    : GlobalTheory.exists_smooth_discreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:15.145917+00:00
 -- url     : https://prove2.me/theorems/8bbe7a18-d5c0-50e2-b3f0-46cf2eaf753e

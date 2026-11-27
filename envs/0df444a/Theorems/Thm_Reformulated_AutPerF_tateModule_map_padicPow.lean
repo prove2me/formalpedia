@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_tateModule_map_padicPow
 -- name    : Reformulated.AutPerF.tateModule.map_padicPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:33:15.220693+00:00
 -- url     : https://prove2.me/theorems/44522a99-e7ad-4ec6-8cfe-92122b4e36cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_ratioVd_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.DS.ratioVd_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:17.568067+00:00
 -- url     : https://prove2.me/theorems/3f06d1d0-3e6e-5639-8567-68e4ee29b7cc

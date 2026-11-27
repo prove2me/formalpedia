@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfB_ball_cmp
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfB.ball_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:48:54.229643+00:00
 -- url     : https://prove2.me/theorems/8f2b6738-a41d-4cc8-966d-577a518c9a0b

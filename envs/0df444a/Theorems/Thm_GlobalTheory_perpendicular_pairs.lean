@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perpendicular_pairs
 -- name    : GlobalTheory.perpendicular_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:36.847043+00:00
 -- url     : https://prove2.me/theorems/c152b194-355e-4600-adbf-08218b884126

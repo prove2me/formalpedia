@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsQuad_triv_fixed
 -- name    : GlobalTheory.WeilM.IsQuad.triv_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:36.006894+00:00
 -- url     : https://prove2.me/theorems/dffd7ccb-376a-5504-ae78-8b4001dbdc5c

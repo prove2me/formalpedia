@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightOfPoint_hyps_9e48d0dd8082
 -- name    : P2M_GroundTheory_Heights__Heights_heightOfPoint_hyps_9e48d0dd8082
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:04.851322+00:00
 -- url     : https://prove2.me/theorems/dc27b26c-da50-4f88-a85d-65a343920707

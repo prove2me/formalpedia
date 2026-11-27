@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitArchSum_proof_14c23807f426
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitArchSum_proof_14c23807f426
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:17.65053+00:00
 -- url     : https://prove2.me/theorems/87b11f65-bf22-5ffe-aa12-7ec323a0987a

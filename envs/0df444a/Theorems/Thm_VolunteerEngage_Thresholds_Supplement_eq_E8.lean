@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Thresholds_Supplement_eq_E8
 -- name    : VolunteerEngage.Thresholds.Supplement.eq_E8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:12:34.73517+00:00
 -- url     : https://prove2.me/theorems/06563afc-de09-4ac0-9ddc-450b3d90dec9

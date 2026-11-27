@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_bNormSq_le_of_pts__7a53624dfdef
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_bNormSq_le_of_pts__7a53624dfdef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:00:40.492434+00:00
 -- url     : https://prove2.me/theorems/e08b2320-1d1d-477e-a339-b7cda04f5bef

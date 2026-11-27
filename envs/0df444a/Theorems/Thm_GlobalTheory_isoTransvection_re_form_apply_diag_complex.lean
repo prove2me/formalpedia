@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_re_form_apply_diag_complex
 -- name    : GlobalTheory.isoTransvection.re_form_apply_diag_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:42.464927+00:00
 -- url     : https://prove2.me/theorems/8c365af7-9757-48e2-9e22-f82dd85f3ad7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_isPsh_sup_thm
 -- name    : ReciprocityTheory.AnForm.A.isPsh_sup_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:58.769604+00:00
 -- url     : https://prove2.me/theorems/8585bfe8-b43c-5aba-8f37-07d36f43c857

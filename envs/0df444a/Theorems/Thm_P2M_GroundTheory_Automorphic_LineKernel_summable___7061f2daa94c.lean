@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_LineKernel_summable___7061f2daa94c
 -- name    : P2M_GroundTheory_Automorphic_LineKernel_summable___7061f2daa94c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:35.942107+00:00
 -- url     : https://prove2.me/theorems/76507e4e-0afd-5aac-bfc1-9ce8c30144e3

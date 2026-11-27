@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IndefR_Fin_Four_IsLev_Heisenberg__83ee5bc11300
 -- name    : P2M_Formalism_IndefR_Fin_Four_IsLev_Heisenberg__83ee5bc11300
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:32.152898+00:00
 -- url     : https://prove2.me/theorems/df67629a-c608-54c4-8402-76f13a313cf0

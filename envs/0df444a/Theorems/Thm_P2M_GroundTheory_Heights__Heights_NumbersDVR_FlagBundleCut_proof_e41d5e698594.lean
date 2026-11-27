@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleCut_proof_e41d5e698594
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleCut_proof_e41d5e698594
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:11.487705+00:00
 -- url     : https://prove2.me/theorems/7e2c0311-6733-47d6-baa9-58fce14ac07a

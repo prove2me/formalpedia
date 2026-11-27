@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TorusConst_aevalTower_apply__915f1179e9a5
 -- name    : P2M_GlobalTheory_TorusConst_aevalTower_apply__915f1179e9a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:09.5381+00:00
 -- url     : https://prove2.me/theorems/6660b96a-fda7-4414-a4a4-bb5cedc3693d

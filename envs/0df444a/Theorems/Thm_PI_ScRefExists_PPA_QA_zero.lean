@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_QA_zero
 -- name    : PI.ScRefExists.PPA.QA_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:55:15.741625+00:00
 -- url     : https://prove2.me/theorems/fc49895e-bd05-48f4-9a46-8a7983f3eefb

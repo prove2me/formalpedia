@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_projectiveLineCoord_one
 -- name    : ReciprocityTheory.AnForm.R.projectiveLineCoord_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:03:51.007799+00:00
 -- url     : https://prove2.me/theorems/892f3aa4-787f-4c67-9789-27b4973814af

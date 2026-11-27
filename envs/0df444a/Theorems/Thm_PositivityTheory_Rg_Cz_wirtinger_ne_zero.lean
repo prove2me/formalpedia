@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_wirtinger_ne_zero
 -- name    : PositivityTheory.Rg.Cz.wirtinger_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:14.989998+00:00
 -- url     : https://prove2.me/theorems/7d318c5e-ffa3-5ddd-9e7e-1b5a2d032164

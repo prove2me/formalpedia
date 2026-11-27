@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsionCharacter_ext_and_exists_of_integral_points
 -- name    : GlobalTheory.torsionCharacter_ext_and_exists_of_integral_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:57.700525+00:00
 -- url     : https://prove2.me/theorems/588524ba-a457-4956-ba92-ea28b5aa6e59

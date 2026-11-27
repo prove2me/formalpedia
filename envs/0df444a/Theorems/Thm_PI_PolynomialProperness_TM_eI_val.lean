@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_eI_val
 -- name    : PI.PolynomialProperness.TM.eI_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:36.367266+00:00
 -- url     : https://prove2.me/theorems/1525a27a-3cd3-581d-9502-b7a5a0ecf775

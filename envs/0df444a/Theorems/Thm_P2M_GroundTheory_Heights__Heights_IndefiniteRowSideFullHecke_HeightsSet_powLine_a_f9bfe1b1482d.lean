@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_powLine_a_f9bfe1b1482d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_powLine_a_f9bfe1b1482d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:24.16366+00:00
 -- url     : https://prove2.me/theorems/e00ff43f-8349-49fe-b5b7-520f34ee66c9

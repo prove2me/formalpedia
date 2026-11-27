@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGL_not_isCuspidal_trivial
 -- name    : GlobalTheory.FiniteGL.not_isCuspidal_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:10:23.528426+00:00
 -- url     : https://prove2.me/theorems/970ad5ea-3e39-5e11-94df-465f8df73f8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GridSum_proof_e4a7099c470c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GridSum_proof_e4a7099c470c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:13:37.318269+00:00
 -- url     : https://prove2.me/theorems/da14fdea-8087-4fa6-8e35-dbd7240443d7

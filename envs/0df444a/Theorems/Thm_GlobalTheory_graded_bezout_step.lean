@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graded_bezout_step
 -- name    : GlobalTheory.graded_bezout_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:50:40.188616+00:00
 -- url     : https://prove2.me/theorems/42834993-b137-46d8-bc45-0a79a4bb014a

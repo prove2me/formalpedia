@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumProjDimUpper_proof_8df0a829317e
 -- name    : P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumProjDimUpper_proof_8df0a829317e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:16.814579+00:00
 -- url     : https://prove2.me/theorems/1316dbb4-eaa6-4e1d-a6a2-d93df39556d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_conj_smul
 -- name    : GlobalTheory.UU.SecMod.conj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:00.754293+00:00
 -- url     : https://prove2.me/theorems/3b0e3dd4-c470-532b-9c22-64a127fe536e

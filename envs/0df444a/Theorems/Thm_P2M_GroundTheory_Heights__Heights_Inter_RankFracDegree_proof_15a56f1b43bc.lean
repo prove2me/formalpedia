@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RankFracDegree_proof_15a56f1b43bc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RankFracDegree_proof_15a56f1b43bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:25:39.910419+00:00
 -- url     : https://prove2.me/theorems/286e2bc3-8d54-5f6e-bcbf-96f9a602ec17

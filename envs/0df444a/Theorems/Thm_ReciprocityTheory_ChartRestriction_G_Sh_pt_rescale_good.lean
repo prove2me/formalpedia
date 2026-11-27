@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_rescale_good
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_rescale_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:38.662822+00:00
 -- url     : https://prove2.me/theorems/983c6b66-ef70-4272-a484-45c568f0190e

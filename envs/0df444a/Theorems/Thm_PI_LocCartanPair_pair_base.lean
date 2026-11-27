@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocCartanPair_pair_base
 -- name    : PI.LocCartanPair.pair_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:12.897036+00:00
 -- url     : https://prove2.me/theorems/124d32e4-e79e-5c80-99fc-f487db8b39a5

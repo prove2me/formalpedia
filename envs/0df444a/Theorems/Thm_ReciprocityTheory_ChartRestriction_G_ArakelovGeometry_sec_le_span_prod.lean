@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sec_le_span_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sec_le_span_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:00:47.342783+00:00
 -- url     : https://prove2.me/theorems/a95efd35-4107-4b04-a5f8-417005204ffc

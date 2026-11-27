@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CycleSplit_proof_9966175675a8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CycleSplit_proof_9966175675a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:28:51.323525+00:00
 -- url     : https://prove2.me/theorems/baef83aa-ce2d-5d0f-8471-4d2b33a58e03

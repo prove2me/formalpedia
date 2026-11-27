@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qf27_aux2
 -- name    : UpperTheory.Reformulated.B.Qf27.aux2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:21.029939+00:00
 -- url     : https://prove2.me/theorems/d80a3501-d887-5d4c-9860-a9f0f19d509c

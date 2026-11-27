@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_kaehlerOrd_smul
 -- name    : GroundTheory.Arith.SchemeCoh.kaehlerOrd_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:32.155516+00:00
 -- url     : https://prove2.me/theorems/b3085659-4c1e-4473-a068-ee2db1beef51

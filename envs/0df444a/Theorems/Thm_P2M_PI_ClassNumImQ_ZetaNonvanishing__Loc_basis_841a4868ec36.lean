@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__Loc_basis_841a4868ec36
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__Loc_basis_841a4868ec36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:08.720036+00:00
 -- url     : https://prove2.me/theorems/17bdf7fa-e050-43d8-97c8-aab58744e884

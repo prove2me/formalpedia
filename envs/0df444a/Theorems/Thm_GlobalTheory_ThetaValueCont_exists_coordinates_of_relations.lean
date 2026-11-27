@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaValueCont_exists_coordinates_of_relations
 -- name    : GlobalTheory.ThetaValueCont.exists_coordinates_of_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:20.097612+00:00
 -- url     : https://prove2.me/theorems/324b8626-f901-47a3-b8ee-e1e737d44a29

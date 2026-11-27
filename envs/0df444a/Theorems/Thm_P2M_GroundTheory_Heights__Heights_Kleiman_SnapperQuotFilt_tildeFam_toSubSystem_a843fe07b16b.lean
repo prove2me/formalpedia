@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_tildeFam_toSubSystem_a843fe07b16b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotFilt_tildeFam_toSubSystem_a843fe07b16b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:30:37.433548+00:00
 -- url     : https://prove2.me/theorems/bfd27fc0-652a-5d2b-a376-4582f939995b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_isSmoothSection_localizedSection
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.isSmoothSection_localizedSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:37:12.833743+00:00
 -- url     : https://prove2.me/theorems/643d1793-131e-4bd4-9701-38586f4ad1e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_TateModule_map_apply
 -- name    : GroundTheory.Arith.Abelian.TateModule.map_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:39.114412+00:00
 -- url     : https://prove2.me/theorems/c6d45e1e-b00c-56c8-b372-75c5e39053fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_proof_9412c221d80a
 -- name    : P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_proof_9412c221d80a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:24.089086+00:00
 -- url     : https://prove2.me/theorems/7da6e6d1-8d1c-4b6c-a0ea-fb4e79be51e7

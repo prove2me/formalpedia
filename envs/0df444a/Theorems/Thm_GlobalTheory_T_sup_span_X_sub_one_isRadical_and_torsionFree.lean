@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sup_span_X_sub_one_isRadical_and_torsionFree
 -- name    : GlobalTheory.T.sup_span_X_sub_one_isRadical_and_torsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:27.876031+00:00
 -- url     : https://prove2.me/theorems/a7b9f3ee-2244-537e-bdd5-294aa1b83604

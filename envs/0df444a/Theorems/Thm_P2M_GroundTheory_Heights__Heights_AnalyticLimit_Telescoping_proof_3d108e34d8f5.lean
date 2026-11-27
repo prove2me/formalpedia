@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_Telescoping_proof_3d108e34d8f5
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_Telescoping_proof_3d108e34d8f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:31:09.843233+00:00
 -- url     : https://prove2.me/theorems/f9299a60-1548-4a99-b2df-7d7c6ba13fed

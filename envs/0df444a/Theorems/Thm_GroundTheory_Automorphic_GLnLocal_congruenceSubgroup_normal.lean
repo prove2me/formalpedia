@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_congruenceSubgroup_normal
 -- name    : GroundTheory.Automorphic.GLnLocal.congruenceSubgroup_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:41.800318+00:00
 -- url     : https://prove2.me/theorems/963783a7-8a75-4e48-a5dc-5d8b4170de01

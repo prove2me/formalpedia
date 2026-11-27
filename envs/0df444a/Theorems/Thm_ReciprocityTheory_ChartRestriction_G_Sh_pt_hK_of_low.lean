@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_pt_hK_of_low
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.pt_hK_of_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:15:00.311293+00:00
 -- url     : https://prove2.me/theorems/35df19bb-5095-4a3f-9526-f5b5fe7b4f69

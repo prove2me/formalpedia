@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_EtaleFamily_hasDerivAt_eval_Hom_line_66716b5c4357
 -- name    : P2M_GlobalTheory_EtaleFamily_hasDerivAt_eval_Hom_line_66716b5c4357
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:59.311568+00:00
 -- url     : https://prove2.me/theorems/013fba81-80ad-4416-956f-a7794de284d0

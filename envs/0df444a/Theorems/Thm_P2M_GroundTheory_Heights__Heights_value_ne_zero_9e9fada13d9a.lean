@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_value_ne_zero_9e9fada13d9a
 -- name    : P2M_GroundTheory_Heights__Heights_value_ne_zero_9e9fada13d9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:48.77481+00:00
 -- url     : https://prove2.me/theorems/020b24cc-dd71-5966-9f0b-9c6395650078

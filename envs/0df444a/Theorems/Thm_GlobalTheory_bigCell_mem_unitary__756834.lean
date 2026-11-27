@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bigCell_mem_unitary__756834
 -- name    : GlobalTheory.bigCell_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:28.520802+00:00
 -- url     : https://prove2.me/theorems/756834f7-a8ae-481a-b44f-e8995eac4ff0

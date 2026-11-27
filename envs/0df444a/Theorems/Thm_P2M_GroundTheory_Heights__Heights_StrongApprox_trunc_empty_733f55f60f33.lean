@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_trunc_empty_733f55f60f33
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_trunc_empty_733f55f60f33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:39:59.982722+00:00
 -- url     : https://prove2.me/theorems/380bc8f3-a050-4cd2-bd8b-4efaa1d0a98f

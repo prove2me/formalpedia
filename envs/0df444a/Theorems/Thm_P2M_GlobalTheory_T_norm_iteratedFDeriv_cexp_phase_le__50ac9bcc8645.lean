@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_norm_iteratedFDeriv_cexp_phase_le__50ac9bcc8645
 -- name    : P2M_GlobalTheory_T_norm_iteratedFDeriv_cexp_phase_le__50ac9bcc8645
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:51.000827+00:00
 -- url     : https://prove2.me/theorems/2c4c4e7c-9815-43ae-b451-8cbf994ce74e

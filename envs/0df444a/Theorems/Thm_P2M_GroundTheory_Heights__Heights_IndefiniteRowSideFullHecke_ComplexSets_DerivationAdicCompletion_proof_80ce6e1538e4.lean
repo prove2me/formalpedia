@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_DerivationAdicCompletion_proof_80ce6e1538e4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_DerivationAdicCompletion_proof_80ce6e1538e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:17:08.239651+00:00
 -- url     : https://prove2.me/theorems/109be3da-c680-42a2-b463-8db3df8481e9

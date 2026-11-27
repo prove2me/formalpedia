@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TX_phi_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TX.phi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:14:11.497318+00:00
 -- url     : https://prove2.me/theorems/3a0c6b89-3bf3-5a62-b63c-5dc3ae4f8cfa

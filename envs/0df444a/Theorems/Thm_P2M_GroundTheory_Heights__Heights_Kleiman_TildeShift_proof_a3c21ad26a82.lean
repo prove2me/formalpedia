@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TildeShift_proof_a3c21ad26a82
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TildeShift_proof_a3c21ad26a82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:30:27.812+00:00
 -- url     : https://prove2.me/theorems/6281550f-a800-546d-9ec7-d469efca58e7

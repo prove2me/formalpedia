@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_unitaryCoords_apply
 -- name    : GroundTheory.Automorphic.unitaryCoords_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:12.183573+00:00
 -- url     : https://prove2.me/theorems/bd976adc-45c1-467d-b85f-9a9e16b963f7

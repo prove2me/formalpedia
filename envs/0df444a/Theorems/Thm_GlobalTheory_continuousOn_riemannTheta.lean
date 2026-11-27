@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousOn_riemannTheta
 -- name    : GlobalTheory.continuousOn_riemannTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:18.82551+00:00
 -- url     : https://prove2.me/theorems/6478284d-f190-48aa-b651-5101e41fa242

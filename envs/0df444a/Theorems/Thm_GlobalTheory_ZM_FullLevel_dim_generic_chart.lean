@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FullLevel_dim_generic_chart
 -- name    : GlobalTheory.ZM.FullLevel.dim_generic_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:36.970112+00:00
 -- url     : https://prove2.me/theorems/56fddf65-8294-42b6-84ff-1d11584e7b62

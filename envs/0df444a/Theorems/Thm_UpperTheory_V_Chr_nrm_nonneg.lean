@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_nrm_nonneg
 -- name    : UpperTheory.V.Chr.nrm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:18.295766+00:00
 -- url     : https://prove2.me/theorems/c1717273-76b6-4b39-8bed-c3584c9e3c4c

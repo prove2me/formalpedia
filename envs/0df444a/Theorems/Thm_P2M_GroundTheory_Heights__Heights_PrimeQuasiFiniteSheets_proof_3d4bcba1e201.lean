@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_proof_3d4bcba1e201
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_proof_3d4bcba1e201
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:12.071134+00:00
 -- url     : https://prove2.me/theorems/32f090f7-6429-5749-81ca-220c0dba3cb9

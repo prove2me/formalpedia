@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_smulRingHom_apply
 -- name    : GroundTheory.Arith.SchemeCoh.smulRingHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:04.8294+00:00
 -- url     : https://prove2.me/theorems/3d42c932-4236-56d2-a2af-f61edcefeccb

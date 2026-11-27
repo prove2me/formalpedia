@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ideleClassNorm_ideleClassNorm
 -- name    : GroundTheory.Global.ideleClassNorm_ideleClassNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:46.305137+00:00
 -- url     : https://prove2.me/theorems/3a979c36-ed37-541e-a71c-9608f539057b

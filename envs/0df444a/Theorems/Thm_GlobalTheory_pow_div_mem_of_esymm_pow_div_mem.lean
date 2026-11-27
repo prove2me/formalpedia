@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_div_mem_of_esymm_pow_div_mem
 -- name    : GlobalTheory.pow_div_mem_of_esymm_pow_div_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:51.029245+00:00
 -- url     : https://prove2.me/theorems/17ec3599-9d8d-4ccb-9999-7074593dcecc

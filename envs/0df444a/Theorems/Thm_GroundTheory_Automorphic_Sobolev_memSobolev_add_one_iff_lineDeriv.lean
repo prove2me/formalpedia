@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memSobolev_add_one_iff_lineDeriv
 -- name    : GroundTheory.Automorphic.Sobolev.memSobolev_add_one_iff_lineDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:54.0628+00:00
 -- url     : https://prove2.me/theorems/dc6fdb3a-4e79-40e4-ba9d-b039ec012afd

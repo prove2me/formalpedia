@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_herm_basis_orthonormal
 -- name    : GlobalTheory.UnitLemma.herm_basis_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:24.471738+00:00
 -- url     : https://prove2.me/theorems/ce1007ac-33a8-46ea-bd74-65875fb7d94d

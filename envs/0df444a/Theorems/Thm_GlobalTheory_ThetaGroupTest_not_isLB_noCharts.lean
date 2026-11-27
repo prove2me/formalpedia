@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupTest_not_isLB_noCharts
 -- name    : GlobalTheory.ThetaGroupTest.not_isLB_noCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:04.928041+00:00
 -- url     : https://prove2.me/theorems/712da6d7-adf8-576e-958d-c4407e7dfb62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isTateDelta_tateCoresLE
 -- name    : GroundTheory.GroupCoh.isTateDelta_tateCoresLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:30.431602+00:00
 -- url     : https://prove2.me/theorems/9dbadd5e-05c0-517b-9253-e8601b2ed621

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_proof_8ce262b66c96
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_proof_8ce262b66c96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:55.610157+00:00
 -- url     : https://prove2.me/theorems/ee379808-e845-5bcb-91a8-ab42bd62e1a1

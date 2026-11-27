@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_eq_section
 -- name    : Reformulated.AutPerF.BdRPlus.eq_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:47.61532+00:00
 -- url     : https://prove2.me/theorems/fc616e18-4bfc-4180-bf7e-aedfed2644d9

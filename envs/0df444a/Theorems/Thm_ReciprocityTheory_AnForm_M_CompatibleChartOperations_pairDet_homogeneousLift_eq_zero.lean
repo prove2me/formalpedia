@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_pairDet_homogeneousLift_eq_zero
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.pairDet_homogeneousLift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:25.972662+00:00
 -- url     : https://prove2.me/theorems/80ab87e7-1b7a-58b4-9c76-6e8e5b3b0759

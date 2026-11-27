@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_not_isProper_of_isAnisotropic_5cf04831993b
 -- name    : P2M_GroundTheory_Heights__Theta_not_isProper_of_isAnisotropic_5cf04831993b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:09.8728+00:00
 -- url     : https://prove2.me/theorems/672eca2b-44b4-5640-968c-a583308c246b

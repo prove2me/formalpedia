@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodHermValue_proof_20ab0c32a15f
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodHermValue_proof_20ab0c32a15f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:26.825188+00:00
 -- url     : https://prove2.me/theorems/2fa8782b-33e4-5a2d-aee2-30a2cbc09c64

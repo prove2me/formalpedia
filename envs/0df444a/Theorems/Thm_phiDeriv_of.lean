@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_phiDeriv_of
 -- name    : phiDeriv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:04:28.688682+00:00
 -- url     : https://prove2.me/theorems/2008fdfd-7525-4a52-a468-0082393523fe

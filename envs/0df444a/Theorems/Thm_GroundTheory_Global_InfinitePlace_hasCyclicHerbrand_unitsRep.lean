@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_hasCyclicHerbrand_unitsRep
 -- name    : GroundTheory.Global.InfinitePlace.hasCyclicHerbrand_unitsRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:58.6102+00:00
 -- url     : https://prove2.me/theorems/816f05d4-582e-4636-a50a-b58cbd21f054

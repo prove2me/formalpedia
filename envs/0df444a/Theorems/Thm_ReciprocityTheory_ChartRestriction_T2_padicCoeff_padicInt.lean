@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_padicCoeff_padicInt
 -- name    : ReciprocityTheory.ChartRestriction.T2.padicCoeff_padicInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:31:33.953846+00:00
 -- url     : https://prove2.me/theorems/d36e68d7-23cc-4ab9-9c77-0ea865d7f7df

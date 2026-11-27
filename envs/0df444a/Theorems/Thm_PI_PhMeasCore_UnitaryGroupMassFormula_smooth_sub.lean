@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhMeasCore_UnitaryGroupMassFormula_smooth_sub
 -- name    : PI.PhMeasCore.UnitaryGroupMassFormula.smooth_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:18.739638+00:00
 -- url     : https://prove2.me/theorems/65289798-453f-4db1-a796-b1beaf12d3e0

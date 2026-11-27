@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_zariskiDense_iff_orbitIdeal_c5276589b00e
 -- name    : P2M_GroundTheory_Heights__Heights_zariskiDense_iff_orbitIdeal_c5276589b00e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:54:54.958958+00:00
 -- url     : https://prove2.me/theorems/7f515554-acf4-4a96-856a-0e918ad3959e

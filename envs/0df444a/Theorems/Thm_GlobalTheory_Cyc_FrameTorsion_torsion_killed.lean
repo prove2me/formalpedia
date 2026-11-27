@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FrameTorsion_torsion_killed
 -- name    : GlobalTheory.Cyc.FrameTorsion.torsion_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:14:03.752719+00:00
 -- url     : https://prove2.me/theorems/a3b3ae2a-0ab5-517a-b5be-e3af404c87f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LeftExpansion_proof_1e14fe6ae82d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LeftExpansion_proof_1e14fe6ae82d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:33:14.010195+00:00
 -- url     : https://prove2.me/theorems/ab832092-c505-468d-857a-ec9345dcbe74

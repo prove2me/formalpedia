@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_oAct_int
 -- name    : GlobalTheory.exists_oAct_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:33.600982+00:00
 -- url     : https://prove2.me/theorems/a4402000-0397-4bab-af09-600933b79279

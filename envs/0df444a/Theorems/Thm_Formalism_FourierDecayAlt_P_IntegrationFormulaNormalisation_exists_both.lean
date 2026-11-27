@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_IntegrationFormulaNormalisation_exists_both
 -- name    : Formalism.FourierDecayAlt.P.IntegrationFormulaNormalisation.exists_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:16.515809+00:00
 -- url     : https://prove2.me/theorems/2ebbc2ac-2ad8-4335-b5cf-06a3ad44732f

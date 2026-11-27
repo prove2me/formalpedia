@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sum_mul_eval_two_points_of_free_finite_quotient
 -- name    : GlobalTheory.T.exists_sum_mul_eval_two_points_of_free_finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:23:12.353747+00:00
 -- url     : https://prove2.me/theorems/e172f73d-185c-5f25-b7b8-09438a2c2651

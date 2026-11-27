@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_valued_localUniformizer
 -- name    : GroundTheory.ProfCoh.valued_localUniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:17.449144+00:00
 -- url     : https://prove2.me/theorems/4674ca1d-7411-588c-814e-bb529d6da982

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_log_relIndex_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.log_relIndex_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:06:01.584239+00:00
 -- url     : https://prove2.me/theorems/99e96e0b-df60-4476-bff6-ea92b4450766

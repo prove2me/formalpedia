@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__quadratic_example_rank_two_package_4ea384e90e84
 -- name    : P2M_Formalism_L2_Indef_Examples__quadratic_example_rank_two_package_4ea384e90e84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:00.96044+00:00
 -- url     : https://prove2.me/theorems/be17a1ea-c012-5f8a-ae9a-5613842a965b

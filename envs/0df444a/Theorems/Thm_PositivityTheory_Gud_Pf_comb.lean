@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Gud_Pf_comb
 -- name    : PositivityTheory.Gud.Pf.comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:46.115862+00:00
 -- url     : https://prove2.me/theorems/db8e76cd-91d2-5320-b1bc-b386c7bf30c2

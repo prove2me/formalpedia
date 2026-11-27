@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_skoda
 -- name    : ReciprocityTheory.L2DbarEstimates.H.skoda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:31:21.263792+00:00
 -- url     : https://prove2.me/theorems/6bbc5086-3b59-45e7-bb6a-7b56d245e5a1

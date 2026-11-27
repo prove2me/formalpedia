@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_subrepIncl_apply
 -- name    : GroundTheory.Automorphic.Parabolic.subrepIncl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:32:26.973504+00:00
 -- url     : https://prove2.me/theorems/37f5ca95-eb83-4447-8e22-ff16fd075e94

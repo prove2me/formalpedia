@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_mulVec_inj_of_det
 -- name    : ReciprocityTheory.PGsh.Up.mulVec_inj_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:30:38.540453+00:00
 -- url     : https://prove2.me/theorems/15b40d03-bf95-44c8-88b6-00df3dceec45

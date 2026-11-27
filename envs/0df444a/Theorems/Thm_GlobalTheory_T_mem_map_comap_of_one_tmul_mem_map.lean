@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_map_comap_of_one_tmul_mem_map
 -- name    : GlobalTheory.T.mem_map_comap_of_one_tmul_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:16.112807+00:00
 -- url     : https://prove2.me/theorems/bc011ab1-7f1f-545a-abd8-14487eacac09

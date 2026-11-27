@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRegularNull_proof_fc9ef9b3bcd2
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRegularNull_proof_fc9ef9b3bcd2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:57.918908+00:00
 -- url     : https://prove2.me/theorems/2c25531b-d953-4471-99c8-978076072bdf

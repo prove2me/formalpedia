@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transfer_of_section_and_wall_laws
 -- name    : GlobalTheory.T.transfer_of_section_and_wall_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:40:03.09143+00:00
 -- url     : https://prove2.me/theorems/478d64aa-fc59-5653-b87c-872da48b0281

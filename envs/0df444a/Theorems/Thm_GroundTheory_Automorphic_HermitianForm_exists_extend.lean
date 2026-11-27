@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_exists_extend
 -- name    : GroundTheory.Automorphic.HermitianForm.exists_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:53:43.488678+00:00
 -- url     : https://prove2.me/theorems/37b33d8d-d6b9-4315-83cb-13bd66d7d63d

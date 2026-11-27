@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_EffectiveHS_EffectiveHilbertSamuelJetSecond_proof_3834072d8eb4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_EffectiveHS_EffectiveHilbertSamuelJetSecond_proof_3834072d8eb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:24:06.763272+00:00
 -- url     : https://prove2.me/theorems/bba73be1-5715-5b34-9285-dae37f189ea2

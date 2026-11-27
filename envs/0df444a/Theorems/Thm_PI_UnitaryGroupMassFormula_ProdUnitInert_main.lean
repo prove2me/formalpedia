@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_main
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:18.852893+00:00
 -- url     : https://prove2.me/theorems/353095c8-dc4c-4787-b056-bfee6b0327f7

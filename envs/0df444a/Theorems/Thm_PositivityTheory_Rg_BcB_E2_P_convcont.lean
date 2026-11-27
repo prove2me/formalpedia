@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_convcont
 -- name    : PositivityTheory.Rg.BcB.E2.P.convcont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:11.961261+00:00
 -- url     : https://prove2.me/theorems/14e4bce7-5b6c-4a9e-bfe4-60c2d2e56c08

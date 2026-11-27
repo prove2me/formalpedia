@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_SlopeMaxExtension_hyps_inhabited_55d00b347646
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_SlopeMaxExtension_hyps_inhabited_55d00b347646
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:24:00.389255+00:00
 -- url     : https://prove2.me/theorems/5047a3cb-34c2-5713-bcdf-c11491ac8c40

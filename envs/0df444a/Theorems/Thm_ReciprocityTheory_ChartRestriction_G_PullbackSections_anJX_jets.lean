@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_anJX_jets
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.anJX_jets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:43:15.009693+00:00
 -- url     : https://prove2.me/theorems/5e7d2222-4569-5df7-8e8d-47d3e003b939

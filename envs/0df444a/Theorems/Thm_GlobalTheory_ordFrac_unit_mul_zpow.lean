@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ordFrac_unit_mul_zpow
 -- name    : GlobalTheory.ordFrac_unit_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:20.047155+00:00
 -- url     : https://prove2.me/theorems/13d0e2f1-35c6-5df7-9b74-5cd14c7b32e9

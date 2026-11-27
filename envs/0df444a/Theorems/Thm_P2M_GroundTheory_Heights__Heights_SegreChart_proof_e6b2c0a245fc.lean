@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreChart_proof_e6b2c0a245fc
 -- name    : P2M_GroundTheory_Heights__Heights_SegreChart_proof_e6b2c0a245fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:39:39.182894+00:00
 -- url     : https://prove2.me/theorems/bc847da0-b6ca-57dc-8a4c-2f95cfc44107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_tate_rational_frac
 -- name    : ReciprocityTheory.ChartRestriction.T2.tate_rational_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:30:37.983569+00:00
 -- url     : https://prove2.me/theorems/e59c90d2-63a4-4ebe-89cb-78e46b7bbafa

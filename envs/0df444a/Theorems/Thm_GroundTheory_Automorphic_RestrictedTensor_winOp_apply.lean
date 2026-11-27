@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_winOp_apply
 -- name    : GroundTheory.Automorphic.RestrictedTensor.winOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:44.791137+00:00
 -- url     : https://prove2.me/theorems/fffb788e-a831-4a36-83c1-7c3300bc5029

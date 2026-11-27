@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocNoetherian_proof_48c123346221
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocNoetherian_proof_48c123346221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:11.120137+00:00
 -- url     : https://prove2.me/theorems/d95ed3b0-e37b-5b4b-8d2d-0c8aec5f1412

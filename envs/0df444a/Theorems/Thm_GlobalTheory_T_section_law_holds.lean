@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_section_law_holds
 -- name    : GlobalTheory.T.section_law_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:30.841993+00:00
 -- url     : https://prove2.me/theorems/25b1bd3b-2b73-5313-8a37-ddfa2cbe6e33

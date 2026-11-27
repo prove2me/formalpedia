@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaWeight_one_le_size
 -- name    : GlobalTheory.ThetaWeight.one_le_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:23.209691+00:00
 -- url     : https://prove2.me/theorems/4b2aa416-b9e1-54f9-83c1-ffb9b6bea6a8

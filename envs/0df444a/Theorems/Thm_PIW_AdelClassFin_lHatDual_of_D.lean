@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lHatDual_of_D
 -- name    : PIW.AdelClassFin.lHatDual_of_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:13.053078+00:00
 -- url     : https://prove2.me/theorems/77734b4d-f567-5cd1-a8b2-582939549c00

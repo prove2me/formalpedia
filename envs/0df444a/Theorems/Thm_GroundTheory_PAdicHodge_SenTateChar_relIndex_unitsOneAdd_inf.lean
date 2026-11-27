@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_relIndex_unitsOneAdd_inf
 -- name    : GroundTheory.PAdicHodge.SenTateChar.relIndex_unitsOneAdd_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:16.461994+00:00
 -- url     : https://prove2.me/theorems/e147aa81-f012-4e9f-a25b-1ff2dce05e0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_isAlgHecke_one
 -- name    : Neutral.B1.isAlgHecke_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:51.228205+00:00
 -- url     : https://prove2.me/theorems/7993d66e-19af-4cf1-84bd-6c4efb6c30a4

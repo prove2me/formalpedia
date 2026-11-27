@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearIndependent_one_real_4f917615ceb5
 -- name    : P2M_GroundTheory_Heights__Heights_linearIndependent_one_real_4f917615ceb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:47:31.962238+00:00
 -- url     : https://prove2.me/theorems/bd81bf13-f2b1-5908-885e-e913d21c99c4

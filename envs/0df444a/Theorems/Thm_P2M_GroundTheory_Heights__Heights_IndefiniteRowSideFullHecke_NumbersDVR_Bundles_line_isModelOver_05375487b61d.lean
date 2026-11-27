@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_line_isModelOver_05375487b61d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_line_isModelOver_05375487b61d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:25:21.180892+00:00
 -- url     : https://prove2.me/theorems/8c520980-50c1-51be-bb6e-5751dcb9b096

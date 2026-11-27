@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKInhab_triv_ktype
 -- name    : PI.WeylForKInhab.triv_ktype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:56.794491+00:00
 -- url     : https://prove2.me/theorems/9cc4f502-e75f-4ca6-a795-5c8108756f3a

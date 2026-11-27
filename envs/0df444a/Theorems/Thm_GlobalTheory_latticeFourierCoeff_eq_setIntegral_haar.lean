@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeFourierCoeff_eq_setIntegral_haar
 -- name    : GlobalTheory.latticeFourierCoeff_eq_setIntegral_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:14.037864+00:00
 -- url     : https://prove2.me/theorems/54b1ca90-9f39-5ddb-932f-0038471b1654

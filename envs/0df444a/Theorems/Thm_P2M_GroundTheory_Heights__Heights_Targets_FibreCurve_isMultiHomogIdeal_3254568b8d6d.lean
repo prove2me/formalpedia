@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_FibreCurve_isMultiHomogIdeal_3254568b8d6d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_FibreCurve_isMultiHomogIdeal_3254568b8d6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:47:08.4288+00:00
 -- url     : https://prove2.me/theorems/f6d1fc5f-21c9-5fa8-959a-aae866d4eaba

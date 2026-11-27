@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateRes_comp_isoGroupCohomology
 -- name    : GroundTheory.GroupCoh.tateRes_comp_isoGroupCohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:59:44.238904+00:00
 -- url     : https://prove2.me/theorems/5e4f23ad-7bd9-42b9-b2ec-6ec40eb82b6a

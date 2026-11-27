@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveVertPointLength_proof_d843ff5f15ea
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveVertPointLength_proof_d843ff5f15ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:45.512452+00:00
 -- url     : https://prove2.me/theorems/ee604d6b-1b50-42e1-84b6-0147bc8d5978

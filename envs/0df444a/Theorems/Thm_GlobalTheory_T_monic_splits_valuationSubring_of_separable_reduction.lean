@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_monic_splits_valuationSubring_of_separable_reduction
 -- name    : GlobalTheory.T.monic_splits_valuationSubring_of_separable_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:31.430642+00:00
 -- url     : https://prove2.me/theorems/fc8941e7-0740-4a43-9d92-e2ddfd85df9d

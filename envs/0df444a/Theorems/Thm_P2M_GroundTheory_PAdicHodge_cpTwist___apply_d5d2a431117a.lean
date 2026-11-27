@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_cpTwist___apply_d5d2a431117a
 -- name    : P2M_GroundTheory_PAdicHodge_cpTwist___apply_d5d2a431117a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:35.998269+00:00
 -- url     : https://prove2.me/theorems/7d8d5342-4bca-594f-b42d-a55af4351e69

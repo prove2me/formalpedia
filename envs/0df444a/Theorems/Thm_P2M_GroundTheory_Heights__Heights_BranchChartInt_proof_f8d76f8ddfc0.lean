@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchChartInt_proof_f8d76f8ddfc0
 -- name    : P2M_GroundTheory_Heights__Heights_BranchChartInt_proof_f8d76f8ddfc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:18.071955+00:00
 -- url     : https://prove2.me/theorems/8529c432-bba5-4371-b767-362f6be52528

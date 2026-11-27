@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZM_TBase_complex___c5e8033a0765
 -- name    : P2M_GlobalTheory_ZM_TBase_complex___c5e8033a0765
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:05.776816+00:00
 -- url     : https://prove2.me/theorems/8e17df5a-e506-5ab7-bf18-cf65f9b3a794

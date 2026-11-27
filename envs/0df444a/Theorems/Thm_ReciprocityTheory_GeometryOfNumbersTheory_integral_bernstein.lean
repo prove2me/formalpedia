@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_bernstein
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:23.71251+00:00
 -- url     : https://prove2.me/theorems/6edcba66-8e22-42b7-8759-f05a7e06835d

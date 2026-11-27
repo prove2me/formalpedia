@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_splitLift_of_liftParam
 -- name    : GlobalTheory.ThetaExh.Check.splitLift_of_liftParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:51.672285+00:00
 -- url     : https://prove2.me/theorems/7f878523-141d-4cf3-b5a3-10cf9c398f4a

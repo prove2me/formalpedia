@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_not_isGaloisCover_trivial
 -- name    : GlobalTheory.ZM.DwModel.not_isGaloisCover_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:44.39239+00:00
 -- url     : https://prove2.me/theorems/4b6109c7-a63a-4018-acb2-67e3aa366174

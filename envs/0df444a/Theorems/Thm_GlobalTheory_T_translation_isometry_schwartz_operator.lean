@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_translation_isometry_schwartz_operator
 -- name    : GlobalTheory.T.translation_isometry_schwartz_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:17.46932+00:00
 -- url     : https://prove2.me/theorems/471310b6-1ea3-4a6e-b2a5-fe01393238de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_HermitianDetMono_proof_e79f7e0fcefc
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_HermitianDetMono_proof_e79f7e0fcefc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:40.967317+00:00
 -- url     : https://prove2.me/theorems/00c485bb-13cf-5580-8d14-5fe795d3837c

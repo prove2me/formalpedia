@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_mat_inv_eq_9ab0c22980b2
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_mat_inv_eq_9ab0c22980b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:16:54.768185+00:00
 -- url     : https://prove2.me/theorems/92bf4ccf-c613-47bc-aad8-230368c0735e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_WDRep_conj_N
 -- name    : GlobalTheory.WeilDeligne.WDRep.conj_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:53:37.61881+00:00
 -- url     : https://prove2.me/theorems/057cebd6-a6c7-44aa-8c2e-317fb73ef5fe

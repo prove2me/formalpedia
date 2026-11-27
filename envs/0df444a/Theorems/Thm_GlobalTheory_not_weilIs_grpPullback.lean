@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_not_weilIs_grpPullback
 -- name    : GlobalTheory.not_weilIs_grpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:20.337891+00:00
 -- url     : https://prove2.me/theorems/cccb4a11-2544-597f-9f92-a6df709df7e8

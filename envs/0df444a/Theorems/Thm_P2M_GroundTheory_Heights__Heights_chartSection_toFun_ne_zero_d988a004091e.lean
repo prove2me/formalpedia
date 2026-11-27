@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartSection_toFun_ne_zero_d988a004091e
 -- name    : P2M_GroundTheory_Heights__Heights_chartSection_toFun_ne_zero_d988a004091e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:16.962052+00:00
 -- url     : https://prove2.me/theorems/f7aa06ce-a463-47fa-956e-6a73547a48b1

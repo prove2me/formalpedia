@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_ratio_smul
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.ratio_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:48.120939+00:00
 -- url     : https://prove2.me/theorems/9f5fe74c-aa37-4ebe-aada-e0ab13d61695

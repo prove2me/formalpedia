@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeLocalFlat_proof_8b24a34bf955
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeLocalFlat_proof_8b24a34bf955
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:11:28.350471+00:00
 -- url     : https://prove2.me/theorems/ead2a896-d9db-51b3-9db3-2d552abdd921

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_span_ne_top_of_discr_ne_zero
 -- name    : GlobalTheory.length_quotient_span_ne_top_of_discr_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:15.417869+00:00
 -- url     : https://prove2.me/theorems/faad82e9-6785-4103-93b7-6cef8936ba19

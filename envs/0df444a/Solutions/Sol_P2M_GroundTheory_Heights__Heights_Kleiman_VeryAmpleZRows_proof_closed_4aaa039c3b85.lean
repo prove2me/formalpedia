@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZRows_proof_closed_4aaa039c3b85
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-27T05:04:30.396262+00:00
+-- url     : https://prove2.me/submissions/48560a23-0a3b-4bb9-b0aa-a473dd551af6
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PVeryAmpleZRows
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PCechPartition
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PZChartSmul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_PZChartLocal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PVeryAmpleZRowsX
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleAffineGen_proof_1c887bca4a14
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleTwistLocal_proof_820eda5b4c8e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechPartition_proof_1bff692769a2
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_Cone_proof_4ccb95f0860f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZRows_proof_36ca6318394a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZTwist_proof_28af41600539
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZChartLocal_proof_570df861e8c8
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZChartSmul_proof_d6400f85587e
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Kleiman
+universe u v w
+namespace GroundTheory.Heights₂.Heights.Kleiman
+namespace VeryAmpleZRows
+theorem _root_.solution : VeryAmpleZRows.Statement.{u, v, w} :=
+  VeryAmpleZRows.proof CechPartition.proof ZChartSmul.proof (ZChartLocal.proof ZChartSmul.proof)
+end VeryAmpleZRows
+end GroundTheory.Heights₂.Heights.Kleiman

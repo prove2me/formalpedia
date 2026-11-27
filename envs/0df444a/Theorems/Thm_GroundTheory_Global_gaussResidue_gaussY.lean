@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_gaussResidue_gaussY
 -- name    : GroundTheory.Global.gaussResidue_gaussY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:56:14.730811+00:00
 -- url     : https://prove2.me/theorems/fe72250b-b5df-4800-bf09-8b9817d01869

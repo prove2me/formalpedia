@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_LinearChart_continuous_rightModulus
 -- name    : GroundTheory.Automorphic.Measures.LinearChart.continuous_rightModulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:26.70541+00:00
 -- url     : https://prove2.me/theorems/8c16451b-beb2-58eb-b600-f1b415ba67f2

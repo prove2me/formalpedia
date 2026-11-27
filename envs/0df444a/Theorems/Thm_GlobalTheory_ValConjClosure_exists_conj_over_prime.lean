@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValConjClosure_exists_conj_over_prime
 -- name    : GlobalTheory.ValConjClosure.exists_conj_over_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:46.269483+00:00
 -- url     : https://prove2.me/theorems/f37f5fa4-8d12-4887-bc29-8eded102903b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_AdelicQuotientData_SeparatedThetaSum_sep_sum
 -- name    : PositivityTheory.AdelicQuotientData.SeparatedThetaSum.sep_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:41.03873+00:00
 -- url     : https://prove2.me/theorems/41cdcc7e-b4b8-4f86-ace0-1cd62809ce25

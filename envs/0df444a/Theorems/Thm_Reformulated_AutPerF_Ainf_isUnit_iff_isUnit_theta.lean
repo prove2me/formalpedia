@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_isUnit_iff_isUnit_theta
 -- name    : Reformulated.AutPerF.Ainf.isUnit_iff_isUnit_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:28.342161+00:00
 -- url     : https://prove2.me/theorems/51627707-7d89-4ca0-bf73-32860adb80a1

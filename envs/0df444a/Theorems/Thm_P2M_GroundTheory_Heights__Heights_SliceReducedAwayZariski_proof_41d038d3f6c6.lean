@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceReducedAwayZariski_proof_41d038d3f6c6
 -- name    : P2M_GroundTheory_Heights__Heights_SliceReducedAwayZariski_proof_41d038d3f6c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:37.06279+00:00
 -- url     : https://prove2.me/theorems/df78111c-4153-4041-9692-53daad4418a1

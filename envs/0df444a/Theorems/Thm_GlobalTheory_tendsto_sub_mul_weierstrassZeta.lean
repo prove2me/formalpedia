@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_sub_mul_weierstrassZeta
 -- name    : GlobalTheory.tendsto_sub_mul_weierstrassZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:35.113627+00:00
 -- url     : https://prove2.me/theorems/92fd4ae0-2e3d-44b7-b76a-094ce3fcfecb

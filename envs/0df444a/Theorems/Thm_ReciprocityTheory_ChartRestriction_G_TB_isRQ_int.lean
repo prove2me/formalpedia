@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_isRQ_int
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.isRQ_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:26:12.058834+00:00
 -- url     : https://prove2.me/theorems/6bb81e66-6584-4075-9f44-949a6f057274

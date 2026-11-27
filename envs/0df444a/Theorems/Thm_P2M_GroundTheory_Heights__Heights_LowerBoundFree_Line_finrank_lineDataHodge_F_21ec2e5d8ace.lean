@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_finrank_lineDataHodge_F_21ec2e5d8ace
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_finrank_lineDataHodge_F_21ec2e5d8ace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:30:30.283577+00:00
 -- url     : https://prove2.me/theorems/25187e85-bf28-4bb1-8e64-653062ad3574

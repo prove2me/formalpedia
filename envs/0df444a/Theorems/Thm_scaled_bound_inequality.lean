@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_scaled_bound_inequality
 -- name    : scaled_bound_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:04:42.708414+00:00
 -- url     : https://prove2.me/theorems/302d0a43-7663-4d86-82c9-0ad94274b6e1

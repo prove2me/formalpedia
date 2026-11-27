@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_Supplement_quantitative_stability
 -- name    : ScenarioReduction.Redistribution.Supplement.quantitative_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:31:50.136812+00:00
 -- url     : https://prove2.me/theorems/3aeaccb5-6870-42e3-9482-30e69955df4e

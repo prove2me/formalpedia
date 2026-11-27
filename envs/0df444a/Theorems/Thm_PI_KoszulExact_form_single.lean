@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_form_single
 -- name    : PI.KoszulExact.form_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:46:31.322098+00:00
 -- url     : https://prove2.me/theorems/93bd7936-492e-5f7f-95a4-54dea61a8923

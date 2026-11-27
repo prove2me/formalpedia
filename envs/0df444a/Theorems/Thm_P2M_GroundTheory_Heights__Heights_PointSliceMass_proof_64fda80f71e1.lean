@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointSliceMass_proof_64fda80f71e1
 -- name    : P2M_GroundTheory_Heights__Heights_PointSliceMass_proof_64fda80f71e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:16.222641+00:00
 -- url     : https://prove2.me/theorems/1c510243-868e-5190-a8c0-d057f7264e66

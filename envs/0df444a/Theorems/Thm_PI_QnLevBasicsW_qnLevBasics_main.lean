@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_qnLevBasics_main
 -- name    : PI.QnLevBasicsW.qnLevBasics_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:47:36.622463+00:00
 -- url     : https://prove2.me/theorems/82820abd-32dc-526c-b984-a1ffbe7c0879

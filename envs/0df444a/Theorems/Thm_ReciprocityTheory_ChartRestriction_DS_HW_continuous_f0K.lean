@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_continuous_f0K
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.continuous_f0K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:03:21.521049+00:00
 -- url     : https://prove2.me/theorems/3f598c8a-1a6f-5b89-bd2d-b18cc2aaeaf9

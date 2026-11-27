@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_le_of_injective_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.le_of_injective_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:34:58.351328+00:00
 -- url     : https://prove2.me/theorems/b09cc70e-08db-55fb-aec4-7aefa8b0f938

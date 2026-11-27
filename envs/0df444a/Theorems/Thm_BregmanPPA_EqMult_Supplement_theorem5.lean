@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BregmanPPA_EqMult_Supplement_theorem5
 -- name    : BregmanPPA.EqMult.Supplement.theorem5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:22:03.814816+00:00
 -- url     : https://prove2.me/theorems/9d523893-4d22-46a7-b4f2-c0359e354e91

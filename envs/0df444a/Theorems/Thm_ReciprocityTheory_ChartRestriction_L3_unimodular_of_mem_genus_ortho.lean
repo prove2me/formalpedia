@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L3_unimodular_of_mem_genus_ortho
 -- name    : ReciprocityTheory.ChartRestriction.L3.unimodular_of_mem_genus_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:06.73184+00:00
 -- url     : https://prove2.me/theorems/426d6962-325a-4478-a502-f292d94d1dd7

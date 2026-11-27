@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isGKEmb_bot
 -- name    : ReciprocityTheory.ChartRestriction.DS.isGKEmb_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:11:05.188017+00:00
 -- url     : https://prove2.me/theorems/36703a3d-3e25-59b6-8251-d29a511f259b

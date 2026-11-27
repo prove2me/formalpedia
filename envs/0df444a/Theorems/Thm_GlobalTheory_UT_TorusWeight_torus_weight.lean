@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_TorusWeight_torus_weight
 -- name    : GlobalTheory.UT.TorusWeight.torus_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:42.427511+00:00
 -- url     : https://prove2.me/theorems/10a3a65f-fcca-5779-b3f9-bf2eb951bab9

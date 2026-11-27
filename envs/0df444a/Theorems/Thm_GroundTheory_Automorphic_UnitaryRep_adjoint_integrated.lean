@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_adjoint_integrated
 -- name    : GroundTheory.Automorphic.UnitaryRep.adjoint_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:47.538844+00:00
 -- url     : https://prove2.me/theorems/47912c69-ff92-4ef7-919e-885e42eae0f7

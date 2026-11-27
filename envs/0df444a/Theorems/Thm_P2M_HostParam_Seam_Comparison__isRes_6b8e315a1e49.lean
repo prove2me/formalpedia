@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_HostParam_Seam_Comparison__isRes_6b8e315a1e49
 -- name    : P2M_HostParam_Seam_Comparison__isRes_6b8e315a1e49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:24.465611+00:00
 -- url     : https://prove2.me/theorems/407b6406-ed48-4eee-b698-687201ea465e

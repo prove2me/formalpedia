@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expo_frob_indep
 -- name    : GlobalTheory.expo_frob_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:49.177184+00:00
 -- url     : https://prove2.me/theorems/090835b6-c9b4-5b54-91b6-c22f35b5359a

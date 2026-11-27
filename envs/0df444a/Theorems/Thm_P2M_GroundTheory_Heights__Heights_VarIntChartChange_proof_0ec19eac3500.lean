@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarIntChartChange_proof_0ec19eac3500
 -- name    : P2M_GroundTheory_Heights__Heights_VarIntChartChange_proof_0ec19eac3500
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:13.647745+00:00
 -- url     : https://prove2.me/theorems/2b48ec5a-6196-4c17-9770-9bbde46c71d7

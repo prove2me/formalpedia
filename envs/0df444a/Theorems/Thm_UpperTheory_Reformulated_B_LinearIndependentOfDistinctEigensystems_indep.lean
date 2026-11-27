@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_LinearIndependentOfDistinctEigensystems_indep
 -- name    : UpperTheory.Reformulated.B.LinearIndependentOfDistinctEigensystems.indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:10.932749+00:00
 -- url     : https://prove2.me/theorems/c50fe817-59ab-5732-acea-f3f33fa2b460

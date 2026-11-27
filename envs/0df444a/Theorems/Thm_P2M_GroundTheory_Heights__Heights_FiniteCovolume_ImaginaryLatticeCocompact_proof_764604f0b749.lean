@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ImaginaryLatticeCocompact_proof_764604f0b749
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ImaginaryLatticeCocompact_proof_764604f0b749
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:26:28.948121+00:00
 -- url     : https://prove2.me/theorems/16d70330-f21c-59bf-8348-6a84173a7c1a

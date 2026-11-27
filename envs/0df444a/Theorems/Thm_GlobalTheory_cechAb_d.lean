@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAb_d
 -- name    : GlobalTheory.cechAb_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:18.707725+00:00
 -- url     : https://prove2.me/theorems/7c0e565b-60d3-40de-a97e-effaca133435

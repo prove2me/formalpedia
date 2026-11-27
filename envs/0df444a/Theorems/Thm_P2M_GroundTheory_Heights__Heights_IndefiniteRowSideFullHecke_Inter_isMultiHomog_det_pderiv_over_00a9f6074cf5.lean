@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isMultiHomog_det_pderiv_over_00a9f6074cf5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isMultiHomog_det_pderiv_over_00a9f6074cf5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:17.673745+00:00
 -- url     : https://prove2.me/theorems/6bea2992-5946-482c-8b3c-b5850c6aded6

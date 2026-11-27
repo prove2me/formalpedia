@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_mvBlowup
 -- name    : ReciprocityTheory.L2DbarEstimates.mvBlowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:15.527989+00:00
 -- url     : https://prove2.me/theorems/80dfc040-d0ec-4a66-baae-e6d4e15b3878

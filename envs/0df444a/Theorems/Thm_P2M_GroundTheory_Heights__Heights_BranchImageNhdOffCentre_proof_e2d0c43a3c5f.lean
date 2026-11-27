@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchImageNhdOffCentre_proof_e2d0c43a3c5f
 -- name    : P2M_GroundTheory_Heights__Heights_BranchImageNhdOffCentre_proof_e2d0c43a3c5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:41.924948+00:00
 -- url     : https://prove2.me/theorems/5f0bc145-fffd-46ab-9fa7-7749275cc321

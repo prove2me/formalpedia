@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_tateModule_smul_ofMul
 -- name    : Reformulated.AutPerF.tateModule.smul_ofMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:59.189796+00:00
 -- url     : https://prove2.me/theorems/9db24b4b-62f9-4232-b91c-a34b2da4da4f

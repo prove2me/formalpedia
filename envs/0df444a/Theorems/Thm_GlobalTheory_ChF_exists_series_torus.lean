@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_exists_series_torus
 -- name    : GlobalTheory.ChF.exists_series_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:23:58.328858+00:00
 -- url     : https://prove2.me/theorems/a7e00e3b-f213-4c88-a658-7c36eeaa18d3

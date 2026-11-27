@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FsLogMeasurable_proof_dbb1a05c06ca
 -- name    : P2M_GroundTheory_Heights__Heights_FsLogMeasurable_proof_dbb1a05c06ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:13:28.336433+00:00
 -- url     : https://prove2.me/theorems/284c02ac-2372-4613-9836-694265be9262

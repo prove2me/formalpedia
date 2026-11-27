@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tau_bimult_psi_even_over_extension_field
 -- name    : GlobalTheory.T.tau_bimult_psi_even_over_extension_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:47:50.742811+00:00
 -- url     : https://prove2.me/theorems/7bd9961b-854b-4a82-a2b4-58040655a959

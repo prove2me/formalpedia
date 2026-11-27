@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coneExact_id
 -- name    : GlobalTheory.coneExact_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:59.03897+00:00
 -- url     : https://prove2.me/theorems/9c7288f0-a734-5d90-8934-189010c51839

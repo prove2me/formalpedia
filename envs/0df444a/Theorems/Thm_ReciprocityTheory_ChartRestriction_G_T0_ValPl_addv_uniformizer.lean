@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_addv_uniformizer
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.addv_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:47.07828+00:00
 -- url     : https://prove2.me/theorems/4b536d76-3117-47bb-abc8-c2a2cc2fa246

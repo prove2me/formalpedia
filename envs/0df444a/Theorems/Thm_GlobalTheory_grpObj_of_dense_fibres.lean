@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpObj_of_dense_fibres
 -- name    : GlobalTheory.grpObj_of_dense_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:50:35.530957+00:00
 -- url     : https://prove2.me/theorems/5eeded62-c783-4602-ae45-2bacd3ea6121

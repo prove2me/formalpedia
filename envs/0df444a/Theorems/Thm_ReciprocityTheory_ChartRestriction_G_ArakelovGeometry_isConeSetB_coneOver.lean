@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isConeSetB_coneOver
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isConeSetB_coneOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:25:03.922712+00:00
 -- url     : https://prove2.me/theorems/1821e588-ef3f-478a-b955-cb27d9dc1e83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_topologicalKrullDim_eq_of_isIso_restrict__b00c8800f9d8
 -- name    : P2M_GlobalTheory_T_topologicalKrullDim_eq_of_isIso_restrict__b00c8800f9d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:10.538404+00:00
 -- url     : https://prove2.me/theorems/d3dc4c9e-f7a2-4e9d-bdb3-8e22910eeb91

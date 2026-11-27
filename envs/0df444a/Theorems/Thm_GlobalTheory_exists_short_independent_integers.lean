@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_independent_integers
 -- name    : GlobalTheory.exists_short_independent_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:36.168441+00:00
 -- url     : https://prove2.me/theorems/642991ef-a334-4016-a84d-d975c8a4a7d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_retract_of_smConn_idempotent
 -- name    : GlobalTheory.T.exists_retract_of_smConn_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:38:20.45239+00:00
 -- url     : https://prove2.me/theorems/97f71dad-5e4b-4c90-beac-bbc46ac3b90f

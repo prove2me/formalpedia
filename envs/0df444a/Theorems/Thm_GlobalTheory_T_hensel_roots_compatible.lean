@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hensel_roots_compatible
 -- name    : GlobalTheory.T.hensel_roots_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:50.160372+00:00
 -- url     : https://prove2.me/theorems/e7a0a01e-c51e-4ebd-9275-b2b693df1695

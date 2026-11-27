@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_norm_eval_le_of_forall_norm_le_af265dd23aa5
 -- name    : P2M_GroundTheory_Variant__N1_norm_eval_le_of_forall_norm_le_af265dd23aa5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:10.646151+00:00
 -- url     : https://prove2.me/theorems/f01a8ea4-a7b8-4ff3-9057-b15be4f5dbf0

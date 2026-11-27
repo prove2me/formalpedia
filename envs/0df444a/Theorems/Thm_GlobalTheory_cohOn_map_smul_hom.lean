@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_map_smul_hom
 -- name    : GlobalTheory.cohOn.map_smul_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:11.834785+00:00
 -- url     : https://prove2.me/theorems/6c4a2708-9224-4861-b2b8-ffce3cb65ca7

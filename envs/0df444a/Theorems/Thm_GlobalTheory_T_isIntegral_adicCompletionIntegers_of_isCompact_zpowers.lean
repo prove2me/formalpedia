@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_adicCompletionIntegers_of_isCompact_zpowers
 -- name    : GlobalTheory.T.isIntegral_adicCompletionIntegers_of_isCompact_zpowers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:00.810074+00:00
 -- url     : https://prove2.me/theorems/ec3bd843-f006-5978-b8d5-60325fb5409a

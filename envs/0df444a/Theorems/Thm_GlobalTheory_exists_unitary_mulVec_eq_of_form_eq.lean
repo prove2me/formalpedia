@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unitary_mulVec_eq_of_form_eq
 -- name    : GlobalTheory.exists_unitary_mulVec_eq_of_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:00.956882+00:00
 -- url     : https://prove2.me/theorems/963ca33e-e138-457c-9b0b-a12cc0e9ed31

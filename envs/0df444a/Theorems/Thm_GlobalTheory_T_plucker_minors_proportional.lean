@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_plucker_minors_proportional
 -- name    : GlobalTheory.T.plucker_minors_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:13.524195+00:00
 -- url     : https://prove2.me/theorems/4af019f4-fbae-40ca-b330-95868f3c69b7

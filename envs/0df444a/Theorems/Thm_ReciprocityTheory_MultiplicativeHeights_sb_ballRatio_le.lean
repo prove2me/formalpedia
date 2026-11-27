@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_ballRatio_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_ballRatio_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:19.16332+00:00
 -- url     : https://prove2.me/theorems/2dbf7935-5977-5d29-90ac-fdb466fd8b43

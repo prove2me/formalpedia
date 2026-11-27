@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_localized__saturation_fractionRing_55c6950ea93b
 -- name    : P2M_GlobalTheory_localized__saturation_fractionRing_55c6950ea93b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:07.436266+00:00
 -- url     : https://prove2.me/theorems/256e9548-c444-5963-a076-487654be2be1

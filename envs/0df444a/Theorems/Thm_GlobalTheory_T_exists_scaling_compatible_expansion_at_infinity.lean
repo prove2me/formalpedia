@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_scaling_compatible_expansion_at_infinity
 -- name    : GlobalTheory.T.exists_scaling_compatible_expansion_at_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:47.196326+00:00
 -- url     : https://prove2.me/theorems/13f5272a-524e-5b19-8853-a1c753c85715

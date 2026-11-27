@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IsolatedFibreLocalUnbranched_proof_7176a17c17d8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IsolatedFibreLocalUnbranched_proof_7176a17c17d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:25:31.181801+00:00
 -- url     : https://prove2.me/theorems/092848cd-1406-5077-ad45-6e6bb76c0fb5

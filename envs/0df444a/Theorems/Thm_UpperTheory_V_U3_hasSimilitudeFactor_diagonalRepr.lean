@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_U3_hasSimilitudeFactor_diagonalRepr
 -- name    : UpperTheory.V.U3.hasSimilitudeFactor_diagonalRepr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:19.318266+00:00
 -- url     : https://prove2.me/theorems/81102003-edcb-5bc0-a206-e056bba00962

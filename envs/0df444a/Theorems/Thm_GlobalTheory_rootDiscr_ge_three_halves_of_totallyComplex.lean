@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rootDiscr_ge_three_halves_of_totallyComplex
 -- name    : GlobalTheory.rootDiscr_ge_three_halves_of_totallyComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:46.70681+00:00
 -- url     : https://prove2.me/theorems/2c6d1e53-0833-4740-be2d-216fa93c6521

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_coh_equiv__toH_77444994ce05
 -- name    : P2M_GlobalTheory_coh_equiv__toH_77444994ce05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:26.18337+00:00
 -- url     : https://prove2.me/theorems/69586f4b-cfe0-487c-8942-2600bf4a9de5

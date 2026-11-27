@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_point_hilb
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.point_hilb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:00.261787+00:00
 -- url     : https://prove2.me/theorems/c0787a10-4241-4b52-a7e9-581de9a3e32a

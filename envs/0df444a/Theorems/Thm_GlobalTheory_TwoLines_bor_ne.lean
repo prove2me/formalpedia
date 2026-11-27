@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_bor_ne
 -- name    : GlobalTheory.TwoLines.bor_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:59.988802+00:00
 -- url     : https://prove2.me/theorems/cabb984c-4b9f-472c-aca2-2313e9819283

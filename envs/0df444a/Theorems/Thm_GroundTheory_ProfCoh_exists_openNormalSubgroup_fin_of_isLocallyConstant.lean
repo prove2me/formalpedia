@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_openNormalSubgroup_fin_of_isLocallyConstant
 -- name    : GroundTheory.ProfCoh.exists_openNormalSubgroup_fin_of_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:27.838889+00:00
 -- url     : https://prove2.me/theorems/cafc6173-380a-47c0-b1ca-f37866ed4e19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_eq_empty_of_le
 -- name    : GroundTheory.Automorphic.MeasurablePartition.eq_empty_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:49.631855+00:00
 -- url     : https://prove2.me/theorems/20e915dd-4ee0-4615-8688-293d967f3d65

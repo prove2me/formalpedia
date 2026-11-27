@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisMulGL_repr
 -- name    : GlobalTheory.basisMulGL_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:28.998132+00:00
 -- url     : https://prove2.me/theorems/213a46aa-3dc1-5626-9d3b-2ef784b98d67

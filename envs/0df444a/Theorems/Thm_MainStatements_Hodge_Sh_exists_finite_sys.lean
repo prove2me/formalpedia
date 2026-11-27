@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Sh_exists_finite_sys
 -- name    : MainStatements.Hodge.Sh.exists_finite_sys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:04:06.26348+00:00
 -- url     : https://prove2.me/theorems/7c30a96e-bf39-5712-b940-c4c1f2106134

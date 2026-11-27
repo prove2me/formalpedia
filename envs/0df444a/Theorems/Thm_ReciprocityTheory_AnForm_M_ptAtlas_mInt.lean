@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_ptAtlas_mInt
 -- name    : ReciprocityTheory.AnForm.M.ptAtlas_mInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:45.136901+00:00
 -- url     : https://prove2.me/theorems/672a392a-b710-4dea-8b9c-603a971d53df

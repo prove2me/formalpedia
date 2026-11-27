@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeRadialIntegral_proof_e4dcc3fc815b
 -- name    : P2M_GroundTheory_Heights__Heights_ConeRadialIntegral_proof_e4dcc3fc815b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:27.221144+00:00
 -- url     : https://prove2.me/theorems/717620bf-35de-50b1-816d-2d74352023c9

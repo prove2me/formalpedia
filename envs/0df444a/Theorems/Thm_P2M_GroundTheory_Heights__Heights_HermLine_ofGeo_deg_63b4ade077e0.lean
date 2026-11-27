@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermLine_ofGeo_deg_63b4ade077e0
 -- name    : P2M_GroundTheory_Heights__Heights_HermLine_ofGeo_deg_63b4ade077e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:13.339464+00:00
 -- url     : https://prove2.me/theorems/a31bb985-8d5b-574b-b642-ac43927319d8

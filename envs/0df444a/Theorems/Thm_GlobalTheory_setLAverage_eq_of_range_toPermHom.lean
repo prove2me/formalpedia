@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLAverage_eq_of_range_toPermHom
 -- name    : GlobalTheory.setLAverage_eq_of_range_toPermHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:03.038145+00:00
 -- url     : https://prove2.me/theorems/e91a0854-df1b-49cf-a6e4-4ee896243b99

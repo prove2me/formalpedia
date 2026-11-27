@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_proof_5bc185a38138
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_proof_5bc185a38138
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:15:32.773525+00:00
 -- url     : https://prove2.me/theorems/0884a9b0-6f20-4ead-b50e-1671ba5e267e

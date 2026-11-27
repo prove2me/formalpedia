@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChartDimLt_proof_2a0ee8472f1a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChartDimLt_proof_2a0ee8472f1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:30:36.871543+00:00
 -- url     : https://prove2.me/theorems/a5638262-5d05-49af-b100-c1c896694e88

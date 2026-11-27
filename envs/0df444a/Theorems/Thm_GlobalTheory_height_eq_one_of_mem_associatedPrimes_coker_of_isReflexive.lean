@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_eq_one_of_mem_associatedPrimes_coker_of_isReflexive
 -- name    : GlobalTheory.height_eq_one_of_mem_associatedPrimes_coker_of_isReflexive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:08.561898+00:00
 -- url     : https://prove2.me/theorems/da2bf438-8205-4962-81bd-3f9dfd1dbadf

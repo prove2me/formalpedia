@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCast_mem_maximalIdeal_integralClosure
 -- name    : GlobalTheory.natCast_mem_maximalIdeal_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:50:12.169799+00:00
 -- url     : https://prove2.me/theorems/ba277df7-edb2-5a3d-b1b6-2795a3508aa3

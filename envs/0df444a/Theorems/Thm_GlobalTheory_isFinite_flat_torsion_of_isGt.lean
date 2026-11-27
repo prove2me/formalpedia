@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFinite_flat_torsion_of_isGt
 -- name    : GlobalTheory.isFinite_flat_torsion_of_isGt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:04.23223+00:00
 -- url     : https://prove2.me/theorems/69b47189-967c-4811-96bb-1e6048a104d0

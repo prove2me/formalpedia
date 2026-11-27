@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FockRep_detPlus_eq_det_toBlocks___f9bcbd0bab63
 -- name    : P2M_GlobalTheory_FockRep_detPlus_eq_det_toBlocks___f9bcbd0bab63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:52.900978+00:00
 -- url     : https://prove2.me/theorems/81b3b664-f063-50f4-a46e-d21c13cd54fb

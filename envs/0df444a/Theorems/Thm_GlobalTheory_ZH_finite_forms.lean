@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_finite_forms
 -- name    : GlobalTheory.ZH.finite_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:41.600644+00:00
 -- url     : https://prove2.me/theorems/039cb71e-147d-4947-9bbd-7cc73eb39d98

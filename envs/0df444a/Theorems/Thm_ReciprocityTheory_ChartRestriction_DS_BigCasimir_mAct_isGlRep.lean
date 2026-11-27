@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_BigCasimir_mAct_isGlRep
 -- name    : ReciprocityTheory.ChartRestriction.DS.BigCasimir.mAct_isGlRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:02:56.655019+00:00
 -- url     : https://prove2.me/theorems/45d4b0e2-92a4-4956-9ed8-73e8b866622a

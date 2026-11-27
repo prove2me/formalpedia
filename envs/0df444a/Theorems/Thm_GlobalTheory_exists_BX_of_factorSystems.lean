@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_BX_of_factorSystems
 -- name    : GlobalTheory.exists_BX_of_factorSystems
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:48:50.676816+00:00
 -- url     : https://prove2.me/theorems/935958f2-cdc1-4648-8e02-9f08522afa81

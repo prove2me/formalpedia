@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Witt_exists_conj
 -- name    : GlobalTheory.UnitLemma.Witt.exists_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:12.315581+00:00
 -- url     : https://prove2.me/theorems/4a7af40c-1889-56ef-b08d-1327a2bde5ab

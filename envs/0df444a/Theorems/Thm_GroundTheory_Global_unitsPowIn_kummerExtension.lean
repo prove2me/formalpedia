@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_unitsPowIn_kummerExtension
 -- name    : GroundTheory.Global.unitsPowIn_kummerExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:58.293388+00:00
 -- url     : https://prove2.me/theorems/b4e00801-590f-4f31-9c00-d1591573d17e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothDense
 -- name    : GlobalTheory.smoothDense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:54.996326+00:00
 -- url     : https://prove2.me/theorems/fd3fff12-d37d-4c22-a6cc-54f42319e01e

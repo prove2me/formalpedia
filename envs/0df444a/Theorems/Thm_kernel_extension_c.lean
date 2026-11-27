@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_extension_c
 -- name    : kernel_extension_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:20.034688+00:00
 -- url     : https://prove2.me/theorems/df423ec1-eced-49fd-a0d7-ebb2606c53f2

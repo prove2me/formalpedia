@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Orth_decomp
 -- name    : PositivityTheory.ThKEnd.Orth.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:14.119227+00:00
 -- url     : https://prove2.me/theorems/194420d2-85b1-41b7-a9ea-33413f257b57

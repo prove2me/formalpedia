@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sq_scalar_character_of_double_cover_unitary
 -- name    : GlobalTheory.T.sq_scalar_character_of_double_cover_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:01.710805+00:00
 -- url     : https://prove2.me/theorems/f0ad915b-d28f-5699-93a2-543ff0ea3846

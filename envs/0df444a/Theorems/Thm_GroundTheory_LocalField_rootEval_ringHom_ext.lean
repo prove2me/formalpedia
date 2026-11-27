@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_rootEval_ringHom_ext
 -- name    : GroundTheory.LocalField.rootEval_ringHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:32.253609+00:00
 -- url     : https://prove2.me/theorems/bd5b60bf-1988-5c50-b83f-ca4de4567651

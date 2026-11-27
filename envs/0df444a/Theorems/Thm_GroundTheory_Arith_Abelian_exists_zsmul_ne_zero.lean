@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_zsmul_ne_zero
 -- name    : GroundTheory.Arith.Abelian.exists_zsmul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:51.177165+00:00
 -- url     : https://prove2.me/theorems/ef10fbea-d207-5a4d-8576-013c91f1318c

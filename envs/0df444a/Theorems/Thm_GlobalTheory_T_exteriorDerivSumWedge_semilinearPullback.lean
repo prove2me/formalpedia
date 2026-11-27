@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exteriorDerivSumWedge_semilinearPullback
 -- name    : GlobalTheory.T.exteriorDerivSumWedge_semilinearPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:23:21.011111+00:00
 -- url     : https://prove2.me/theorems/bc24e441-c3c3-5c69-887c-648f9a8a18d0

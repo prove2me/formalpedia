@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRegularFibre_of_found_cfb25bebf3cf
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRegularFibre_of_found_cfb25bebf3cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:46:31.781963+00:00
 -- url     : https://prove2.me/theorems/6306fda5-0a4d-4dbc-b332-93729fc38407

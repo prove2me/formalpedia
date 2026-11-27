@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_TransposeInverseTheory_transposeInv_apply
 -- name    : Reformulated.TransposeInverseTheory.transposeInv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:36.85147+00:00
 -- url     : https://prove2.me/theorems/37b4a5e7-de1f-4638-b764-afce94540fca

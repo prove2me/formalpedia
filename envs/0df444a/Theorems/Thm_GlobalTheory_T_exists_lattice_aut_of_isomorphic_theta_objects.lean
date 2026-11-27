@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_aut_of_isomorphic_theta_objects
 -- name    : GlobalTheory.T.exists_lattice_aut_of_isomorphic_theta_objects
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:05:40.330064+00:00
 -- url     : https://prove2.me/theorems/a675e9fb-e4f4-4918-8206-16b03fae0017

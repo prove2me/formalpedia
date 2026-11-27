@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_SquareOfApproximation_main
 -- name    : UpperTheory.Reformulated.B.SquareOfApproximation.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:32.091906+00:00
 -- url     : https://prove2.me/theorems/720fc8fd-4d68-535f-a1a6-0f8317e99d77

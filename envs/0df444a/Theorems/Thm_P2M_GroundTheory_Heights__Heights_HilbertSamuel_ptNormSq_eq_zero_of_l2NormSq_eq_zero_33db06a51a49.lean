@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ptNormSq_eq_zero_of_l2NormSq_eq_zero_33db06a51a49
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ptNormSq_eq_zero_of_l2NormSq_eq_zero_33db06a51a49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:15:37.994141+00:00
 -- url     : https://prove2.me/theorems/87a24594-d95b-5073-8eb3-db02a7f4e192

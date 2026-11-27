@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_orderOf_mk_uniformizerUnit
 -- name    : GroundTheory.LocalField.orderOf_mk_uniformizerUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:37.738225+00:00
 -- url     : https://prove2.me/theorems/b622ee7f-fffe-5681-bcd8-95323f416e2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_lt_one_iff
 -- name    : GroundTheory.PAdicHodge.nrm_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:52.403411+00:00
 -- url     : https://prove2.me/theorems/8363b802-8b5e-4462-8d65-55fe1c857ead

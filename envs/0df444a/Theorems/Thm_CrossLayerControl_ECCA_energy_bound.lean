@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_energy_bound
 -- name    : CrossLayerControl.ECCA.energy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:37:22.936512+00:00
 -- url     : https://prove2.me/theorems/2f7b7682-52f8-4e09-9d79-132f77391232

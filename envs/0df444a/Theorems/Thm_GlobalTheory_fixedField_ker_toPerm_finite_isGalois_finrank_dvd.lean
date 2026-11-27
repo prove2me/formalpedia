@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fixedField_ker_toPerm_finite_isGalois_finrank_dvd
 -- name    : GlobalTheory.fixedField_ker_toPerm_finite_isGalois_finrank_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:58.016796+00:00
 -- url     : https://prove2.me/theorems/762c7fac-eda8-4c45-ab91-383e3ec1c350

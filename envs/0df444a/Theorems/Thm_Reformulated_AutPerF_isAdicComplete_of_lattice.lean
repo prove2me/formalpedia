@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_isAdicComplete_of_lattice
 -- name    : Reformulated.AutPerF.isAdicComplete_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:31.648542+00:00
 -- url     : https://prove2.me/theorems/d0f25f67-cd45-43fa-bf2b-238869918f82

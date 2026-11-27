@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_quotShape_G_unr
 -- name    : ReciprocityTheory.ChartRestriction.T2.quotShape_G_unr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:41:24.947437+00:00
 -- url     : https://prove2.me/theorems/793bb71a-7132-41b7-90e6-2b64e13f21a1

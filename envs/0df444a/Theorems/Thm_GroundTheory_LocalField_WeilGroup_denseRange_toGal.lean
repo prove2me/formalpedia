@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_denseRange_toGal
 -- name    : GroundTheory.LocalField.WeilGroup.denseRange_toGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:55.655517+00:00
 -- url     : https://prove2.me/theorems/835abbdd-a24f-5ea3-9299-8a2d38d18ed6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGL_isCuspidal_iff_twoBlocks
 -- name    : GlobalTheory.FiniteGL.isCuspidal_iff_twoBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:12:43.858803+00:00
 -- url     : https://prove2.me/theorems/f9c19609-477b-41d2-98da-36053214c518

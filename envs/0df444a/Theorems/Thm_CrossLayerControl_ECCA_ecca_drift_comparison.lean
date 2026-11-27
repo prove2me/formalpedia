@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_ecca_drift_comparison
 -- name    : CrossLayerControl.ECCA.ecca_drift_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:38:59.268883+00:00
 -- url     : https://prove2.me/theorems/db7bf2e4-4eac-43eb-a888-3e95a69ce03f

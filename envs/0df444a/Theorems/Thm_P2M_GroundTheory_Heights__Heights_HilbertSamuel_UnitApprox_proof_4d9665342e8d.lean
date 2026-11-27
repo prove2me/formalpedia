@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_UnitApprox_proof_4d9665342e8d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_UnitApprox_proof_4d9665342e8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:10.95226+00:00
 -- url     : https://prove2.me/theorems/6fc54a3a-d1c6-4860-9541-bb90f97041f1

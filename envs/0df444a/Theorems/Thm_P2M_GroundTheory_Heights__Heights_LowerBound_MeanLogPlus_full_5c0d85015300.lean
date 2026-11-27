@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_MeanLogPlus_full_5c0d85015300
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_MeanLogPlus_full_5c0d85015300
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:29:59.2571+00:00
 -- url     : https://prove2.me/theorems/34103251-2df9-5533-be37-144abd2ef653

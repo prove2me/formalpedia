@@ -31818,8 +31818,8 @@
 {"parent": "ProcessingNetworks.Stability.drift_condition_implies_positive_recurrent", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.empty_state_reachable", "child": "ProcessingNetworks_Stability_BaselineAssumptions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.empty_state_reachable", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["solution", "statement"]}
-{"parent": "ProcessingNetworks.Stability.equivalent_stability_conditions", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["statement"]}
-{"parent": "ProcessingNetworks.Stability.equivalent_stability_conditions", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["statement"]}
+{"parent": "ProcessingNetworks.Stability.equivalent_stability_conditions", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["solution", "statement"]}
+{"parent": "ProcessingNetworks.Stability.equivalent_stability_conditions", "child": "ProcessingNetworks_Stability_StabilityConditions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Stability.processing_variable_slln", "child": "ProcessingNetworks_Stability_BaselineAssumptions", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Subcriticality.processor_sharing_stable_iff_ehl_stable", "child": "ProcessingNetworks_Stability_MarkovRepresentation", "via": ["solution", "statement"]}
 {"parent": "ProcessingNetworks.Subcriticality.processor_sharing_stable_iff_ehl_stable", "child": "ProcessingNetworks_Stability_Stable", "via": ["solution", "statement"]}

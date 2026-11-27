@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_closest_iff_abs_two_mul_inner_le
 -- name    : GlobalTheory.closest_iff_abs_two_mul_inner_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:04.810446+00:00
 -- url     : https://prove2.me/theorems/17e37657-3101-4ffa-9666-bc5ac1bf882b

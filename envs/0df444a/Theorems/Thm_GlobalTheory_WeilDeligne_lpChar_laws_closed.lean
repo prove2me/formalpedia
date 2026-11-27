@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_lpChar_laws_closed
 -- name    : GlobalTheory.WeilDeligne.lpChar_laws_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:07:48.967902+00:00
 -- url     : https://prove2.me/theorems/17aa21da-11b2-41a5-b8d3-e4a0dbfc67e6

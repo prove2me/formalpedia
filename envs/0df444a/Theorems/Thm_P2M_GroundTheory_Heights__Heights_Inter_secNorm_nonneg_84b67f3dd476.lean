@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_secNorm_nonneg_84b67f3dd476
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_secNorm_nonneg_84b67f3dd476
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:03.042801+00:00
 -- url     : https://prove2.me/theorems/fbd5f606-9f36-4d6b-bab8-43a10b2c3648

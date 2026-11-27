@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_jetPt_clm
 -- name    : GlobalTheory.JetLinSub.jetPt_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:32:46.526142+00:00
 -- url     : https://prove2.me/theorems/fe149820-203e-412e-8425-2dab06c8542a

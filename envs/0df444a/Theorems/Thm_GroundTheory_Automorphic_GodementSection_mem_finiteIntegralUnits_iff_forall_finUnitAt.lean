@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_mem_finiteIntegralUnits_iff_forall_finUnitAt
 -- name    : GroundTheory.Automorphic.GodementSection.mem_finiteIntegralUnits_iff_forall_finUnitAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:59.547891+00:00
 -- url     : https://prove2.me/theorems/3fb9eea1-08d6-518c-bb3e-97f6da1e55c5

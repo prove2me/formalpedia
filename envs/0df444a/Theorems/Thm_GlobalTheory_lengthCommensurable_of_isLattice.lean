@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_of_isLattice
 -- name    : GlobalTheory.lengthCommensurable_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:47.560806+00:00
 -- url     : https://prove2.me/theorems/b9bd806e-5f2e-58dd-994a-24e12bc9f928

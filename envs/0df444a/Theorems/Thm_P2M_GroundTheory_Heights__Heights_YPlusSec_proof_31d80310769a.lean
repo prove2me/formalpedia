@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSec_proof_31d80310769a
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSec_proof_31d80310769a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:20.451931+00:00
 -- url     : https://prove2.me/theorems/b33e23cf-4399-4b51-96dd-7fe6811270c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_proof_c8568626b846
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartTrdeg_proof_c8568626b846
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:13:42.122845+00:00
 -- url     : https://prove2.me/theorems/930ed15f-56b7-44cd-8e0b-8d06cc2fe3b4

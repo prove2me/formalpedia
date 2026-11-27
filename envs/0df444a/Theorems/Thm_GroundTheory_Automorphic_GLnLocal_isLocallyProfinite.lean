@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isLocallyProfinite
 -- name    : GroundTheory.Automorphic.GLnLocal.isLocallyProfinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:07.4938+00:00
 -- url     : https://prove2.me/theorems/fcfeb608-47de-459f-8b83-caff03c6a2e5

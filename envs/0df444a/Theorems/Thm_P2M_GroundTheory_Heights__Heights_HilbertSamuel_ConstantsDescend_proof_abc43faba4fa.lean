@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_proof_abc43faba4fa
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_proof_abc43faba4fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:01.980085+00:00
 -- url     : https://prove2.me/theorems/3afa857c-ed16-4d19-8b6b-a2d174fc3230

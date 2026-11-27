@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_length_baseChange_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.length_baseChange_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:15:42.826854+00:00
 -- url     : https://prove2.me/theorems/f7c83b59-10b9-41e0-b9cb-26cf659f2443

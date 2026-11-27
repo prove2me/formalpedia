@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DefectConstZero_proof_37389bd635ce
 -- name    : P2M_GroundTheory_Heights__Heights_DefectConstZero_proof_37389bd635ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:29.326795+00:00
 -- url     : https://prove2.me/theorems/f7046bb1-9aa8-5e39-9124-43170bec8c29

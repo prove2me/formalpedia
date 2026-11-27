@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFourier_charOfValues_apply
 -- name    : GlobalTheory.TorsionFourier.charOfValues_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:40.983074+00:00
 -- url     : https://prove2.me/theorems/bbfdb3c4-9127-4e38-b723-7039ed685ab5

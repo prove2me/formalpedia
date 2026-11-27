@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_complex_matrix_descends_of_rational_on_tuple
 -- name    : GlobalTheory.complex_matrix_descends_of_rational_on_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:14.753187+00:00
 -- url     : https://prove2.me/theorems/88a0fd33-3f85-4797-af46-5e0370c4db7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinearFormPrime_proof_82eb27af0153
 -- name    : P2M_GroundTheory_Heights__Heights_LinearFormPrime_proof_82eb27af0153
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:37.007623+00:00
 -- url     : https://prove2.me/theorems/ac84f4c4-9882-5a29-8f7f-23c29d51458a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_restrict_eq_normOneClassMeasure
 -- name    : GroundTheory.Global.map_restrict_eq_normOneClassMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:11:44.399351+00:00
 -- url     : https://prove2.me/theorems/bcd6628f-ecf8-5195-8a3d-34f8f8cbcc6f

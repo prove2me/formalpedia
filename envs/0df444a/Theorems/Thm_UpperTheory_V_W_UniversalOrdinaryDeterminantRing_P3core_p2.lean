@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_W_UniversalOrdinaryDeterminantRing_P3core_p2
 -- name    : UpperTheory.V.W.UniversalOrdinaryDeterminantRing.P3core.p2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:50:22.15885+00:00
 -- url     : https://prove2.me/theorems/ab29b3e7-3a60-48e9-a395-6e7d6f93ea18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_circle_zpow_circle
 -- name    : GroundTheory.Global.existsUnique_circle_zpow_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:50.502012+00:00
 -- url     : https://prove2.me/theorems/4b30597b-5562-4813-8009-b07327d268f4

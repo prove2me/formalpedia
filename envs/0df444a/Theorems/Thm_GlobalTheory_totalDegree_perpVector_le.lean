@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_totalDegree_perpVector_le
 -- name    : GlobalTheory.totalDegree_perpVector_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:26.579584+00:00
 -- url     : https://prove2.me/theorems/62083223-1902-507a-b1ee-9ab401214df1

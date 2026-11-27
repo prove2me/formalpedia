@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValueTwoGen_exists_unit_gen
 -- name    : GlobalTheory.ValueTwoGen.exists_unit_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:02.10462+00:00
 -- url     : https://prove2.me/theorems/6d85bacd-89e3-5b3d-bf13-35095dc1ff2d

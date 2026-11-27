@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_absNorm_map_ringEquiv_self
 -- name    : GlobalTheory.absNorm_map_ringEquiv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:42.442902+00:00
 -- url     : https://prove2.me/theorems/c46bed07-8589-40ad-bd90-baa73f98cf5c

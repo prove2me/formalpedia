@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVCompare_isActOf_unique
 -- name    : GlobalTheory.VVCompare.isActOf_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:26.966489+00:00
 -- url     : https://prove2.me/theorems/e7e57611-1b05-5d68-a5d6-8df8be0eb321

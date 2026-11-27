@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_hermPair_add_left_df67c85d8297
 -- name    : P2M_GroundTheory_Heights__Theta_hermPair_add_left_df67c85d8297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:43.697903+00:00
 -- url     : https://prove2.me/theorems/b373c346-f7e0-4078-b55a-405c8f292d0a

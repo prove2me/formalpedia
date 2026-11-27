@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_horizontal_prime_le_of_isMaximal
 -- name    : GlobalTheory.exists_horizontal_prime_le_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:16.631501+00:00
 -- url     : https://prove2.me/theorems/22e6848f-44bf-5ee1-9384-e8726b54f6bf

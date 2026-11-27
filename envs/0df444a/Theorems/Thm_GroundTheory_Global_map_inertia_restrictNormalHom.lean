@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_inertia_restrictNormalHom
 -- name    : GroundTheory.Global.map_inertia_restrictNormalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:54.11182+00:00
 -- url     : https://prove2.me/theorems/758325b2-e08f-536a-aeac-d3d271f2780e

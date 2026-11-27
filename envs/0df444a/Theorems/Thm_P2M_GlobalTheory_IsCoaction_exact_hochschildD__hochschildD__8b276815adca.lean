@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IsCoaction_exact_hochschildD__hochschildD__8b276815adca
 -- name    : P2M_GlobalTheory_IsCoaction_exact_hochschildD__hochschildD__8b276815adca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:59.969396+00:00
 -- url     : https://prove2.me/theorems/5870e212-bddb-491b-bf88-7f1a5d08f6da

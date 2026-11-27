@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_NormCountBound_full_82c19ad468ea
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_NormCountBound_full_82c19ad468ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:31:59.104416+00:00
 -- url     : https://prove2.me/theorems/e64e5030-0593-443e-96fe-95aeb489a899

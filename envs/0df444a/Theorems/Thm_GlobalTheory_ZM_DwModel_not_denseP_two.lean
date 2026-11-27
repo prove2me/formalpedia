@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_not_denseP_two
 -- name    : GlobalTheory.ZM.DwModel.not_denseP_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:30.980227+00:00
 -- url     : https://prove2.me/theorems/d7cc5f25-8e7a-5206-a5f2-d907d77942be

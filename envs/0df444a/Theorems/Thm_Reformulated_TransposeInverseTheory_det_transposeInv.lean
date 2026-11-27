@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_TransposeInverseTheory_det_transposeInv
 -- name    : Reformulated.TransposeInverseTheory.det_transposeInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:14.484626+00:00
 -- url     : https://prove2.me/theorems/b5b2f24e-2a5b-51b7-a606-7f6e1dbfe264

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumInvQH_Oblique_Supplement_theorem_A_2
 -- name    : NumInvQH.Oblique.Supplement.theorem_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T21:53:12.534456+00:00
 -- url     : https://prove2.me/theorems/4d4481b7-bc38-4ca7-b9de-20c1ddd5296f

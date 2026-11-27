@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_character_ind_restrictScalarsHom
 -- name    : GroundTheory.Global.Artin.character_ind_restrictScalarsHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:43.51642+00:00
 -- url     : https://prove2.me/theorems/0735725d-cd0d-5d5b-98e0-766d98cc4104

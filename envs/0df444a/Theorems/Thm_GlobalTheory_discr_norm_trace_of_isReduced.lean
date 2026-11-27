@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_norm_trace_of_isReduced
 -- name    : GlobalTheory.discr_norm_trace_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:47:20.566448+00:00
 -- url     : https://prove2.me/theorems/8257d413-9357-4972-bc97-09c90e72a648

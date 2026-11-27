@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_twisted_firstMinimum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.twisted_firstMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:30.904739+00:00
 -- url     : https://prove2.me/theorems/3beaece2-e4bd-5752-a8a3-97eddc2ab10b

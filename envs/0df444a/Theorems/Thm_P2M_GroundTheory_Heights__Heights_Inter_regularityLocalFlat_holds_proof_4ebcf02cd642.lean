@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_proof_4ebcf02cd642
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_proof_4ebcf02cd642
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:16.527415+00:00
 -- url     : https://prove2.me/theorems/aa510a07-52ee-5651-a29b-7e90d1a8af6a

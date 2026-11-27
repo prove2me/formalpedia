@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantStabCompact_proof_8a42fe3e09f1
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantStabCompact_proof_8a42fe3e09f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:26:30.116294+00:00
 -- url     : https://prove2.me/theorems/fbe9467b-a3b7-4794-915d-b8927c61fbf3

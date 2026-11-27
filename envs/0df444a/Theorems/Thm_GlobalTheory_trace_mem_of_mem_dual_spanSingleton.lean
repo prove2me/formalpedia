@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_mem_of_mem_dual_spanSingleton
 -- name    : GlobalTheory.trace_mem_of_mem_dual_spanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:32.84918+00:00
 -- url     : https://prove2.me/theorems/5b77b5d2-c356-45db-a717-a410e0673670

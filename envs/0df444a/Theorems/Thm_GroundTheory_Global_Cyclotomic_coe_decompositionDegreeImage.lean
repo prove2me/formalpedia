@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_coe_decompositionDegreeImage
 -- name    : GroundTheory.Global.Cyclotomic.coe_decompositionDegreeImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:04.341667+00:00
 -- url     : https://prove2.me/theorems/69d53393-95e3-4116-a0cf-5c24f1a979aa

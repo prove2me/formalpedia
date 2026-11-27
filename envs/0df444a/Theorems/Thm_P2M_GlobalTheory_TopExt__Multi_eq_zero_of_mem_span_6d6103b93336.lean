@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TopExt__Multi_eq_zero_of_mem_span_6d6103b93336
 -- name    : P2M_GlobalTheory_TopExt__Multi_eq_zero_of_mem_span_6d6103b93336
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:12.951482+00:00
 -- url     : https://prove2.me/theorems/30f54dc9-4f19-4065-b61b-9edd297969b9

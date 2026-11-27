@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GI_norm_psi
 -- name    : PI.GI.norm_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:45:22.548795+00:00
 -- url     : https://prove2.me/theorems/b6c37da7-cf91-5846-8cb6-842f7ef713a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_restrictPoints_of_etale
 -- name    : GlobalTheory.bijective_restrictPoints_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:23.805414+00:00
 -- url     : https://prove2.me/theorems/c84fbef9-6a2e-44e3-b96c-8d56160ac6da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceHasBranch_proof_10f9df4949f3
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceHasBranch_proof_10f9df4949f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:34:36.040797+00:00
 -- url     : https://prove2.me/theorems/4d909aa5-8fe7-462c-8b0b-85475e4cdcfc

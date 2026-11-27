@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringHom_tensor_OmS_of_point
 -- name    : GlobalTheory.exists_ringHom_tensor_OmS_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:31.444557+00:00
 -- url     : https://prove2.me/theorems/303ad188-1dd0-5389-a122-21183450ed87

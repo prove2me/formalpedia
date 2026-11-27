@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_isCompl_range_hcEmb
 -- name    : GroundTheory.Automorphic.HarishChandra.isCompl_range_hcEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:19.084453+00:00
 -- url     : https://prove2.me/theorems/4d614677-6792-4ecd-9d44-d0c117bd1a66

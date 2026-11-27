@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIsometry_exists_gl_of_trace_isometry
 -- name    : GlobalTheory.TraceIsometry.exists_gl_of_trace_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:42.289851+00:00
 -- url     : https://prove2.me/theorems/00e53aec-ffba-4165-b863-df66427ed313

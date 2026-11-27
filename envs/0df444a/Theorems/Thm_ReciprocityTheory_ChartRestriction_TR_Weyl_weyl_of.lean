@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_weyl_of
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.weyl_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:27:14.365806+00:00
 -- url     : https://prove2.me/theorems/a69790b1-81fa-4779-b628-488531092afd

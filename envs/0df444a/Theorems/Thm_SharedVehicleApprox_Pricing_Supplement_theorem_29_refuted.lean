@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedVehicleApprox_Pricing_Supplement_theorem_29_refuted
 -- name    : SharedVehicleApprox.Pricing.Supplement.theorem_29_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:44:09.209974+00:00
 -- url     : https://prove2.me/theorems/55ee6ce9-88aa-43ed-b0bd-95120e92d462

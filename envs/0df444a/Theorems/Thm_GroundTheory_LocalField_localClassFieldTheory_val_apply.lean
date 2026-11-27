@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localClassFieldTheory_val_apply
 -- name    : GroundTheory.LocalField.localClassFieldTheory_val_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:01.306122+00:00
 -- url     : https://prove2.me/theorems/591cfa94-6bc1-5189-8786-b3969d8676ff

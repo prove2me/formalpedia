@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_isSeparable_genY
 -- name    : GroundTheory.Arith.Abelian.isSeparable_genY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:07.616671+00:00
 -- url     : https://prove2.me/theorems/7845cba1-8105-59bc-a239-dba3a4cad67c

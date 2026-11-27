@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_finrank_fixed_eq_one
 -- name    : PositivityTheory.Rg.BcB.F.EigA.finrank_fixed_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:55.678538+00:00
 -- url     : https://prove2.me/theorems/e33fba46-3c2b-4a13-b7cb-2d0d108cb1f2

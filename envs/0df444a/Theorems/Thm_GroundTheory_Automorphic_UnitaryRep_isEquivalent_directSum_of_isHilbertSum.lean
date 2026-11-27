@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isEquivalent_directSum_of_isHilbertSum
 -- name    : GroundTheory.Automorphic.UnitaryRep.isEquivalent_directSum_of_isHilbertSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:45.395722+00:00
 -- url     : https://prove2.me/theorems/f6836030-7f12-54f3-b0bd-6a4170a52e07

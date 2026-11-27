@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedTopAlgebra_proof_e2ad6d18b80c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedTopAlgebra_proof_e2ad6d18b80c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:14:03.532454+00:00
 -- url     : https://prove2.me/theorems/9499e3b2-82ae-4e9a-94ec-ee9b6b7478f6

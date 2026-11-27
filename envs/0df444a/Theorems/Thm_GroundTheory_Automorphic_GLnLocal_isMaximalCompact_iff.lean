@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isMaximalCompact_iff
 -- name    : GroundTheory.Automorphic.GLnLocal.isMaximalCompact_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:06.544181+00:00
 -- url     : https://prove2.me/theorems/ca9de4bc-1a9e-44f5-a9cc-436fcb4425e4

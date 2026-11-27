@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_tr_one
 -- name    : GlobalTheory.TraceIso.tr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:30.674262+00:00
 -- url     : https://prove2.me/theorems/69421011-8391-4988-93c1-b52f5af827de

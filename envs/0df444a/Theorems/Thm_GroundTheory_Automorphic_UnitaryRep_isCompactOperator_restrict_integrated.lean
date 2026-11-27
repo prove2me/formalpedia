@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isCompactOperator_restrict_integrated
 -- name    : GroundTheory.Automorphic.UnitaryRep.isCompactOperator_restrict_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:44.201654+00:00
 -- url     : https://prove2.me/theorems/cfc693d4-2e61-4846-971b-22a7cbe15069

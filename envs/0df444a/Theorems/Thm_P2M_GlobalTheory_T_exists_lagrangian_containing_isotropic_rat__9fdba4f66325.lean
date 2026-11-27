@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_lagrangian_containing_isotropic_rat__9fdba4f66325
 -- name    : P2M_GlobalTheory_T_exists_lagrangian_containing_isotropic_rat__9fdba4f66325
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:28.721605+00:00
 -- url     : https://prove2.me/theorems/a787a02d-9e8b-4be6-84ac-dde2a9453b93

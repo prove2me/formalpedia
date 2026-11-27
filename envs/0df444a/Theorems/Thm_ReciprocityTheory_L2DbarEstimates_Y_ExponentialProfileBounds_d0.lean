@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ExponentialProfileBounds_d0
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ExponentialProfileBounds.d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:24:10.569734+00:00
 -- url     : https://prove2.me/theorems/27fa2b59-76f6-5955-b025-ac7960cff633

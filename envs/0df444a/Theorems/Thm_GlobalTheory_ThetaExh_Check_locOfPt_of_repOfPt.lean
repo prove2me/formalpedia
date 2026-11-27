@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_locOfPt_of_repOfPt
 -- name    : GlobalTheory.ThetaExh.Check.locOfPt_of_repOfPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:09.974973+00:00
 -- url     : https://prove2.me/theorems/058f78e2-5e58-4b13-99df-e93dc2f19cf5

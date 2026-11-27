@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_identity_frame_hyp_7561e60bfbde
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_identity_frame_hyp_7561e60bfbde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:35:02.246863+00:00
 -- url     : https://prove2.me/theorems/ba50348d-0137-58be-8c14-b81d5a7bd768

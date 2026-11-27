@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_continuous_of_continuousAt_one
 -- name    : GroundTheory.Automorphic.UnitaryRep.continuous_of_continuousAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:30.541154+00:00
 -- url     : https://prove2.me/theorems/8ca5d2f8-1a2a-569e-9fcc-d7938523d64f

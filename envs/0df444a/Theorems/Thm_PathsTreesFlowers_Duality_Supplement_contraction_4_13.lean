@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_Supplement_contraction_4_13
 -- name    : PathsTreesFlowers.Duality.Supplement.contraction_4_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:42:58.25482+00:00
 -- url     : https://prove2.me/theorems/7c0aa468-0e43-4bab-a7e5-9f4b2a659e46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorDir_eq_taylor
 -- name    : GlobalTheory.taylorDir_eq_taylor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:44.803337+00:00
 -- url     : https://prove2.me/theorems/28af7023-ede4-4791-909b-9b9a811e89e0

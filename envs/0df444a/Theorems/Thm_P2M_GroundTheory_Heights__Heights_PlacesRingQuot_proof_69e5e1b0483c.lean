@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlacesRingQuot_proof_69e5e1b0483c
 -- name    : P2M_GroundTheory_Heights__Heights_PlacesRingQuot_proof_69e5e1b0483c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:33:57.793801+00:00
 -- url     : https://prove2.me/theorems/44a4a491-b5d8-46c8-afac-d2c00475e219

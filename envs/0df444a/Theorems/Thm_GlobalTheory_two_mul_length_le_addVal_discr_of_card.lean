@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_mul_length_le_addVal_discr_of_card
 -- name    : GlobalTheory.two_mul_length_le_addVal_discr_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:13.249865+00:00
 -- url     : https://prove2.me/theorems/71f13330-12fb-5c5a-86db-e3335601efd0

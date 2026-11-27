@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_nonempty_selfDual
 -- name    : GroundTheory.LocalField.nonempty_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:57.39397+00:00
 -- url     : https://prove2.me/theorems/dd548217-9469-591e-b77c-fca5f03db06f

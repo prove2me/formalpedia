@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetComass_proof_69d840e2ed25
 -- name    : P2M_GroundTheory_Heights__Heights_SheetComass_proof_69d840e2ed25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:36:55.384801+00:00
 -- url     : https://prove2.me/theorems/c59653e0-5fca-5571-b521-0f6401a9d272

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_form_const_mul_inner
 -- name    : GlobalTheory.T.hermitian_form_const_mul_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:19.720676+00:00
 -- url     : https://prove2.me/theorems/b1df7205-aa91-41cd-b406-a2e57ce3d14a

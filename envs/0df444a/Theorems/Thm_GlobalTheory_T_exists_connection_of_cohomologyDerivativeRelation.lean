@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_connection_of_cohomologyDerivativeRelation
 -- name    : GlobalTheory.T.exists_connection_of_cohomologyDerivativeRelation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:25:44.682506+00:00
 -- url     : https://prove2.me/theorems/a7f781ef-b239-4c8e-8a65-97a3eae4695e

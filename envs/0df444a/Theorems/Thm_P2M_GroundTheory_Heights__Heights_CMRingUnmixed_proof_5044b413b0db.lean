@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMRingUnmixed_proof_5044b413b0db
 -- name    : P2M_GroundTheory_Heights__Heights_CMRingUnmixed_proof_5044b413b0db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:52.955084+00:00
 -- url     : https://prove2.me/theorems/27ce4168-2604-4f14-8963-2ee3c32cc4c7

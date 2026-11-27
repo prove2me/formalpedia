@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Ar_ProjCoord_pt_away__eq_854980b86607
 -- name    : P2M_GlobalTheory_CompanionTheory_Ar_ProjCoord_pt_away__eq_854980b86607
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:30.695275+00:00
 -- url     : https://prove2.me/theorems/78892c0f-1e60-5cd3-b20b-a3d70c117bbe

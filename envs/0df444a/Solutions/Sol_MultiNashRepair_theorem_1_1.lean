@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MultiNashRepair.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-27T01:49:29.726803+00:00
 -- url     : https://prove2.me/submissions/776545db-8e8b-4a02-908a-164fc3da8c37
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_DGPNash_WellSupported_Equilibria

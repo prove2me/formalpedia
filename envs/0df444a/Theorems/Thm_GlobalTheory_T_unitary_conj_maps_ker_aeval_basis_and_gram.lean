@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_conj_maps_ker_aeval_basis_and_gram
 -- name    : GlobalTheory.T.unitary_conj_maps_ker_aeval_basis_and_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:59.580322+00:00
 -- url     : https://prove2.me/theorems/b067c0ed-8b5c-55cb-b261-a8df226277d1

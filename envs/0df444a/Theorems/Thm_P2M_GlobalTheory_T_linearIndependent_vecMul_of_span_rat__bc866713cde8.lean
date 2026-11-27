@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_linearIndependent_vecMul_of_span_rat__bc866713cde8
 -- name    : P2M_GlobalTheory_T_linearIndependent_vecMul_of_span_rat__bc866713cde8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:29.775154+00:00
 -- url     : https://prove2.me/theorems/acfcb225-7d8e-5417-94aa-93d82351528a

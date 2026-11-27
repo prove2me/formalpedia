@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_proof_24c8f4669c04
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_proof_24c8f4669c04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:35:41.499104+00:00
 -- url     : https://prove2.me/theorems/c6a7ffc1-4cec-5724-8ab7-39a309ae6830

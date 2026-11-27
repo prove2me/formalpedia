@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_rigAlong_id
 -- name    : GlobalTheory.TorsionFormCompare.rigAlong_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:27.49009+00:00
 -- url     : https://prove2.me/theorems/202ff58c-7d1e-5501-8352-5eeda60abb31

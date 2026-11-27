@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_proof_821536a8ed45
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsNear_proof_821536a8ed45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:15:23.195556+00:00
 -- url     : https://prove2.me/theorems/844795f7-6758-42de-928e-16f645e17973

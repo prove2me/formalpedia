@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_quotLIntegral_eq
 -- name    : PositivityTheory.Rg.Tf.Loc.quotLIntegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:26.162941+00:00
 -- url     : https://prove2.me/theorems/e6c31c89-1346-4dd8-ae23-30f1d9042624

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_proof_ece63d2cdc46
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotDens_proof_ece63d2cdc46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:07:15.699285+00:00
 -- url     : https://prove2.me/theorems/0c0fab0d-c04a-4e2e-9edc-02e145c7be85

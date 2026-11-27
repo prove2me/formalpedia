@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TF_pow_mem
 -- name    : PositivityTheory.Rg.Cz.TF.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:52:29.022059+00:00
 -- url     : https://prove2.me/theorems/3d500216-2daa-5ea8-bd21-e3f86990d7d4

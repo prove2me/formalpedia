@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_meanU_line_3d1285398c82
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_meanU_line_3d1285398c82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:33:42.841217+00:00
 -- url     : https://prove2.me/theorems/dc032dab-99fd-5261-9320-2e12afd41fb4

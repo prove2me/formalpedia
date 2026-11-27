@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpecFirstRename_proof_43160533ae1d
 -- name    : P2M_GroundTheory_Heights__Heights_SpecFirstRename_proof_43160533ae1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:59.646414+00:00
 -- url     : https://prove2.me/theorems/98d823c8-1b63-50bb-8f5b-634b61db5a9d

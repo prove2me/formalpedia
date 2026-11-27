@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValUFD_factor_of_local
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValUFD.factor_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:41.244405+00:00
 -- url     : https://prove2.me/theorems/a324c4d5-89ec-4191-b475-f6058240f955

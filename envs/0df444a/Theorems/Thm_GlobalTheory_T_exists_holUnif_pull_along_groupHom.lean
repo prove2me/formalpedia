@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_holUnif_pull_along_groupHom
 -- name    : GlobalTheory.T.exists_holUnif_pull_along_groupHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:38.289791+00:00
 -- url     : https://prove2.me/theorems/8e29e3f4-8874-4604-8910-5bdac9f68378

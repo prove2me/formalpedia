@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_algebra_OfHom_id_9211c44b8911
 -- name    : P2M_GlobalTheory_algebra_OfHom_id_9211c44b8911
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:40.235053+00:00
 -- url     : https://prove2.me/theorems/ec4673f5-b2ce-5662-8232-d3bbfd466390

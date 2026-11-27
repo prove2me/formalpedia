@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_levelFunctor_map
 -- name    : GroundTheory.ProfCoh.levelFunctor_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:09.567628+00:00
 -- url     : https://prove2.me/theorems/74681b3f-9627-4e14-8364-ddaa2eef22b4

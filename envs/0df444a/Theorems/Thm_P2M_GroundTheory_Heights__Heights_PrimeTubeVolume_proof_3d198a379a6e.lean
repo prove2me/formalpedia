@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeTubeVolume_proof_3d198a379a6e
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeTubeVolume_proof_3d198a379a6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:56.398232+00:00
 -- url     : https://prove2.me/theorems/ed80f462-d6b8-514e-99aa-db9266c21f5c

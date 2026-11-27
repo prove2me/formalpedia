@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_W_LamObj_toPair_spec
 -- name    : UpperTheory.V.W.LamObj.toPair_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:09.844633+00:00
 -- url     : https://prove2.me/theorems/b9d07cce-f34b-4cdc-a29d-370ad3ad910f

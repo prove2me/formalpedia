@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_mem_torusF_iff
 -- name    : GroundTheory.Automorphic.HermitianForm.mem_torusF_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:08.060441+00:00
 -- url     : https://prove2.me/theorems/319ae226-d4ab-48c2-a1d4-fb821258b1b1

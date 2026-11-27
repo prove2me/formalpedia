@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EarlyInspect_Align_Supplement_theorem_1
 -- name    : EarlyInspect.Align.Supplement.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:39:47.440188+00:00
 -- url     : https://prove2.me/theorems/0aaf8f4f-7f52-4f2a-a928-7b30add09c61

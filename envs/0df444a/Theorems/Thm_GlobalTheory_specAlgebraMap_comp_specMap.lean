@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specAlgebraMap_comp_specMap
 -- name    : GlobalTheory.specAlgebraMap_comp_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:35.316796+00:00
 -- url     : https://prove2.me/theorems/51fe100f-82ff-4e42-95c8-f8c5762ae2fe

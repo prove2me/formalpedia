@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_Supplement_theorem32_11
 -- name    : ShockWear.Inherit.Supplement.theorem32_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:52:13.333721+00:00
 -- url     : https://prove2.me/theorems/b17c7156-31d6-4fd9-a960-9f26feee822d

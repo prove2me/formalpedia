@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_WWRatioBasis_proof_5b4ea3f75b4d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_WWRatioBasis_proof_5b4ea3f75b4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:45.344944+00:00
 -- url     : https://prove2.me/theorems/03c17195-bbdb-4889-92fb-47b6d07e5161

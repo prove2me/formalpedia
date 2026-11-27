@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BModbound_ratio
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BModbound.ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:57:31.461829+00:00
 -- url     : https://prove2.me/theorems/57183464-8bcf-5dbd-af2f-050ac0d4810e

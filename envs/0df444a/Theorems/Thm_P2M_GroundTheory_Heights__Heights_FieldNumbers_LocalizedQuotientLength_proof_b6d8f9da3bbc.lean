@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LocalizedQuotientLength_proof_b6d8f9da3bbc
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LocalizedQuotientLength_proof_b6d8f9da3bbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:27.977537+00:00
 -- url     : https://prove2.me/theorems/3fb9f07e-3f33-4f89-85a1-13142b1177ea

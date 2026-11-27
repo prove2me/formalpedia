@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_GeometricTail_full_3c7fd1248857
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_GeometricTail_full_3c7fd1248857
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:51:24.126325+00:00
 -- url     : https://prove2.me/theorems/435cc29d-6ccf-5590-a83c-b38fb479dc80

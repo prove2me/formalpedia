@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_index_Uv
 -- name    : Formalism.L2.Indef.Tree.index_Uv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:58:28.049149+00:00
 -- url     : https://prove2.me/theorems/e7735ac1-be27-4ead-8663-b66091d9ed4d

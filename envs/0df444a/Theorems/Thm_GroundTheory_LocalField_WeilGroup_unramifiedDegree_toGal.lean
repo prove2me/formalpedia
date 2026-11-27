@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_unramifiedDegree_toGal
 -- name    : GroundTheory.LocalField.WeilGroup.unramifiedDegree_toGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:19.532151+00:00
 -- url     : https://prove2.me/theorems/fe6b4a8f-f5c8-5136-9885-2b565d0bf8a8

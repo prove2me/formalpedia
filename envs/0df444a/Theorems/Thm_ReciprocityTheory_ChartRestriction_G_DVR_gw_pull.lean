@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_gw_pull
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.gw_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:26:54.023388+00:00
 -- url     : https://prove2.me/theorems/8f0b41a7-89a1-45ba-91af-fd79431bc71b

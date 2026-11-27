@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_inertiaGal
 -- name    : GroundTheory.PAdicHodge.mem_inertiaGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:00.048619+00:00
 -- url     : https://prove2.me/theorems/40dc2ff8-672d-4e05-b60d-3cefc218e55b

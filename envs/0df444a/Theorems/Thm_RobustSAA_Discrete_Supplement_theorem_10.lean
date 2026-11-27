@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSAA_Discrete_Supplement_theorem_10
 -- name    : RobustSAA.Discrete.Supplement.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:43:53.857791+00:00
 -- url     : https://prove2.me/theorems/5612743c-f84c-4fa6-bb1a-e496824e6cdd

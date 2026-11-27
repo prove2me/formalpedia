@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KAway_upper_block_rank_one_update
 -- name    : PositivityTheory.SiegelWeilFormula.KAway.upper_block_rank_one_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:56:46.481934+00:00
 -- url     : https://prove2.me/theorems/3a5bdfa3-dbc3-5857-8115-d01df5dba9b0

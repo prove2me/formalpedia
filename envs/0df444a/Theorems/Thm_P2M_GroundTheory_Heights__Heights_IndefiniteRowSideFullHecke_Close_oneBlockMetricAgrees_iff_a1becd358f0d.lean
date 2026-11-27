@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_oneBlockMetricAgrees_iff_a1becd358f0d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_oneBlockMetricAgrees_iff_a1becd358f0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:16:07.516933+00:00
 -- url     : https://prove2.me/theorems/14ade0d0-4813-590f-b592-500519cca11d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_holomorphic_hom_determined
 -- name    : GlobalTheory.holomorphic_hom_determined
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:49:26.460105+00:00
 -- url     : https://prove2.me/theorems/39009f55-14e2-4442-995b-dffe9ae50724

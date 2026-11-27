@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_field_discr_neg_seven
 -- name    : GlobalTheory.exists_field_discr_neg_seven
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:50:14.426256+00:00
 -- url     : https://prove2.me/theorems/170a2eb4-b2a4-454d-8bbf-85f9c84555cb

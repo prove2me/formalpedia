@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartPointLine_adjoin__L_07ddd0270c3d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartPointLine_adjoin__L_07ddd0270c3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:17:11.405619+00:00
 -- url     : https://prove2.me/theorems/a15e9b20-a01a-5f89-8048-dda3df4b2d77

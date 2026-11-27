@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_holUnif_comp_linearEquiv_exists
 -- name    : GlobalTheory.T.holUnif_comp_linearEquiv_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:46.585742+00:00
 -- url     : https://prove2.me/theorems/fd7115c5-37c4-4b9c-a162-3fb881c78fcd

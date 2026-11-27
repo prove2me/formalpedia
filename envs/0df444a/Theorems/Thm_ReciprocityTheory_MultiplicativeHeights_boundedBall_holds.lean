@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_boundedBall_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.boundedBall_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:47.889482+00:00
 -- url     : https://prove2.me/theorems/d63807c1-3d36-4fe8-a126-6421f641f6fa

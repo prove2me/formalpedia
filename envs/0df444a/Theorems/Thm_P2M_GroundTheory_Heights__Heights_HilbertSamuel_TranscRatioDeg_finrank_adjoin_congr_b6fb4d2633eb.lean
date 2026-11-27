@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_finrank_adjoin_congr_b6fb4d2633eb
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_finrank_adjoin_congr_b6fb4d2633eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:01.282678+00:00
 -- url     : https://prove2.me/theorems/274ae8f5-dc8e-43ba-abb4-458f24687e44

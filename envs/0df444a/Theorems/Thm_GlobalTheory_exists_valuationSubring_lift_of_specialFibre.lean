@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_lift_of_specialFibre
 -- name    : GlobalTheory.exists_valuationSubring_lift_of_specialFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:56.073301+00:00
 -- url     : https://prove2.me/theorems/049772a4-5c8b-43cf-92ed-9b79ba53312f

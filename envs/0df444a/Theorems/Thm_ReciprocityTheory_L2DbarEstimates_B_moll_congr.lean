@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_moll_congr
 -- name    : ReciprocityTheory.L2DbarEstimates.B.moll_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:31.552989+00:00
 -- url     : https://prove2.me/theorems/39dfa49f-440e-5299-abe4-5f942c18ed67

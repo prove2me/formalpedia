@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_surjective_finite_of_unique_embedding_complete_normal
 -- name    : GlobalTheory.T.surjective_finite_of_unique_embedding_complete_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:40.175054+00:00
 -- url     : https://prove2.me/theorems/a316e793-6898-5f4d-bb03-1246c9b04118

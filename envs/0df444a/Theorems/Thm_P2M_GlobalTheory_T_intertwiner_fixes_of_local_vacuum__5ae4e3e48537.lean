@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_intertwiner_fixes_of_local_vacuum__5ae4e3e48537
 -- name    : P2M_GlobalTheory_T_intertwiner_fixes_of_local_vacuum__5ae4e3e48537
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:39.3956+00:00
 -- url     : https://prove2.me/theorems/2c3bb5fd-5be2-4343-af75-89822885fb8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_levi
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:59:07.704787+00:00
 -- url     : https://prove2.me/theorems/fdbf957b-1c64-420f-b3f9-d8a800756a16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_fixingSubgroup_le_fixingSubgroup_iff
 -- name    : GroundTheory.LocalField.fixingSubgroup_le_fixingSubgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:39.610798+00:00
 -- url     : https://prove2.me/theorems/371ea32b-6670-4d7e-a315-674c325e8961

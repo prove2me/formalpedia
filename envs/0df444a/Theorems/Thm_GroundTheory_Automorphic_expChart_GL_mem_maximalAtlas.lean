@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_expChart_GL_mem_maximalAtlas
 -- name    : GroundTheory.Automorphic.expChart_GL_mem_maximalAtlas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:43.435791+00:00
 -- url     : https://prove2.me/theorems/3b90b8cc-13a9-588e-89c4-42a2423bea6c

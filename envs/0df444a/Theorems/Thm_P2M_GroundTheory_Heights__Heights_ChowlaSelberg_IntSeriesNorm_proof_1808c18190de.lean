@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_proof_1808c18190de
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_proof_1808c18190de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:29.250664+00:00
 -- url     : https://prove2.me/theorems/fc9f52a4-cd53-4252-82de-457108c867b5

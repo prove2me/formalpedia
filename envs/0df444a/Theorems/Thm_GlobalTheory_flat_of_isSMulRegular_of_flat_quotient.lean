@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isSMulRegular_of_flat_quotient
 -- name    : GlobalTheory.flat_of_isSMulRegular_of_flat_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:46:04.627812+00:00
 -- url     : https://prove2.me/theorems/bb9bb09e-1cb2-4f35-86d7-3769522c87c7

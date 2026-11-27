@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HolomorphicFibreSumInt_proof_5e43db786638
 -- name    : P2M_GroundTheory_Heights__Heights_HolomorphicFibreSumInt_proof_5e43db786638
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:16:00.742734+00:00
 -- url     : https://prove2.me/theorems/d5489e1f-1f10-57f5-ba46-112b90c0f4fb

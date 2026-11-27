@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FluidBias_Supplement_proposition_3
 -- name    : MarketInterference.FluidBias.Supplement.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:46:00.350104+00:00
 -- url     : https://prove2.me/theorems/96a2d1ff-dbfc-468a-80cc-60d02520ee10

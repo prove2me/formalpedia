@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isPullDeg_of_comparison
 -- name    : GlobalTheory.T.exists_isPullDeg_of_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T16:34:03.744596+00:00
 -- url     : https://prove2.me/theorems/fd3a95ac-50ad-5fda-848f-288439474b2e

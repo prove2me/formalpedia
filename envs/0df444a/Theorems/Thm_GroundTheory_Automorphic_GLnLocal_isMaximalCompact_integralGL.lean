@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isMaximalCompact_integralGL
 -- name    : GroundTheory.Automorphic.GLnLocal.isMaximalCompact_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:45.366614+00:00
 -- url     : https://prove2.me/theorems/fca916ed-ea2f-45f2-89a2-1cef09ce9273

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_biext_pairing_nondegenerate_geometric_fibre
 -- name    : GlobalTheory.biext_pairing_nondegenerate_geometric_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:54:59.261216+00:00
 -- url     : https://prove2.me/theorems/619ecb1d-b616-544a-a0cd-a6f93f45a170

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LatticePointsBelowFinite_proof_869990a84eb7
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LatticePointsBelowFinite_proof_869990a84eb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:45.251417+00:00
 -- url     : https://prove2.me/theorems/36ac3d96-9ef6-5838-8d81-85085efda63b

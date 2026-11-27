@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_exists_chart_69e894168a06
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_exists_chart_69e894168a06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:42.611348+00:00
 -- url     : https://prove2.me/theorems/a74d32aa-a2d2-4c9c-8d37-7cb0492d7b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannTheta_zero_zero_neg
 -- name    : GlobalTheory.riemannTheta_zero_zero_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:01.58411+00:00
 -- url     : https://prove2.me/theorems/1256a7ea-7588-4bb8-bfa7-9b9267c9ea30

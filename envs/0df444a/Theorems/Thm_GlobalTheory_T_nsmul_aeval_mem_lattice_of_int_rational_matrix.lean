@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nsmul_aeval_mem_lattice_of_int_rational_matrix
 -- name    : GlobalTheory.T.nsmul_aeval_mem_lattice_of_int_rational_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:01.814125+00:00
 -- url     : https://prove2.me/theorems/63d5e37d-5dc0-4411-aeca-894a52001320

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointHeightDegree_proof_7e9af8e52ee3
 -- name    : P2M_GroundTheory_Heights__Heights_PointHeightDegree_proof_7e9af8e52ee3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:19.176798+00:00
 -- url     : https://prove2.me/theorems/64ad96ec-e8ed-55f5-8e8c-97bff9f661f9

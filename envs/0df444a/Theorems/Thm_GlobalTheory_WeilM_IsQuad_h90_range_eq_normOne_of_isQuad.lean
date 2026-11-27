@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsQuad_h90_range_eq_normOne_of_isQuad
 -- name    : GlobalTheory.WeilM.IsQuad.h90_range_eq_normOne_of_isQuad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:11.777353+00:00
 -- url     : https://prove2.me/theorems/e1aa3df9-c1da-56df-ac9a-ba8ae6ff7333

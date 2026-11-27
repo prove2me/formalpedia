@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_gmap_line
 -- name    : PositivityTheory.Rg.Rs.JLatOf.gmap_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:24.942872+00:00
 -- url     : https://prove2.me/theorems/e5f44cc3-babe-5797-9bf8-7f3483aeb0e6

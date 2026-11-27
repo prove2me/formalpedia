@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_CompatibleChartOperations_fsPot___eq_f40018ae65da
 -- name    : P2M_ReciprocityTheory_AnForm_M_CompatibleChartOperations_fsPot___eq_f40018ae65da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:35.11752+00:00
 -- url     : https://prove2.me/theorems/b5981ad2-f8fb-506a-bdde-e87e2d6caa21

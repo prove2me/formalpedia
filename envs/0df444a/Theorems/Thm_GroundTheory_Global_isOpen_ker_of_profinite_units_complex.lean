@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isOpen_ker_of_profinite_units_complex
 -- name    : GroundTheory.Global.isOpen_ker_of_profinite_units_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:32.066208+00:00
 -- url     : https://prove2.me/theorems/5f171ca8-7c96-4c13-941a-96094fb12f49

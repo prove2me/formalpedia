@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__dGam_le_example_0319b869c444
 -- name    : P2M_Formalism_BasicNotions_Examples__dGam_le_example_0319b869c444
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:16.426704+00:00
 -- url     : https://prove2.me/theorems/f152085c-e4e7-5ce8-92df-dbc7395dfd00

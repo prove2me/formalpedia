@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_Vac_norm_addChar
 -- name    : PositivityTheory.ThK.Vac.norm_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:56:40.075033+00:00
 -- url     : https://prove2.me/theorems/1ff29511-a10b-5f39-8454-467f7f553cab

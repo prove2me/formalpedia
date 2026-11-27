@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannTheta_submatrix_equiv
 -- name    : GlobalTheory.riemannTheta_submatrix_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:11.929872+00:00
 -- url     : https://prove2.me/theorems/e6aae0ef-5eb1-47f7-9cf3-77ecece3aa04

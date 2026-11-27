@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_vanishing_decomposition
 -- name    : GlobalTheory.T.schwartz_vanishing_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:28.952988+00:00
 -- url     : https://prove2.me/theorems/44c62dc3-9bf7-542e-ab1e-dc5ced638f14

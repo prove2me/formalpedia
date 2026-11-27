@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_archimedes_thm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.archimedes_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:06.21527+00:00
 -- url     : https://prove2.me/theorems/de441533-07d2-4a1a-be21-4d52b33f6526

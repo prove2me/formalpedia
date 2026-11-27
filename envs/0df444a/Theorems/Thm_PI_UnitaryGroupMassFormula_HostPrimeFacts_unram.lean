@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_unram
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:01:15.990622+00:00
 -- url     : https://prove2.me/theorems/655ecc3f-17ec-533c-8954-a4199d8118cd

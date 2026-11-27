@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_irreducible_cyclotomic_prime_pow
 -- name    : GroundTheory.PAdicHodge.irreducible_cyclotomic_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:42.583971+00:00
 -- url     : https://prove2.me/theorems/f084d42e-49e6-4217-8c8c-8b450cbf1bcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_removable_singularity_holds
 -- name    : PositivityTheory.RgJS.removable_singularity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:56.889461+00:00
 -- url     : https://prove2.me/theorems/ecb00444-2840-4d47-9dd8-eff5016d01b7

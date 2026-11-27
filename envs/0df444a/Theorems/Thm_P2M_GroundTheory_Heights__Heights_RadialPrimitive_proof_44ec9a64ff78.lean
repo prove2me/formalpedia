@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RadialPrimitive_proof_44ec9a64ff78
 -- name    : P2M_GroundTheory_Heights__Heights_RadialPrimitive_proof_44ec9a64ff78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:38.517507+00:00
 -- url     : https://prove2.me/theorems/e97ad253-531d-4f1b-8428-1082f33ab88e

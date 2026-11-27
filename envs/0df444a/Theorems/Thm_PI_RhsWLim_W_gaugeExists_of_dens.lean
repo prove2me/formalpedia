@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_gaugeExists_of_dens
 -- name    : PI.RhsWLim.W.gaugeExists_of_dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:17.668359+00:00
 -- url     : https://prove2.me/theorems/ccf4a982-42ef-5297-81ec-e7709c6173cb

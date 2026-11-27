@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_TB_Mink_exists_small_mem_ideal__e7daf5da2ddb
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_TB_Mink_exists_small_mem_ideal__e7daf5da2ddb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:43:26.244221+00:00
 -- url     : https://prove2.me/theorems/df70b5d4-269f-50e4-807b-624d8384a923

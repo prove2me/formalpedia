@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_proof_3e1de966b9e3
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GenSESStep_proof_3e1de966b9e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:16:18.557531+00:00
 -- url     : https://prove2.me/theorems/b4fe76bc-c349-49be-b8a8-d29eff4857e2

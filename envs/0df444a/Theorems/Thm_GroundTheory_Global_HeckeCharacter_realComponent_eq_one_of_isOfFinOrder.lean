@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_realComponent_eq_one_of_isOfFinOrder
 -- name    : GroundTheory.Global.HeckeCharacter.realComponent_eq_one_of_isOfFinOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:55.525037+00:00
 -- url     : https://prove2.me/theorems/a3c86e11-f04d-5ade-9835-3e7856ace0dd

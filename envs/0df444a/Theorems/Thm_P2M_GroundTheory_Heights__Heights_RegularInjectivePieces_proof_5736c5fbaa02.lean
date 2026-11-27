@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegularInjectivePieces_proof_5736c5fbaa02
 -- name    : P2M_GroundTheory_Heights__Heights_RegularInjectivePieces_proof_5736c5fbaa02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:53.137694+00:00
 -- url     : https://prove2.me/theorems/d60ec6fe-3ced-5e09-be9f-c4e37fcac57a

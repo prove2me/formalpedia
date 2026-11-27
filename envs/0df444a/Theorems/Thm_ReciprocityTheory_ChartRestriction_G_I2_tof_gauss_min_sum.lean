@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_gauss_min_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_gauss_min_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:30:43.946131+00:00
 -- url     : https://prove2.me/theorems/4d4eff97-24be-4668-a49e-d22fcc9d5726

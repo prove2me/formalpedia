@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalKrullDim_component_fiber_eq
 -- name    : GlobalTheory.topologicalKrullDim_component_fiber_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:25.468557+00:00
 -- url     : https://prove2.me/theorems/a5d960a1-11dd-4dd2-8781-ac314a481de1

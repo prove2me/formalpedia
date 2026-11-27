@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_proof_ef1da2e4d158
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_proof_ef1da2e4d158
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:26:57.276814+00:00
 -- url     : https://prove2.me/theorems/406c16c9-c447-5df7-9d47-8482f0d0109e

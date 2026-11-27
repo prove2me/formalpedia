@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_be_half
 -- name    : GlobalTheory.ArcTransport.be_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:21:20.519006+00:00
 -- url     : https://prove2.me/theorems/b2d447ad-6e44-4fad-bd2d-ffe20fe7bda0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableDispatch_Markov_Supplement_prop_B_1
 -- name    : StableDispatch.Markov.Supplement.prop_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:44:22.627199+00:00
 -- url     : https://prove2.me/theorems/fbc6c221-2269-4636-a751-6a460d0e90c7

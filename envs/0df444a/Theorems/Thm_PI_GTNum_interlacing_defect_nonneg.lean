@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GTNum_interlacing_defect_nonneg
 -- name    : PI.GTNum.interlacing_defect_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:51.93861+00:00
 -- url     : https://prove2.me/theorems/0f73b847-18de-5667-9c83-b8be2e5aff18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_isCompField_ofChar
 -- name    : UpperTheory.V.isCompField_ofChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:37.105495+00:00
 -- url     : https://prove2.me/theorems/d25cf029-bdef-4741-91a9-0a47976968cb

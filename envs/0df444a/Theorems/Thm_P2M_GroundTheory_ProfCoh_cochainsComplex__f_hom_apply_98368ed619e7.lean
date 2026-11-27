@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_cochainsComplex__f_hom_apply_98368ed619e7
 -- name    : P2M_GroundTheory_ProfCoh_cochainsComplex__f_hom_apply_98368ed619e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:41.596051+00:00
 -- url     : https://prove2.me/theorems/b8313370-a0c1-551d-9f2d-dbf3f648824c

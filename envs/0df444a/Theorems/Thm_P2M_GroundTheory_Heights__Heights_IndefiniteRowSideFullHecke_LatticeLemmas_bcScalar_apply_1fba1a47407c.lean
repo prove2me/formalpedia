@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_bcScalar_apply_1fba1a47407c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_bcScalar_apply_1fba1a47407c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:25:50.364541+00:00
 -- url     : https://prove2.me/theorems/d0b9d1df-ba96-4614-8796-93fa4c143599

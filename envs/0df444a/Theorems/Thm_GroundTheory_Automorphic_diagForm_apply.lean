@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_diagForm_apply
 -- name    : GroundTheory.Automorphic.diagForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:43.924248+00:00
 -- url     : https://prove2.me/theorems/f2294764-0f85-543a-898b-fbd9ea1c085d

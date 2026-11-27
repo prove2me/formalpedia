@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_tensorEps_neg
 -- name    : GlobalTheory.TensorLat.tensorEps_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:29:20.757622+00:00
 -- url     : https://prove2.me/theorems/6809961a-d7e7-4ed6-80fa-7c6ccb88cd77

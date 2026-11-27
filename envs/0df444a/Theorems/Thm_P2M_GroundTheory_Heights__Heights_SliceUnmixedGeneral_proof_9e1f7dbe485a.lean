@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceUnmixedGeneral_proof_9e1f7dbe485a
 -- name    : P2M_GroundTheory_Heights__Heights_SliceUnmixedGeneral_proof_9e1f7dbe485a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:53.532466+00:00
 -- url     : https://prove2.me/theorems/0447981c-7b09-5bcc-b1e9-3dfd7d94c4e5

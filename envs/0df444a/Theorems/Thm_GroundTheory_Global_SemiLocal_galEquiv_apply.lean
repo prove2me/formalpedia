@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_galEquiv_apply
 -- name    : GroundTheory.Global.SemiLocal.galEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:20.610146+00:00
 -- url     : https://prove2.me/theorems/aadbf043-73c0-4498-93ca-f8ca3c4c4574

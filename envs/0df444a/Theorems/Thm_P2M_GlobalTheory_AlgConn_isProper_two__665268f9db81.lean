@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AlgConn_isProper_two__665268f9db81
 -- name    : P2M_GlobalTheory_AlgConn_isProper_two__665268f9db81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:36.112045+00:00
 -- url     : https://prove2.me/theorems/14dde0f1-5670-471f-b45e-4438d4e82217

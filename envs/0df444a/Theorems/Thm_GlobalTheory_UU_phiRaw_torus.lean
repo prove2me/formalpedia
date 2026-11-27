@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_phiRaw_torus
 -- name    : GlobalTheory.UU.phiRaw_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:33:19.435594+00:00
 -- url     : https://prove2.me/theorems/7a23d7d1-6861-4563-aa0a-d3e3113718f0

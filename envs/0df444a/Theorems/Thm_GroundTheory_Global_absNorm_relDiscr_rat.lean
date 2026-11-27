@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_absNorm_relDiscr_rat
 -- name    : GroundTheory.Global.absNorm_relDiscr_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:55.998628+00:00
 -- url     : https://prove2.me/theorems/35785fe9-1031-505e-b11b-70e15dbfa823

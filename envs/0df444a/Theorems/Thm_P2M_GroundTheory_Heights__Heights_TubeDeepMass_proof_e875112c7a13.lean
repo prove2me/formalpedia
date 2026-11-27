@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepMass_proof_e875112c7a13
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepMass_proof_e875112c7a13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:40.296265+00:00
 -- url     : https://prove2.me/theorems/49f04046-0bc6-5e61-a295-f9e2f6ec398b

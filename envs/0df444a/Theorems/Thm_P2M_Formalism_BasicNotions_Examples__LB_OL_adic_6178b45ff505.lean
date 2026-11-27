@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_OL_adic_6178b45ff505
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_OL_adic_6178b45ff505
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:34:36.011801+00:00
 -- url     : https://prove2.me/theorems/676ac448-d50c-49ce-87cc-25e843bbf2a7

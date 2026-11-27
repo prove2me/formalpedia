@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuativeExtension_of_isScalarTower
 -- name    : GroundTheory.LocalField.valuativeExtension_of_isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:48.66689+00:00
 -- url     : https://prove2.me/theorems/1441f488-36b1-4c78-aaca-5a60e3ba17af

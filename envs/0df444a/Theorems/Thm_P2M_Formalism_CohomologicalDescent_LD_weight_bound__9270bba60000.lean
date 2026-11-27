@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LD_weight_bound__9270bba60000
 -- name    : P2M_Formalism_CohomologicalDescent_LD_weight_bound__9270bba60000
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:10:10.995321+00:00
 -- url     : https://prove2.me/theorems/ace176d5-a921-56c0-9fd8-b7e5877709cc

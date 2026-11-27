@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_toricPointExtension_tangentSeq_splitExact
 -- name    : GlobalTheory.T.toricPointExtension_tangentSeq_splitExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:35:03.013793+00:00
 -- url     : https://prove2.me/theorems/6cf57bab-96f9-5f7c-8008-26c9a924d17f

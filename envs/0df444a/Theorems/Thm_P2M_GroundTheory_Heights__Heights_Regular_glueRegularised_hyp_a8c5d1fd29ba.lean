@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_glueRegularised_hyp_a8c5d1fd29ba
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_glueRegularised_hyp_a8c5d1fd29ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:35.936447+00:00
 -- url     : https://prove2.me/theorems/b669c35e-631b-4f36-8246-bc6699645729

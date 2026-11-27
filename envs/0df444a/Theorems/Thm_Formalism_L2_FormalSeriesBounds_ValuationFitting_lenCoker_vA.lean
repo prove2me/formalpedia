@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_lenCoker_vA
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.lenCoker_vA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:34:35.241452+00:00
 -- url     : https://prove2.me/theorems/5170c469-2354-4124-8ab0-2514428c0ee9

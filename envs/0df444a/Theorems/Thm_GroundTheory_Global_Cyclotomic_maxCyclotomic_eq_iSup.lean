@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_maxCyclotomic_eq_iSup
 -- name    : GroundTheory.Global.Cyclotomic.maxCyclotomic_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:17.196337+00:00
 -- url     : https://prove2.me/theorems/2bac147a-da3c-42eb-b873-f53853af3e56

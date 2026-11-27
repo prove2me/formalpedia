@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlurisubharmonicMetric_proof_de6730ae6bdf
 -- name    : P2M_GroundTheory_Heights__Heights_PlurisubharmonicMetric_proof_de6730ae6bdf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:25.873944+00:00
 -- url     : https://prove2.me/theorems/b1e9176f-ac14-438c-8b88-634ede32fac2

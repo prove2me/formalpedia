@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_C4_Bq_NQ_of_blocks
 -- name    : PositivityTheory.SiegelWeilFormula.Act.C4.Bq.NQ.of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:56:27.860351+00:00
 -- url     : https://prove2.me/theorems/5deb9daf-0bb3-5387-bb87-9867e2118c7e

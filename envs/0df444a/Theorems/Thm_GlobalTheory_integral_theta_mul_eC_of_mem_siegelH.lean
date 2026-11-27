@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integral_theta_mul_eC_of_mem_siegelH
 -- name    : GlobalTheory.integral_theta_mul_eC_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:50.133526+00:00
 -- url     : https://prove2.me/theorems/f86d0aa8-7fc8-5555-a782-a302b6af59d3

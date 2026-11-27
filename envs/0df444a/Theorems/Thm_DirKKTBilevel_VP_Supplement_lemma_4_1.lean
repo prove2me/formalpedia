@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirKKTBilevel_VP_Supplement_lemma_4_1
 -- name    : DirKKTBilevel.VP.Supplement.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:21:43.016657+00:00
 -- url     : https://prove2.me/theorems/c1f4fb66-3b62-4aa3-9385-25757d9c9a1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_yao
 -- name    : BarelyTestable.LowerBound.yao
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:23.315402+00:00
 -- url     : https://prove2.me/theorems/721cd0c5-8f43-4378-bf5c-f30dfb052824

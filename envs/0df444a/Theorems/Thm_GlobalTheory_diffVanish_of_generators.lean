@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diffVanish_of_generators
 -- name    : GlobalTheory.diffVanish_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:47.082654+00:00
 -- url     : https://prove2.me/theorems/589eb7f1-53c9-4259-a8e6-98f33f9cebed

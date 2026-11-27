@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_piExteriorTensor_flattenedIndex_equiv_nested
 -- name    : GlobalTheory.T.piExteriorTensor_flattenedIndex_equiv_nested
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:37.288106+00:00
 -- url     : https://prove2.me/theorems/b847dc49-3453-4b10-9cf5-0c91fee5e934

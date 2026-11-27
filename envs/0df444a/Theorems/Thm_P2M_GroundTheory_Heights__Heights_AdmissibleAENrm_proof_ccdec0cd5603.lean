@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AdmissibleAENrm_proof_ccdec0cd5603
 -- name    : P2M_GroundTheory_Heights__Heights_AdmissibleAENrm_proof_ccdec0cd5603
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:08:08.786199+00:00
 -- url     : https://prove2.me/theorems/6e0b2ec8-5a92-42da-95e2-fe79286e6efd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Prod_Asm_exists_irreducible_le
 -- name    : PositivityTheory.RgUd.Prod.Asm.exists_irreducible_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:54:38.407324+00:00
 -- url     : https://prove2.me/theorems/c49e2a09-c4bc-4363-8bf5-2eccf65b3f15

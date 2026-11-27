@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PhiGam_ModPG_linearIndependent___5ce28352564c
 -- name    : P2M_GlobalTheory_PhiGam_ModPG_linearIndependent___5ce28352564c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:21.605856+00:00
 -- url     : https://prove2.me/theorems/8b4f5b26-04ed-5a8e-80ee-938629a9cd26

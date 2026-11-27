@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_pushF_injective
 -- name    : GlobalTheory.ArcTransport.pushF_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:27:36.565818+00:00
 -- url     : https://prove2.me/theorems/432b144a-a582-5bbd-bc03-96c4f43ea343

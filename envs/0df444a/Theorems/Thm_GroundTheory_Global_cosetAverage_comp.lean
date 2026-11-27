@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cosetAverage_comp
 -- name    : GroundTheory.Global.cosetAverage_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:12.316843+00:00
 -- url     : https://prove2.me/theorems/cc7fdf2c-124f-4ba1-b844-90fc8e3ba5d9

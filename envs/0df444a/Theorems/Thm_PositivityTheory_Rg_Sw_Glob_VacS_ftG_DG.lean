@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_VacS_ftG_DG
 -- name    : PositivityTheory.Rg.Sw.Glob.VacS.ftG_DG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:53:12.900845+00:00
 -- url     : https://prove2.me/theorems/3ca29cf1-938d-4176-97fd-689f680c829b

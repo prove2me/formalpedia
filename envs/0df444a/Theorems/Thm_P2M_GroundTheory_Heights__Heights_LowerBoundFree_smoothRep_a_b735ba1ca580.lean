@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_smoothRep_a_b735ba1ca580
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_smoothRep_a_b735ba1ca580
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:32:59.87318+00:00
 -- url     : https://prove2.me/theorems/b192710b-4d25-5841-ab5e-e534cd98f5c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_isAffineOpen_stdOpen
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.isAffineOpen_stdOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:34.00016+00:00
 -- url     : https://prove2.me/theorems/fee6e370-fb9d-4a6f-abd3-43d9b868ff40

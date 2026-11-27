@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_mem_powField_iff
 -- name    : GroundTheory.Arith.Abelian.mem_powField_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:08.546805+00:00
 -- url     : https://prove2.me/theorems/fd59a7ab-8bb6-56c7-986d-4487bb6b8178

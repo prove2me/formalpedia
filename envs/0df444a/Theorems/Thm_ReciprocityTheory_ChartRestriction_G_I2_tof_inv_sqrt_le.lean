@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_inv_sqrt_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_inv_sqrt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:52:33.507973+00:00
 -- url     : https://prove2.me/theorems/efbaa7ae-ce0c-4671-83c3-523286f62dc3

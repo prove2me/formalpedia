@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PuncturedExpOrder_proof_da882b5a154f
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PuncturedExpOrder_proof_da882b5a154f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:11.102842+00:00
 -- url     : https://prove2.me/theorems/e335afc1-de9a-57e1-addc-05cf55138a48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_exists_continuous_units_padicInt_lift
 -- name    : GroundTheory.PAdicHodge.SenTateChar.exists_continuous_units_padicInt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:21.010942+00:00
 -- url     : https://prove2.me/theorems/0da9833b-10c4-5c46-94b6-81e9dea34c9c

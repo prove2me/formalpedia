@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cech_def
 -- name    : GlobalTheory.cech_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:01.517258+00:00
 -- url     : https://prove2.me/theorems/5f82b3b9-2c4c-4b86-9b53-2ed6e7b66b3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPrefLearn_MTP_Supplement_theorem_b5
 -- name    : RobustPrefLearn.MTP.Supplement.theorem_b5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:14:54.154798+00:00
 -- url     : https://prove2.me/theorems/5473e661-e0fc-4404-b992-6d95ee735917

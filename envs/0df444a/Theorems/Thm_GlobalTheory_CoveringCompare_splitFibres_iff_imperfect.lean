@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoveringCompare_splitFibres_iff_imperfect
 -- name    : GlobalTheory.CoveringCompare.splitFibres_iff_imperfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:46:56.933981+00:00
 -- url     : https://prove2.me/theorems/2fbba79d-cf11-4275-8e0f-f1e8cb6003fc

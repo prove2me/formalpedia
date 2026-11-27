@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EagonNorthcottZ_sum_cmp
 -- name    : PI.EagonNorthcottZ.sum_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:01.476388+00:00
 -- url     : https://prove2.me/theorems/f44c2cc4-87d9-55a9-9a63-3f826a23a874

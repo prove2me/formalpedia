@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_CohTrivial_res_subtype
 -- name    : GroundTheory.GroupCoh.CohTrivial.res_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:43.20212+00:00
 -- url     : https://prove2.me/theorems/6bbfcd0f-9173-50a1-900a-a0912f9d4b2f

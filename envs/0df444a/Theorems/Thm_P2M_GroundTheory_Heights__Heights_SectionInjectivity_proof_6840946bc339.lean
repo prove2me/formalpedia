@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionInjectivity_proof_6840946bc339
 -- name    : P2M_GroundTheory_Heights__Heights_SectionInjectivity_proof_6840946bc339
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:20.401505+00:00
 -- url     : https://prove2.me/theorems/21bc2a97-0910-4539-a35b-fd5b3454f536

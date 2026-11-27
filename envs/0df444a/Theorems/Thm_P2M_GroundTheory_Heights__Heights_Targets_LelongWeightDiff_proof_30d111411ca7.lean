@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_proof_30d111411ca7
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_LelongWeightDiff_proof_30d111411ca7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:41:28.097213+00:00
 -- url     : https://prove2.me/theorems/f2ce41c8-4053-4c38-922d-69feb906583d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_thetaC_surjective
 -- name    : Reformulated.AutPerF.BdRPlus.thetaC_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:48:57.718301+00:00
 -- url     : https://prove2.me/theorems/5c93fd5c-8c96-59da-ac90-768792f37e54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ChebyshevThetaBound_full_74f2b475e0c6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_ChebyshevThetaBound_full_74f2b475e0c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:36.529075+00:00
 -- url     : https://prove2.me/theorems/761ab609-1757-5e43-8846-5f0c9d0bad81

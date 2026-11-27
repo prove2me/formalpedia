@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coeff_containing
 -- name    : GlobalTheory.exists_coeff_containing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:03.64257+00:00
 -- url     : https://prove2.me/theorems/a2446907-816c-5977-818e-f4f98a1e2572

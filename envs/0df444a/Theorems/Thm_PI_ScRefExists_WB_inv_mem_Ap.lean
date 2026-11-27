@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WB_inv_mem_Ap
 -- name    : PI.ScRefExists.WB.inv_mem_Ap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:59:31.436985+00:00
 -- url     : https://prove2.me/theorems/e85f349f-49d9-4194-9e37-7406814652f1

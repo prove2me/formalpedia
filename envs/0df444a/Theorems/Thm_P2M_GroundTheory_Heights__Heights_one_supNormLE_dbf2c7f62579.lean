@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_one_supNormLE_dbf2c7f62579
 -- name    : P2M_GroundTheory_Heights__Heights_one_supNormLE_dbf2c7f62579
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:48.596962+00:00
 -- url     : https://prove2.me/theorems/c1a4c4e5-6a8d-4ae8-bfae-616af052902b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_coefX_add
 -- name    : ReciprocityTheory.PGsh.Up.coefX_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:18:24.508274+00:00
 -- url     : https://prove2.me/theorems/aad1ad6f-9c41-5588-a0bb-297ba7c20d49

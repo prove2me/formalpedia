@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassGroup_idelic_finiteIndex
 -- name    : GlobalTheory.T.rayClassGroup_idelic_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:01.697702+00:00
 -- url     : https://prove2.me/theorems/51491a74-fb48-4fff-af49-7fa9b5949307

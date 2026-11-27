@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_Dual_map
 -- name    : PositivityTheory.ThKEnd.Two.Dual.map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:59:57.667451+00:00
 -- url     : https://prove2.me/theorems/20df878c-ce00-5e3e-a885-8ddea960b0c0

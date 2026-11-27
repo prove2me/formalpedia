@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SchurComp_exists_comb
 -- name    : GlobalTheory.UU.SchurComp.exists_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:18:59.09196+00:00
 -- url     : https://prove2.me/theorems/19bed6a0-a429-534e-a5ea-909ebf7d365d

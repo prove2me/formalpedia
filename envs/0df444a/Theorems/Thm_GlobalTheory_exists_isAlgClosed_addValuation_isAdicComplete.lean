@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isAlgClosed_addValuation_isAdicComplete
 -- name    : GlobalTheory.exists_isAlgClosed_addValuation_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:01.037505+00:00
 -- url     : https://prove2.me/theorems/6932a38e-da3c-5a64-a1fc-3bdeb71a8e35

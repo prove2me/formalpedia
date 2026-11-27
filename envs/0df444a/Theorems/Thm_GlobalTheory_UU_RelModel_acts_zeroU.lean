@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_acts_zeroU
 -- name    : GlobalTheory.UU.RelModel.acts_zeroU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:07:04.000788+00:00
 -- url     : https://prove2.me/theorems/75b3a263-7eec-45be-bc57-cbe051710a50

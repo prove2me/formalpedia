@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_haarGL_eq
 -- name    : GroundTheory.Automorphic.Measures.haarGL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:54.463939+00:00
 -- url     : https://prove2.me/theorems/073f26a8-265f-5884-9142-1b32b9ac5245

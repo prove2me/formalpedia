@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_Supplement_overlap_search_iff
 -- name    : AssortSearch.MNLQC.Supplement.overlap_search_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:20:54.499157+00:00
 -- url     : https://prove2.me/theorems/11550ffa-c069-4a92-b41b-edb847f3f154

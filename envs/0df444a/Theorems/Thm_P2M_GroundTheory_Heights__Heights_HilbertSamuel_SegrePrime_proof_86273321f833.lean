@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegrePrime_proof_86273321f833
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegrePrime_proof_86273321f833
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:37.475642+00:00
 -- url     : https://prove2.me/theorems/aa5c9f7d-02b8-4b44-a886-e54115443547

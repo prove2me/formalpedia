@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ChartDehomIdeal_proof_1927dc9452ac
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ChartDehomIdeal_proof_1927dc9452ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:58.700055+00:00
 -- url     : https://prove2.me/theorems/f273897c-6d60-5e2b-ad37-5fae332cd260

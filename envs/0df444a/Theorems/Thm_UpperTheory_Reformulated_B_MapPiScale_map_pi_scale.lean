@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_MapPiScale_map_pi_scale
 -- name    : UpperTheory.Reformulated.B.MapPiScale.map_pi_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:48.89185+00:00
 -- url     : https://prove2.me/theorems/c1e8e47e-af20-48e1-9f45-9c76380a5889

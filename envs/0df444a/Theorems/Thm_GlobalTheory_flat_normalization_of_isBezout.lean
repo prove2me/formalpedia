@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_normalization_of_isBezout
 -- name    : GlobalTheory.flat_normalization_of_isBezout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:47.46655+00:00
 -- url     : https://prove2.me/theorems/9a59ae01-c145-57e3-b40a-37cec657c9f9

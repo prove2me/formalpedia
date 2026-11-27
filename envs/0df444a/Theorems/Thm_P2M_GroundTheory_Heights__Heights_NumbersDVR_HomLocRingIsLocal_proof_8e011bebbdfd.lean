@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingIsLocal_proof_8e011bebbdfd
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingIsLocal_proof_8e011bebbdfd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:33:59.21107+00:00
 -- url     : https://prove2.me/theorems/26153ab1-76a1-47f4-8f31-4578b7e32b6f

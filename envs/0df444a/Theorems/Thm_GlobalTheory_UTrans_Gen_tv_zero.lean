@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Gen_tv_zero
 -- name    : GlobalTheory.UTrans.Gen.tv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:57.475161+00:00
 -- url     : https://prove2.me/theorems/0280b226-6c03-48d0-a0ad-1ca1de48faf2

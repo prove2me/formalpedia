@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_net_supremum_bound
 -- name    : net_supremum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:06.654799+00:00
 -- url     : https://prove2.me/theorems/84bb366b-76f2-4b8c-af49-90beccd49f39

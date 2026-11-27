@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_baseChange_dvr
 -- name    : GlobalTheory.length_baseChange_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:35.484799+00:00
 -- url     : https://prove2.me/theorems/91e09c3d-01fb-5e2b-942d-c6e4a03dabfd

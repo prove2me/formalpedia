@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongLimitOffZero_proof_5edde413a29d
 -- name    : P2M_GroundTheory_Heights__Heights_LelongLimitOffZero_proof_5edde413a29d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:58.19507+00:00
 -- url     : https://prove2.me/theorems/f21779b3-ffe7-5250-915b-6b76e48cd08b

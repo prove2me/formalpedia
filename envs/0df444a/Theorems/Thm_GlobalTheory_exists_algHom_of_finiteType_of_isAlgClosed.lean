@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_of_finiteType_of_isAlgClosed
 -- name    : GlobalTheory.exists_algHom_of_finiteType_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:38.232791+00:00
 -- url     : https://prove2.me/theorems/563a9a35-d09d-5bdd-95f9-494a12b46103

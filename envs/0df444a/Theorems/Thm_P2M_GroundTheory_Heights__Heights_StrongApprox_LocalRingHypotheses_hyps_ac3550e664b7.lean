@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_LocalRingHypotheses_hyps_ac3550e664b7
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_LocalRingHypotheses_hyps_ac3550e664b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:38:58.09995+00:00
 -- url     : https://prove2.me/theorems/61e431b3-82dd-5be6-9632-17c67ba2026d

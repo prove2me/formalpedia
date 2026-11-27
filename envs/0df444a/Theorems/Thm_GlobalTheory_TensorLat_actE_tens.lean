@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_actE_tens
 -- name    : GlobalTheory.TensorLat.actE_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:29:36.791893+00:00
 -- url     : https://prove2.me/theorems/8c31cf91-68f9-4dbe-98de-7499df0e3d18

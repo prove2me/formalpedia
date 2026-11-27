@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_integralClosure_fractionRing_finite_54f1a691493f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_integralClosure_fractionRing_finite_54f1a691493f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:27:50.057093+00:00
 -- url     : https://prove2.me/theorems/010a7cd0-5e76-5f91-8689-bb076674542f

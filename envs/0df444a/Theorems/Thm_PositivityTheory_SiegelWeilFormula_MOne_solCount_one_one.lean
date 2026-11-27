@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_MOne_solCount_one_one
 -- name    : PositivityTheory.SiegelWeilFormula.MOne.solCount_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:47.631825+00:00
 -- url     : https://prove2.me/theorems/a59d73c4-6952-5e80-aba9-bb83aede87d4

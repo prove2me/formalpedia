@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_UnitaryLeft_unit_map__b6dc8a415ea7
 -- name    : P2M_GlobalTheory_SW_UnitaryLeft_unit_map__b6dc8a415ea7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:24.269322+00:00
 -- url     : https://prove2.me/theorems/579d9002-99db-5401-ab56-0066f004a3f2

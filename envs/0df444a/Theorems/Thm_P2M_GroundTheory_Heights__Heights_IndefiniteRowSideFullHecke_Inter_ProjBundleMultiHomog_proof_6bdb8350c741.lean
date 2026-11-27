@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_ProjBundleMultiHomog_proof_6bdb8350c741
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_ProjBundleMultiHomog_proof_6bdb8350c741
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:44.62329+00:00
 -- url     : https://prove2.me/theorems/f2698d7e-2ca3-4222-825c-5cbc95c8f1c4

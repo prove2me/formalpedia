@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosedImmersion_restrict_basicOpen_of_mul_mem_range
 -- name    : GlobalTheory.T.isClosedImmersion_restrict_basicOpen_of_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:35.125848+00:00
 -- url     : https://prove2.me/theorems/5387f633-ff51-4510-9c5f-94b9abb63137

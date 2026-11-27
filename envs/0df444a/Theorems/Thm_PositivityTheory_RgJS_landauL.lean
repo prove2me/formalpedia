@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_landauL
 -- name    : PositivityTheory.RgJS.landauL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:46.297186+00:00
 -- url     : https://prove2.me/theorems/67ead24a-94d5-498b-888e-4e7cb18a7445

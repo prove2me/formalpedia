@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_submean_sq_closedBall
 -- name    : GlobalTheory.submean_sq_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:39.709822+00:00
 -- url     : https://prove2.me/theorems/ac10a1ae-d11e-5515-8385-448c5791e65c

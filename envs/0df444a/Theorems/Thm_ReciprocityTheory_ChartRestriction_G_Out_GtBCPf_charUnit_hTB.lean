@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_charUnit_hTB
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.charUnit_hTB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:08:14.034417+00:00
 -- url     : https://prove2.me/theorems/a668158c-bcee-5874-8cb1-b2b7521176be

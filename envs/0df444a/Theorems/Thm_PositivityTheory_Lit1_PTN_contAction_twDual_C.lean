@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_contAction_twDual_C
 -- name    : PositivityTheory.Lit1.PTN.contAction_twDual_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:01.21083+00:00
 -- url     : https://prove2.me/theorems/948e2af4-22da-439f-ad2b-bec0664133bc

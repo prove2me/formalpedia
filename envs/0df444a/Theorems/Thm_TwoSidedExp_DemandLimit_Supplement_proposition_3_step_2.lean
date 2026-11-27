@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_Supplement_proposition_3_step_2
 -- name    : TwoSidedExp.DemandLimit.Supplement.proposition_3_step_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:24:23.46118+00:00
 -- url     : https://prove2.me/theorems/f463db64-82f8-422f-b9ec-1973e2f46d45

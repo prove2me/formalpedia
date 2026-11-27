@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_TelescopingFamily_proof_620a6ef5de6f
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_TelescopingFamily_proof_620a6ef5de6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:30:07.391289+00:00
 -- url     : https://prove2.me/theorems/6a5bbd66-b12c-4931-aaa4-152d33ef9e5f

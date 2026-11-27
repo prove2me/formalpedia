@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_rStar_ge_admissible
 -- name    : CrossLayerControl.ECCA.rStar_ge_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:40:46.405264+00:00
 -- url     : https://prove2.me/theorems/798ae567-ca2c-4800-94be-ffdd07a3493b

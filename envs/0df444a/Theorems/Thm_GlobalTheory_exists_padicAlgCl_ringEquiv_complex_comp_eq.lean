@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_padicAlgCl_ringEquiv_complex_comp_eq
 -- name    : GlobalTheory.exists_padicAlgCl_ringEquiv_complex_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:05.068285+00:00
 -- url     : https://prove2.me/theorems/f1448b6b-657b-5e2d-9dbc-3c5ed933b657

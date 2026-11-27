@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FG_FormalGroupLawMap_map_subst__1d1b80fad526
 -- name    : P2M_Formalism_FG_FormalGroupLawMap_map_subst__1d1b80fad526
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:10:22.441949+00:00
 -- url     : https://prove2.me/theorems/db58fd99-5f0b-51ba-825f-4c74ea0c13ab

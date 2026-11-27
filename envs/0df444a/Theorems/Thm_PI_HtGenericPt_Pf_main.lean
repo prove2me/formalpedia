@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtGenericPt_Pf_main
 -- name    : PI.HtGenericPt.Pf.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:45:40.692951+00:00
 -- url     : https://prove2.me/theorems/8cc82955-00aa-57f9-9d3d-d55039ec829d

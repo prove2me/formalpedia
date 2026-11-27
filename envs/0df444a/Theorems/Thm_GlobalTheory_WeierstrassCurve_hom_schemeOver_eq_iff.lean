@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_hom_schemeOver_eq_iff
 -- name    : GlobalTheory.WeierstrassCurve.hom_schemeOver_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:15.92883+00:00
 -- url     : https://prove2.me/theorems/33d36eda-9aa0-532f-a4ef-717084d9ec2e

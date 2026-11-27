@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSiegel_fromBlocks_iff
 -- name    : GlobalTheory.isSiegel_fromBlocks_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:08.661124+00:00
 -- url     : https://prove2.me/theorems/e18509a9-afa6-5db5-9266-9eeb026abdb9

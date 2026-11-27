@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coprime_card_coprimeRelPreimage_lowerRamificationGroup
 -- name    : GroundTheory.ProfCoh.coprime_card_coprimeRelPreimage_lowerRamificationGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:16.614728+00:00
 -- url     : https://prove2.me/theorems/8dc29040-173f-5730-b4a8-bc9ceebd2366

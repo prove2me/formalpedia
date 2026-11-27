@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RatPrimeDense_proof_9d77bb516c00
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RatPrimeDense_proof_9d77bb516c00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:15:12.880988+00:00
 -- url     : https://prove2.me/theorems/6d435cbc-9bc1-4ca2-943c-08e10bd91778

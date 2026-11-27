@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIMultilin_proof_fab781e67397
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIMultilin_proof_fab781e67397
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:54.452834+00:00
 -- url     : https://prove2.me/theorems/7582e9af-facd-5071-8297-95592d848f32

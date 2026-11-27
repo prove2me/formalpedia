@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_isotropic_dual_of_skew_matrix__234181029e55
 -- name    : P2M_GlobalTheory_T_exists_isotropic_dual_of_skew_matrix__234181029e55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:09.218949+00:00
 -- url     : https://prove2.me/theorems/d0f9f6db-d5f8-5c10-82af-499b07780a99

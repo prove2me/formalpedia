@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDens_flatL_mp
 -- name    : GlobalTheory.UnifDens.flatL_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:52.7219+00:00
 -- url     : https://prove2.me/theorems/c1a4f7eb-de07-57c9-89fa-3450b9c696b5

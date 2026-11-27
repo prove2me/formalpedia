@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gram_blockDiagonal_energy_bound
 -- name    : GlobalTheory.gram_blockDiagonal_energy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:04.336217+00:00
 -- url     : https://prove2.me/theorems/7602147f-bec9-50a7-ac0f-1c89f0d93f4b

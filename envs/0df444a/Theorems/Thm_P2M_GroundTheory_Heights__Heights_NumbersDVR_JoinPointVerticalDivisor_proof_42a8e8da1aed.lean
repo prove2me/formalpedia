@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_proof_42a8e8da1aed
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_proof_42a8e8da1aed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:35:52.59698+00:00
 -- url     : https://prove2.me/theorems/5e5b4c42-4c4c-5319-8015-6c1a361f942d

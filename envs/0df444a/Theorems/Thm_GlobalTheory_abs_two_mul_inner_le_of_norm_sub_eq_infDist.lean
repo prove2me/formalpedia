@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_two_mul_inner_le_of_norm_sub_eq_infDist
 -- name    : GlobalTheory.abs_two_mul_inner_le_of_norm_sub_eq_infDist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:43.119668+00:00
 -- url     : https://prove2.me/theorems/21078f4b-c6ed-5a87-8d05-cb1070f8f922

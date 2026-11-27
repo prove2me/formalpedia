@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isProper_of_existsUnique_field_point
 -- name    : GlobalTheory.isIso_of_isProper_of_existsUnique_field_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:37.339952+00:00
 -- url     : https://prove2.me/theorems/a052e041-d55e-47e9-8076-8ba693a77f26

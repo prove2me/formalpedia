@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_iff_quasiIso_cechAug
 -- name    : GlobalTheory.cubeComplex_acyclic_iff_quasiIso_cechAug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:59.895033+00:00
 -- url     : https://prove2.me/theorems/81fa81e2-b39f-4b37-852b-2bed38f3f78e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_CompactCayleyBlocks_mem_unitary_of
 -- name    : PositivityTheory.Rg.Sw.HSt.CompactCayleyBlocks.mem_unitary_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:53:01.64766+00:00
 -- url     : https://prove2.me/theorems/054cb896-abf7-4f43-aa50-88bd6524af60

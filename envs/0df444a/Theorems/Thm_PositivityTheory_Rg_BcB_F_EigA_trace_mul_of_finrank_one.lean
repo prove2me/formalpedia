@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_trace_mul_of_finrank_one
 -- name    : PositivityTheory.Rg.BcB.F.EigA.trace_mul_of_finrank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:28.51692+00:00
 -- url     : https://prove2.me/theorems/51806ce1-f905-465c-bcbf-dc9868844c8b

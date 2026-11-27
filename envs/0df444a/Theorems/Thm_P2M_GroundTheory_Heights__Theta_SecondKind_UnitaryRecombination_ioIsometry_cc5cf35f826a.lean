@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_ioIsometry_cc5cf35f826a
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_ioIsometry_cc5cf35f826a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:18.689826+00:00
 -- url     : https://prove2.me/theorems/0048a70b-d85e-4bfc-8114-5ea5ba5b4926

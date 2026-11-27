@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_kDecay_of_zuckT
 -- name    : MainStatements.BetaInf.kDecay_of_zuckT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:10:58.598519+00:00
 -- url     : https://prove2.me/theorems/111608eb-dccd-5b0a-8163-97132967c7f8

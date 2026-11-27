@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_exists_finite_flat_chart
 -- name    : GlobalTheory.Unif.exists_finite_flat_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:50.735039+00:00
 -- url     : https://prove2.me/theorems/631aa495-b003-4812-9ae1-5851a8cf5b8a

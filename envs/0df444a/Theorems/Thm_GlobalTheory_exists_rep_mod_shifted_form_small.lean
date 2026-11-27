@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rep_mod_shifted_form_small
 -- name    : GlobalTheory.exists_rep_mod_shifted_form_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:10.362272+00:00
 -- url     : https://prove2.me/theorems/9d61e3a8-e411-50a7-b6c0-d98ed904f65a

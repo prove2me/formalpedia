@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_exp2
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.exp2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:08:39.944521+00:00
 -- url     : https://prove2.me/theorems/bf129b14-5410-4b07-9616-91fa8fe8e6bb

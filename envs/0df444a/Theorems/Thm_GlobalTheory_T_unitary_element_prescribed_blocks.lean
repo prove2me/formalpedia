@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_element_prescribed_blocks
 -- name    : GlobalTheory.T.unitary_element_prescribed_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:11.715335+00:00
 -- url     : https://prove2.me/theorems/44d4dec3-a836-5bb9-b4e6-986ec5fb22f1

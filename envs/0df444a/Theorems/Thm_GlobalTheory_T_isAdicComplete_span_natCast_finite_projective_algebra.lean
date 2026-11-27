@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAdicComplete_span_natCast_finite_projective_algebra
 -- name    : GlobalTheory.T.isAdicComplete_span_natCast_finite_projective_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:05.558044+00:00
 -- url     : https://prove2.me/theorems/d94a629a-6aa6-47fa-b4f4-7f7725c5fe0c

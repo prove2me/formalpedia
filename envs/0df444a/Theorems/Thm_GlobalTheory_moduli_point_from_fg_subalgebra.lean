@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_moduli_point_from_fg_subalgebra
 -- name    : GlobalTheory.moduli_point_from_fg_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:45.58481+00:00
 -- url     : https://prove2.me/theorems/aed78efe-e1fe-5536-aacb-1a6537625530

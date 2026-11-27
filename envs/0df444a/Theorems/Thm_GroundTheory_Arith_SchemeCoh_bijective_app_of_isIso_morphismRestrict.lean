@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_bijective_app_of_isIso_morphismRestrict
 -- name    : GroundTheory.Arith.SchemeCoh.bijective_app_of_isIso_morphismRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:16.39389+00:00
 -- url     : https://prove2.me/theorems/5855d167-0824-5d2e-bd41-21e26ddaaeed

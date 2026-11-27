@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_not_finExt_padic
 -- name    : GlobalTheory.UU.RelModel.not_finExt_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:04:21.835626+00:00
 -- url     : https://prove2.me/theorems/fd8a720c-568f-477b-8f91-f6c5f8f3231a

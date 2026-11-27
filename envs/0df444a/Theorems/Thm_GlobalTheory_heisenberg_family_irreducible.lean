@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_heisenberg_family_irreducible
 -- name    : GlobalTheory.heisenberg_family_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:15.167287+00:00
 -- url     : https://prove2.me/theorems/b8e78b66-4c86-5ad5-896a-314c0dbf987d

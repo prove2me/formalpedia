@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_lenCoker_eq_logb
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.lenCoker_eq_logb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:31:41.340597+00:00
 -- url     : https://prove2.me/theorems/c0c60311-ffa8-5b88-9580-6c7fe457fdff

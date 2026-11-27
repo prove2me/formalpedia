@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_levels_exist__cf4cc5b3e47d
 -- name    : P2M_Formalism_FourierDecayAlt_P_levels_exist__cf4cc5b3e47d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:05:22.684429+00:00
 -- url     : https://prove2.me/theorems/21cf0d4a-3283-43f7-8d22-201aa21a05cf

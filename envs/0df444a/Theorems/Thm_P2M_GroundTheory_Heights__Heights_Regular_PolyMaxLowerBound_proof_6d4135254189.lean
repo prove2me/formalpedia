@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_proof_6d4135254189
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_proof_6d4135254189
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:35:06.397803+00:00
 -- url     : https://prove2.me/theorems/1303d099-e227-4ccd-9cd9-622744031c2a

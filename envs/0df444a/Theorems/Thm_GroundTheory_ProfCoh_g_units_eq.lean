@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_g_units_eq
 -- name    : GroundTheory.ProfCoh.g_units_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:12.641136+00:00
 -- url     : https://prove2.me/theorems/8d6cf573-ea6c-5c2e-95c7-8c4b58c9ab9a

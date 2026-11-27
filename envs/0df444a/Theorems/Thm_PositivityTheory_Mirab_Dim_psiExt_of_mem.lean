@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Dim_psiExt_of_mem
 -- name    : PositivityTheory.Mirab.Dim.psiExt_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:25:41.982116+00:00
 -- url     : https://prove2.me/theorems/4d7f7486-ca6c-4b49-ab1d-2a8f924d4b3f

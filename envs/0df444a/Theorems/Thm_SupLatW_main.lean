@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupLatW_main
 -- name    : SupLatW.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:43.088054+00:00
 -- url     : https://prove2.me/theorems/1b2e98c2-0823-4bf2-a5c3-afe2b2eb975e

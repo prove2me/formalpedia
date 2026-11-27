@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_lip_of
 -- name    : PositivityTheory.ThKEnd.Two.lip_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:41.014723+00:00
 -- url     : https://prove2.me/theorems/52fcb9f3-fda0-5a12-9414-2ad2e24c55ff

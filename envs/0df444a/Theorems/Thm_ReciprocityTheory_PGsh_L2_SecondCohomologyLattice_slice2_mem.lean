@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_slice2_mem
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.slice2_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:38.141591+00:00
 -- url     : https://prove2.me/theorems/1ac6796b-2ee7-5111-9178-e3d446eeb70a

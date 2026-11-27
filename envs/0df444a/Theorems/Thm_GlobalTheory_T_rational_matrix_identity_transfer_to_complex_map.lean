@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rational_matrix_identity_transfer_to_complex_map
 -- name    : GlobalTheory.T.rational_matrix_identity_transfer_to_complex_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:48.601934+00:00
 -- url     : https://prove2.me/theorems/cc9da80d-bb79-4758-94ae-bbd3c8918768

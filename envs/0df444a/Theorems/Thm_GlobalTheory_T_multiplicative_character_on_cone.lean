@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiplicative_character_on_cone
 -- name    : GlobalTheory.T.multiplicative_character_on_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:42.277229+00:00
 -- url     : https://prove2.me/theorems/b90380c7-3794-42bd-8f35-5376f443fb47

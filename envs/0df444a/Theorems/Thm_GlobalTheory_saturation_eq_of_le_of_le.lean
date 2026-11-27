@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturation_eq_of_le_of_le
 -- name    : GlobalTheory.saturation_eq_of_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:01.264355+00:00
 -- url     : https://prove2.me/theorems/f1cbf4e8-d3ef-502e-8398-438656fb89c8

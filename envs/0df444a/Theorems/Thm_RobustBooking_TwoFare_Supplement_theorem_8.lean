@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBooking_TwoFare_Supplement_theorem_8
 -- name    : RobustBooking.TwoFare.Supplement.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:47:25.19074+00:00
 -- url     : https://prove2.me/theorems/12458817-91d4-416b-8c28-00d448d351be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_tensor_unit_eq_one
 -- name    : GlobalTheory.UnitRigidity.tensor_unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:19:33.199849+00:00
 -- url     : https://prove2.me/theorems/348a354b-e5b3-46cb-bd2c-c8dca01561f1

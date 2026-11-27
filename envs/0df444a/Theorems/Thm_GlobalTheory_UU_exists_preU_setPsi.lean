@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_preU_setPsi
 -- name    : GlobalTheory.UU.exists_preU_setPsi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:38:03.500195+00:00
 -- url     : https://prove2.me/theorems/78ec1296-6c8a-5b00-bf33-f4754885bbde

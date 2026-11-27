@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_residueDegree_eq_one_of_ramificationIndex_eq_finrank
 -- name    : GroundTheory.LocalField.residueDegree_eq_one_of_ramificationIndex_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:05:18.403953+00:00
 -- url     : https://prove2.me/theorems/5a9dae83-a09c-4861-835a-b0f82faf6339

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalChartLength_full_afffac793675
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalChartLength_full_afffac793675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:48.260826+00:00
 -- url     : https://prove2.me/theorems/5b10b064-b1ec-5625-bce0-1f6a1f7de17f

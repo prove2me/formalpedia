@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_OnePoint_exists_eq_C_of_eval__eq_zero_f49c21f6d652
 -- name    : P2M_GlobalTheory_OnePoint_exists_eq_C_of_eval__eq_zero_f49c21f6d652
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:38.211998+00:00
 -- url     : https://prove2.me/theorems/71a26fbb-3242-4e21-8d5f-2e3e86f86f55

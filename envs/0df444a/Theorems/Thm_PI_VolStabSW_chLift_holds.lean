@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_chLift_holds
 -- name    : PI.VolStabSW.chLift_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:49:04.461687+00:00
 -- url     : https://prove2.me/theorems/abec274b-1dca-4d1d-8784-a9ecc09d2d5b

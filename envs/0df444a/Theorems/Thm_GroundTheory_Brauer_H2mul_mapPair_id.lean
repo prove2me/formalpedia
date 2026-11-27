@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_mapPair_id
 -- name    : GroundTheory.Brauer.H2mul.mapPair_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:36.637478+00:00
 -- url     : https://prove2.me/theorems/5ad12ed1-6070-40cb-9fdf-690ddceab761

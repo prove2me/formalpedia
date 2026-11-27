@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_c_dvd
 -- name    : ReciprocityTheory.PGsh.Ainf.c_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:35:08.80736+00:00
 -- url     : https://prove2.me/theorems/ffbdc332-df14-4a20-8b69-a37cdc49ef2d

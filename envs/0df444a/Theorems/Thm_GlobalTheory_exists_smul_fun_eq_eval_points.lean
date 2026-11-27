@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_fun_eq_eval_points
 -- name    : GlobalTheory.exists_smul_fun_eq_eval_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:33.469745+00:00
 -- url     : https://prove2.me/theorems/31bc7708-f5d8-40a6-9f4a-ccfdc560b327

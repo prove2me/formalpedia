@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_map_sub_hom
 -- name    : GlobalTheory.cohOn.map_sub_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:19.254197+00:00
 -- url     : https://prove2.me/theorems/035d7cca-0cb2-4225-a33d-50e92c35915d

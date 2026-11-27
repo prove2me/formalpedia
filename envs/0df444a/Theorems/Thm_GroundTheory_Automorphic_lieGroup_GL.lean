@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_lieGroup_GL
 -- name    : GroundTheory.Automorphic.lieGroup_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:49.293215+00:00
 -- url     : https://prove2.me/theorems/68dd6bce-dc8b-4aa7-9a3f-7e17ddd92913

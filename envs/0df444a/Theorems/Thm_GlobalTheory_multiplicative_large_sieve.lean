@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_multiplicative_large_sieve
 -- name    : GlobalTheory.multiplicative_large_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:56.82381+00:00
 -- url     : https://prove2.me/theorems/20101a11-513a-4bb8-80c2-a7b8616e5b5d

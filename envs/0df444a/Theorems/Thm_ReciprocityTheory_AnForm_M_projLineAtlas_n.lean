@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLineAtlas_n
 -- name    : ReciprocityTheory.AnForm.M.projLineAtlas_n
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:01:48.476914+00:00
 -- url     : https://prove2.me/theorems/e02e0649-dc18-51b5-a755-5176aeb36145

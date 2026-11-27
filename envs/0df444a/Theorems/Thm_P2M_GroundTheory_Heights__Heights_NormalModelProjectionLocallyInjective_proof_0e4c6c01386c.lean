@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelProjectionLocallyInjective_proof_0e4c6c01386c
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelProjectionLocallyInjective_proof_0e4c6c01386c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:33:16.600832+00:00
 -- url     : https://prove2.me/theorems/3bcd8613-0cab-50b2-867b-7658285eeb4e

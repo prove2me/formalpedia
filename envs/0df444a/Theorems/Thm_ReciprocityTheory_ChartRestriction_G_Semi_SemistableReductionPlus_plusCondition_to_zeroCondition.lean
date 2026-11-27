@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_SemistableReductionPlus_plusCondition_to_zeroCondition
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.SemistableReductionPlus.plusCondition_to_zeroCondition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:25:41.313466+00:00
 -- url     : https://prove2.me/theorems/4376a028-7700-4d19-a31e-4eea81dfbed3

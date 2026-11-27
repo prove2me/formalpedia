@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCycleSpanMul_proof_9a99dd51e825
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCycleSpanMul_proof_9a99dd51e825
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:05.901656+00:00
 -- url     : https://prove2.me/theorems/cede0c2c-d1fa-45e6-80c5-8f57d553c580

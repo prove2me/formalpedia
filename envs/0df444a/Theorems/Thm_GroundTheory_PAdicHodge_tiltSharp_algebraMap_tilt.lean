@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tiltSharp_algebraMap_tilt
 -- name    : GroundTheory.PAdicHodge.tiltSharp_algebraMap_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:32.592099+00:00
 -- url     : https://prove2.me/theorems/090c264f-f9fa-4e78-ba88-dd749398f6c6

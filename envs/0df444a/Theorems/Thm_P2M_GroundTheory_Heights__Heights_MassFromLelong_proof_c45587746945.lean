@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFromLelong_proof_c45587746945
 -- name    : P2M_GroundTheory_Heights__Heights_MassFromLelong_proof_c45587746945
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:30:55.187852+00:00
 -- url     : https://prove2.me/theorems/c0e154bf-2664-4187-ad8d-d6bb6e0ac33b

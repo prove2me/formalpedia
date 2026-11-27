@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGaussMoment_proof_acadee7e905b
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGaussMoment_proof_acadee7e905b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:13.372907+00:00
 -- url     : https://prove2.me/theorems/03a47bb9-fad4-5009-b258-6487d8443586

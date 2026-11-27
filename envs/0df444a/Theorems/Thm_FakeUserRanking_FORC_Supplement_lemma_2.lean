@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeUserRanking_FORC_Supplement_lemma_2
 -- name    : FakeUserRanking.FORC.Supplement.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:34:19.54019+00:00
 -- url     : https://prove2.me/theorems/c0c71017-4d08-44f7-8846-1d5d38c328e0

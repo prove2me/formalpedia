@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockForms_isFormSystem_13915fe0a620
 -- name    : P2M_GroundTheory_Heights__Heights_blockForms_isFormSystem_13915fe0a620
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:21.766107+00:00
 -- url     : https://prove2.me/theorems/da0d47dc-2f18-41a5-8ffe-2a368e73701e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSheetSimpleNull_proof_449124d0df2e
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSheetSimpleNull_proof_449124d0df2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:36:18.185401+00:00
 -- url     : https://prove2.me/theorems/bb87b3cb-41be-4689-9302-4afbaca49a19

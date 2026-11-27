@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_natCard_quotient_normSubgroup
 -- name    : GroundTheory.Global.InfinitePlace.natCard_quotient_normSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:38.219049+00:00
 -- url     : https://prove2.me/theorems/bdc0a5d8-309e-44fa-870d-ccc03e18dbe9

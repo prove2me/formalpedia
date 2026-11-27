@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_corr_pull_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.ZeroLinearity.corr_pull_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.937922+00:00
 -- url     : https://prove2.me/theorems/b45568bb-4c1c-54b4-9b4d-4542361fd203

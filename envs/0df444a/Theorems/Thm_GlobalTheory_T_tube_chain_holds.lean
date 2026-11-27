@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tube_chain_holds
 -- name    : GlobalTheory.T.tube_chain_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:04.997179+00:00
 -- url     : https://prove2.me/theorems/2b263a1f-9790-4ea2-b904-bdff3abc4439

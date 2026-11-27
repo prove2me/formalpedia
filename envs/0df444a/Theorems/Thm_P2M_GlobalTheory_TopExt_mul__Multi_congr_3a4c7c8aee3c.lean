@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TopExt_mul__Multi_congr_3a4c7c8aee3c
 -- name    : P2M_GlobalTheory_TopExt_mul__Multi_congr_3a4c7c8aee3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:07:10.031315+00:00
 -- url     : https://prove2.me/theorems/2247bf6f-2a1c-4196-b83a-7deda5a8e390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_mem_smoothVectors
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.mem_smoothVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:58:38.115459+00:00
 -- url     : https://prove2.me/theorems/1f247fa9-e5c7-4a9b-a9ff-988c71785ae2

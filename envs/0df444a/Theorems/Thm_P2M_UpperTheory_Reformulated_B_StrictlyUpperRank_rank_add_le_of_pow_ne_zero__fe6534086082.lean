@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_StrictlyUpperRank_rank_add_le_of_pow_ne_zero__fe6534086082
 -- name    : P2M_UpperTheory_Reformulated_B_StrictlyUpperRank_rank_add_le_of_pow_ne_zero__fe6534086082
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:44:02.721589+00:00
 -- url     : https://prove2.me/theorems/394fb285-fc0d-5fd2-a9f0-d81a86b69d27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreRadical_proof_dcbf66814685
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreRadical_proof_dcbf66814685
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:47.723787+00:00
 -- url     : https://prove2.me/theorems/e877205d-425d-4252-be75-83dba5737468

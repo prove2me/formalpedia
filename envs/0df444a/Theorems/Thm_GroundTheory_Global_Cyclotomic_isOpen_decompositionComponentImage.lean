@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isOpen_decompositionComponentImage
 -- name    : GroundTheory.Global.Cyclotomic.isOpen_decompositionComponentImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:55:25.762261+00:00
 -- url     : https://prove2.me/theorems/8d64c1ae-0357-46c4-8f64-3ea7db6dcb6c

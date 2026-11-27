@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_finrank_tateModule
 -- name    : GroundTheory.Arith.Abelian.finrank_tateModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:57.637973+00:00
 -- url     : https://prove2.me/theorems/998aee0b-22f6-5d03-8457-078aeb18ab5c

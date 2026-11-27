@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_proof_3f01fa688613
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_proof_3f01fa688613
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:23:08.196815+00:00
 -- url     : https://prove2.me/theorems/07ca4670-a4c0-5f87-8378-899111973842

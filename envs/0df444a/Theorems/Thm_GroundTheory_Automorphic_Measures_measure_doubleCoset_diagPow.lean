@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_measure_doubleCoset_diagPow
 -- name    : GroundTheory.Automorphic.Measures.measure_doubleCoset_diagPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:43.87131+00:00
 -- url     : https://prove2.me/theorems/58c8fc8b-60fc-5a3f-b14a-2508933e3e63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_prodForm_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.prodForm_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:48:58.293958+00:00
 -- url     : https://prove2.me/theorems/9c65995b-c6e5-4839-8303-8cc5fcf6e95b

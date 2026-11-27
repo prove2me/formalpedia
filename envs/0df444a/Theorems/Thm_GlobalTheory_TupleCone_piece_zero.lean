@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_piece_zero
 -- name    : GlobalTheory.TupleCone.piece_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:03:09.170257+00:00
 -- url     : https://prove2.me/theorems/b3bcd472-b154-58e5-ba5e-d9541e7c4f41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_annihilatorSubrep
 -- name    : GroundTheory.Automorphic.Whittaker.mem_annihilatorSubrep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:26.607157+00:00
 -- url     : https://prove2.me/theorems/d2a6d3c9-4d2a-5169-9806-c98e24362cc6

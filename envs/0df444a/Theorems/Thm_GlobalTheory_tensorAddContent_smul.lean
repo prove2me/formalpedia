@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorAddContent_smul
 -- name    : GlobalTheory.tensorAddContent_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:30.709561+00:00
 -- url     : https://prove2.me/theorems/fa48b425-8015-4d2c-b505-0419652c1041

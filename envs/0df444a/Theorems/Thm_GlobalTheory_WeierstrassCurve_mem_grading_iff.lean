@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_mem_grading_iff
 -- name    : GlobalTheory.WeierstrassCurve.mem_grading_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:27.561858+00:00
 -- url     : https://prove2.me/theorems/3d8cdb0d-c004-5d57-bcda-abff948c381b

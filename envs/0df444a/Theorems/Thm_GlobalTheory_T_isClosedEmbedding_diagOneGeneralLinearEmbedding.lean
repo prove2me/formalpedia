@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosedEmbedding_diagOneGeneralLinearEmbedding
 -- name    : GlobalTheory.T.isClosedEmbedding_diagOneGeneralLinearEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:02.748985+00:00
 -- url     : https://prove2.me/theorems/eee5e30f-bdb9-4f14-b1f0-47d94c691172

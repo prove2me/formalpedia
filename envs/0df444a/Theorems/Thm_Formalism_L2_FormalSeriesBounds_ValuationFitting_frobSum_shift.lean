@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_frobSum_shift
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.frobSum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:34:43.702254+00:00
 -- url     : https://prove2.me/theorems/6bd36519-2e68-4233-8471-e0f2b86e983c

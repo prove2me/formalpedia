@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tiltMap_injective
 -- name    : GroundTheory.PAdicHodge.tiltMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:26.670121+00:00
 -- url     : https://prove2.me/theorems/54401470-54d2-5570-a012-817f9194d657

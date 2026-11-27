@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockLine_conjInvariant_79da728bb562
 -- name    : P2M_GroundTheory_Heights__Heights_blockLine_conjInvariant_79da728bb562
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:54.764585+00:00
 -- url     : https://prove2.me/theorems/86c38f3c-4247-557f-a342-7b501c0514dc

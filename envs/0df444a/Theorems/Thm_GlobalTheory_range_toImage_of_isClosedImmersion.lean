@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_toImage_of_isClosedImmersion
 -- name    : GlobalTheory.range_toImage_of_isClosedImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:50:03.905519+00:00
 -- url     : https://prove2.me/theorems/09cd9e29-cb2f-44b5-a992-3be7daca8b16

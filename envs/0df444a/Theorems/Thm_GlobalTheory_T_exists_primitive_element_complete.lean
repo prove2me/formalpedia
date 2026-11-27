@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_primitive_element_complete
 -- name    : GlobalTheory.T.exists_primitive_element_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:28.397802+00:00
 -- url     : https://prove2.me/theorems/691f1e26-7f6d-41d4-ac9f-c9ce21ab2580

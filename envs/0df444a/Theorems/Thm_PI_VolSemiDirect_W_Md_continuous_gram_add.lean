@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Md_continuous_gram_add
 -- name    : PI.VolSemiDirect.W.Md.continuous_gram_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:31.511307+00:00
 -- url     : https://prove2.me/theorems/be6e902c-24dd-4cb4-87ff-d18bdb2e3080

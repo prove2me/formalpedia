@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_maxUnramifiedOutside_mono
 -- name    : GroundTheory.ProfCoh.maxUnramifiedOutside_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:35.607293+00:00
 -- url     : https://prove2.me/theorems/79774e89-8071-470a-9b9b-a264683ae58d

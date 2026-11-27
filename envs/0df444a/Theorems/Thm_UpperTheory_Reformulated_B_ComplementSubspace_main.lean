@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ComplementSubspace_main
 -- name    : UpperTheory.Reformulated.B.ComplementSubspace.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:20.67612+00:00
 -- url     : https://prove2.me/theorems/a241ba4d-dffd-4edd-9524-30b90f3756f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_algebraMap_norm_eq_prod
 -- name    : GroundTheory.Global.InfinitePlace.algebraMap_norm_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:44.339926+00:00
 -- url     : https://prove2.me/theorems/ee6185de-4bf6-5185-9bc4-ac51f44b5379

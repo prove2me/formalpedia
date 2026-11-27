@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_CrossedProduct_isMulCocycle__mul_59f558ca0817
 -- name    : P2M_GroundTheory_Brauer_CrossedProduct_isMulCocycle__mul_59f558ca0817
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:57.777915+00:00
 -- url     : https://prove2.me/theorems/1e28206d-e45b-5597-84b1-5da8fa76af97

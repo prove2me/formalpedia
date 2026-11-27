@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_IntegralOnModel_proof_9bf168785d1d
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_IntegralOnModel_proof_9bf168785d1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:23.400902+00:00
 -- url     : https://prove2.me/theorems/4b352ef3-65cc-408c-a886-4e5548f275d8

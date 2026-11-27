@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SchurDetBound_proof_0266702113ba
 -- name    : P2M_GroundTheory_Heights__Heights_SchurDetBound_proof_0266702113ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:36:49.084401+00:00
 -- url     : https://prove2.me/theorems/c480c634-7fa1-439e-af48-c1da8cb7d895

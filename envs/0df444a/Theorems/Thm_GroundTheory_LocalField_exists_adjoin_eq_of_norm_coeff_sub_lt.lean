@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_adjoin_eq_of_norm_coeff_sub_lt
 -- name    : GroundTheory.LocalField.exists_adjoin_eq_of_norm_coeff_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:25.529567+00:00
 -- url     : https://prove2.me/theorems/99900a01-a0ed-5141-ad03-b9e532d520f1

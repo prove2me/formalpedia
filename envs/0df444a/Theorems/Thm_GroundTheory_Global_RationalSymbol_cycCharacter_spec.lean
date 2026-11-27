@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_cycCharacter_spec
 -- name    : GroundTheory.Global.RationalSymbol.cycCharacter_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:47.30302+00:00
 -- url     : https://prove2.me/theorems/e2dce6db-1d26-5c65-b9ec-92a32f3c9dc6

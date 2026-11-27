@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_exists_int_combination_norm_sq_le_gram_det
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.exists_int_combination_norm_sq_le_gram_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:48.731336+00:00
 -- url     : https://prove2.me/theorems/b84b23e7-3497-49b3-9f23-cd061f02ae61

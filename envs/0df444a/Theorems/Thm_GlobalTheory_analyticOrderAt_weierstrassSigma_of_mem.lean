@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_analyticOrderAt_weierstrassSigma_of_mem
 -- name    : GlobalTheory.analyticOrderAt_weierstrassSigma_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:33.354858+00:00
 -- url     : https://prove2.me/theorems/bdb8d7fb-ba42-43d7-a7b5-1a44ed5d79fe

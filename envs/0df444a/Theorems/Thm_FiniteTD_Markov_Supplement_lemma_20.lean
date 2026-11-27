@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_Supplement_lemma_20
 -- name    : FiniteTD.Markov.Supplement.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:45:57.100822+00:00
 -- url     : https://prove2.me/theorems/a4fff7b6-5bcd-40a5-97c9-ee929188a9a1

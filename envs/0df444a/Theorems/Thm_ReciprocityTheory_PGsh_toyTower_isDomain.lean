@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_toyTower_isDomain
 -- name    : ReciprocityTheory.PGsh.toyTower_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:08.745433+00:00
 -- url     : https://prove2.me/theorems/7a4046f1-1315-4957-ac6b-c68280070efa

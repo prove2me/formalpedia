@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistTransform_Distortion_Supplement_theorem_2
 -- name    : DistTransform.Distortion.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T13:08:55.836661+00:00
 -- url     : https://prove2.me/theorems/5e7b7c55-f631-4be9-88bd-8ef150ecd304

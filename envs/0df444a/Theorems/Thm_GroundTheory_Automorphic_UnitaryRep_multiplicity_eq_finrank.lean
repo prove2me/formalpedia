@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_multiplicity_eq_finrank
 -- name    : GroundTheory.Automorphic.UnitaryRep.multiplicity_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:21.673281+00:00
 -- url     : https://prove2.me/theorems/9c573887-aafb-5f4f-bdee-e53b39099712

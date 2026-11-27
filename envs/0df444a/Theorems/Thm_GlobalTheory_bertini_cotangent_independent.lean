@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bertini_cotangent_independent
 -- name    : GlobalTheory.bertini_cotangent_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:53.006831+00:00
 -- url     : https://prove2.me/theorems/9d3ab9c3-c731-5143-8dbf-76a889a17419

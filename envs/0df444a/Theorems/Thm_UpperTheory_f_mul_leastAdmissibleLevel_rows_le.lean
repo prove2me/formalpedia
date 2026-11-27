@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_f_mul_leastAdmissibleLevel_rows_le
 -- name    : UpperTheory.f_mul_leastAdmissibleLevel_rows_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:43.075684+00:00
 -- url     : https://prove2.me/theorems/5633a7cf-120e-5f99-aca4-1c4b20bd8173

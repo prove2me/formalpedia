@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_VVG_stable_24276cb2b00a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_VVG_stable_24276cb2b00a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:28:12.752882+00:00
 -- url     : https://prove2.me/theorems/b0938206-873e-5971-8142-e5cbfc8267c8

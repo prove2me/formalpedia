@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_valuation_ofHeightOneSpectrum
 -- name    : GroundTheory.FunctionField.Place.valuation_ofHeightOneSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:07.683623+00:00
 -- url     : https://prove2.me/theorems/0df548d9-571b-5119-8456-cd3101d40a84

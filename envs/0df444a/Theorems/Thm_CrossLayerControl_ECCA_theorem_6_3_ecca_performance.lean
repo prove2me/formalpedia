@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLayerControl_ECCA_theorem_6_3_ecca_performance
 -- name    : CrossLayerControl.ECCA.theorem_6_3_ecca_performance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-30T02:41:50.82369+00:00
 -- url     : https://prove2.me/theorems/b7567279-22a6-4681-9f3f-e0a2f1cd2758

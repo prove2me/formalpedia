@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finsupp_sum_multilinear_eq_of_prod_eq
 -- name    : GlobalTheory.finsupp_sum_multilinear_eq_of_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:36.859936+00:00
 -- url     : https://prove2.me/theorems/58b3008d-6269-47d7-ad3c-11b6e699dfeb

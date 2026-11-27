@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_isChar_eq_add_of_pair_ne_zero__9fb323cd2db8
 -- name    : P2M_GlobalTheory_T_exists_isChar_eq_add_of_pair_ne_zero__9fb323cd2db8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:42.627111+00:00
 -- url     : https://prove2.me/theorems/316bf3a3-5d61-4173-851c-ce5b2f9c57dd

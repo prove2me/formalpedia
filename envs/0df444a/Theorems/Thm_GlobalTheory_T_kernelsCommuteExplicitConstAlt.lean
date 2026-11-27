@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kernelsCommuteExplicitConstAlt
 -- name    : GlobalTheory.T.kernelsCommuteExplicitConstAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:58.776317+00:00
 -- url     : https://prove2.me/theorems/472889c2-db0d-4872-8b17-33110ba33214

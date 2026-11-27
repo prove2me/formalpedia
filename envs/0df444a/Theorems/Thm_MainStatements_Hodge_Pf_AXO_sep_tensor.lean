@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Pf_AXO_sep_tensor
 -- name    : MainStatements.Hodge.Pf.AXO.sep_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:04:44.987181+00:00
 -- url     : https://prove2.me/theorems/eb9eee28-86c2-58e3-a346-029299227f6c

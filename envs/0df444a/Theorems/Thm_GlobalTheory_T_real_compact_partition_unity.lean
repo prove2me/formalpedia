@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_real_compact_partition_unity
 -- name    : GlobalTheory.T.real_compact_partition_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:35.0637+00:00
 -- url     : https://prove2.me/theorems/bceba7ac-26d1-40ff-9b8d-811eca296dac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryExtForm_HypercubeRank_Supplement_observation_4_2
 -- name    : BinaryExtForm.HypercubeRank.Supplement.observation_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:01:40.002653+00:00
 -- url     : https://prove2.me/theorems/69815c2d-5fec-4ca8-8ec7-69db3d4bb31b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_algebraMap_add_pow_mul
 -- name    : GlobalTheory.exists_eq_algebraMap_add_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:37.513663+00:00
 -- url     : https://prove2.me/theorems/ec140295-e86d-4ead-b8e3-d00cf1da286b

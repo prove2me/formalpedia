@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotientSpanLinFormEquiv_symm_apply
 -- name    : GlobalTheory.quotientSpanLinFormEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:49:57.235797+00:00
 -- url     : https://prove2.me/theorems/ec92d3c2-2fcf-5fae-8b5e-c58a11378389

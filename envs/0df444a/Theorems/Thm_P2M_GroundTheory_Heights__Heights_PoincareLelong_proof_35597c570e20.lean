@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PoincareLelong_proof_35597c570e20
 -- name    : P2M_GroundTheory_Heights__Heights_PoincareLelong_proof_35597c570e20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:34:03.324782+00:00
 -- url     : https://prove2.me/theorems/b9687360-8128-4ee5-9741-dc62e572af7c

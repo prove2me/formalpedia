@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_mem_of_sum_mem_of_eigen
 -- name    : GroundTheory.Automorphic.GL2Classical.mem_of_sum_mem_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:45.443179+00:00
 -- url     : https://prove2.me/theorems/3e1aaa32-673a-49bb-a1e7-80d81aaa51dd

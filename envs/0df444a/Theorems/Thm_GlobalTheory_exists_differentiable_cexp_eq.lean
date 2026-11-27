@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_differentiable_cexp_eq
 -- name    : GlobalTheory.exists_differentiable_cexp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:52.172367+00:00
 -- url     : https://prove2.me/theorems/73bf4b17-9663-43ba-b949-6c6e413b98ae

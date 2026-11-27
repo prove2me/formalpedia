@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeAreaFormula_proof_a15fa0b52a30
 -- name    : P2M_GroundTheory_Heights__Heights_ConeAreaFormula_proof_a15fa0b52a30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:30.957008+00:00
 -- url     : https://prove2.me/theorems/7ab7a8df-878c-5bfd-aea8-bc6299d23c7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartPointLine__L_one_ne_zero_46ab1c904230
 -- name    : P2M_GroundTheory_Heights__Heights_ChartPointLine__L_one_ne_zero_46ab1c904230
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:10:21.82591+00:00
 -- url     : https://prove2.me/theorems/75b1e648-ba53-5545-bec1-2ae5ff7e8a7b

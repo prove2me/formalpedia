@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_cohomologyMap_subrepInclusion_eq_zero
 -- name    : GroundTheory.ProfCoh.exists_cohomologyMap_subrepInclusion_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:06.155086+00:00
 -- url     : https://prove2.me/theorems/19b51850-9909-580c-a55f-ced21bc410fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_isAlgebraic_of_finiteType
 -- name    : GlobalTheory.exists_algHom_isAlgebraic_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:05.575727+00:00
 -- url     : https://prove2.me/theorems/3ac5ee64-9927-5b8e-83c8-a3d67f89bf61

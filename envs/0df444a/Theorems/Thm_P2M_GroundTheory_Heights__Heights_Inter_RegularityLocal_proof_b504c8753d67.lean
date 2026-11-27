@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityLocal_proof_b504c8753d67
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityLocal_proof_b504c8753d67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:23.792152+00:00
 -- url     : https://prove2.me/theorems/e72cb46e-d07d-4c7e-9a3e-61d3afa86674

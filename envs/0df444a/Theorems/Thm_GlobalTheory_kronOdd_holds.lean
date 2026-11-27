@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kronOdd_holds
 -- name    : GlobalTheory.kronOdd_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:25.520142+00:00
 -- url     : https://prove2.me/theorems/68e6a84e-5deb-46b0-a186-6928c6f80f71

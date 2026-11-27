@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_mackey_gap
 -- name    : PositivityTheory.Mirab.Irr.mackey_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:16:04.762817+00:00
 -- url     : https://prove2.me/theorems/e2bb6289-7cdf-453c-93ad-364cfa71ae22

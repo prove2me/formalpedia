@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_nuGal_eq_nu
 -- name    : KStar.TotallyRealRoots.nuGal_eq_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:07.336486+00:00
 -- url     : https://prove2.me/theorems/695c0048-7637-5ad5-9868-03f80aa546bd

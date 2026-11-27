@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_psiE_symm_eq
 -- name    : PI.LevelKSplit.W.MVA.psiE_symm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:46:31.845604+00:00
 -- url     : https://prove2.me/theorems/6c003b79-e06e-57a7-b5b3-69599dcce4dc

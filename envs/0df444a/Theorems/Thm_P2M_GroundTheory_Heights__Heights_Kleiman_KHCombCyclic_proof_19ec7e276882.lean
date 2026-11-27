@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_proof_19ec7e276882
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_proof_19ec7e276882
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:26:55.500013+00:00
 -- url     : https://prove2.me/theorems/3922d74c-fba8-4392-a98a-9b5c26651a9e

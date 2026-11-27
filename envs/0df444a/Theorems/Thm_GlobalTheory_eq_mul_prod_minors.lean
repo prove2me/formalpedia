@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_mul_prod_minors
 -- name    : GlobalTheory.eq_mul_prod_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:07.659149+00:00
 -- url     : https://prove2.me/theorems/4c3aecbb-c50e-42ad-9ba4-49e2317a8270

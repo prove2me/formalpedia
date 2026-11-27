@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_dualZ_eq_dualLat
 -- name    : PI.Tr.dualZ_eq_dualLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:44.090799+00:00
 -- url     : https://prove2.me/theorems/61c51c36-beec-4aab-9e38-a15d9d117535

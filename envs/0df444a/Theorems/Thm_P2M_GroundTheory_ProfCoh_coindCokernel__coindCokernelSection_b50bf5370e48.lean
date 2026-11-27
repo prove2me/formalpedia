@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_coindCokernel__coindCokernelSection_b50bf5370e48
 -- name    : P2M_GroundTheory_ProfCoh_coindCokernel__coindCokernelSection_b50bf5370e48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:52.442877+00:00
 -- url     : https://prove2.me/theorems/705cd897-f9ca-5434-82fc-3df7d6a64d0c

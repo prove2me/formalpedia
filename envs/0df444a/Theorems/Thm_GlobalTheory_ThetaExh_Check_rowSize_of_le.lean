@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_rowSize_of_le
 -- name    : GlobalTheory.ThetaExh.Check.rowSize_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:00.712793+00:00
 -- url     : https://prove2.me/theorems/8087011f-e956-46b8-ad43-561707101974

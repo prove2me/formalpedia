@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_ker_comap___eq_ker_of_isIso_comp_7508c0c594b4
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_ker_comap___eq_ker_of_isIso_comp_7508c0c594b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:18.687234+00:00
 -- url     : https://prove2.me/theorems/2996459b-744d-4592-8d32-92ad38b22681

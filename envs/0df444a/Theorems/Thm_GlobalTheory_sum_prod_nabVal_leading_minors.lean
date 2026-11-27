@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_prod_nabVal_leading_minors
 -- name    : GlobalTheory.sum_prod_nabVal_leading_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:59.320317+00:00
 -- url     : https://prove2.me/theorems/d90a8ba9-1822-4d4b-9ab9-df192b84a147

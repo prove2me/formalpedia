@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceComponents_proof_b8a60b85d8c5
 -- name    : P2M_GroundTheory_Heights__Heights_SliceComponents_proof_b8a60b85d8c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:08.641424+00:00
 -- url     : https://prove2.me/theorems/b8a900f8-ad03-5743-abce-949b536135f8

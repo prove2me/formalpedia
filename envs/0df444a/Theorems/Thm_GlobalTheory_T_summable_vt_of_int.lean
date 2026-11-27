@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_vt_of_int
 -- name    : GlobalTheory.T.summable_vt_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:24.232469+00:00
 -- url     : https://prove2.me/theorems/e96c187d-e57b-5a75-8621-878c1bd47daf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_of_locally_fraction_on_generisations
 -- name    : GlobalTheory.exists_eq_of_locally_fraction_on_generisations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:05.670838+00:00
 -- url     : https://prove2.me/theorems/eda353de-7223-4ccc-8bc1-c836bf5d6ea3

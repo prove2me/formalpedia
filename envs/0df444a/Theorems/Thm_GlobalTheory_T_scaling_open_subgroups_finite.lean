@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaling_open_subgroups_finite
 -- name    : GlobalTheory.T.scaling_open_subgroups_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:37:40.544285+00:00
 -- url     : https://prove2.me/theorems/3279b821-4525-5fec-a532-0cbbbac73d71

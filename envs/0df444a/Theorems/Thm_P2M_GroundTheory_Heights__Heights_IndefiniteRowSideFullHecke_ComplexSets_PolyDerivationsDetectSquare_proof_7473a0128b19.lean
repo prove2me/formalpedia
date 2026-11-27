@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyDerivationsDetectSquare_proof_7473a0128b19
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolyDerivationsDetectSquare_proof_7473a0128b19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:46.048943+00:00
 -- url     : https://prove2.me/theorems/2efe4cf8-fb47-46c2-807b-cad79d58bce4

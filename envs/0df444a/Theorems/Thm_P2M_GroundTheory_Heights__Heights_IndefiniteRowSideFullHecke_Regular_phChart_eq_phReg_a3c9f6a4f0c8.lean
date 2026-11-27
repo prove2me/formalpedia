@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_phChart_eq_phReg_a3c9f6a4f0c8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_phChart_eq_phReg_a3c9f6a4f0c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:08:43.1249+00:00
 -- url     : https://prove2.me/theorems/bd6f9a75-fb33-49f3-bb4b-61ad5c38f74e

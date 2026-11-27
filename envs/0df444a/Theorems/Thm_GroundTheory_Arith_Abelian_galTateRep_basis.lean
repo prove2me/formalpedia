@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_galTateRep_basis
 -- name    : GroundTheory.Arith.Abelian.galTateRep_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:15.28922+00:00
 -- url     : https://prove2.me/theorems/2a6b0630-6a61-5bc1-a555-ebea11edc52c

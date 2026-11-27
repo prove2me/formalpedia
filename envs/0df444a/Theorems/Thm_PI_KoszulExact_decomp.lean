@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KoszulExact_decomp
 -- name    : PI.KoszulExact.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:46:25.621198+00:00
 -- url     : https://prove2.me/theorems/1fcdaaad-63a6-514b-aedd-d210fb99d2ad

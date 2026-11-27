@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_subgroups_le_and_card_automorphisms_le
 -- name    : GlobalTheory.card_subgroups_le_and_card_automorphisms_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:26.368803+00:00
 -- url     : https://prove2.me/theorems/ea92c865-771f-415e-98dd-1591718088eb

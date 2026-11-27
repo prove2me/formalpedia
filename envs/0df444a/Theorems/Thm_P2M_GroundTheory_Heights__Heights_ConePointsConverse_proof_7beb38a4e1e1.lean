@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConePointsConverse_proof_7beb38a4e1e1
 -- name    : P2M_GroundTheory_Heights__Heights_ConePointsConverse_proof_7beb38a4e1e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:42.749219+00:00
 -- url     : https://prove2.me/theorems/a86ef7be-ca9e-5c36-8f61-ca0552d8ccbd

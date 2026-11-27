@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_generic_maps_eq
 -- name    : GlobalTheory.TorsionPairTest.generic_maps_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:47.164909+00:00
 -- url     : https://prove2.me/theorems/4dffc94c-533a-4a58-9f85-50af4539a50c

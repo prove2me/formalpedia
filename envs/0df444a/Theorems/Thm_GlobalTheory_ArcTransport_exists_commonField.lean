@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_exists_commonField
 -- name    : GlobalTheory.ArcTransport.exists_commonField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:29:04.173949+00:00
 -- url     : https://prove2.me/theorems/96d28732-b15b-5e93-b757-7c5fa1479415

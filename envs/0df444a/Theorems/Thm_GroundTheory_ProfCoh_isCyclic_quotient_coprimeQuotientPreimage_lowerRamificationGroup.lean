@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isCyclic_quotient_coprimeQuotientPreimage_lowerRamificationGroup
 -- name    : GroundTheory.ProfCoh.isCyclic_quotient_coprimeQuotientPreimage_lowerRamificationGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:45.256544+00:00
 -- url     : https://prove2.me/theorems/240acd7a-ff9d-5184-8a7d-8368eb3afb1a

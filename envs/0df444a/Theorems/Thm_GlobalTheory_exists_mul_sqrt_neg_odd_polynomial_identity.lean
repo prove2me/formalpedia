@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mul_sqrt_neg_odd_polynomial_identity
 -- name    : GlobalTheory.exists_mul_sqrt_neg_odd_polynomial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:27.027892+00:00
 -- url     : https://prove2.me/theorems/4c5e85fc-d137-415a-a24a-5be96b18a5e5

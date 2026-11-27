@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pairing_nondegenerate_integral_torsion
 -- name    : GlobalTheory.pairing_nondegenerate_integral_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:56:52.642327+00:00
 -- url     : https://prove2.me/theorems/66bb674d-96ef-5000-92b8-af4fa404a24e

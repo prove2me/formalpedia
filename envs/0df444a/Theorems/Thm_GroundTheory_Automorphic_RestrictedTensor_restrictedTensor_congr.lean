@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_restrictedTensor_congr
 -- name    : GroundTheory.Automorphic.RestrictedTensor.restrictedTensor_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:30.534539+00:00
 -- url     : https://prove2.me/theorems/cb4e1d7a-70c5-42d0-ba85-c854582d7ebc

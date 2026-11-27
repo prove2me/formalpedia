@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_span
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:58:54.403691+00:00
 -- url     : https://prove2.me/theorems/8b212376-0e08-5432-97cd-ea0d69c44be0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_le_measure_of_range_toPermHom
 -- name    : GlobalTheory.measure_le_measure_of_range_toPermHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:23.62995+00:00
 -- url     : https://prove2.me/theorems/93a83515-f4b2-4867-a0e6-f16361ce1dba

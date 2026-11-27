@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_OLinPf_ILin_val_maps
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.OLinPf.ILin.val_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:42.308267+00:00
 -- url     : https://prove2.me/theorems/00db08d0-d44c-52b5-84e0-793348eec6ed

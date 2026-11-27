@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_monoDiag_posDef
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.monoDiag_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:10:02.371085+00:00
 -- url     : https://prove2.me/theorems/1a327871-fe0a-432f-a0d9-12bbead88c03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicThreshold_iso_threshold
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicThreshold.iso_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:27.310054+00:00
 -- url     : https://prove2.me/theorems/f2a005b4-5aec-44c4-a87c-fab2cf81513e

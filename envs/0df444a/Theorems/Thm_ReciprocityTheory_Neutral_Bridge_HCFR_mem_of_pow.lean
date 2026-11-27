@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_mem_of_pow
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.mem_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:39.494072+00:00
 -- url     : https://prove2.me/theorems/f74cc9b6-8364-4069-b327-62d538852b34

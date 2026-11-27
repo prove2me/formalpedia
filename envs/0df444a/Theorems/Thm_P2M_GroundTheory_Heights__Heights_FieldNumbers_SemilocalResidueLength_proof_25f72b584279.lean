@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalResidueLength_proof_25f72b584279
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalResidueLength_proof_25f72b584279
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:17:47.574928+00:00
 -- url     : https://prove2.me/theorems/223f6fd6-5b68-5e60-999b-284d9d9c294f

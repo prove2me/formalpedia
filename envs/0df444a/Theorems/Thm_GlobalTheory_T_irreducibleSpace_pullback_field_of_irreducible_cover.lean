@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducibleSpace_pullback_field_of_irreducible_cover
 -- name    : GlobalTheory.T.irreducibleSpace_pullback_field_of_irreducible_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:49.28957+00:00
 -- url     : https://prove2.me/theorems/5818bc77-fef0-5c82-8e19-9b7f7ab8f639

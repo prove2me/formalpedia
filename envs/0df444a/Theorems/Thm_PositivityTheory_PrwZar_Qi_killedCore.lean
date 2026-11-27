@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_Qi_killedCore
 -- name    : PositivityTheory.PrwZar.Qi.killedCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:51:50.566478+00:00
 -- url     : https://prove2.me/theorems/082f5e8a-1ac3-4041-9481-f913984d2f01

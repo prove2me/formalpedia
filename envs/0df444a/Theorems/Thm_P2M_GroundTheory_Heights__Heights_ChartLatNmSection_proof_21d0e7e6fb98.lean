@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNmSection_proof_21d0e7e6fb98
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNmSection_proof_21d0e7e6fb98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:25.362091+00:00
 -- url     : https://prove2.me/theorems/c6c478e6-81e5-4b19-84a9-af010fa57287

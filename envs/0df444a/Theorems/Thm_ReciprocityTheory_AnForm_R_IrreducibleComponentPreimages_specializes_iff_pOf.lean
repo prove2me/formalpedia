@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_specializes_iff_pOf
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.specializes_iff_pOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:49.473803+00:00
 -- url     : https://prove2.me/theorems/b5f5db15-ab5c-44f4-82af-6a8e660dffc1

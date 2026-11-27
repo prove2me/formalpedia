@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_Model_concl_rank_zero_right
 -- name    : GlobalTheory.SplitUnitary.Model.concl_rank_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:05.684805+00:00
 -- url     : https://prove2.me/theorems/3da4c3ce-439d-4804-b412-5117cfa56f09

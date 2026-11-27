@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_mulOf_pos
 -- name    : GordanGenProof.mulOf_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:52:00.834752+00:00
 -- url     : https://prove2.me/theorems/152e9d96-5f64-4855-80e5-8da1b7e5aad4

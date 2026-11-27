@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_card_piU_level
 -- name    : Formalism.L2.Indef.Tree.card_piU_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:50:40.667654+00:00
 -- url     : https://prove2.me/theorems/c1b4653a-b8e8-5bf9-89ff-2ca07f750234

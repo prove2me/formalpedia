@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_cmDatum_splitPlaces_conj_stable
 -- name    : UpperTheory.cmDatum_splitPlaces_conj_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:50:56.843863+00:00
 -- url     : https://prove2.me/theorems/5d63f007-00b6-4ae3-a6f5-6a627f15fbfb

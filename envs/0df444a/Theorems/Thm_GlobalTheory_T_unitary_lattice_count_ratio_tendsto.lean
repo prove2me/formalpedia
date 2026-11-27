@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_lattice_count_ratio_tendsto
 -- name    : GlobalTheory.T.unitary_lattice_count_ratio_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:12.107477+00:00
 -- url     : https://prove2.me/theorems/1cfc323e-e9ef-5fff-9a95-024c9b25225b

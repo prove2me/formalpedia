@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_polarisation_extends
 -- name    : GlobalTheory.UU.polarisation_extends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:23:13.236747+00:00
 -- url     : https://prove2.me/theorems/f11e0bd3-ff84-44c8-877b-e7839561cea4

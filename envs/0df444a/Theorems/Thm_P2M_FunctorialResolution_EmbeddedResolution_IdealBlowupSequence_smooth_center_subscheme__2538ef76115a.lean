@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_smooth_center_subscheme__2538ef76115a
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_smooth_center_subscheme__2538ef76115a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:20.280075+00:00
 -- url     : https://prove2.me/theorems/a17d5788-aa86-4635-b75a-eb89f3bd7ca5

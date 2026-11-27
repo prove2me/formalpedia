@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_GenericPullInj_proof_3c28fd6ff7dc
 -- name    : P2M_GroundTheory_Heights__Heights_Model_GenericPullInj_proof_3c28fd6ff7dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:57.1321+00:00
 -- url     : https://prove2.me/theorems/d4998463-2565-479f-a3ef-cb8a3cc32ecc

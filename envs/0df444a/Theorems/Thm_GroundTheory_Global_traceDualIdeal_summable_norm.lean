@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_traceDualIdeal_summable_norm
 -- name    : GroundTheory.Global.traceDualIdeal_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:05:33.429887+00:00
 -- url     : https://prove2.me/theorems/71c514d8-759f-47ba-b760-20feb8a6fd88

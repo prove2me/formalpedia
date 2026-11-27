@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__PlacesToy_conjW_asIdeal_18051fd2f415
 -- name    : P2M_Formalism_BasicNotions_Examples__PlacesToy_conjW_asIdeal_18051fd2f415
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:46.214085+00:00
 -- url     : https://prove2.me/theorems/5d35cd3f-2148-5050-a905-e4057f5df54b

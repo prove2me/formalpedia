@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_perpendicular_vector_integral
 -- name    : perpendicular_vector_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:10:50.449661+00:00
 -- url     : https://prove2.me/theorems/4dd5d25b-959a-4aa5-8722-baeebcf44372

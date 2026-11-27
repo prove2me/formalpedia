@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSection_proof_81c6478924ac
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSection_proof_81c6478924ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:09.961709+00:00
 -- url     : https://prove2.me/theorems/5e112120-f272-5ec3-a4e9-816306bace97

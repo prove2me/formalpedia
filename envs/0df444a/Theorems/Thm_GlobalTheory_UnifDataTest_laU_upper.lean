@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_laU_upper
 -- name    : GlobalTheory.UnifDataTest.laU_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:43.802418+00:00
 -- url     : https://prove2.me/theorems/b2c036ac-be10-5835-a560-3ac28b6c3495

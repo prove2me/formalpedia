@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_colsOf_flatL
 -- name    : GlobalTheory.JetLinSub.colsOf_flatL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:32:56.552524+00:00
 -- url     : https://prove2.me/theorems/32ab4376-f535-4d81-ae33-b802010ee0e4

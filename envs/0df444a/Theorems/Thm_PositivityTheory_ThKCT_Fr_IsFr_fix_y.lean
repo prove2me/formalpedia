@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_fix_y
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.fix_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:58:47.485714+00:00
 -- url     : https://prove2.me/theorems/ad000dcd-181b-5c79-aa80-cc2c739181fe

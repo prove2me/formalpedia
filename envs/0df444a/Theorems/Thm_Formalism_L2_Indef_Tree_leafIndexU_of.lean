@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_leafIndexU_of
 -- name    : Formalism.L2.Indef.Tree.leafIndexU_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:55:12.242686+00:00
 -- url     : https://prove2.me/theorems/a4fc2066-7b0f-41db-ab56-46c9f8fde56f

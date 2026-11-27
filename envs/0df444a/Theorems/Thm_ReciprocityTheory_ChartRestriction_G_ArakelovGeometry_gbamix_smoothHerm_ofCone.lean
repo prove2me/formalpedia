@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbamix_smoothHerm_ofCone
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbamix_smoothHerm_ofCone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:06.395892+00:00
 -- url     : https://prove2.me/theorems/af81472f-aaaa-46f2-94fc-dfa7361dec9f

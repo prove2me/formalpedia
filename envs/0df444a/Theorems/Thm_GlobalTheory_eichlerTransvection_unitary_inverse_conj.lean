@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eichlerTransvection_unitary_inverse_conj
 -- name    : GlobalTheory.eichlerTransvection_unitary_inverse_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:43.081523+00:00
 -- url     : https://prove2.me/theorems/3b94e35a-736d-523a-81a0-ce84aebcf875

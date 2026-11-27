@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducibleSpace_pullback_affine_open_of_isDomain_tensor
 -- name    : GlobalTheory.T.irreducibleSpace_pullback_affine_open_of_isDomain_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:16.744743+00:00
 -- url     : https://prove2.me/theorems/9b6883dd-cec2-4ad4-8093-00efc0a06851

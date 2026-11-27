@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpperTriangularMul_upperTriangular_mul
 -- name    : GlobalTheory.UpperTriangularMul.upperTriangular_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:42.470505+00:00
 -- url     : https://prove2.me/theorems/1a778806-6214-4513-b82d-697a8976fe5a

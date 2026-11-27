@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_LowerBound_coeff_eq_zero
 -- name    : GroundTheory.Arith.Toric.LowerBound.coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:39.159935+00:00
 -- url     : https://prove2.me/theorems/7fc20ae7-20dd-4224-ac33-aae9be40cabf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreNormalOfRegularDepth_proof_55313c9ea8d8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreNormalOfRegularDepth_proof_55313c9ea8d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:50.068872+00:00
 -- url     : https://prove2.me/theorems/16a595a8-d721-5fe3-87b4-0b4b26d90a74

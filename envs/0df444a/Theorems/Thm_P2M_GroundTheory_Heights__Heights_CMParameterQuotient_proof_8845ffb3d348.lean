@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMParameterQuotient_proof_8845ffb3d348
 -- name    : P2M_GroundTheory_Heights__Heights_CMParameterQuotient_proof_8845ffb3d348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:45.58189+00:00
 -- url     : https://prove2.me/theorems/fc8efdf7-1713-5ba0-82fe-9d650829766d

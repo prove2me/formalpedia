@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_proof_d6fb100ca4fc
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_proof_d6fb100ca4fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:13:32.845881+00:00
 -- url     : https://prove2.me/theorems/523d4bf3-4444-50bd-86d8-d36cb291a290

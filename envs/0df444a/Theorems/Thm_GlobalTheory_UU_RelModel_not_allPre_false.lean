@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_not_allPre_false
 -- name    : GlobalTheory.UU.RelModel.not_allPre_false
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:06:28.194858+00:00
 -- url     : https://prove2.me/theorems/434a04f5-1a49-42c0-81cb-d6f7f450f1c9

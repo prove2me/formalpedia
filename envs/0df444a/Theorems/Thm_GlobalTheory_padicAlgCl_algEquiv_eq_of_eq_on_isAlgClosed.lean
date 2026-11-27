@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicAlgCl_algEquiv_eq_of_eq_on_isAlgClosed
 -- name    : GlobalTheory.padicAlgCl_algEquiv_eq_of_eq_on_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:38.684636+00:00
 -- url     : https://prove2.me/theorems/0c73446e-d9fd-4920-a2f5-1ec720707fce

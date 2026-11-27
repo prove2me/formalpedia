@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_IsTransport_b_comp
 -- name    : GlobalTheory.ArcTransport.IsTransport.b_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:27:52.475092+00:00
 -- url     : https://prove2.me/theorems/f309639b-d892-5227-beec-9ec06d7c802e

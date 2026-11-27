@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KAway_nM_cond_iff
 -- name    : PositivityTheory.SiegelWeilFormula.KAway.nM_cond_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:56:42.18003+00:00
 -- url     : https://prove2.me/theorems/b32b0367-da70-5bf0-aee5-6ceb27872a6d

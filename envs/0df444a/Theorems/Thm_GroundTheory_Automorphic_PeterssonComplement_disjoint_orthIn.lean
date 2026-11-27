@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_PeterssonComplement_disjoint_orthIn
 -- name    : GroundTheory.Automorphic.PeterssonComplement.disjoint_orthIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:53.286043+00:00
 -- url     : https://prove2.me/theorems/f9cf97d0-f122-4b36-81eb-9d28e6012944

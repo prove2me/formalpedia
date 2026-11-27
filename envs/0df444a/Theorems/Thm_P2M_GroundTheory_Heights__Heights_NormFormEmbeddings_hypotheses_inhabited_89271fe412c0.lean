@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormFormEmbeddings_hypotheses_inhabited_89271fe412c0
 -- name    : P2M_GroundTheory_Heights__Heights_NormFormEmbeddings_hypotheses_inhabited_89271fe412c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:26.615521+00:00
 -- url     : https://prove2.me/theorems/444ffdd9-ebda-5ce1-ad30-b10315b8c502

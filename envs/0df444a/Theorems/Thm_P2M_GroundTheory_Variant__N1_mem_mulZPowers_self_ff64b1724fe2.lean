@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_mem_mulZPowers_self_ff64b1724fe2
 -- name    : P2M_GroundTheory_Variant__N1_mem_mulZPowers_self_ff64b1724fe2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:44.696143+00:00
 -- url     : https://prove2.me/theorems/fd9d4df9-8b4c-55f8-ad61-34f89776d452

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_QuasiFiniteSheets_proof_8256200dff8e
 -- name    : P2M_GroundTheory_Heights__Heights_QuasiFiniteSheets_proof_8256200dff8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:34:45.974012+00:00
 -- url     : https://prove2.me/theorems/2d6c46c5-4cd8-4d96-a42e-1d2e60d4ac74

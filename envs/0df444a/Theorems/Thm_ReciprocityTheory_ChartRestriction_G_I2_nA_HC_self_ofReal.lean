@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_nA_HC_self_ofReal
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.nA_HC_self_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:32.463797+00:00
 -- url     : https://prove2.me/theorems/714612fd-1090-49ca-80f4-23e0199c67d3

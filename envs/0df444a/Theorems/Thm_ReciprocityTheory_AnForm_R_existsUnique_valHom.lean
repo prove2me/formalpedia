@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_existsUnique_valHom
 -- name    : ReciprocityTheory.AnForm.R.existsUnique_valHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:15.721587+00:00
 -- url     : https://prove2.me/theorems/79bb9b8b-20d2-4112-bc2b-8a02f6c4492f

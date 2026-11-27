@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_isNonarchimedeanLocalField_Kloc
 -- name    : ReciprocityTheory.Neutral.Cmp.isNonarchimedeanLocalField_Kloc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:20.227322+00:00
 -- url     : https://prove2.me/theorems/d0c420a1-d102-4f88-b458-cb97598efad9

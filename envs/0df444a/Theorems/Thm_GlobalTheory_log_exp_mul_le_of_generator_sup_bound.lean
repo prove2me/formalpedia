@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_exp_mul_le_of_generator_sup_bound
 -- name    : GlobalTheory.log_exp_mul_le_of_generator_sup_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:23.318017+00:00
 -- url     : https://prove2.me/theorems/8bc58548-585f-4123-943e-661de1bd1302

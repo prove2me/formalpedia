@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturation_sup_saturation
 -- name    : GlobalTheory.saturation_sup_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:02.223706+00:00
 -- url     : https://prove2.me/theorems/7705ee32-26c2-532c-8121-e7ed040f06f0

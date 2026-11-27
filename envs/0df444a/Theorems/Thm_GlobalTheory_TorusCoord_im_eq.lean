@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_im_eq
 -- name    : GlobalTheory.TorusCoord.im_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:46.216144+00:00
 -- url     : https://prove2.me/theorems/3e167809-008a-59c8-87bb-8812741ae66f

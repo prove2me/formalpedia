@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxSpectralRisk_Duality_Supplement_eq_16
 -- name    : MaxSpectralRisk.Duality.Supplement.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:16:14.343292+00:00
 -- url     : https://prove2.me/theorems/10bb8ab9-c3fa-4c80-ac6d-d125ec8920d3

@@ -1,0 +1,62 @@
+-- Prove2me | solution 1 for GlobalTheory.addQuotMeasure_zmultiples_one_univ
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-27T04:36:27.643427+00:00
+-- url     : https://prove2.me/submissions/bc25e7e5-f7dd-4560-b0f0-eab298f0f1d3
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CovolumeBounds_ExistsIsFundamentalDomainAndQuotMeasureEq
+import Theorems.Thm_GlobalTheory_isAEAddOrbitSection_zmultiples_Ico
+import Theorems.Thm_GlobalTheory_isAEOrbitSection_of_isFundamentalDomain_of_surjective
+import Theorems.Thm_GlobalTheory_isFundamentalDomain_of_orbitSection
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_isFundamentalDomain
+import Theorems.Thm_GlobalTheory_measure_fixed_eq_zero_of_isFundamentalDomain
+import Theorems.Thm_GlobalTheory_quotMeasure_univ_le
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_map_restrict_eq
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_measurePreserving_mk
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_quotMeasure_apply
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_quotMeasure_univ
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_measure_eq
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_lintegral_quotMeasure
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_integral_quotMeasure
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_integrable_quotMeasure_iff
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_quotMeasure_apply_eq_zero_iff
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_quotMeasure_eq_zero_iff
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_quotMeasure_image_le
+import Theorems.Thm_GlobalTheory_IsAEOrbitSection_sigmaFinite_quotMeasure
+import Theorems.Thm_GlobalTheory_quotMeasure_univ_eq_covolume
+import Theorems.Thm_GlobalTheory_lintegral_eq_lintegral_quotMeasure_tsum
+import Theorems.Thm_GlobalTheory_exists_measurableSet_orbitSection
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_of_free
+import Theorems.Thm_GlobalTheory_exists_isAEOrbitSection
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_of_ae_free
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_of_surjective
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_and_quotMeasure_eq
+import Theorems.Thm_GlobalTheory_quotMeasure_eq_zero_iff
+import Theorems.Thm_GlobalTheory_countable_of_discrete_subgroup
+import Theorems.Thm_GlobalTheory_exists_nhds_one_inter_subgroup
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_subgroup
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_subgroup_op
+import Theorems.Thm_GlobalTheory_hasFundamentalDomain_subgroup
+import Theorems.Thm_GlobalTheory_hasFundamentalDomain_subgroup_op
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_and_quotMeasure_eq_subgroup
+import Theorems.Thm_GlobalTheory_exists_isFundamentalDomain_and_quotMeasure_eq_subgroup_op
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Set Topology Filter
+open scoped Pointwise ENNReal
+open GlobalTheory
+namespace GlobalTheory
+theorem _root_.solution :
+    addQuotMeasure (AddSubgroup.zmultiples (1 : ℝ)) (volume : Measure ℝ) univ = 1 := by
+  rw [isAEAddOrbitSection_zmultiples_Ico.addQuotMeasure_eq,
+    Measure.map_apply (by fun_prop) MeasurableSet.univ]
+  simp
+end GlobalTheory

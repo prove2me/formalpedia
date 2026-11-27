@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_localIdeal_one_iff
 -- name    : GroundTheory.Global.mem_localIdeal_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:57:10.548616+00:00
 -- url     : https://prove2.me/theorems/ae19cb26-4950-48c4-a422-0bfff550b08f

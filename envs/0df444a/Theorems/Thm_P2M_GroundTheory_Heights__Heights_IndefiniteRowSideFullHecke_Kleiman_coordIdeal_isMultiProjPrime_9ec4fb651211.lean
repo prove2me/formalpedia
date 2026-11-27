@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_coordIdeal_isMultiProjPrime_9ec4fb651211
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_coordIdeal_isMultiProjPrime_9ec4fb651211
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:06.598976+00:00
 -- url     : https://prove2.me/theorems/d33aaebc-4401-5521-9605-3b96998631d6

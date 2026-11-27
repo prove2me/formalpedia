@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_univ_finset_powerset_fin_three
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.univ_finset_powerset_fin_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:20:08.027772+00:00
 -- url     : https://prove2.me/theorems/601c7af3-b22a-5706-a878-0ee0e0198105

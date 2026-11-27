@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_mem_of_span_eq_top_of_semilocal
 -- name    : GlobalTheory.exists_basis_mem_of_span_eq_top_of_semilocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:17.662392+00:00
 -- url     : https://prove2.me/theorems/08fb6484-8576-4cc1-ad67-22a589e3c7a0

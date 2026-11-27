@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_OrbitCompNonvanish_proof_5be6e598b34a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_OrbitCompNonvanish_proof_5be6e598b34a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:26:28.750739+00:00
 -- url     : https://prove2.me/theorems/12919bce-0ee9-46c3-822a-cf6b4dd543b5

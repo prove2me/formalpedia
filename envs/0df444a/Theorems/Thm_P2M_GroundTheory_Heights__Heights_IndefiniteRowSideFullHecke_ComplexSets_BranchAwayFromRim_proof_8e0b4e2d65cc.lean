@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchAwayFromRim_proof_8e0b4e2d65cc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchAwayFromRim_proof_8e0b4e2d65cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:17:17.421287+00:00
 -- url     : https://prove2.me/theorems/e56fea5a-81ef-4b6a-8aa2-d737b0ff3721

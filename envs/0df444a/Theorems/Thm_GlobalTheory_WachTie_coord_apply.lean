@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachTie_coord_apply
 -- name    : GlobalTheory.WachTie.coord_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:07.35599+00:00
 -- url     : https://prove2.me/theorems/89eba00c-5b81-594c-9169-ce5002ec2d1d

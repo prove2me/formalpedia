@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_Heis_char_eq
 -- name    : PositivityTheory.ThKR.Sieg.Heis.char_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:01.253353+00:00
 -- url     : https://prove2.me/theorems/6da94982-09b3-42b9-bd77-e18623518d3c

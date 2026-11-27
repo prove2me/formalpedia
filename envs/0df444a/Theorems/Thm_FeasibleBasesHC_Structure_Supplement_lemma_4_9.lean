@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeasibleBasesHC_Structure_Supplement_lemma_4_9
 -- name    : FeasibleBasesHC.Structure.Supplement.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:31:25.247857+00:00
 -- url     : https://prove2.me/theorems/69f06cea-1b37-4071-9166-05d6d1058976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_comap_kerTheta_pow
 -- name    : Reformulated.AutPerF.AinfInv.comap_kerTheta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:44.552922+00:00
 -- url     : https://prove2.me/theorems/211c8e6f-6f14-4c57-a220-3f48a658afb7

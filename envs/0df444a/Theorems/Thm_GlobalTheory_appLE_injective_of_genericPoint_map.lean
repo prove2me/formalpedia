@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appLE_injective_of_genericPoint_map
 -- name    : GlobalTheory.appLE_injective_of_genericPoint_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:36.66374+00:00
 -- url     : https://prove2.me/theorems/2ef66155-9b07-4ee0-a128-0fc1587f35e9

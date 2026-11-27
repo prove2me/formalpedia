@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_OL_resFinite_1895d1dcc471
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_OL_resFinite_1895d1dcc471
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:32:47.577715+00:00
 -- url     : https://prove2.me/theorems/6f95929c-aa79-523a-972e-b819479ab425

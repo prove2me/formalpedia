@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isFrobAt_unique
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isFrobAt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:47.134832+00:00
 -- url     : https://prove2.me/theorems/a43688a0-1f6f-4136-b64b-2cc6d126eb57

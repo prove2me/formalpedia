@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_level_mul_split
 -- name    : GlobalTheory.exists_level_mul_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:53.540012+00:00
 -- url     : https://prove2.me/theorems/e2893ac1-cb31-5003-9fe7-2f92a779312e

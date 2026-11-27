@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_of_forall_height_eq_one_of_projective
 -- name    : GlobalTheory.le_of_forall_height_eq_one_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:25.307842+00:00
 -- url     : https://prove2.me/theorems/722cd2a0-87f5-4350-a775-33ebc620de70

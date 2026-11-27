@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_eq_of_point_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.eq_of_point_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:52.274321+00:00
 -- url     : https://prove2.me/theorems/4d93e1c1-8749-4fdc-806f-b2ee004d1f46

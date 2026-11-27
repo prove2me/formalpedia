@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ReadsMul_proof_58b9d991dba4
 -- name    : P2M_GroundTheory_Heights__Heights_ReadsMul_proof_58b9d991dba4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:03.596391+00:00
 -- url     : https://prove2.me/theorems/2a67db94-8b48-5a28-a0a5-896b3991ad40

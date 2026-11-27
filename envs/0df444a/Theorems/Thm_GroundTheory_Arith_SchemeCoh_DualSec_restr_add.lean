@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_DualSec_restr_add
 -- name    : GroundTheory.Arith.SchemeCoh.DualSec.restr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:45.629359+00:00
 -- url     : https://prove2.me/theorems/5e182c8d-2264-40b7-bc00-ed8fbbcf9078

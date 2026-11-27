@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_C4_Bq_NQ_conj
 -- name    : PositivityTheory.SiegelWeilFormula.Act.C4.Bq.NQ.conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:57:45.601894+00:00
 -- url     : https://prove2.me/theorems/271808fd-0433-4a73-9099-0e18a5ecbd5c

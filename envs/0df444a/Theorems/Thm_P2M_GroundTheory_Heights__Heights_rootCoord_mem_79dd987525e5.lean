@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_rootCoord_mem_79dd987525e5
 -- name    : P2M_GroundTheory_Heights__Heights_rootCoord_mem_79dd987525e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:28.886025+00:00
 -- url     : https://prove2.me/theorems/0c601809-deb9-576f-94ad-2caf44c3c16a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_central_contracting
 -- name    : GroundTheory.Automorphic.Parabolic.exists_central_contracting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:14.111309+00:00
 -- url     : https://prove2.me/theorems/54718c88-34f2-52bf-afcc-9ebf6640e492

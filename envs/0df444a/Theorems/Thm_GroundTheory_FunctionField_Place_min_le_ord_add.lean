@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_min_le_ord_add
 -- name    : GroundTheory.FunctionField.Place.min_le_ord_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:36.654397+00:00
 -- url     : https://prove2.me/theorems/4af977ef-9ceb-45d3-a8c1-7442c1793164

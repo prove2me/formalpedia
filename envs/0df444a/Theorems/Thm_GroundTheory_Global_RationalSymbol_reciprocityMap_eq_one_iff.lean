@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_reciprocityMap_eq_one_iff
 -- name    : GroundTheory.Global.RationalSymbol.reciprocityMap_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:55.580109+00:00
 -- url     : https://prove2.me/theorems/b29e5356-f0b8-5d43-920c-b424c6ac4e8c

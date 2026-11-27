@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_choose_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.choose_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:35:05.493882+00:00
 -- url     : https://prove2.me/theorems/8eb2c3b2-42ec-572d-aeab-fa2b07716143

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stKFin_of_dense
 -- name    : PIW.AdelClassFin.stKFin_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:56:08.02635+00:00
 -- url     : https://prove2.me/theorems/60eb0cb4-d115-48c4-b847-5edcccd00989

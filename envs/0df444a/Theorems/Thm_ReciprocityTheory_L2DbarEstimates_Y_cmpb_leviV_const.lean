@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_cmpb_leviV_const
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.cmpb_leviV_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:00.013327+00:00
 -- url     : https://prove2.me/theorems/fe465ce3-3357-4614-8ca4-3664cc10ecd2

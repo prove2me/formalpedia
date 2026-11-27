@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_Supplement_theorem_4
 -- name    : FiniteTD.Markov.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:46:33.665492+00:00
 -- url     : https://prove2.me/theorems/0ebabcc3-c8f9-4018-aa26-e6d577f002bb

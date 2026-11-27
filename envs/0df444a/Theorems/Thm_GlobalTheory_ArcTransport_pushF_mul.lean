@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_pushF_mul
 -- name    : GlobalTheory.ArcTransport.pushF_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:27:37.873403+00:00
 -- url     : https://prove2.me/theorems/0178b7a0-0362-5dc0-8fce-9a55bf0cc211

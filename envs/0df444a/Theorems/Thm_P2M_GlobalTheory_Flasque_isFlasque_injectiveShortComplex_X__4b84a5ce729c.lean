@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Flasque_isFlasque_injectiveShortComplex_X__4b84a5ce729c
 -- name    : P2M_GlobalTheory_Flasque_isFlasque_injectiveShortComplex_X__4b84a5ce729c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:37.075833+00:00
 -- url     : https://prove2.me/theorems/351e1ac2-adaa-4da7-855e-dcd703cf45fd

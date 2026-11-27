@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_finiteIndex_map_congruenceSubgroup
 -- name    : GroundTheory.Global.Modulus.finiteIndex_map_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:07.125666+00:00
 -- url     : https://prove2.me/theorems/9631a6cd-7fd6-4435-84c6-02c7510fe369

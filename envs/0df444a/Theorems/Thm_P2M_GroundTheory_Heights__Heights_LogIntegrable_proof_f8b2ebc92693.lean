@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogIntegrable_proof_f8b2ebc92693
 -- name    : P2M_GroundTheory_Heights__Heights_LogIntegrable_proof_f8b2ebc92693
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:07.412124+00:00
 -- url     : https://prove2.me/theorems/e4fc2d27-5014-415c-b162-d2cda6703c11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDiffAt_del
 -- name    : GlobalTheory.contDiffAt_del
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:21.839848+00:00
 -- url     : https://prove2.me/theorems/30a52a04-045c-4678-94fa-e0e05ba8f908

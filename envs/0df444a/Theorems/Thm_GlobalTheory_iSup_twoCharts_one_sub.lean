@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_iSup_twoCharts_one_sub
 -- name    : GlobalTheory.iSup_twoCharts_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:11.77049+00:00
 -- url     : https://prove2.me/theorems/cc0691a8-2ce0-5949-b025-bb7c5faf5e57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_exists_upper_unitary
 -- name    : PositivityTheory.Rg.Cz.exists_upper_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:37.347465+00:00
 -- url     : https://prove2.me/theorems/1c3e04e5-1d5c-4d7b-b89e-58f226f13682

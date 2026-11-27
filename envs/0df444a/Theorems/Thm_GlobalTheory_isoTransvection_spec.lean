@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_spec
 -- name    : GlobalTheory.isoTransvection_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:42.896315+00:00
 -- url     : https://prove2.me/theorems/ec9bf15e-1785-4153-9c58-99b69059cc67

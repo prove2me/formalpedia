@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_re_cmType_eq_half_trace
 -- name    : GlobalTheory.sum_re_cmType_eq_half_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:11.082653+00:00
 -- url     : https://prove2.me/theorems/f2b3e2b8-db5e-4797-8438-2b6f68e68b08

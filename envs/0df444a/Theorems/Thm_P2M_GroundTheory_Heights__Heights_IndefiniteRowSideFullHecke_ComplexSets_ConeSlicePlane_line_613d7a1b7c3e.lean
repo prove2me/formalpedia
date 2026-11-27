@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ConeSlicePlane_line_613d7a1b7c3e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ConeSlicePlane_line_613d7a1b7c3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:17:51.470607+00:00
 -- url     : https://prove2.me/theorems/f169c3f1-8612-5ea4-8c0e-f9de8d1e5b81

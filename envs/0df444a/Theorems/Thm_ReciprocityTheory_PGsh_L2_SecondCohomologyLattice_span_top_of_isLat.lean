@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_span_top_of_isLat
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.span_top_of_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:46.660851+00:00
 -- url     : https://prove2.me/theorems/f9aa2d0e-8421-4bf6-a62d-27f66ea36b75

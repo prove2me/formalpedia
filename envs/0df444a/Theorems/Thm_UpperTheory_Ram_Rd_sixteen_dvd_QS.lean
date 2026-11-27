@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_sixteen_dvd_QS
 -- name    : UpperTheory.Ram.Rd.sixteen_dvd_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:46:13.308012+00:00
 -- url     : https://prove2.me/theorems/a069f77b-20bb-403e-acc4-bf921ff76051

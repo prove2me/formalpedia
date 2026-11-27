@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_compositum_finite_normal_isPGroup
 -- name    : GlobalTheory.compositum_finite_normal_isPGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:04.583147+00:00
 -- url     : https://prove2.me/theorems/3a164501-1787-5dfc-b4f8-23e362e8e192

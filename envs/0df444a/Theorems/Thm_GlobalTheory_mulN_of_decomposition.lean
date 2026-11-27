@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mulN_of_decomposition
 -- name    : GlobalTheory.mulN_of_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:56:06.936581+00:00
 -- url     : https://prove2.me/theorems/03df2b81-8bde-43f3-8d88-7657969a2c43

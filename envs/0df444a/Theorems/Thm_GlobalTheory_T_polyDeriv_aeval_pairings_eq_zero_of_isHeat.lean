@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polyDeriv_aeval_pairings_eq_zero_of_isHeat
 -- name    : GlobalTheory.T.polyDeriv_aeval_pairings_eq_zero_of_isHeat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:08.487456+00:00
 -- url     : https://prove2.me/theorems/4b985686-529c-4f4d-b07e-c6b2a34996c2

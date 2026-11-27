@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_System_tendstoC2On_chart_symm_compact_0f368e5618d9
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_System_tendstoC2On_chart_symm_compact_0f368e5618d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:31:14.663263+00:00
 -- url     : https://prove2.me/theorems/b7e5f195-4980-587b-8cd5-2ba4761eec09

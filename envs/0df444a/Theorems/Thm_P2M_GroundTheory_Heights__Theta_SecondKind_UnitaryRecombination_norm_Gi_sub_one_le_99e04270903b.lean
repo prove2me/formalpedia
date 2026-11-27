@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_Gi_sub_one_le_99e04270903b
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_Gi_sub_one_le_99e04270903b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:20.122804+00:00
 -- url     : https://prove2.me/theorems/4abaa61b-5285-4953-90a5-12e84e555410

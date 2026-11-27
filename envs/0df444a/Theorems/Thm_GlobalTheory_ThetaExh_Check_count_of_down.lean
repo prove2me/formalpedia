@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_count_of_down
 -- name    : GlobalTheory.ThetaExh.Check.count_of_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:39.852693+00:00
 -- url     : https://prove2.me/theorems/a230b8a6-62ce-43d0-b784-dd5b9d0be755

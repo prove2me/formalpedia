@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DefectConstStep_proof_87d705ead95b
 -- name    : P2M_GroundTheory_Heights__Heights_DefectConstStep_proof_87d705ead95b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:54.067557+00:00
 -- url     : https://prove2.me/theorems/ca4e0596-483e-42fe-8df7-30e0c7122854

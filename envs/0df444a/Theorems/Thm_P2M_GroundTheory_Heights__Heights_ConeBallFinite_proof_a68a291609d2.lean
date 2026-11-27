@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeBallFinite_proof_a68a291609d2
 -- name    : P2M_GroundTheory_Heights__Heights_ConeBallFinite_proof_a68a291609d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:10:03.137458+00:00
 -- url     : https://prove2.me/theorems/fe8d942d-b2f9-47fd-910f-9f8f70fcca10

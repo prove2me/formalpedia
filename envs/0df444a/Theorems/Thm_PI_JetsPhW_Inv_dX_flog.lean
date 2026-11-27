@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_Inv_dX_flog
 -- name    : PI.JetsPhW.Inv.dX_flog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:45:50.069489+00:00
 -- url     : https://prove2.me/theorems/8fa331dd-939f-5c51-b5c8-4c873f509304

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ConeRingLaurent_proof_5e1a433a3898
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ConeRingLaurent_proof_5e1a433a3898
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:17:27.850789+00:00
 -- url     : https://prove2.me/theorems/ab8cd5db-2ed8-4594-8d40-e998e7522a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Correct_exists_nat_smul_mem
 -- name    : GlobalTheory.UnRep.Correct.exists_nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:31.87739+00:00
 -- url     : https://prove2.me/theorems/b92da7ce-a54e-4dad-ae73-a6979247ff92

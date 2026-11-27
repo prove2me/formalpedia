@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_tateRep_apply
 -- name    : GroundTheory.Arith.Abelian.tateRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:57:01.472983+00:00
 -- url     : https://prove2.me/theorems/11539357-53d0-40de-9af2-ad96b0d16f50

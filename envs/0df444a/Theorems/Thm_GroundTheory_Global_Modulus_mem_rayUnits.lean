@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_mem_rayUnits
 -- name    : GroundTheory.Global.Modulus.mem_rayUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:53.751402+00:00
 -- url     : https://prove2.me/theorems/7246b355-5b21-5b89-a0d1-e85de2eba062

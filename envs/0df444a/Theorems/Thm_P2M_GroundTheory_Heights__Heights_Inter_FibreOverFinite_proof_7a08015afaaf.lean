@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreOverFinite_proof_7a08015afaaf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreOverFinite_proof_7a08015afaaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:34:37.589875+00:00
 -- url     : https://prove2.me/theorems/18b71fd6-23dd-562e-8fb8-0c1c77392dd1

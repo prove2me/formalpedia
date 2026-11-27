@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLocalSheets_proof_ec88d5ee3253
 -- name    : P2M_GroundTheory_Heights__Heights_ConeLocalSheets_proof_ec88d5ee3253
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:12:11.244163+00:00
 -- url     : https://prove2.me/theorems/e3a4f9f2-8427-52ac-a5d4-ad2a3d132c96

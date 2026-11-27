@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wedge_subspace_bound
 -- name    : GlobalTheory.T.wedge_subspace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:50.518534+00:00
 -- url     : https://prove2.me/theorems/13dba5b3-0b39-44f5-8757-ee31114655e5

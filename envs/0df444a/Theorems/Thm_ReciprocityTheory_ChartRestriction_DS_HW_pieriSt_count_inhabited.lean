@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pieriSt_count_inhabited
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pieriSt_count_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:04:53.080929+00:00
 -- url     : https://prove2.me/theorems/5e762979-76ee-47c5-829c-8fc70b656ece

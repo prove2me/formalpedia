@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_doubled_isotropic_structure
 -- name    : GlobalTheory.doubled_isotropic_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:25:05.699248+00:00
 -- url     : https://prove2.me/theorems/bfbf8e97-27e0-46a7-8904-b5383d6876a9

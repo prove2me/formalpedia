@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_gsBaseChange_apply
 -- name    : GroundTheory.ProfCoh.coe_gsBaseChange_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:04:44.237566+00:00
 -- url     : https://prove2.me/theorems/4d449e19-0e5a-4d4f-9728-4116127897fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_split_extension_fundamental_domain
 -- name    : GlobalTheory.T.split_extension_fundamental_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:33.23491+00:00
 -- url     : https://prove2.me/theorems/65cbf80e-3fe1-44d7-b4ec-f8ca84a7c3f2

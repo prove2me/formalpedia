@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffLimit_proof_d38adac19914
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffLimit_proof_d38adac19914
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:53.157693+00:00
 -- url     : https://prove2.me/theorems/10c5bec3-0e1a-4235-9efa-d9ad7c2d9942

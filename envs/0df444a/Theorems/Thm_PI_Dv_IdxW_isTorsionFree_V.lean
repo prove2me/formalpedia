@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_IdxW_isTorsionFree_V
 -- name    : PI.Dv.IdxW.isTorsionFree_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:01.524338+00:00
 -- url     : https://prove2.me/theorems/cd173313-6e6b-5825-8815-56a798ee4b0c

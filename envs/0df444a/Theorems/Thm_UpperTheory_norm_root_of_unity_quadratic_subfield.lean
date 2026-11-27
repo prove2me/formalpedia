@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_norm_root_of_unity_quadratic_subfield
 -- name    : UpperTheory.norm_root_of_unity_quadratic_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:46.853668+00:00
 -- url     : https://prove2.me/theorems/6c36b56d-11af-5f58-9fa4-560c8d700fda

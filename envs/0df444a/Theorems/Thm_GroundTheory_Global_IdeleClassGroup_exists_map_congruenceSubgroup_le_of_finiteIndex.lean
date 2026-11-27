@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleClassGroup_exists_map_congruenceSubgroup_le_of_finiteIndex
 -- name    : GroundTheory.Global.IdeleClassGroup.exists_map_congruenceSubgroup_le_of_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:59:16.900813+00:00
 -- url     : https://prove2.me/theorems/4f62bb94-b07e-57fe-92fc-dab3a1891850

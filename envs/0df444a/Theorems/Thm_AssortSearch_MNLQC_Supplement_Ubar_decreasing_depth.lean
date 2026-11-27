@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_Supplement_Ubar_decreasing_depth
 -- name    : AssortSearch.MNLQC.Supplement.Ubar_decreasing_depth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:22:05.790486+00:00
 -- url     : https://prove2.me/theorems/1e6c6d7c-2ee5-4d7a-a15e-4108b4c283fc

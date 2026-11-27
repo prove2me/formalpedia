@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_residueFieldMap_surjective_of_mono__db94e4360f22
 -- name    : P2M_GlobalTheory_T_residueFieldMap_surjective_of_mono__db94e4360f22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:36.577919+00:00
 -- url     : https://prove2.me/theorems/ca4745d9-ca74-4f32-b50b-ddb13d74f827

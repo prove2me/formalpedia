@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_saturation_iff_mem_span
 -- name    : GlobalTheory.mem_saturation_iff_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:02.7315+00:00
 -- url     : https://prove2.me/theorems/88279de6-275e-4466-a474-60fead51ea77

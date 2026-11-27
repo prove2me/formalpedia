@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tail_sum_lt_one
 -- name    : GlobalTheory.tail_sum_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:48.594214+00:00
 -- url     : https://prove2.me/theorems/432352d9-e8df-561d-b614-83351574bb9a

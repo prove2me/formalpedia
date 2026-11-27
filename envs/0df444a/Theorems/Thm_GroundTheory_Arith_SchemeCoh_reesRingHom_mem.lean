@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_reesRingHom_mem
 -- name    : GroundTheory.Arith.SchemeCoh.reesRingHom_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:22.651748+00:00
 -- url     : https://prove2.me/theorems/88389363-ad9b-4634-a23a-22da7958f892

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_discriminantColengthStatement_holds
 -- name    : ReciprocityTheory.PGsh.Up.discriminantColengthStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:51.148147+00:00
 -- url     : https://prove2.me/theorems/3e8a62e4-96dc-55ae-a4d9-77fb4c916526

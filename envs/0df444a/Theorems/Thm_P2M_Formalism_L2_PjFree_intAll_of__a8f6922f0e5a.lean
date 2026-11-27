@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_PjFree_intAll_of__a8f6922f0e5a
 -- name    : P2M_Formalism_L2_PjFree_intAll_of__a8f6922f0e5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:52.651432+00:00
 -- url     : https://prove2.me/theorems/4eb1253d-e701-5976-8d03-8f397a9d6884

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsTameSubextension_of_le
 -- name    : GroundTheory.LocalField.IsTameSubextension.of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:09.162175+00:00
 -- url     : https://prove2.me/theorems/c68c88fc-0107-59f0-a5a7-56acae595bc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_one_mem_intAt_9cde473eb65e
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_one_mem_intAt_9cde473eb65e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:29.782376+00:00
 -- url     : https://prove2.me/theorems/a895a7c0-b78c-448a-abb1-a108564271a9

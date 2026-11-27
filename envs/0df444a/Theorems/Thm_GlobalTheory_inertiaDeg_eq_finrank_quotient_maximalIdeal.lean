@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inertiaDeg_eq_finrank_quotient_maximalIdeal
 -- name    : GlobalTheory.inertiaDeg_eq_finrank_quotient_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:04.122825+00:00
 -- url     : https://prove2.me/theorems/77b68226-4957-5339-b02c-13b17f48824e

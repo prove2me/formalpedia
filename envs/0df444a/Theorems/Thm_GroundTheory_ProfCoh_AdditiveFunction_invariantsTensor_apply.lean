@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_invariantsTensor_apply
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.invariantsTensor_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:35.075804+00:00
 -- url     : https://prove2.me/theorems/df13e8d2-4734-4363-b54c-635571c4b479

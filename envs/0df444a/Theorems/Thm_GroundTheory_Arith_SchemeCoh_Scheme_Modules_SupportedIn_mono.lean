@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_Scheme_Modules_SupportedIn_mono
 -- name    : GroundTheory.Arith.SchemeCoh.Scheme.Modules.SupportedIn.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:37.932986+00:00
 -- url     : https://prove2.me/theorems/82a4cfe9-7f90-49e9-b97f-45c3dce3dc55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_char_eq_one_of_det_eq_one
 -- name    : GlobalTheory.UTrans.char_eq_one_of_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:44.136636+00:00
 -- url     : https://prove2.me/theorems/60b60461-0d18-4833-929d-2fd8d81a9acd

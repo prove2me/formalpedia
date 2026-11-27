@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_one_mem_rayUnits
 -- name    : Neutral.B1.one_mem_rayUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:05.937714+00:00
 -- url     : https://prove2.me/theorems/8f525048-47c4-5519-bb4b-aa6e6bd6e46f

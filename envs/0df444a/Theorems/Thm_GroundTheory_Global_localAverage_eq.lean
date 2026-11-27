@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_localAverage_eq
 -- name    : GroundTheory.Global.localAverage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:12.915347+00:00
 -- url     : https://prove2.me/theorems/c580c922-6b5d-51cd-9e77-3b88cb107fe3

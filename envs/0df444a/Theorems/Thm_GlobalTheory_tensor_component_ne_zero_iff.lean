@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_component_ne_zero_iff
 -- name    : GlobalTheory.tensor_component_ne_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:51.971415+00:00
 -- url     : https://prove2.me/theorems/71c0f07b-ff1b-46bb-bfe2-6bf2d9e50be8

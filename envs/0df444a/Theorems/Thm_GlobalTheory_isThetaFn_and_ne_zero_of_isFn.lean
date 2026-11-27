@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isThetaFn_and_ne_zero_of_isFn
 -- name    : GlobalTheory.isThetaFn_and_ne_zero_of_isFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:33.433938+00:00
 -- url     : https://prove2.me/theorems/25bacced-5962-52f5-bd89-96db410b104b

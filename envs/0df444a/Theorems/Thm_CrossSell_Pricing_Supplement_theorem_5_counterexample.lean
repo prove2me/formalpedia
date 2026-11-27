@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossSell_Pricing_Supplement_theorem_5_counterexample
 -- name    : CrossSell.Pricing.Supplement.theorem_5_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:54:11.671186+00:00
 -- url     : https://prove2.me/theorems/75ae8ccc-0d3a-43df-9ee7-d7e08b34c7b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_N3_Pus_exists_emb
 -- name    : PositivityTheory.Rg.BcB.N3.Pus.exists_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:58:22.454888+00:00
 -- url     : https://prove2.me/theorems/57614089-c154-5a8d-ad20-df6972e46d3e

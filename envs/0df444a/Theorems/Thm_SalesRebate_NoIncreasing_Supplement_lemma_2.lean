@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesRebate_NoIncreasing_Supplement_lemma_2
 -- name    : SalesRebate.NoIncreasing.Supplement.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:21:16.745607+00:00
 -- url     : https://prove2.me/theorems/adb999c1-b011-4aa7-a97f-5ef3702b3d12

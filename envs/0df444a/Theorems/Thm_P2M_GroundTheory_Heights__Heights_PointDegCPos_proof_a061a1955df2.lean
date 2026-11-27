@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointDegCPos_proof_a061a1955df2
 -- name    : P2M_GroundTheory_Heights__Heights_PointDegCPos_proof_a061a1955df2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:16.870468+00:00
 -- url     : https://prove2.me/theorems/9a4be5de-eb1c-5096-8e0e-046365d83097

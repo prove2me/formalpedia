@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rho_prod_finiteAlgebraWithInvolution
 -- name    : GlobalTheory.T.rho_prod_finiteAlgebraWithInvolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:13.728336+00:00
 -- url     : https://prove2.me/theorems/b1ad6c50-2031-5675-86ff-435428d08dce

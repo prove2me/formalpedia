@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_entire_factor
 -- name    : PositivityTheory.Rg.Sw.SP.entire_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:52:44.378196+00:00
 -- url     : https://prove2.me/theorems/d23b4433-324b-53d3-a8fe-667140545288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_translate_toTemperedDistribution
 -- name    : GroundTheory.Automorphic.Sobolev.translate_toTemperedDistribution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:48.978178+00:00
 -- url     : https://prove2.me/theorems/a5c5abde-eef5-5204-8aaf-686b552a3350

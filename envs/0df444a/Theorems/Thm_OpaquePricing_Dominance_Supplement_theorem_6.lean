@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_Supplement_theorem_6
 -- name    : OpaquePricing.Dominance.Supplement.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:43:19.1925+00:00
 -- url     : https://prove2.me/theorems/8d68b606-a4de-4d5a-999f-bc665c60126c

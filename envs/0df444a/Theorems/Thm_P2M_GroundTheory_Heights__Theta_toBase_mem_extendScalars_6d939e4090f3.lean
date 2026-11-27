@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_toBase_mem_extendScalars_6d939e4090f3
 -- name    : P2M_GroundTheory_Heights__Theta_toBase_mem_extendScalars_6d939e4090f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:21.272582+00:00
 -- url     : https://prove2.me/theorems/dfeaf43f-8fe4-4b50-bd6e-be9dd6f07565

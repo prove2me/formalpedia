@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specialLinearGroup_map_zmod_surjective
 -- name    : GlobalTheory.specialLinearGroup_map_zmod_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:58.967425+00:00
 -- url     : https://prove2.me/theorems/51c02d99-d1df-5f7c-8d8c-92554ac3ae5f

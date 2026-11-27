@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_isAbelianScheme_of_quotientScheme
 -- name    : GlobalTheory.quotient_isAbelianScheme_of_quotientScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:50:04.055477+00:00
 -- url     : https://prove2.me/theorems/11996298-ef6e-5982-beb1-b1d897f34810

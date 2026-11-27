@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_apply_mem_iff
 -- name    : GlobalTheory.isoTransvection.apply_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:18.404626+00:00
 -- url     : https://prove2.me/theorems/760a80b5-c0b9-5e2f-ba4e-acf1d8301d9c

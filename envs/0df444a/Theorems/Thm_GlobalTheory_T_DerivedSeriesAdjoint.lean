@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_DerivedSeriesAdjoint
 -- name    : GlobalTheory.T.DerivedSeriesAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:35:33.09969+00:00
 -- url     : https://prove2.me/theorems/20142e28-1bc3-4740-8a2b-a6087f08002d

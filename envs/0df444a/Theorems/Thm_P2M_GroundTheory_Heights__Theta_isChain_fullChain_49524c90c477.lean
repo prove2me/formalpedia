@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isChain_fullChain_49524c90c477
 -- name    : P2M_GroundTheory_Heights__Theta_isChain_fullChain_49524c90c477
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:07.693685+00:00
 -- url     : https://prove2.me/theorems/fe7637b3-d40a-48a7-8500-0e8fe532c5c8

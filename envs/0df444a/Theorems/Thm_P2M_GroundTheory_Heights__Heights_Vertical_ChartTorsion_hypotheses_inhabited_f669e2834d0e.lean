@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_hypotheses_inhabited_f669e2834d0e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_hypotheses_inhabited_f669e2834d0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:40:52.110226+00:00
 -- url     : https://prove2.me/theorems/13c4b4d3-017d-5b6c-b0fe-4598e798f195

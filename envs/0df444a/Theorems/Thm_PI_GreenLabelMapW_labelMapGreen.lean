@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_labelMapGreen
 -- name    : PI.GreenLabelMapW.labelMapGreen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:46:09.247858+00:00
 -- url     : https://prove2.me/theorems/abee6300-4836-4133-99aa-cfc9f8801970

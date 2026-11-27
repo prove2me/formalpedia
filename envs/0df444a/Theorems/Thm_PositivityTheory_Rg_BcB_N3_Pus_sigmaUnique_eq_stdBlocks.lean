@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_N3_Pus_sigmaUnique_eq_stdBlocks
 -- name    : PositivityTheory.Rg.BcB.N3.Pus.sigmaUnique_eq_stdBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:47.706424+00:00
 -- url     : https://prove2.me/theorems/627f7422-0972-5f37-9ba9-49da799f1d89

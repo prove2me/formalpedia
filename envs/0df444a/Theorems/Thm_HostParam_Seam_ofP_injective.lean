@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_ofP_injective
 -- name    : HostParam.Seam.ofP_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:08.202783+00:00
 -- url     : https://prove2.me/theorems/10d64fd2-cdda-4cf8-8717-95fe78e6552a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FormalFibresRegularPolynomial_proof_9ca6962740fd
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FormalFibresRegularPolynomial_proof_9ca6962740fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:16:38.842345+00:00
 -- url     : https://prove2.me/theorems/1e1bc053-1de1-4017-9c4c-54125113f500

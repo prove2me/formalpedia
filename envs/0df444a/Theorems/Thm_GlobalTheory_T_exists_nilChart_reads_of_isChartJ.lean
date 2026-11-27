@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nilChart_reads_of_isChartJ
 -- name    : GlobalTheory.T.exists_nilChart_reads_of_isChartJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:36:26.937045+00:00
 -- url     : https://prove2.me/theorems/9e320a74-c989-5f22-88a8-634de966cd85

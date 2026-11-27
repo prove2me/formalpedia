@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerAverageSplit_proof_30f6fbfa4687
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerAverageSplit_proof_30f6fbfa4687
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:29:59.332715+00:00
 -- url     : https://prove2.me/theorems/5b21d28b-1c6a-547a-a3eb-096e5dea6eed

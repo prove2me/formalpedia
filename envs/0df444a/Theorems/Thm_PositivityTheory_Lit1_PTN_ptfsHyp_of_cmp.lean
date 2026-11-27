@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_ptfsHyp_of_cmp
 -- name    : PositivityTheory.Lit1.PTN.ptfsHyp_of_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:50:47.597822+00:00
 -- url     : https://prove2.me/theorems/e47821e1-ed53-5519-b708-444cf6083596

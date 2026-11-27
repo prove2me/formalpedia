@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_exists_prime_absNorm_of_hasDirichletDensity
 -- name    : ReciprocityTheory.Neutral.Bridge.exists_prime_absNorm_of_hasDirichletDensity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:42.652879+00:00
 -- url     : https://prove2.me/theorems/9c24f857-f5d0-42b7-b30e-c5c30adbd9be

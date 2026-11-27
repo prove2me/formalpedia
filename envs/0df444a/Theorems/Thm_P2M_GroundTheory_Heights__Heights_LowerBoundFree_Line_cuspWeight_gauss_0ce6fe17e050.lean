@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_cuspWeight_gauss_0ce6fe17e050
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_cuspWeight_gauss_0ce6fe17e050
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:37:19.82852+00:00
 -- url     : https://prove2.me/theorems/653bebf1-f287-4cb1-9a24-618050d7950d

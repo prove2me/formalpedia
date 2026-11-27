@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_lift_to_complete_dvr_of_finite__9af8e0a483f8
 -- name    : P2M_GlobalTheory_T_exists_lift_to_complete_dvr_of_finite__9af8e0a483f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:32.852681+00:00
 -- url     : https://prove2.me/theorems/8989150d-3c5e-4b85-999e-92ca084ff951

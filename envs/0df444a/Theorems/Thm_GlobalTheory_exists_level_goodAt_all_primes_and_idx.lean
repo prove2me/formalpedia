@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_level_goodAt_all_primes_and_idx
 -- name    : GlobalTheory.exists_level_goodAt_all_primes_and_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:59:13.615442+00:00
 -- url     : https://prove2.me/theorems/196cd6d5-128d-5f7c-a7a8-7bafdca76cbc

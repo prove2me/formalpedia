@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricChain_projected_level_of_pattern
 -- name    : GlobalTheory.T.symmetricChain_projected_level_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:41:16.511339+00:00
 -- url     : https://prove2.me/theorems/e7333932-d21c-5e93-8908-2918080dd17b

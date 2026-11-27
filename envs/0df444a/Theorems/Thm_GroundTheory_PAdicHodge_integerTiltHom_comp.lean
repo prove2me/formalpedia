@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_integerTiltHom_comp
 -- name    : GroundTheory.PAdicHodge.integerTiltHom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:08:00.538372+00:00
 -- url     : https://prove2.me/theorems/b3af52b1-09e2-4aba-8df6-8f3be46bb0e3

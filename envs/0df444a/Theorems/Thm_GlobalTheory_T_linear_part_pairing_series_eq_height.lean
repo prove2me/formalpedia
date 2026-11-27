@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linear_part_pairing_series_eq_height
 -- name    : GlobalTheory.T.linear_part_pairing_series_eq_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:35:30.436493+00:00
 -- url     : https://prove2.me/theorems/b1a9d026-1fc5-4a57-8c1a-f807bd74c7f0

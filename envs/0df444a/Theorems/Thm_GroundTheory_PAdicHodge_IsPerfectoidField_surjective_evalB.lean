@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_surjective_evalB
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.surjective_evalB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:45.397191+00:00
 -- url     : https://prove2.me/theorems/e0bfbea4-7afd-5008-b21a-5d3c909d21b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qo8_exists_supported
 -- name    : UpperTheory.Reformulated.B.Qo8.exists_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:41.50103+00:00
 -- url     : https://prove2.me/theorems/5d7e2f31-50dd-49bc-8ca9-1ec64600b258

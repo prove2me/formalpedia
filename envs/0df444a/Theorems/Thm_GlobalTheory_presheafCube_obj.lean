@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_presheafCube_obj
 -- name    : GlobalTheory.presheafCube_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:05.553675+00:00
 -- url     : https://prove2.me/theorems/a74b45b0-a03c-4dd2-9ed9-349519f7cc25

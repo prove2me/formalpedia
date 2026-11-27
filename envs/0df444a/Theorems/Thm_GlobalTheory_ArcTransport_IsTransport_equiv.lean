@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_IsTransport_equiv
 -- name    : GlobalTheory.ArcTransport.IsTransport.equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:30:05.509307+00:00
 -- url     : https://prove2.me/theorems/21df2648-ce27-4ff3-a69a-a4ae05aec107

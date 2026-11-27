@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_densePart_basic
 -- name    : GlobalTheory.densePart_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:43.611536+00:00
 -- url     : https://prove2.me/theorems/76dcae68-57dc-4bce-be1d-f74188ce1b3f

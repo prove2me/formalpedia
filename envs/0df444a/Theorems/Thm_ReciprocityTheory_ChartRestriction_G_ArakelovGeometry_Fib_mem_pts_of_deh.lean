@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_mem_pts_of_deh
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.mem_pts_of_deh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:11:31.958789+00:00
 -- url     : https://prove2.me/theorems/e5bd4eba-5cb4-4cc6-b3fe-90be1cdc5391

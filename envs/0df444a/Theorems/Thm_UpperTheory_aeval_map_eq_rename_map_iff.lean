@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_aeval_map_eq_rename_map_iff
 -- name    : UpperTheory.aeval_map_eq_rename_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:18.948313+00:00
 -- url     : https://prove2.me/theorems/9eaa395c-50f3-4986-9838-c3c9d3219102

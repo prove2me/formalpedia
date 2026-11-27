@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermLine_conjInvariant_iff_a9ba34da6a1d
 -- name    : P2M_GroundTheory_Heights__Heights_HermLine_conjInvariant_iff_a9ba34da6a1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:06.860478+00:00
 -- url     : https://prove2.me/theorems/25ccb285-e4dc-5da5-b665-17a33042679d

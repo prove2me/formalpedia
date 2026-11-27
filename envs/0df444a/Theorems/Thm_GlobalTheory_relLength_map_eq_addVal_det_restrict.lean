@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_map_eq_addVal_det_restrict
 -- name    : GlobalTheory.relLength_map_eq_addVal_det_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:46.385861+00:00
 -- url     : https://prove2.me/theorems/e6c46832-bd4c-435b-a0e5-e6a08aed7426

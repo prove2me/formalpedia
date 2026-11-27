@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_den_not_mem_of_count_eq_zero
 -- name    : GlobalTheory.exists_den_not_mem_of_count_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:48.208969+00:00
 -- url     : https://prove2.me/theorems/c95c7831-6fa8-5321-b988-0efb515678eb

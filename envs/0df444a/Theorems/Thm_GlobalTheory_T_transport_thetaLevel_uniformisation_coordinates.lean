@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transport_thetaLevel_uniformisation_coordinates
 -- name    : GlobalTheory.T.transport_thetaLevel_uniformisation_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:00.85952+00:00
 -- url     : https://prove2.me/theorems/17ae1b35-3470-5973-8b99-e3f1d884f16a

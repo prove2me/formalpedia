@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_span_eq_top_of_det_eq_zero
 -- name    : GlobalTheory.length_quotient_span_eq_top_of_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:28.953846+00:00
 -- url     : https://prove2.me/theorems/2efbaec0-8555-4e8e-81d2-5d34c5ba8dff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cochainsComplex_X
 -- name    : GroundTheory.ProfCoh.cochainsComplex_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:18.860217+00:00
 -- url     : https://prove2.me/theorems/c98d337e-6d5a-4c5b-8293-d0091f9de48f

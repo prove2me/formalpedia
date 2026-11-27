@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFibreTor_proof_e35c9a12f37a
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFibreTor_proof_e35c9a12f37a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:19.95473+00:00
 -- url     : https://prove2.me/theorems/0d4126cc-5ae8-5ee9-8286-db8c37e5f202

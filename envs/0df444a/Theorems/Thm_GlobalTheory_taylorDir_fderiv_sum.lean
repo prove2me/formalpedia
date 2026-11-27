@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorDir_fderiv_sum
 -- name    : GlobalTheory.taylorDir_fderiv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:59.539244+00:00
 -- url     : https://prove2.me/theorems/3b93b5fb-c963-5d2f-bddd-e88b91189fe0

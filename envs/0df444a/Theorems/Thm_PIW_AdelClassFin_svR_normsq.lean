@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_svR_normsq
 -- name    : PIW.AdelClassFin.svR_normsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:34.667846+00:00
 -- url     : https://prove2.me/theorems/ab57b34f-512e-50f3-9dc2-abeec67395e2

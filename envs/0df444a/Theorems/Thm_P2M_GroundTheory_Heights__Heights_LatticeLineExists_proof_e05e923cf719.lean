@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLineExists_proof_e05e923cf719
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLineExists_proof_e05e923cf719
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:20.887744+00:00
 -- url     : https://prove2.me/theorems/a19e60a2-d74e-4de0-a649-cb6253c9f2ca

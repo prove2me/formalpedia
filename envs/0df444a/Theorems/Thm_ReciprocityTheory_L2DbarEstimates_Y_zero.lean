@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:26:46.202119+00:00
 -- url     : https://prove2.me/theorems/f10332cb-fc49-4bcc-be18-b5e706c1754d

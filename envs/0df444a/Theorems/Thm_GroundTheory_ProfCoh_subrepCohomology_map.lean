@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subrepCohomology_map
 -- name    : GroundTheory.ProfCoh.subrepCohomology_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:52.263255+00:00
 -- url     : https://prove2.me/theorems/82bd227d-1f5c-533c-bd6d-e9adbab44a6d

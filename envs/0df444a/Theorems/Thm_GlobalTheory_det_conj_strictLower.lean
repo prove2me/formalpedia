@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_conj_strictLower
 -- name    : GlobalTheory.det_conj_strictLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:30.66366+00:00
 -- url     : https://prove2.me/theorems/1fa16d33-9bfc-479f-8512-e6dcb625f4f8

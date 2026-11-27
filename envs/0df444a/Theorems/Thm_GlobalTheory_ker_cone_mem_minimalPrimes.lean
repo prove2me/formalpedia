@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ker_cone_mem_minimalPrimes
 -- name    : GlobalTheory.ker_cone_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:59:48.716384+00:00
 -- url     : https://prove2.me/theorems/a87463e9-51e8-574e-b849-18fbf101c775

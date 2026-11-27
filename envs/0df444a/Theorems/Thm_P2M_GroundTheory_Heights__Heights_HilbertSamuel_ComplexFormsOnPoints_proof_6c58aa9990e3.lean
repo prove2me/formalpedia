@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexFormsOnPoints_proof_6c58aa9990e3
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComplexFormsOnPoints_proof_6c58aa9990e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:12.296307+00:00
 -- url     : https://prove2.me/theorems/eff9e6cc-c081-490a-ae16-df9d853b8b70

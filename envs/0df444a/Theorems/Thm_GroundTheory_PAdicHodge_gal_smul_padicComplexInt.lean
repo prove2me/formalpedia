@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_gal_smul_padicComplexInt
 -- name    : GroundTheory.PAdicHodge.gal_smul_padicComplexInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:46.095873+00:00
 -- url     : https://prove2.me/theorems/e7ca7c5d-b697-4f21-8c6d-901990b0a2eb

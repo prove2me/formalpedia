@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_ideleMeasure_eq_integral_fundamentalDomain
 -- name    : GroundTheory.Global.integral_ideleMeasure_eq_integral_fundamentalDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:57:04.948111+00:00
 -- url     : https://prove2.me/theorems/5204c7b9-cb3a-5fe2-886f-e1e0488a532e

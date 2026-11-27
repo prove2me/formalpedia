@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_exists_frobElem_isArithFrobAt
 -- name    : GroundTheory.Global.Artin.exists_frobElem_isArithFrobAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:16.321116+00:00
 -- url     : https://prove2.me/theorems/ff067a60-9470-5b7f-bb4c-d47dbf216ada

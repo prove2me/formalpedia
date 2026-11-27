@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_killedLaplaceExponentDivTendstoAtZero
 -- name    : Kyprianou.Ch05.killedLaplaceExponentDivTendstoAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-27T01:25:21.382032+00:00
 -- url     : https://prove2.me/theorems/0b4541a8-5e67-4341-9c51-8fab6872090d

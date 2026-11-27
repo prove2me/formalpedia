@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_LevUnder_lev_zero
 -- name    : GlobalTheory.ZM.LevUnder.lev_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:31.899237+00:00
 -- url     : https://prove2.me/theorems/553c2990-c7e8-59af-bc5b-678d84c83a55

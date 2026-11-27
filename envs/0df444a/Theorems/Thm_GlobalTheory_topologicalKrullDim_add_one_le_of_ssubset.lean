@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalKrullDim_add_one_le_of_ssubset
 -- name    : GlobalTheory.topologicalKrullDim_add_one_le_of_ssubset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:15.52474+00:00
 -- url     : https://prove2.me/theorems/1102ee00-5463-5204-b999-8a42ba39747d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_integralModel_genericIdeal_df324174d2b1
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_integralModel_genericIdeal_df324174d2b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:23.903903+00:00
 -- url     : https://prove2.me/theorems/ff3b766c-3e76-529c-aa01-56a2a3edf3b2

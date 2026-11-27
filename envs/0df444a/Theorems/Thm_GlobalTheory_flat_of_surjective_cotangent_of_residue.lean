@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_surjective_cotangent_of_residue
 -- name    : GlobalTheory.flat_of_surjective_cotangent_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:55.755627+00:00
 -- url     : https://prove2.me/theorems/cc07609d-94d0-4b5b-af34-c76e8d8732a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BleedFeed_ControlLimit_Supplement_theorem_4_counterexample
 -- name    : BleedFeed.ControlLimit.Supplement.theorem_4_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T03:08:30.528377+00:00
 -- url     : https://prove2.me/theorems/13897f56-8217-45cf-a66b-3751a2702ee5

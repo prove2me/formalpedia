@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ainf_isDomain_and_mu_ne_zero
 -- name    : GlobalTheory.ainf_isDomain_and_mu_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:24.766217+00:00
 -- url     : https://prove2.me/theorems/3e2dc44a-82fe-5d3e-b71f-06dc34ec801d

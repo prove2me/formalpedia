@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_Supplement_theorem_7
 -- name    : AssortSearch.MNLQC.Supplement.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:23:39.441994+00:00
 -- url     : https://prove2.me/theorems/f2809306-180a-4121-97d7-0993dacab9d8

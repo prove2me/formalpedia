@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stableLatticePair_orbits_finite_and_card_prod
 -- name    : GlobalTheory.T.stableLatticePair_orbits_finite_and_card_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:40.148524+00:00
 -- url     : https://prove2.me/theorems/09a7a1d0-1f71-4793-a64a-bd024d70babf

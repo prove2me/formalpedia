@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_Supplement_theorem_5
 -- name    : OpaquePricing.Dominance.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:42:01.536052+00:00
 -- url     : https://prove2.me/theorems/430fe7aa-95ca-4c18-898d-02f80f96fe14

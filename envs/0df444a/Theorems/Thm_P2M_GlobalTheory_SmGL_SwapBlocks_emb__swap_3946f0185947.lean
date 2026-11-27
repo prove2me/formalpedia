@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_SwapBlocks_emb__swap_3946f0185947
 -- name    : P2M_GlobalTheory_SmGL_SwapBlocks_emb__swap_3946f0185947
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:11:36.092061+00:00
 -- url     : https://prove2.me/theorems/e972d9e1-e304-5f88-add9-91d0cfbc5174

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_center_discovery
 -- name    : BarelyTestable.LowerBound.center_discovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:24:00.781861+00:00
 -- url     : https://prove2.me/theorems/cc06de8f-9d94-4382-8ddc-67d02fa8ae13

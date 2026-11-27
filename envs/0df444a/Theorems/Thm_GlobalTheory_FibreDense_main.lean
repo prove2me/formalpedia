@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDense_main
 -- name    : GlobalTheory.FibreDense.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:30:20.691096+00:00
 -- url     : https://prove2.me/theorems/455a3186-e412-5b74-a77e-d469d784356c

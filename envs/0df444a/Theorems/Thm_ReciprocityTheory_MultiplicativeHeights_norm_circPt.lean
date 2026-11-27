@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_norm_circPt
 -- name    : ReciprocityTheory.MultiplicativeHeights.norm_circPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:18.87756+00:00
 -- url     : https://prove2.me/theorems/12c68e6f-8fde-4349-bb54-1a65d7f6ae38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_conj_gaussQ_re_b971a3ac9b26
 -- name    : P2M_GroundTheory_Heights__Theta_conj_gaussQ_re_b971a3ac9b26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:40.229414+00:00
 -- url     : https://prove2.me/theorems/2c60edbe-9c12-40ae-a06f-410a4f4cf162

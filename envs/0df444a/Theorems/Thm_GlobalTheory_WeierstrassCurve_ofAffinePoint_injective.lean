@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ofAffinePoint_injective
 -- name    : GlobalTheory.WeierstrassCurve.ofAffinePoint_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:31.339589+00:00
 -- url     : https://prove2.me/theorems/2b720e8e-46f5-4262-b214-2494ce77e176

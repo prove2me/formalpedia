@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BallVolume_proof_81fc411513b7
 -- name    : P2M_GroundTheory_Heights__Heights_BallVolume_proof_81fc411513b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:12:06.338568+00:00
 -- url     : https://prove2.me/theorems/07fd4c37-ac88-506d-a38c-010de4945dca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuationRing_of_complete_field
 -- name    : GlobalTheory.valuationRing_of_complete_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:26.479039+00:00
 -- url     : https://prove2.me/theorems/31c47504-c1ff-4f08-b362-42170f321c9c

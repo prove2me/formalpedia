@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_LocallyTrivialClassesAddEquiv_main
 -- name    : UpperTheory.Reformulated.B.LocallyTrivialClassesAddEquiv.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:45.407666+00:00
 -- url     : https://prove2.me/theorems/b5de264f-89a8-4fb8-bfe0-a78b5f5dcd99

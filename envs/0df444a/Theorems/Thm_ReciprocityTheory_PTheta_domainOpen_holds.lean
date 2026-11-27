@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_domainOpen_holds
 -- name    : ReciprocityTheory.PTheta.domainOpen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:10.543568+00:00
 -- url     : https://prove2.me/theorems/3beff6af-2859-4659-a553-67a53e50c3db

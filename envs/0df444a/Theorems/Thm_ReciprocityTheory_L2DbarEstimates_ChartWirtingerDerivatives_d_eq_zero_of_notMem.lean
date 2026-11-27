@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_ChartWirtingerDerivatives_d_eq_zero_of_notMem
 -- name    : ReciprocityTheory.L2DbarEstimates.ChartWirtingerDerivatives.d_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:14.315849+00:00
 -- url     : https://prove2.me/theorems/673fc308-ea70-51b9-a116-904949e20663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPosition_comap_subscheme__eraseIdx_of_eq_4a34b7aecc30
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPosition_comap_subscheme__eraseIdx_of_eq_4a34b7aecc30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:18.955032+00:00
 -- url     : https://prove2.me/theorems/bf9acace-0188-4aef-86fc-ef6946b36615

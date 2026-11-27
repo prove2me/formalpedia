@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_KrullHeightOne_proof_77952fbc9c6c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_KrullHeightOne_proof_77952fbc9c6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:17:56.403452+00:00
 -- url     : https://prove2.me/theorems/f792e8ff-7d58-5446-b71f-5adf97114907

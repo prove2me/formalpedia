@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_schwartz_eq_gaussian_of_fderiv_add_eq_zero__a18027e02355
 -- name    : P2M_GlobalTheory_T_schwartz_eq_gaussian_of_fderiv_add_eq_zero__a18027e02355
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:26.186113+00:00
 -- url     : https://prove2.me/theorems/9ce70518-a3dc-4128-ad01-a1905c9fd883

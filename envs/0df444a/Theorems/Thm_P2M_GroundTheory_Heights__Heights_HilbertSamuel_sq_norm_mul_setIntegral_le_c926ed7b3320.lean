@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_sq_norm_mul_setIntegral_le_c926ed7b3320
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_sq_norm_mul_setIntegral_le_c926ed7b3320
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:15:49.86151+00:00
 -- url     : https://prove2.me/theorems/64b721f5-43ad-5720-83a5-1a9883cd975f

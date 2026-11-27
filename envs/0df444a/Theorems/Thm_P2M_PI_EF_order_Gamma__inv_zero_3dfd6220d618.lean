@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_EF_order_Gamma__inv_zero_3dfd6220d618
 -- name    : P2M_PI_EF_order_Gamma__inv_zero_3dfd6220d618
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:43:25.830305+00:00
 -- url     : https://prove2.me/theorems/e5c0eec7-f6fe-4193-9aeb-01677de7d603

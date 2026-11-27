@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourier_preserves_test_fixes_unit
 -- name    : GlobalTheory.T.partialFourier_preserves_test_fixes_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:38.331486+00:00
 -- url     : https://prove2.me/theorems/ec5e8337-2223-4407-a585-7ddfd4f58ba3

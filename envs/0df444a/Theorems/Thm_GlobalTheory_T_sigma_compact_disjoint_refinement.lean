@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sigma_compact_disjoint_refinement
 -- name    : GlobalTheory.T.sigma_compact_disjoint_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:25.479036+00:00
 -- url     : https://prove2.me/theorems/2fc95593-c455-59af-9c7f-6471a8b73239

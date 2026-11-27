@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_ZeroWeightSections_toData_F__1564f8e39eb7
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_ZeroWeightSections_toData_F__1564f8e39eb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:07.016255+00:00
 -- url     : https://prove2.me/theorems/be5b424e-b3d9-5603-8ff2-8e0eff09df8e

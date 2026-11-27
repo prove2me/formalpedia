@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PTNLoc_locHyp
 -- name    : PositivityTheory.PTNLoc.locHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:51:29.244692+00:00
 -- url     : https://prove2.me/theorems/5b857b17-ba15-4651-adfb-4813add533b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeAvoid_proof_7cc393463f22
 -- name    : P2M_GroundTheory_Heights__Heights_BaseChangeAvoid_proof_7cc393463f22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:08:15.62075+00:00
 -- url     : https://prove2.me/theorems/d041daaf-a148-4e6e-aaa3-ccb6e0b65ad8

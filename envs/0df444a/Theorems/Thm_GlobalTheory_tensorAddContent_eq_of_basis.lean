@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorAddContent_eq_of_basis
 -- name    : GlobalTheory.tensorAddContent_eq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:25.110816+00:00
 -- url     : https://prove2.me/theorems/afebe99e-f71d-5567-80f6-8f4c310efdf6

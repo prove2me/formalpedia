@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_residue_normal_of_profinite_invariants
 -- name    : GlobalTheory.T.residue_normal_of_profinite_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:28.636236+00:00
 -- url     : https://prove2.me/theorems/082f4795-d1dd-460c-aee1-d6ff8a7fcb6e

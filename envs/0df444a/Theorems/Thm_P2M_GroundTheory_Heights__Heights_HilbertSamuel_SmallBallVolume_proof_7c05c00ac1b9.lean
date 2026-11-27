@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SmallBallVolume_proof_7c05c00ac1b9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SmallBallVolume_proof_7c05c00ac1b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:17.839558+00:00
 -- url     : https://prove2.me/theorems/e5a6b7cd-bf06-488f-9a84-abe49b6cf7e4

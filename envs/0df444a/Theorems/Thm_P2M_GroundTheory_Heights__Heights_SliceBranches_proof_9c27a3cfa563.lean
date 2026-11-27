@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceBranches_proof_9c27a3cfa563
 -- name    : P2M_GroundTheory_Heights__Heights_SliceBranches_proof_9c27a3cfa563
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:36:52.343643+00:00
 -- url     : https://prove2.me/theorems/5fce2423-6e13-534f-ad1e-ab689ded0f39

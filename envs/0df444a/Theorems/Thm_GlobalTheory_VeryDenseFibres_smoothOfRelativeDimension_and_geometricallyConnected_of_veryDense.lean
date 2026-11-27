@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryDenseFibres_smoothOfRelativeDimension_and_geometricallyConnected_of_veryDense
 -- name    : GlobalTheory.VeryDenseFibres.smoothOfRelativeDimension_and_geometricallyConnected_of_veryDense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:31:07.634923+00:00
 -- url     : https://prove2.me/theorems/a462c1b6-b59c-4126-9a2a-1c986967e1f0

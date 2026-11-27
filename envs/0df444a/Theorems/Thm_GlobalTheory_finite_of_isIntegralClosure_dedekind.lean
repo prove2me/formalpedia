@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isIntegralClosure_dedekind
 -- name    : GlobalTheory.finite_of_isIntegralClosure_dedekind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:41.810585+00:00
 -- url     : https://prove2.me/theorems/c8812b28-e8ad-4cfb-ad24-fc1013c69b1a

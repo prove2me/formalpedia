@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_card_quot_ne_two
 -- name    : UpperTheory.Small.card_quot_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:10:09.276803+00:00
 -- url     : https://prove2.me/theorems/4cf7f211-f9f7-5ecf-b0d4-4c6de1bc24be

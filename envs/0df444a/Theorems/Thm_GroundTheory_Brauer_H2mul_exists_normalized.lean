@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_exists_normalized
 -- name    : GroundTheory.Brauer.H2mul.exists_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:19.787803+00:00
 -- url     : https://prove2.me/theorems/18d62e9e-86c9-49e9-9241-3a99e336d72a

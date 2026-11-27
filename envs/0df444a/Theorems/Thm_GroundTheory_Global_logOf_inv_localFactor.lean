@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_logOf_inv_localFactor
 -- name    : GroundTheory.Global.logOf_inv_localFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:55:43.612581+00:00
 -- url     : https://prove2.me/theorems/ad41ca90-022a-51b8-b9a6-fea5ccebdc24

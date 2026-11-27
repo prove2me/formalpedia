@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_torusEquivPoint_mk
 -- name    : GroundTheory.Global.Elliptic.torusEquivPoint_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:55:08.867191+00:00
 -- url     : https://prove2.me/theorems/e9bd65d6-5f8e-598c-b4fe-8d659ed2f15d

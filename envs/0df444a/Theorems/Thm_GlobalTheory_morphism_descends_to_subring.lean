@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_morphism_descends_to_subring
 -- name    : GlobalTheory.morphism_descends_to_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:10.062978+00:00
 -- url     : https://prove2.me/theorems/eb95ea51-c434-4e82-8df8-10652cf3391e

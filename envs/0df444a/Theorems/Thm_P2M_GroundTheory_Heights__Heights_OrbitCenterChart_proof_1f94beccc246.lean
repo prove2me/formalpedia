@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCenterChart_proof_1f94beccc246
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCenterChart_proof_1f94beccc246
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:58.604891+00:00
 -- url     : https://prove2.me/theorems/eb24aab2-5b82-5abc-9fe7-1f6434674671

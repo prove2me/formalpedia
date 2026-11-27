@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_anRen_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.anRen_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:49:35.440185+00:00
 -- url     : https://prove2.me/theorems/fe427c09-b98d-5592-b31c-10a057cbb50d

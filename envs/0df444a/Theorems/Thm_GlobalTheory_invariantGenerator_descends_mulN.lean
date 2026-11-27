@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariantGenerator_descends_mulN
 -- name    : GlobalTheory.invariantGenerator_descends_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:56:48.490596+00:00
 -- url     : https://prove2.me/theorems/4329941d-d195-5af5-91e4-1053371ea6bc

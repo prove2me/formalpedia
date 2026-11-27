@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kugaAbs_holds
 -- name    : PositivityTheory.Rg.Cz.kugaAbs_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:54.628148+00:00
 -- url     : https://prove2.me/theorems/cce5cd19-88ca-4933-b9b1-71dbda1b36f0

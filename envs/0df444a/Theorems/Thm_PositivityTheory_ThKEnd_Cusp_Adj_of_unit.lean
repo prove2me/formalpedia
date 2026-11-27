@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_Adj_of_unit
 -- name    : PositivityTheory.ThKEnd.Cusp.Adj.of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:59:32.728702+00:00
 -- url     : https://prove2.me/theorems/cbc6f3bb-e187-4a0c-bd7e-92da79d22744

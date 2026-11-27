@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_multiplicity_relDiscr_semiLocal
 -- name    : GroundTheory.Global.multiplicity_relDiscr_semiLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:57:39.655906+00:00
 -- url     : https://prove2.me/theorems/a990972b-8ebe-49a0-9c29-1c97cab9f7e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryExtForm_HypercubeRank_Supplement_theorem_3_2
 -- name    : BinaryExtForm.HypercubeRank.Supplement.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:00:55.380191+00:00
 -- url     : https://prove2.me/theorems/c53cef60-bbf3-431a-969e-13a72278e1fd

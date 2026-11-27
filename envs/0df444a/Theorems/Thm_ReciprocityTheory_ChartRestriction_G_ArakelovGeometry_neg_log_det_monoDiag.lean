@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_neg_log_det_monoDiag
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.neg_log_det_monoDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:09:10.185908+00:00
 -- url     : https://prove2.me/theorems/96b7ecdf-e08f-48ce-9a3f-da1c3772105f

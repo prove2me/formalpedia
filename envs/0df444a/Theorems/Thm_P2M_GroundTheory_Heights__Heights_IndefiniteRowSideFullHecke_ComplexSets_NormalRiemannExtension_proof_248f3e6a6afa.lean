@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalRiemannExtension_proof_248f3e6a6afa
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalRiemannExtension_proof_248f3e6a6afa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:17:19.757389+00:00
 -- url     : https://prove2.me/theorems/11e2e6fd-c851-519c-b72a-2aefbfdf408a

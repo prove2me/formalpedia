@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaQExpansionIntegral_proof_98ebcf3a05b7
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaQExpansionIntegral_proof_98ebcf3a05b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:27.4757+00:00
 -- url     : https://prove2.me/theorems/3c84a04c-a609-53dd-a7ed-23b9b95923c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isRegularRing_of_isRegularRing
 -- name    : GlobalTheory.flat_of_isRegularRing_of_isRegularRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:46:13.451107+00:00
 -- url     : https://prove2.me/theorems/d09ab660-a102-416f-ae17-3312882f7091

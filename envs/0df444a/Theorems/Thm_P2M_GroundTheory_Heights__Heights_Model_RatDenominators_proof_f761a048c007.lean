@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_RatDenominators_proof_f761a048c007
 -- name    : P2M_GroundTheory_Heights__Heights_Model_RatDenominators_proof_f761a048c007
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:32:02.89884+00:00
 -- url     : https://prove2.me/theorems/4e75388b-5465-44f2-9b39-be98cc535394

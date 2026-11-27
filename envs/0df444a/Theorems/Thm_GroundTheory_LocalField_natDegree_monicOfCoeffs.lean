@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natDegree_monicOfCoeffs
 -- name    : GroundTheory.LocalField.natDegree_monicOfCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:54.277375+00:00
 -- url     : https://prove2.me/theorems/550d301c-0fff-5d55-a313-86d81785c4e6

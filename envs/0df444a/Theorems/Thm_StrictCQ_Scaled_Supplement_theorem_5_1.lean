@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_Scaled_Supplement_theorem_5_1
 -- name    : StrictCQ.Scaled.Supplement.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:56:37.485013+00:00
 -- url     : https://prove2.me/theorems/614bae04-2595-44eb-aba7-88adecdb5cc4

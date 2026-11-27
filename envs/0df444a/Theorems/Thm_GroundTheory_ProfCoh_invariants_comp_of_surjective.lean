@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_invariants_comp_of_surjective
 -- name    : GroundTheory.ProfCoh.invariants_comp_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:37.998311+00:00
 -- url     : https://prove2.me/theorems/09eca1e2-c976-450e-bb6b-ee7c4e19b59e

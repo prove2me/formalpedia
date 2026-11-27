@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_Supplement_lemma_4
 -- name    : PerishablePricing.Backlog.Supplement.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:00:51.241812+00:00
 -- url     : https://prove2.me/theorems/83fe4610-bd19-4ee0-a6c9-be44dd340fb4

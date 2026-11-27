@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_ComponentData_n_eq_ff3eec8b4d03
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_ComponentData_n_eq_ff3eec8b4d03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:42.727643+00:00
 -- url     : https://prove2.me/theorems/c554716a-6601-4628-a902-c5739284e785

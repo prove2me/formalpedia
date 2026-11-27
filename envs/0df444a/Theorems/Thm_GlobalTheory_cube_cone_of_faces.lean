@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_cone_of_faces
 -- name    : GlobalTheory.cube_cone_of_faces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:35.203975+00:00
 -- url     : https://prove2.me/theorems/cf509dc8-682d-4dca-8068-0204e547865a

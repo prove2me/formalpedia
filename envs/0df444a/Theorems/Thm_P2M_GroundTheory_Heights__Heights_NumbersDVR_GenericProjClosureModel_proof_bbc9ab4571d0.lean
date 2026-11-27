@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureModel_proof_bbc9ab4571d0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureModel_proof_bbc9ab4571d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:36:37.769299+00:00
 -- url     : https://prove2.me/theorems/dcd989d7-9ba4-58d8-b0bf-ac2d767bdcd3

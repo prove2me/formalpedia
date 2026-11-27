@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_UniformiserLocallyInjective_proof_1e212993bea7
 -- name    : P2M_GroundTheory_Heights__Heights_UniformiserLocallyInjective_proof_1e212993bea7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:46:39.587548+00:00
 -- url     : https://prove2.me/theorems/b589701d-5923-5b49-8dfd-e02fc6235934

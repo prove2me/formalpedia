@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_isSemiAbelian_of_splitAll
 -- name    : GlobalTheory.ZJ.isSemiAbelian_of_splitAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:40:16.035875+00:00
 -- url     : https://prove2.me/theorems/435efe60-331c-4655-9e24-89280af0bfa6

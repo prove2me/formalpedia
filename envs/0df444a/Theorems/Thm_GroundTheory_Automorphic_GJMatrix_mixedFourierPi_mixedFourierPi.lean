@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_mixedFourierPi_mixedFourierPi
 -- name    : GroundTheory.Automorphic.GJMatrix.mixedFourierPi_mixedFourierPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:17.687857+00:00
 -- url     : https://prove2.me/theorems/1077b34e-015c-5c80-a817-9c0381454220

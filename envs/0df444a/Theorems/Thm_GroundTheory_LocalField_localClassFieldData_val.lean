@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localClassFieldData_val
 -- name    : GroundTheory.LocalField.localClassFieldData_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:06.760726+00:00
 -- url     : https://prove2.me/theorems/45738df5-80e9-548d-8c1b-4e7fde98bfa6

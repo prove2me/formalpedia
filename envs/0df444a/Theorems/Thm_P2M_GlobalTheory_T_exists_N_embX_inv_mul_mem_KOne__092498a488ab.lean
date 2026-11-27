@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_N_embX_inv_mul_mem_KOne__092498a488ab
 -- name    : P2M_GlobalTheory_T_exists_N_embX_inv_mul_mem_KOne__092498a488ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:27:56.596881+00:00
 -- url     : https://prove2.me/theorems/7a1c01c6-b329-545f-9821-38fef973705f

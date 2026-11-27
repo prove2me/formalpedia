@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AlgebraicInfinityType_InfinityType_exponents_conjugate
 -- name    : Reformulated.AlgebraicInfinityType.InfinityType.exponents_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:08.371814+00:00
 -- url     : https://prove2.me/theorems/bc6e01ce-1d40-5087-a2fa-7f5d6e30fea7

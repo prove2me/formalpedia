@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_degree_line_indep_855d717e1a04
 -- name    : P2M_GroundTheory_Heights__Heights_degree_line_indep_855d717e1a04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:08.666566+00:00
 -- url     : https://prove2.me/theorems/ea3e3b0b-168c-4c89-add7-71005b3add97

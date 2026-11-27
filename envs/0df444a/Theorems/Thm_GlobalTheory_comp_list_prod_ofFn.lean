@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_comp_list_prod_ofFn
 -- name    : GlobalTheory.comp_list_prod_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:59.844602+00:00
 -- url     : https://prove2.me/theorems/2a705f82-7a79-448e-ad20-aa7c61f814e4

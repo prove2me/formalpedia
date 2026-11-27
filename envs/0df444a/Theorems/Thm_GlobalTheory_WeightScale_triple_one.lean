@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightScale_triple_one
 -- name    : GlobalTheory.WeightScale.triple_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:44.667056+00:00
 -- url     : https://prove2.me/theorems/878e33d5-f970-5745-86c1-d689ee2b5e02

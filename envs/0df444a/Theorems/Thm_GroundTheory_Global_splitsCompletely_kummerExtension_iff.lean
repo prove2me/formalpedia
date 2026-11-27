@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_splitsCompletely_kummerExtension_iff
 -- name    : GroundTheory.Global.splitsCompletely_kummerExtension_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:56:46.620736+00:00
 -- url     : https://prove2.me/theorems/ea981957-d2c5-5d39-9d09-1b58dfa5372b

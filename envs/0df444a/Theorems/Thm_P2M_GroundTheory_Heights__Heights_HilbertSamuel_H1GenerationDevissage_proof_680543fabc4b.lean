@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_H1GenerationDevissage_proof_680543fabc4b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_H1GenerationDevissage_proof_680543fabc4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:25:32.094566+00:00
 -- url     : https://prove2.me/theorems/d4c23513-1d0e-501e-86fe-eaf39c27c59e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ContinuousSectionHolomorphic_proof_a50e1bb2ab69
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ContinuousSectionHolomorphic_proof_a50e1bb2ab69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:16:33.196334+00:00
 -- url     : https://prove2.me/theorems/98ec04a4-86f4-567a-9740-d24b085d2b31

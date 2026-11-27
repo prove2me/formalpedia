@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_automorphismOrder_of_a__eq_zero_3dbdee3c0213
 -- name    : P2M_GroundTheory_Global_automorphismOrder_of_a__eq_zero_3dbdee3c0213
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:25.845131+00:00
 -- url     : https://prove2.me/theorems/fb0e0757-b2bb-4e6a-aa7a-f904d85aef29

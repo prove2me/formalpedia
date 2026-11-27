@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermTrace_mulVec
 -- name    : GroundTheory.Automorphic.hermTrace_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:07.063565+00:00
 -- url     : https://prove2.me/theorems/3669b680-b57a-54f0-a334-a3524af36c93

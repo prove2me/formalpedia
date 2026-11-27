@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isMultiProjPrime_line_2003c7ece5cb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isMultiProjPrime_line_2003c7ece5cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:43.219659+00:00
 -- url     : https://prove2.me/theorems/a9a2ba72-156f-5d62-86ab-ad765bce6026

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_standardAltForm_one
 -- name    : GlobalTheory.bijective_standardAltForm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:43:23.426008+00:00
 -- url     : https://prove2.me/theorems/41c2bada-fe52-5271-8399-7315b57c0576

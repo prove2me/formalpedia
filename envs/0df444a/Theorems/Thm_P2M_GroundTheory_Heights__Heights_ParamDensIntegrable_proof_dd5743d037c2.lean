@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamDensIntegrable_proof_dd5743d037c2
 -- name    : P2M_GroundTheory_Heights__Heights_ParamDensIntegrable_proof_dd5743d037c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:40:15.963796+00:00
 -- url     : https://prove2.me/theorems/8f0e919a-d221-56b4-81fb-fe88556caa53

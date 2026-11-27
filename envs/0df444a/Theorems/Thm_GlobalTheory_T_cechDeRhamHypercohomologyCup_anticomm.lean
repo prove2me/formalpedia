@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cechDeRhamHypercohomologyCup_anticomm
 -- name    : GlobalTheory.T.cechDeRhamHypercohomologyCup_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:26:18.637579+00:00
 -- url     : https://prove2.me/theorems/a7cd2c9c-61ca-4d97-9242-f9063c19650f

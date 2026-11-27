@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CechAcyclicMod_of_shortExact__4c4247d18efb
 -- name    : P2M_GlobalTheory_CechAcyclicMod_of_shortExact__4c4247d18efb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:13:05.037964+00:00
 -- url     : https://prove2.me/theorems/75725ce8-d2af-51d0-bc6f-d90cdcc961d9

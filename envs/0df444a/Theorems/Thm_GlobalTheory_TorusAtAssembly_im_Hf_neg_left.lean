@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusAtAssembly_im_Hf_neg_left
 -- name    : GlobalTheory.TorusAtAssembly.im_Hf_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:23.465794+00:00
 -- url     : https://prove2.me/theorems/cb0fef8d-d530-46e8-a141-4ac18dcf1343

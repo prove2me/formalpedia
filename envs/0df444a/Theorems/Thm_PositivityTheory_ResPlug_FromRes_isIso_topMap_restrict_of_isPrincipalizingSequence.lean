@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_isIso_topMap_restrict_of_isPrincipalizingSequence
 -- name    : PositivityTheory.ResPlug.FromRes.isIso_topMap_restrict_of_isPrincipalizingSequence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:50:44.266111+00:00
 -- url     : https://prove2.me/theorems/7456385b-07c7-5284-8d26-46795676bbf7

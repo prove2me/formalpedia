@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_slice_integrable_finite_class
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.slice_integrable_finite_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:07:47.738955+00:00
 -- url     : https://prove2.me/theorems/9a090f65-4327-475e-9088-2eac1c7b6405

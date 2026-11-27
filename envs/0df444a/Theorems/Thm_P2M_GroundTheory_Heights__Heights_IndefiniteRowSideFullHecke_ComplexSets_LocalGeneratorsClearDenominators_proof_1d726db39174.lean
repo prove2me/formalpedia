@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalGeneratorsClearDenominators_proof_1d726db39174
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_LocalGeneratorsClearDenominators_proof_1d726db39174
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:16:22.479083+00:00
 -- url     : https://prove2.me/theorems/e29ad23b-9312-502b-a698-1df94138894b

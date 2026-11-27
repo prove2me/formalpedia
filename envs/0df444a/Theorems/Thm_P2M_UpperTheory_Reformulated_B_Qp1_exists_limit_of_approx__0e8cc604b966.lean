@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qp1_exists_limit_of_approx__0e8cc604b966
 -- name    : P2M_UpperTheory_Reformulated_B_Qp1_exists_limit_of_approx__0e8cc604b966
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:43:47.825789+00:00
 -- url     : https://prove2.me/theorems/55d6181e-487c-52c9-943c-773bc1c3f981

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_log_le_div_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.log_le_div_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:58:53.701777+00:00
 -- url     : https://prove2.me/theorems/1495cc6c-1928-568b-b178-f1f97a177918

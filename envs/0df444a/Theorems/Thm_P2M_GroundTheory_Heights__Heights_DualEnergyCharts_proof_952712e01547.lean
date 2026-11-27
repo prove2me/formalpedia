@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualEnergyCharts_proof_952712e01547
 -- name    : P2M_GroundTheory_Heights__Heights_DualEnergyCharts_proof_952712e01547
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:44:02.9038+00:00
 -- url     : https://prove2.me/theorems/54968c3e-8d79-4f39-9a2c-a6890681c0e9

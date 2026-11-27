@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isSemisimpleRepresentation_tprod_of_isIrreducible__c2ce9d4f8439
 -- name    : P2M_GlobalTheory_T_isSemisimpleRepresentation_tprod_of_isIrreducible__c2ce9d4f8439
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:21.745493+00:00
 -- url     : https://prove2.me/theorems/747912e4-f114-509d-8892-285ce1b4cf7a

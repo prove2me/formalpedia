@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_jacquetFixedMap_surjective_iwahori
 -- name    : GroundTheory.Automorphic.Parabolic.jacquetFixedMap_surjective_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:59.301198+00:00
 -- url     : https://prove2.me/theorems/9fd00b84-4293-5888-a748-df59cd560191

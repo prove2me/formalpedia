@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaJSched_Supplement_theorem_3_3
 -- name    : SingleMachineSched.AlphaJSched.Supplement.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:10:25.140831+00:00
 -- url     : https://prove2.me/theorems/a0f222e7-2fae-462c-afe6-49fe60143a5c

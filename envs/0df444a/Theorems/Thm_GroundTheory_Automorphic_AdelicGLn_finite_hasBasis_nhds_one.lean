@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_finite_hasBasis_nhds_one
 -- name    : GroundTheory.Automorphic.AdelicGLn.finite_hasBasis_nhds_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:06.178532+00:00
 -- url     : https://prove2.me/theorems/b0678152-837f-4ff9-805d-f5a0d75ba98b

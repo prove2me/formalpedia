@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_firstBasisVector_shortest_316b540edb39
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_firstBasisVector_shortest_316b540edb39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:17:19.697653+00:00
 -- url     : https://prove2.me/theorems/16cf46bb-5f9e-51de-926b-8f5379cf73a9

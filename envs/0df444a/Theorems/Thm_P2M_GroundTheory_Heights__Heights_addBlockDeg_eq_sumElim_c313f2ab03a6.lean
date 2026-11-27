@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_addBlockDeg_eq_sumElim_c313f2ab03a6
 -- name    : P2M_GroundTheory_Heights__Heights_addBlockDeg_eq_sumElim_c313f2ab03a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:02.198565+00:00
 -- url     : https://prove2.me/theorems/c0196f8a-eef9-4e57-8b6a-47c6a6db3fb1

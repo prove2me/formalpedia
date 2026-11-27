@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitBallVal_main
 -- name    : GlobalTheory.UnitBallVal.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:14:00.688299+00:00
 -- url     : https://prove2.me/theorems/6d3ac5ec-ea36-4942-adf2-c127031d7b04

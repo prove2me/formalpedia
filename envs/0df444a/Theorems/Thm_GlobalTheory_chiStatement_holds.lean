@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chiStatement_holds
 -- name    : GlobalTheory.chiStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:47.826212+00:00
 -- url     : https://prove2.me/theorems/453e80df-7a3f-49bf-b95d-4c6442a65f9c

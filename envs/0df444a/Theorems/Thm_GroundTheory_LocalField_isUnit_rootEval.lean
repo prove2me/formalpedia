@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isUnit_rootEval
 -- name    : GroundTheory.LocalField.isUnit_rootEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:56.738974+00:00
 -- url     : https://prove2.me/theorems/aa87f89e-a8ea-56c5-a6eb-a4d911b636c3

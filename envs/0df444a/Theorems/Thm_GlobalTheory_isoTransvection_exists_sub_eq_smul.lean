@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_exists_sub_eq_smul
 -- name    : GlobalTheory.isoTransvection.exists_sub_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:20.908533+00:00
 -- url     : https://prove2.me/theorems/813447fb-b634-4f41-9833-184f4fcd780b

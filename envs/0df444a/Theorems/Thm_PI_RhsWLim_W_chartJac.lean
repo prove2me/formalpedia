@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_chartJac
 -- name    : PI.RhsWLim.W.chartJac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:39.851956+00:00
 -- url     : https://prove2.me/theorems/553692d9-2075-4b1c-8d89-b435434e44fe

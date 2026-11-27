@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFiniteFibreDim_proof_905ae11107c4
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFiniteFibreDim_proof_905ae11107c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:17:54.878801+00:00
 -- url     : https://prove2.me/theorems/acd0f81d-ac5e-59ae-9b35-30566c90d09d

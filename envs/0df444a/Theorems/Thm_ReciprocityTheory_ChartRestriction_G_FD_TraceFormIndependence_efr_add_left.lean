@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceFormIndependence_efr_add_left
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceFormIndependence.efr_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:14.155797+00:00
 -- url     : https://prove2.me/theorems/6e98a84d-2cff-53fd-ab22-3fcd5b066ac2

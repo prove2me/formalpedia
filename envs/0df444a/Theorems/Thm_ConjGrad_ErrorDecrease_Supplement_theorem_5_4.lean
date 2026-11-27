@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_ErrorDecrease_Supplement_theorem_5_4
 -- name    : ConjGrad.ErrorDecrease.Supplement.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:56:34.658862+00:00
 -- url     : https://prove2.me/theorems/fe0c3b4a-3c99-425d-b43f-a2c66308eb7e

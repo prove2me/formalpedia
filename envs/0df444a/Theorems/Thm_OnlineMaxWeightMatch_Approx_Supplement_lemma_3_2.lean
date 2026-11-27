@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineMaxWeightMatch_Approx_Supplement_lemma_3_2
 -- name    : OnlineMaxWeightMatch.Approx.Supplement.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:26:08.217805+00:00
 -- url     : https://prove2.me/theorems/c1dc9e9c-212d-4dc1-834a-a7e4969dc747

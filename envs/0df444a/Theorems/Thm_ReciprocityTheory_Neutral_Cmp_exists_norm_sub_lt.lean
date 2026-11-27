@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_exists_norm_sub_lt
 -- name    : ReciprocityTheory.Neutral.Cmp.exists_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:18.368831+00:00
 -- url     : https://prove2.me/theorems/72aaa200-1742-42e6-a182-5eb637b002bf

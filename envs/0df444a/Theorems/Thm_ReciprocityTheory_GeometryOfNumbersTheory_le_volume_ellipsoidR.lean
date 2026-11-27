@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_le_volume_ellipsoidR
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.le_volume_ellipsoidR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:57.086323+00:00
 -- url     : https://prove2.me/theorems/ad172e09-094c-4375-99f7-0ab7f11ab21e

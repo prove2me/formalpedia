@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_morphisms_generic_spread_out
 -- name    : GlobalTheory.morphisms_generic_spread_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:55.325425+00:00
 -- url     : https://prove2.me/theorems/d44f081a-8e3e-4e60-9933-4b388b822445

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_isHerm_hyperbolic
 -- name    : GlobalTheory.UTrans.isHerm_hyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:59.564347+00:00
 -- url     : https://prove2.me/theorems/49c7d93b-0772-59dc-adde-0ca99ad1fadc

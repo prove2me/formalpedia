@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_fieldEvalRed_genX
 -- name    : GroundTheory.Global.fieldEvalRed_genX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:56:46.611778+00:00
 -- url     : https://prove2.me/theorems/46eb2aba-034b-47ce-ab67-064b35878598

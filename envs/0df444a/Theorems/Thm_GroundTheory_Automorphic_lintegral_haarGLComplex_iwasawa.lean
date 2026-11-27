@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_lintegral_haarGLComplex_iwasawa
 -- name    : GroundTheory.Automorphic.lintegral_haarGLComplex_iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:16.743289+00:00
 -- url     : https://prove2.me/theorems/ea940bea-2d26-5995-9e98-1cb0fa2367be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_integrableOn_integrand
 -- name    : GlobalTheory.ZetaHalfPlane.integrableOn_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:36.481114+00:00
 -- url     : https://prove2.me/theorems/90714fe8-2163-5df6-9b23-617d8514734b

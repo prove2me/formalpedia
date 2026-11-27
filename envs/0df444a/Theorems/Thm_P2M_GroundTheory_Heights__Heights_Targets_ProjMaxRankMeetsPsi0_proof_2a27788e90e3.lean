@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankMeetsPsi0_proof_2a27788e90e3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankMeetsPsi0_proof_2a27788e90e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:21.911295+00:00
 -- url     : https://prove2.me/theorems/de05d3a5-d53e-49b1-83f8-63e5bdd8b721

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_isFnT_iff
 -- name    : GlobalTheory.ThetaFn.isFnT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:29.685461+00:00
 -- url     : https://prove2.me/theorems/c8e84d40-8eab-56e5-8fd7-5f54d6fe1620

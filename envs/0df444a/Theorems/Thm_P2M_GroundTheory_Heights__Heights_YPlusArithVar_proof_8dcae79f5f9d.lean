@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusArithVar_proof_8dcae79f5f9d
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusArithVar_proof_8dcae79f5f9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:41:59.025817+00:00
 -- url     : https://prove2.me/theorems/c4d9efd2-ebcf-53a3-ac31-d8cfdedd5399

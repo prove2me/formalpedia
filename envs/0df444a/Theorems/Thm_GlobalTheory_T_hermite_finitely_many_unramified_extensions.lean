@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermite_finitely_many_unramified_extensions
 -- name    : GlobalTheory.T.hermite_finitely_many_unramified_extensions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:43.236728+00:00
 -- url     : https://prove2.me/theorems/b9b09157-2fe9-4821-ab4b-1b6ed6721c0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRankTransfer_of_found_af53e2fe8c58
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRankTransfer_of_found_af53e2fe8c58
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:58.550189+00:00
 -- url     : https://prove2.me/theorems/aa4d5188-ad47-4cbf-9b4d-affd87e0508f

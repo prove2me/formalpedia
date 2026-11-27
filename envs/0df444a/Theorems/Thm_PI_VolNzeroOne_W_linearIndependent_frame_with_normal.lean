@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_linearIndependent_frame_with_normal
 -- name    : PI.VolNzeroOne.W.linearIndependent_frame_with_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:36.819298+00:00
 -- url     : https://prove2.me/theorems/83b50d2e-1119-58a1-885f-91116b0f2b3f

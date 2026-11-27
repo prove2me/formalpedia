@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meromorphic_weierstrassZeta
 -- name    : GlobalTheory.meromorphic_weierstrassZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:10.054224+00:00
 -- url     : https://prove2.me/theorems/7e323381-c972-4956-ace0-860b8553098d

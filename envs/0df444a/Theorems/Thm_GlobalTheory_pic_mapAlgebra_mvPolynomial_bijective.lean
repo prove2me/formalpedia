@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pic_mapAlgebra_mvPolynomial_bijective
 -- name    : GlobalTheory.pic_mapAlgebra_mvPolynomial_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:36.407853+00:00
 -- url     : https://prove2.me/theorems/758c9255-96b0-5b67-bd67-ec5cf725a28e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_cdHaar_nonempty_b976ab7f12fd
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_cdHaar_nonempty_b976ab7f12fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:17:05.255483+00:00
 -- url     : https://prove2.me/theorems/2b785663-d282-4f70-bdb6-dbdcda51de01

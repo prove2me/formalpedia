@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_Supplement_theorem_2
 -- name    : HetExponomial.ChoiceProb.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:37:21.715282+00:00
 -- url     : https://prove2.me/theorems/70d5757a-b238-4a85-832a-4439ae76c90b

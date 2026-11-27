@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twistedTrace_equivariant_and_injective_of_groupDet
 -- name    : GlobalTheory.twistedTrace_equivariant_and_injective_of_groupDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:22.848123+00:00
 -- url     : https://prove2.me/theorems/99cda7b4-c353-5048-918c-7a97f980f9ba

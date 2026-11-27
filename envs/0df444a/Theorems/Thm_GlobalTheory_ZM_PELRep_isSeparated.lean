@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_PELRep_isSeparated
 -- name    : GlobalTheory.ZM.PELRep.isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:52.265469+00:00
 -- url     : https://prove2.me/theorems/9f27fd91-3d2c-46f1-adf6-3c69b49e2967

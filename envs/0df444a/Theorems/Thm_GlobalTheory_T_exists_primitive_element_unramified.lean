@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_primitive_element_unramified
 -- name    : GlobalTheory.T.exists_primitive_element_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:40.341874+00:00
 -- url     : https://prove2.me/theorems/51b07258-a094-4577-8f1c-ad165cab2715

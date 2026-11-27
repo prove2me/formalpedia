@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isHermitian_of_mem_realScalars
 -- name    : GlobalTheory.Tw.PFlag.isHermitian_of_mem_realScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:28.944894+00:00
 -- url     : https://prove2.me/theorems/2ff33ae8-d8dd-4b2a-aeca-fd5931094790

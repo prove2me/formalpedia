@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FibreMahlerForms_proof_9e159ce6a6b5
 -- name    : P2M_GroundTheory_Heights__Heights_FibreMahlerForms_proof_9e159ce6a6b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:11:15.812918+00:00
 -- url     : https://prove2.me/theorems/b1cb1b50-a7fa-53fe-8ae2-6bb165e65644

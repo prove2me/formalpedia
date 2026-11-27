@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ideleMeasure_preimage_prod
 -- name    : GroundTheory.Global.ideleMeasure_preimage_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:52.107454+00:00
 -- url     : https://prove2.me/theorems/5f252a07-8e9d-588c-9ff3-367dc46a89f7

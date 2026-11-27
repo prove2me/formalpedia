@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_Vac_dual_family
 -- name    : PositivityTheory.ThK.Vac.dual_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:22.945052+00:00
 -- url     : https://prove2.me/theorems/50980b5f-2b5d-46be-b0ac-d40d5616e7ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_sub_left
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:36.646617+00:00
 -- url     : https://prove2.me/theorems/8d177810-4564-50a2-8af0-e9ac67fa7ebe

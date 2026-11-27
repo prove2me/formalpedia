@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_maximalIdeal_pow_le
 -- name    : GlobalTheory.map_maximalIdeal_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:06.851463+00:00
 -- url     : https://prove2.me/theorems/6e000f79-0437-5c39-8420-ecfa86741c61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_exists_proj
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:44.052601+00:00
 -- url     : https://prove2.me/theorems/5c22de6a-ffe9-4fda-9c50-0ad151a00a1b

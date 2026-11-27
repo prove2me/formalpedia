@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_dualLift_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.dualLift_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:12:19.064714+00:00
 -- url     : https://prove2.me/theorems/fd45c38e-f4e3-4e3d-9640-ee1b942dd938

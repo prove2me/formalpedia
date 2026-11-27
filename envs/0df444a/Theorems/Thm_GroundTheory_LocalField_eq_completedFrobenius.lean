@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_completedFrobenius
 -- name    : GroundTheory.LocalField.eq_completedFrobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:04:24.057022+00:00
 -- url     : https://prove2.me/theorems/724b9662-cffa-471c-af26-0c2e01a9ba4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_action_cons_tuple_measurable
 -- name    : GlobalTheory.T.unitary_action_cons_tuple_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:44.254716+00:00
 -- url     : https://prove2.me/theorems/768c6f94-696d-4f51-881b-8eeda74f0085

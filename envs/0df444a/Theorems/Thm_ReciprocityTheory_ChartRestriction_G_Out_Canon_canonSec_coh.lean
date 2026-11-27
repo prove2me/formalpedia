@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_Canon_canonSec_coh
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.Canon.canonSec_coh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:21:05.038531+00:00
 -- url     : https://prove2.me/theorems/f8f0f1fc-d6a6-49b6-854a-693a68ca749b

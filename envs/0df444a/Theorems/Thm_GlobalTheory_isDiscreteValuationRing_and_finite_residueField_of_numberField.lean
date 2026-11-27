@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDiscreteValuationRing_and_finite_residueField_of_numberField
 -- name    : GlobalTheory.isDiscreteValuationRing_and_finite_residueField_of_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:06.057873+00:00
 -- url     : https://prove2.me/theorems/252cbd96-2ae9-5d4b-87ae-15428bf73c37

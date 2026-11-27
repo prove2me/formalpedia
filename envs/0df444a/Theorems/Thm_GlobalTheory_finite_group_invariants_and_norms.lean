@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_group_invariants_and_norms
 -- name    : GlobalTheory.finite_group_invariants_and_norms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:59.711465+00:00
 -- url     : https://prove2.me/theorems/d09004f3-8a13-4af2-b350-c6463413aac4

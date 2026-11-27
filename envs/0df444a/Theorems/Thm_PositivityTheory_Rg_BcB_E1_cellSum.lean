@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_cellSum
 -- name    : PositivityTheory.Rg.BcB.E1.cellSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:20.635816+00:00
 -- url     : https://prove2.me/theorems/6aae6396-8336-5c73-b820-d9f53ae7d997

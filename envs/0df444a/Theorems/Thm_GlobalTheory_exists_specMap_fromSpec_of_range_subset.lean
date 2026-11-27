@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_specMap_fromSpec_of_range_subset
 -- name    : GlobalTheory.exists_specMap_fromSpec_of_range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:56.363246+00:00
 -- url     : https://prove2.me/theorems/ab1a1298-c632-436b-9326-3a3e853ce639

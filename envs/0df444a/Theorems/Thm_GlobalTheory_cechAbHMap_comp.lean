@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAbHMap_comp
 -- name    : GlobalTheory.cechAbHMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:23.479748+00:00
 -- url     : https://prove2.me/theorems/16b5907e-4ea9-5fe9-aa34-6584c2821ab0

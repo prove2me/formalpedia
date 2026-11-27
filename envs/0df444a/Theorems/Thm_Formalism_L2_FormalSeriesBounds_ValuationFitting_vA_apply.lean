@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_vA_apply
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.vA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:31:27.696496+00:00
 -- url     : https://prove2.me/theorems/74a63f2d-d083-5621-bbd5-50e9fe48f124

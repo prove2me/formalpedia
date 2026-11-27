@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_UBC_pc_pr
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.UBC.pc_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:10.687634+00:00
 -- url     : https://prove2.me/theorems/f37e1cb3-6bfe-52fb-9438-197f7a38a324

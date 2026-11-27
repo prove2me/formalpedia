@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_projective_representation_pullback_coordinates
 -- name    : GlobalTheory.T.projective_representation_pullback_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:51.709911+00:00
 -- url     : https://prove2.me/theorems/214eceb7-300b-5055-8337-5286576e7359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_bound_K
 -- name    : PI.WAU.Cpt.bound_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:47.12601+00:00
 -- url     : https://prove2.me/theorems/7b5ccc8d-ad44-5052-8201-52b4c873823a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_regularizedMax_c2_example_real_line_412956b291f8
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_regularizedMax_c2_example_real_line_412956b291f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:09.10133+00:00
 -- url     : https://prove2.me/theorems/45a96789-dfc7-4eb9-8023-9e3b1334ecfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_exists_unit_zetaAct
 -- name    : GlobalTheory.WpFam.exists_unit_zetaAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:11.868264+00:00
 -- url     : https://prove2.me/theorems/6de4b3c8-d37d-45eb-9289-01d4e6585ea2

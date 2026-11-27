@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_twisted_groupLike__6010d5d2bf6f
 -- name    : P2M_GlobalTheory_T_exists_twisted_groupLike__6010d5d2bf6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:54.395305+00:00
 -- url     : https://prove2.me/theorems/e881fcbe-db46-4a3d-aa9b-092f1d1f7720

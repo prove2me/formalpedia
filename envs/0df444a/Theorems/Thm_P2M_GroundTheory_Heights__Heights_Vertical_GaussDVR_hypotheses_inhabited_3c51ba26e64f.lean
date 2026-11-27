@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GaussDVR_hypotheses_inhabited_3c51ba26e64f
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GaussDVR_hypotheses_inhabited_3c51ba26e64f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:24.848444+00:00
 -- url     : https://prove2.me/theorems/1efed7ae-108d-4f2e-b680-2401cbf8ffa3

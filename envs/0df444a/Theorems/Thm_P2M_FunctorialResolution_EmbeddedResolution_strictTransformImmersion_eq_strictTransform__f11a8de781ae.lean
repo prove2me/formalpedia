@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_strictTransformImmersion_eq_strictTransform__f11a8de781ae
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_strictTransformImmersion_eq_strictTransform__f11a8de781ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:15.066415+00:00
 -- url     : https://prove2.me/theorems/c87930e6-f4a2-4718-9673-fd2ad5b9023b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimePairMeetImage_proof_85a2aac206e4
 -- name    : P2M_GroundTheory_Heights__Heights_PrimePairMeetImage_proof_85a2aac206e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:09:37.824432+00:00
 -- url     : https://prove2.me/theorems/177b41c5-3ace-4297-a458-72b929d9a8dd

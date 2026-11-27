@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormFormDvd_proof_c6a939978026
 -- name    : P2M_GroundTheory_Heights__Heights_NormFormDvd_proof_c6a939978026
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:42.643611+00:00
 -- url     : https://prove2.me/theorems/ecc9d007-71a4-43db-8d66-b6b1bddaff2e

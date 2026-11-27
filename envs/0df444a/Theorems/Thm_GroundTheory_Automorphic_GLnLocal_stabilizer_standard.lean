@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_stabilizer_standard
 -- name    : GroundTheory.Automorphic.GLnLocal.stabilizer_standard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:43.626774+00:00
 -- url     : https://prove2.me/theorems/aee5caaa-4773-58f0-9389-86358e5ed9d5

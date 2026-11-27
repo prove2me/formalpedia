@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartResidueDegree_proof_ed6ab4371d6d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartResidueDegree_proof_ed6ab4371d6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:08:34.579912+00:00
 -- url     : https://prove2.me/theorems/b3a966f3-f51e-5b4d-be6e-403158eae969

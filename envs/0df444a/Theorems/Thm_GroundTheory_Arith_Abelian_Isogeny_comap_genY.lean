@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Isogeny_comap_genY
 -- name    : GroundTheory.Arith.Abelian.Isogeny.comap_genY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:54.992927+00:00
 -- url     : https://prove2.me/theorems/540612ca-59bb-46b2-a1b3-63ca045c832d

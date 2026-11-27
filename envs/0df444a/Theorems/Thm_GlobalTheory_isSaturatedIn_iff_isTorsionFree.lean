@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedIn_iff_isTorsionFree
 -- name    : GlobalTheory.isSaturatedIn_iff_isTorsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:38.583086+00:00
 -- url     : https://prove2.me/theorems/8b35a731-d505-5441-9d91-49068bbe1ab1

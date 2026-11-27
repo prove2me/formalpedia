@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_sub_mul_mem_sq
 -- name    : GlobalTheory.flat_of_sub_mul_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:59.527982+00:00
 -- url     : https://prove2.me/theorems/2c690e20-f222-48be-8a2a-fb9686e755b1

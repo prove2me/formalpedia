@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_exists_lattice_EFf
 -- name    : GlobalTheory.datum_exists_lattice_EFf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:37:50.65361+00:00
 -- url     : https://prove2.me/theorems/e3bd4211-f632-469e-bed4-e391cf59529e

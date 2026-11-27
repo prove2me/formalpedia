@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_isOpen_range_finiteLocalNorm
 -- name    : GroundTheory.Global.IdeleNorm.isOpen_range_finiteLocalNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:43.34395+00:00
 -- url     : https://prove2.me/theorems/c7d79de3-2ec9-4ee8-8cc2-9091f3130c5a

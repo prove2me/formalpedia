@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_existsUnique_limit
 -- name    : GlobalTheory.SecLimit.existsUnique_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:29:39.232773+00:00
 -- url     : https://prove2.me/theorems/c4afd7e4-b2c6-50d3-9dc4-9446c4c5e572

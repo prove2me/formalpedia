@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineOfLargeDegreeFromZ_proofDual_37975d7ce3cb
 -- name    : P2M_GroundTheory_Heights__Heights_LineOfLargeDegreeFromZ_proofDual_37975d7ce3cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:33:11.803894+00:00
 -- url     : https://prove2.me/theorems/843e0845-74e6-5060-99d8-9f03d2e12176

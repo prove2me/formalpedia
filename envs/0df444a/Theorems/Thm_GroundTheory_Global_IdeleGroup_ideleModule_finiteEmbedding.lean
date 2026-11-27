@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_ideleModule_finiteEmbedding
 -- name    : GroundTheory.Global.IdeleGroup.ideleModule_finiteEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:08.375905+00:00
 -- url     : https://prove2.me/theorems/26eee013-f7d8-434e-881b-3d7fc3f90157

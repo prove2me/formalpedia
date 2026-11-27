@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_jetOf_coord
 -- name    : GlobalTheory.JetLinSub.jetOf_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:33:20.132609+00:00
 -- url     : https://prove2.me/theorems/89e8d275-00ca-46a3-be65-4df4ecac3b67

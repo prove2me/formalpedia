@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_Up_hasLen_ext__2bc8f944dc45
 -- name    : P2M_ReciprocityTheory_PGsh_Up_hasLen_ext__2bc8f944dc45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:37.319917+00:00
 -- url     : https://prove2.me/theorems/fdbc63fe-3490-5a56-bd8c-c67012389974

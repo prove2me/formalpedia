@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ReducedBasisBound_proof_863981f97e76
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ReducedBasisBound_proof_863981f97e76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:29.679827+00:00
 -- url     : https://prove2.me/theorems/edd932e7-9c0e-4710-bddd-eadef58454af

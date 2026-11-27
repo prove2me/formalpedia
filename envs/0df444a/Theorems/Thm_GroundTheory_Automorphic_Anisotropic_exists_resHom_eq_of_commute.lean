@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_exists_resHom_eq_of_commute
 -- name    : GroundTheory.Automorphic.Anisotropic.exists_resHom_eq_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:21.467324+00:00
 -- url     : https://prove2.me/theorems/5b3f4fe6-9593-5a40-88fc-0c45fe35e79d

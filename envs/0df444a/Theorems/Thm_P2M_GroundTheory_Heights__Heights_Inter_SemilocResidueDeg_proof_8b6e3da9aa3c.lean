@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueDeg_proof_8b6e3da9aa3c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueDeg_proof_8b6e3da9aa3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:29:49.765502+00:00
 -- url     : https://prove2.me/theorems/00f65f9a-67d7-487d-ad72-62c175fc0b84

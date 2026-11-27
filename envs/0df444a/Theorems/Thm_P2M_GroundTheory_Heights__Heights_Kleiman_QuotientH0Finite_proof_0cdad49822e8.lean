@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Finite_proof_0cdad49822e8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotientH0Finite_proof_0cdad49822e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:31:57.140562+00:00
 -- url     : https://prove2.me/theorems/96a3d6f8-faf9-4cb5-9d26-14eab0a0f8fe

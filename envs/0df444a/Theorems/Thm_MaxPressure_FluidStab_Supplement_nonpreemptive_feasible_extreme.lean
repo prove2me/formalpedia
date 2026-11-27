@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_Supplement_nonpreemptive_feasible_extreme
 -- name    : MaxPressure.FluidStab.Supplement.nonpreemptive_feasible_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T08:17:34.801042+00:00
 -- url     : https://prove2.me/theorems/f6738cef-f180-4e14-84c0-f6d4481c2cb1

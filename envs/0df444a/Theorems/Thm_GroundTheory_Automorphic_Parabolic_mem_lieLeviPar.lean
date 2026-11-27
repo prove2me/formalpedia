@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_lieLeviPar
 -- name    : GroundTheory.Automorphic.Parabolic.mem_lieLeviPar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:55:16.654331+00:00
 -- url     : https://prove2.me/theorems/994f7f24-f585-4587-8bb0-7bc7edfe2b8e

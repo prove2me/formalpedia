@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComponentsMeetNull_proof_3fab74a7aa4e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComponentsMeetNull_proof_3fab74a7aa4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:10:58.048181+00:00
 -- url     : https://prove2.me/theorems/9181bb4b-773c-54b2-b2b3-caa365a7e60c

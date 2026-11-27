@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassArithVar_proof_8ad13730cde1
 -- name    : P2M_GroundTheory_Heights__Heights_GrassArithVar_proof_8ad13730cde1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:00.909543+00:00
 -- url     : https://prove2.me/theorems/6b7da7bf-ef93-4427-8d5c-60fbd94f8f2c

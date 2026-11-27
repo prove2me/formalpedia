@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_skewGram_herm_iff
 -- name    : GlobalTheory.skewGram_herm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:02.791033+00:00
 -- url     : https://prove2.me/theorems/e5f36498-052b-5ee2-80b9-1a858fe21fa9

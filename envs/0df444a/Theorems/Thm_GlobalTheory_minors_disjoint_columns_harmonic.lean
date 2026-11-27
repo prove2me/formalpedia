@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minors_disjoint_columns_harmonic
 -- name    : GlobalTheory.minors_disjoint_columns_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:31.820083+00:00
 -- url     : https://prove2.me/theorems/a9e2ddfb-2229-48b2-91dd-fd4df2a5cf9b

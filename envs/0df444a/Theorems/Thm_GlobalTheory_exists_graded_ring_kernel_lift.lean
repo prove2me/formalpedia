@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_graded_ring_kernel_lift
 -- name    : GlobalTheory.exists_graded_ring_kernel_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:56.753087+00:00
 -- url     : https://prove2.me/theorems/2ab16cc7-bcae-5638-a770-76a9db91232f

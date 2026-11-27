@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_b_ge
 -- name    : Formalism.L2.Indef.Tree.example_b_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T17:24:21.658378+00:00
 -- url     : https://prove2.me/theorems/e237d72b-e7ed-5b4c-846f-6a940ece86a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ker_fixedProj
 -- name    : GroundTheory.Automorphic.ker_fixedProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:43.431461+00:00
 -- url     : https://prove2.me/theorems/168d6361-e0f4-4022-b149-7887c366363f

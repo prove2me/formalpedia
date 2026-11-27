@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_char_eq_of_retract
 -- name    : PositivityTheory.ThKR.Sieg.char_eq_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:30.974323+00:00
 -- url     : https://prove2.me/theorems/0428bf17-3d44-4323-8709-7700806294ce

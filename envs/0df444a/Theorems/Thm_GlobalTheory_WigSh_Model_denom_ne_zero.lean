@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_denom_ne_zero
 -- name    : GlobalTheory.WigSh.Model.denom_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:23.425899+00:00
 -- url     : https://prove2.me/theorems/5cd1bb24-9a5e-576b-bb23-baadc4874dad

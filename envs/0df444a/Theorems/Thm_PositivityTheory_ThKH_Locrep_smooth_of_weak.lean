@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_smooth_of_weak
 -- name    : PositivityTheory.ThKH.Locrep.smooth_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:24.183645+00:00
 -- url     : https://prove2.me/theorems/99cb72f3-7034-479b-9d8f-7c2aef66aebb

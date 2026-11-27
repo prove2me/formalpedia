@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diffVanish_succ_iff
 -- name    : GlobalTheory.diffVanish_succ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:54.053823+00:00
 -- url     : https://prove2.me/theorems/b86c8f39-26dc-4e9b-8c14-37f87c458087

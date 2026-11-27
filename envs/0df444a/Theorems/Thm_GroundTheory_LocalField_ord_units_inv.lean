@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_units_inv
 -- name    : GroundTheory.LocalField.ord_units_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:04.160467+00:00
 -- url     : https://prove2.me/theorems/4346553d-7f64-5232-a8c5-baf41e0a09d2

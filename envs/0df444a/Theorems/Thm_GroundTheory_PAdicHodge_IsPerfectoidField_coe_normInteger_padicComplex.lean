@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_coe_normInteger_padicComplex
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.coe_normInteger_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:08.12164+00:00
 -- url     : https://prove2.me/theorems/34ec7a19-e5b8-4313-93ae-fcb1f9210212

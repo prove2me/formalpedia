@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_whole_isOfDegree_one_fa25d0b28445
 -- name    : P2M_GroundTheory_Heights__Heights_whole_isOfDegree_one_fa25d0b28445
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:47:59.506145+00:00
 -- url     : https://prove2.me/theorems/c20d0572-205c-5216-846a-f4fe57e69bf2

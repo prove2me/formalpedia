@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRho_exists_isometry
 -- name    : GlobalTheory.ThetaRho.exists_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:32:23.301882+00:00
 -- url     : https://prove2.me/theorems/52fc8a9b-5f46-4544-acfa-0712cdb1d83e

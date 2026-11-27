@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_WD_exists_ofMatrix
 -- name    : GlobalTheory.WeilDeligne.WD.exists_ofMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:51:33.952167+00:00
 -- url     : https://prove2.me/theorems/12e908d9-513a-5b76-b05f-093dcb75f02c

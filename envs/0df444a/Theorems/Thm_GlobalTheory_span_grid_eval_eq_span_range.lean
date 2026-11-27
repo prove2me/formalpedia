@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_grid_eval_eq_span_range
 -- name    : GlobalTheory.span_grid_eval_eq_span_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:07.097672+00:00
 -- url     : https://prove2.me/theorems/e7751722-a482-44ad-9b91-58a988723f3e

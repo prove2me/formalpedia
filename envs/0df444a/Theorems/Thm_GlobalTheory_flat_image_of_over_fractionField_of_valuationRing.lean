@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_image_of_over_fractionField_of_valuationRing
 -- name    : GlobalTheory.flat_image_of_over_fractionField_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:51.134584+00:00
 -- url     : https://prove2.me/theorems/4bd62c80-ab00-47e6-bd36-24b91e08d5a5

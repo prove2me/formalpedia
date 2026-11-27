@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_reg_diag
 -- name    : GlobalTheory.Tw.Model.reg_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:01.324294+00:00
 -- url     : https://prove2.me/theorems/f243f8c1-2fac-4395-a921-deed9f70b663

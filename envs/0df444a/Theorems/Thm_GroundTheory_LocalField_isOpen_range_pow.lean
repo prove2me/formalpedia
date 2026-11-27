@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isOpen_range_pow
 -- name    : GroundTheory.LocalField.isOpen_range_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:03.948673+00:00
 -- url     : https://prove2.me/theorems/d1a79b4f-04ae-4683-86d4-191617dffc31

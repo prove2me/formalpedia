@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_exists_isE8_isSharpBasis
 -- name    : GlobalTheory.ZM.exists_isE8_isSharpBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:06.938228+00:00
 -- url     : https://prove2.me/theorems/a00693fd-1d18-5eb3-917c-db232d13cc0a

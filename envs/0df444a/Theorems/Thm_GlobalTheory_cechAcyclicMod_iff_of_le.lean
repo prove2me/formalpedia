@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAcyclicMod_iff_of_le
 -- name    : GlobalTheory.cechAcyclicMod_iff_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:45.792191+00:00
 -- url     : https://prove2.me/theorems/e32f1c7a-e06d-5a89-bef7-483356f41e4b

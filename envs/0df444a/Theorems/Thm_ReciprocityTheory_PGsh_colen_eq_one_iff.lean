@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_colen_eq_one_iff
 -- name    : ReciprocityTheory.PGsh.colen_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:10.780387+00:00
 -- url     : https://prove2.me/theorems/1ea3f8ac-3ef5-5df5-99ef-1fc850e10ecd

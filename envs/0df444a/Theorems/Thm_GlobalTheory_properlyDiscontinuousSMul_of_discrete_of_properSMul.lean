@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_properlyDiscontinuousSMul_of_discrete_of_properSMul
 -- name    : GlobalTheory.properlyDiscontinuousSMul_of_discrete_of_properSMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:50:05.474017+00:00
 -- url     : https://prove2.me/theorems/f2301379-e2ea-552f-b667-f6196814090a

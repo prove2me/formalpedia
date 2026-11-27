@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_factorization_condN_le
 -- name    : UpperTheory.Small.factorization_condN_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:13:12.209067+00:00
 -- url     : https://prove2.me/theorems/ea54ad50-5451-4bb2-9d89-6f4b2f8e4287

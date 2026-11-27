@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padic_ringHom_ext_of_continuous
 -- name    : GlobalTheory.padic_ringHom_ext_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:16.946023+00:00
 -- url     : https://prove2.me/theorems/e64a0bc3-501a-548d-85c8-bb99a2daa34b

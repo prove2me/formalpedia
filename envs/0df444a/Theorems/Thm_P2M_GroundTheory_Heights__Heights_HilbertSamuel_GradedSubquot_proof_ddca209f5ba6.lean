@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_proof_ddca209f5ba6
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_proof_ddca209f5ba6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:13:34.202581+00:00
 -- url     : https://prove2.me/theorems/49fd59f0-150c-5890-82d0-a97f6b7f1497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_productMap_convMul_of_isGroupLikeElem
 -- name    : GlobalTheory.productMap_convMul_of_isGroupLikeElem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:50:04.659776+00:00
 -- url     : https://prove2.me/theorems/1e84dbc2-7af2-44a1-be45-f47593728cb3

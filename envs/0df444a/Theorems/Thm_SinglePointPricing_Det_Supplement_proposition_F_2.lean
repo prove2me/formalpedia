@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinglePointPricing_Det_Supplement_proposition_F_2
 -- name    : SinglePointPricing.Det.Supplement.proposition_F_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:33:21.696669+00:00
 -- url     : https://prove2.me/theorems/74e0088b-c0ef-4e48-abc1-163124a9a1f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FsConjInvariant_proof_1d2963b1f1fb
 -- name    : P2M_GroundTheory_Heights__Heights_FsConjInvariant_proof_1d2963b1f1fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:00.864535+00:00
 -- url     : https://prove2.me/theorems/269d3805-a246-4464-9327-7be5fe8bf221

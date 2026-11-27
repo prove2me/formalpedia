@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_not_tempered_diag_spEig
 -- name    : GlobalTheory.WeilDeligne.not_tempered_diag_spEig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:02:31.33627+00:00
 -- url     : https://prove2.me/theorems/802148f0-b6eb-4f69-8109-01210ee121de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coset_representatives_of_finite_subgroup_padicInt_units
 -- name    : GlobalTheory.exists_coset_representatives_of_finite_subgroup_padicInt_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:58.0862+00:00
 -- url     : https://prove2.me/theorems/f473497b-1758-4903-a7aa-f6065672e050

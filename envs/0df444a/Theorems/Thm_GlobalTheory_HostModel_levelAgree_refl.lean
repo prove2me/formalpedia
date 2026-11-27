@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_levelAgree_refl
 -- name    : GlobalTheory.HostModel.levelAgree_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:18:55.436128+00:00
 -- url     : https://prove2.me/theorems/12a26eac-cb7e-409b-b241-bc9eb6a15395

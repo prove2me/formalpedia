@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_inv_smul_smul_frac
 -- name    : ReciprocityTheory.ChartRestriction.T2.inv_smul_smul_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:45.463138+00:00
 -- url     : https://prove2.me/theorems/e06cf62a-5227-41f7-ba31-82ea6d58ccf3

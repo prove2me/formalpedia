@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealEmbeddingCharacters_resChar_linInd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealEmbeddingCharacters.resChar_linInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:33.541927+00:00
 -- url     : https://prove2.me/theorems/87dcd6c0-d3a1-4832-beb6-40bf47e38c18

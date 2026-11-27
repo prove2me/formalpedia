@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_supR_one_le
 -- name    : GlobalTheory.SupLawProbe.supR_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:51.23248+00:00
 -- url     : https://prove2.me/theorems/a19f16fa-58e8-41a8-8c7f-f45e6fdcebb6

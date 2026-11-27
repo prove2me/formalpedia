@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightSubst_weight_subst_nonneg
 -- name    : GlobalTheory.WeightSubst.weight_subst_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:20.35256+00:00
 -- url     : https://prove2.me/theorems/4a0cdb47-6951-4953-9337-5d286d075188

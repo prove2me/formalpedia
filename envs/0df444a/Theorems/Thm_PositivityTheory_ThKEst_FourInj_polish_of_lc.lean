@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_FourInj_polish_of_lc
 -- name    : PositivityTheory.ThKEst.FourInj.polish_of_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:50.46493+00:00
 -- url     : https://prove2.me/theorems/f49040e9-6232-4377-afb8-58c095ac6069

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_split_quadratic_order_principal
 -- name    : GlobalTheory.T.split_quadratic_order_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:44.997465+00:00
 -- url     : https://prove2.me/theorems/adb3cd56-2a54-5ec9-ab9a-52bc1868e104

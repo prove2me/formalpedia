@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_isSS_coeff_fun
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.isSS_coeff_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:07.146991+00:00
 -- url     : https://prove2.me/theorems/9158c429-2b7a-5cb0-9d88-38c956dc7805

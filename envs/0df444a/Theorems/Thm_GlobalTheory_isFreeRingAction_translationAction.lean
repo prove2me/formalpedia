@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFreeRingAction_translationAction
 -- name    : GlobalTheory.isFreeRingAction_translationAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:09.167504+00:00
 -- url     : https://prove2.me/theorems/86dbf12f-584f-511b-afa4-4b866a04251d

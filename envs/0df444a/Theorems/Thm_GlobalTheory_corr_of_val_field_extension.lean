@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_corr_of_val_field_extension
 -- name    : GlobalTheory.corr_of_val_field_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:36.54255+00:00
 -- url     : https://prove2.me/theorems/904d922c-9d3b-421e-9405-10cf4fd6734f

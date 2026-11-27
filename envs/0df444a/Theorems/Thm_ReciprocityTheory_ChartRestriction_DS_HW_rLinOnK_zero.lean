@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_rLinOnK_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.rLinOnK_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:42.900476+00:00
 -- url     : https://prove2.me/theorems/279fc3b3-f114-49ab-a366-674864fcaf2c

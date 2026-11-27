@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KAway_det_idem_sum
 -- name    : PositivityTheory.SiegelWeilFormula.KAway.det_idem_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:57:12.504509+00:00
 -- url     : https://prove2.me/theorems/85438a6f-1c58-4017-a8f4-c9e615bd3f4b

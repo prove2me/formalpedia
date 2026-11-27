@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_ofFn_X
 -- name    : GlobalTheory.isWeaklyRegular_ofFn_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:21.26307+00:00
 -- url     : https://prove2.me/theorems/adac2fa6-6a6d-49d1-ac46-8ca4155230a7

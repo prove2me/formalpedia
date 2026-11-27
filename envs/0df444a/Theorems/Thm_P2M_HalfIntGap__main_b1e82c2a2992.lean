@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_HalfIntGap__main_b1e82c2a2992
 -- name    : P2M_HalfIntGap__main_b1e82c2a2992
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:51.282385+00:00
 -- url     : https://prove2.me/theorems/4a39bddb-1a2e-595d-8085-7a22c4cbae7c

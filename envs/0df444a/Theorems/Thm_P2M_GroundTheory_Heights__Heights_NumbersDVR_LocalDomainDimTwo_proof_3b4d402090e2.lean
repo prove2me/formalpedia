@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalDomainDimTwo_proof_3b4d402090e2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalDomainDimTwo_proof_3b4d402090e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:48.142719+00:00
 -- url     : https://prove2.me/theorems/96676fd7-2d84-476f-9804-325bba0ddbf9

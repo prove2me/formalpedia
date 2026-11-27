@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_rankOne
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:19.986203+00:00
 -- url     : https://prove2.me/theorems/732f6aca-e9fc-4fc1-ad49-e2bdad23725d

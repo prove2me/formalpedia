@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_tau_val
 -- name    : GlobalTheory.ArcTransport.tau_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:30:32.524591+00:00
 -- url     : https://prove2.me/theorems/555ec022-0f0a-4302-a5b4-11e9cf51db37

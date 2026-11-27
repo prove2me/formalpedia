@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_teichmullerSeries_injective
 -- name    : GroundTheory.PAdicHodge.WittVector.teichmullerSeries_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:19.370107+00:00
 -- url     : https://prove2.me/theorems/6c592697-173d-5725-b60d-76c63cda756d

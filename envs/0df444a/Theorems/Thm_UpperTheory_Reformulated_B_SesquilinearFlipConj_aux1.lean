@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_SesquilinearFlipConj_aux1
 -- name    : UpperTheory.Reformulated.B.SesquilinearFlipConj.aux1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:44.558159+00:00
 -- url     : https://prove2.me/theorems/60c8a67e-21a5-46f4-8801-9065b07ae6e9

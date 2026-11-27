@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_map_zero_injective_of_mono
 -- name    : GlobalTheory.cohOn.map_zero_injective_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:59.440845+00:00
 -- url     : https://prove2.me/theorems/0e5c34d8-3166-4167-9d19-b8b625de33d3

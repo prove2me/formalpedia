@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenFibreModelTransport_proof_21617234edc4
 -- name    : P2M_GroundTheory_Heights__Heights_GenFibreModelTransport_proof_21617234edc4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:31.136799+00:00
 -- url     : https://prove2.me/theorems/ce0144dd-3a36-5e57-a8dd-e9d8842f58dc

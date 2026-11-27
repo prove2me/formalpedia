@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_range_valuation_comp_norm
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.range_valuation_comp_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:42.239319+00:00
 -- url     : https://prove2.me/theorems/6f84e0f2-6e8c-5876-96ca-a8ebd856ccf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_prod_ne_zero_of_pos
 -- name    : GroundTheory.Automorphic.GL2Classical.prod_ne_zero_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:35.95203+00:00
 -- url     : https://prove2.me/theorems/25d3f865-edf4-5519-92a2-759bb8aad4cf

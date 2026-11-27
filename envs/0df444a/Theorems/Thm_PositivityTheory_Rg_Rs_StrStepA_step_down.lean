@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_StrStepA_step_down
 -- name    : PositivityTheory.Rg.Rs.StrStepA.step_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:03.645222+00:00
 -- url     : https://prove2.me/theorems/dfc7a053-03b1-5354-ae65-c2c533e0b97d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_zero_of_finite
 -- name    : GroundTheory.Global.hasDirichletDensity_zero_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:56:00.274112+00:00
 -- url     : https://prove2.me/theorems/a0446195-6d45-4414-93e8-97ec42d4847f

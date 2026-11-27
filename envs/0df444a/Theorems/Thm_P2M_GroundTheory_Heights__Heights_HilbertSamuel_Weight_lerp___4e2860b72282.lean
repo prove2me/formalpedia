@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_Weight_lerp___4e2860b72282
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_Weight_lerp___4e2860b72282
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:51.393707+00:00
 -- url     : https://prove2.me/theorems/0ee18716-94b6-4db1-a8ec-44805a9d76d4

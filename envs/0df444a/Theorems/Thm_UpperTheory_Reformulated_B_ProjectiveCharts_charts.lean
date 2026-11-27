@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ProjectiveCharts_charts
 -- name    : UpperTheory.Reformulated.B.ProjectiveCharts.charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:46.277979+00:00
 -- url     : https://prove2.me/theorems/5f9e5871-86c9-45e8-9404-45febce55a25

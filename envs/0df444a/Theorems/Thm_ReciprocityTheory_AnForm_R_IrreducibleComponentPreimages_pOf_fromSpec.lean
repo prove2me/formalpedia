@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_pOf_fromSpec
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.pOf_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:31.93217+00:00
 -- url     : https://prove2.me/theorems/c08ba55d-ed17-5a5e-9638-468c3b68b706

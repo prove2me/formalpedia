@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DedekindFibreRank_proof_a236dd3c4119
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DedekindFibreRank_proof_a236dd3c4119
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:26:18.029941+00:00
 -- url     : https://prove2.me/theorems/089f2835-61b6-5985-b397-765431685152

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weight_le_add_of_torsion_pairing
 -- name    : GlobalTheory.T.weight_le_add_of_torsion_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:29.077539+00:00
 -- url     : https://prove2.me/theorems/069405e7-59fe-5498-ab6e-cef1f15ca87f

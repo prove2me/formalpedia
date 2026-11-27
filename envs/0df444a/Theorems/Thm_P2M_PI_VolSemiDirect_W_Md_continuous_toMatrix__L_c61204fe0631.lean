@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolSemiDirect_W_Md_continuous_toMatrix__L_c61204fe0631
 -- name    : P2M_PI_VolSemiDirect_W_Md_continuous_toMatrix__L_c61204fe0631
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:44:42.886257+00:00
 -- url     : https://prove2.me/theorems/a1b69a8a-bafc-46d5-b345-d4b62e459953

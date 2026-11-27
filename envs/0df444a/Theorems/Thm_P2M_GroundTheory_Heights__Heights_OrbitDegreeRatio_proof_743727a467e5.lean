@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitDegreeRatio_proof_743727a467e5
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitDegreeRatio_proof_743727a467e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:45:14.422265+00:00
 -- url     : https://prove2.me/theorems/b7147366-2f81-563b-8e59-00fcb32c9475

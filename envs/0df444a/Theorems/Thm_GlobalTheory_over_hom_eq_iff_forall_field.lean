@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_over_hom_eq_iff_forall_field
 -- name    : GlobalTheory.over_hom_eq_iff_forall_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:26.375783+00:00
 -- url     : https://prove2.me/theorems/f92a4eb8-b063-44e2-8f50-62512876fd6a

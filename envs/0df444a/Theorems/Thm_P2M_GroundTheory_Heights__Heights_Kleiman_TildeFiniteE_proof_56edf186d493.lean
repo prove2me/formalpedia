@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TildeFiniteE_proof_56edf186d493
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TildeFiniteE_proof_56edf186d493
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:30:01.625519+00:00
 -- url     : https://prove2.me/theorems/43d32f52-b951-53db-b509-3d2c368288c8

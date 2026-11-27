@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeOrient_RecGreedy_Supplement_lemma_4_2
 -- name    : TreeOrient.RecGreedy.Supplement.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:55:04.338819+00:00
 -- url     : https://prove2.me/theorems/152717a8-95e1-4a39-9280-a798897b31f3

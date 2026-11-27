@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_TheoremTLower_proof_40036f6145c3
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_TheoremTLower_proof_40036f6145c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:27.704509+00:00
 -- url     : https://prove2.me/theorems/b41b2c57-84ff-48bb-a2fc-03d4ecd7f152

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_integral_sphProb_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.integral_sphProb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:10:09.790567+00:00
 -- url     : https://prove2.me/theorems/aa5f38b2-8f01-40b9-9367-690cb9deaa3d

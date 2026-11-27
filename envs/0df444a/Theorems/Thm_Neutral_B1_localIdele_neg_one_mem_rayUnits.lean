@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_localIdele_neg_one_mem_rayUnits
 -- name    : Neutral.B1.localIdele_neg_one_mem_rayUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:34.004359+00:00
 -- url     : https://prove2.me/theorems/2baf0101-39df-576a-8a3d-e1abd93c7261

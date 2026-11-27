@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_continuous_hmat
 -- name    : PI.InvTopW.continuous_hmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:46:53.003504+00:00
 -- url     : https://prove2.me/theorems/7934afcc-7880-4aa6-aad9-f5525124359a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_lowSupp
 -- name    : PI.StabPairs.Conv.lowSupp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:12.189137+00:00
 -- url     : https://prove2.me/theorems/bc556ea2-f109-57da-8e26-c84c912cd6c3

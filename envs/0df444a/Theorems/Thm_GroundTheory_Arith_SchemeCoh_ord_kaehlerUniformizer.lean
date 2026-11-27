@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ord_kaehlerUniformizer
 -- name    : GroundTheory.Arith.SchemeCoh.ord_kaehlerUniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:57:10.318066+00:00
 -- url     : https://prove2.me/theorems/46cbbae5-2ded-5c8a-969d-29ee4cd5ff83

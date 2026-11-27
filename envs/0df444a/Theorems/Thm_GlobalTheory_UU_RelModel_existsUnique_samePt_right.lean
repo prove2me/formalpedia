@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_existsUnique_samePt_right
 -- name    : GlobalTheory.UU.RelModel.existsUnique_samePt_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:08:16.959881+00:00
 -- url     : https://prove2.me/theorems/98023f3e-0896-4131-8511-762a626f4261

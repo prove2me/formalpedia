@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_Nine_LowerBoundComponentConjugate_proof_f10fcba1ad3a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_Nine_LowerBoundComponentConjugate_proof_f10fcba1ad3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:27:33.654084+00:00
 -- url     : https://prove2.me/theorems/23c45670-8923-4e2a-854e-b84528840c78

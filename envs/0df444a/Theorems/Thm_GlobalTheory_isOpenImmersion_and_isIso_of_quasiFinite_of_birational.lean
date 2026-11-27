@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpenImmersion_and_isIso_of_quasiFinite_of_birational
 -- name    : GlobalTheory.isOpenImmersion_and_isIso_of_quasiFinite_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:19.592567+00:00
 -- url     : https://prove2.me/theorems/b044ef47-0876-5678-bd94-dadef7e85b78

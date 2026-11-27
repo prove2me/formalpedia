@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sncAt_of_stalkId_eq_span_prod_of_isRegularLocalRing
 -- name    : GlobalTheory.T.sncAt_of_stalkId_eq_span_prod_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:27.244526+00:00
 -- url     : https://prove2.me/theorems/c4f2ad71-da77-5626-a03c-a2e09b99c67f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsGeneric_proof_15f6beed94f1
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsGeneric_proof_15f6beed94f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:16.574717+00:00
 -- url     : https://prove2.me/theorems/38d13e93-8cdc-538c-8a1b-0395d722a406

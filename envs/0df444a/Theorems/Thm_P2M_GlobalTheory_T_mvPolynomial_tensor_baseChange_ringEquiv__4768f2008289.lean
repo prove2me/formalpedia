@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mvPolynomial_tensor_baseChange_ringEquiv__4768f2008289
 -- name    : P2M_GlobalTheory_T_mvPolynomial_tensor_baseChange_ringEquiv__4768f2008289
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:32.397843+00:00
 -- url     : https://prove2.me/theorems/c74ae77c-6e13-58df-b243-87bdefb406fb

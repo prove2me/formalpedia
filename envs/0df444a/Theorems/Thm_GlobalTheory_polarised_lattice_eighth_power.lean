@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polarised_lattice_eighth_power
 -- name    : GlobalTheory.polarised_lattice_eighth_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:10.252174+00:00
 -- url     : https://prove2.me/theorems/aa29b1b6-d70b-4964-b9fa-6fa7ace79c98

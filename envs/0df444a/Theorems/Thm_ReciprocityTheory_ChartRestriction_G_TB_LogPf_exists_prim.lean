@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_exists_prim
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.exists_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:25:50.68645+00:00
 -- url     : https://prove2.me/theorems/996f780e-63cd-4d31-9fae-19f0e638c271

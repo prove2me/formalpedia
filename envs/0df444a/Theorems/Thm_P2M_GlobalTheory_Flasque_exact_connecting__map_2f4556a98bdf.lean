@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Flasque_exact_connecting__map_2f4556a98bdf
 -- name    : P2M_GlobalTheory_Flasque_exact_connecting__map_2f4556a98bdf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:43.411334+00:00
 -- url     : https://prove2.me/theorems/408a723d-9567-4f87-b8e3-587a199f5ca8

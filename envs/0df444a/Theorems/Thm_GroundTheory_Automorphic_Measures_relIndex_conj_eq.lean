@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_relIndex_conj_eq
 -- name    : GroundTheory.Automorphic.Measures.relIndex_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:28.726217+00:00
 -- url     : https://prove2.me/theorems/cc140045-3c49-58b2-846d-343ba58b7925

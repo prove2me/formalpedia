@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_under_eq_iff_exists_smul
 -- name    : GlobalTheory.under_eq_iff_exists_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:03.612423+00:00
 -- url     : https://prove2.me/theorems/865d6446-f452-5405-9012-cededc7e230c

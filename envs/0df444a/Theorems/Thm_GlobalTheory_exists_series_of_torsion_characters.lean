@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_series_of_torsion_characters
 -- name    : GlobalTheory.exists_series_of_torsion_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:48:34.801194+00:00
 -- url     : https://prove2.me/theorems/fe05cc3a-03b2-4c9a-b31f-eb8759d8be90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldAlongSubgroup_proof_8811d6ae2d7b
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldAlongSubgroup_proof_8811d6ae2d7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:13:23.2574+00:00
 -- url     : https://prove2.me/theorems/9e4a53d2-2d38-5cbd-b473-a7f79b3428ce

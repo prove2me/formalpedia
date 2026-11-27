@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Alg_act_of_mem
 -- name    : UpperTheory.V.Alg.act_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:43.849737+00:00
 -- url     : https://prove2.me/theorems/2ae9d281-08d1-48c4-a1da-4b90995a4de8

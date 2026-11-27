@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nonempty_adicCompletion_tensor_ringEquiv_of_surjective
 -- name    : GlobalTheory.T.nonempty_adicCompletion_tensor_ringEquiv_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:15.288926+00:00
 -- url     : https://prove2.me/theorems/220b5def-316b-52ca-ab59-d506b47c80bb

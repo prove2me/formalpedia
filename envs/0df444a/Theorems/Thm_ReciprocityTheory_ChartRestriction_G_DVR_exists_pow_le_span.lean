@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_exists_pow_le_span
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.exists_pow_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:18.3955+00:00
 -- url     : https://prove2.me/theorems/00dbc5f0-a83e-56bd-b359-9effac044f19

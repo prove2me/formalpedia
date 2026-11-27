@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPrime_map_C_sup_span_X
 -- name    : GlobalTheory.isPrime_map_C_sup_span_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:07.268795+00:00
 -- url     : https://prove2.me/theorems/4c7a1c2c-6485-556e-b659-941add174cc9

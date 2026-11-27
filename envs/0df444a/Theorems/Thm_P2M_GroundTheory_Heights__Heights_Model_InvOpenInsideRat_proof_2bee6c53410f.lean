@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_InvOpenInsideRat_proof_2bee6c53410f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_InvOpenInsideRat_proof_2bee6c53410f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:33:06.190292+00:00
 -- url     : https://prove2.me/theorems/7fabb7d6-479a-52d1-a4d2-fc032144e979

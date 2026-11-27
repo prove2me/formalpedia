@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_pairs_of_thetaOf
 -- name    : GlobalTheory.ThetaExh.Check.pairs_of_thetaOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:30.415814+00:00
 -- url     : https://prove2.me/theorems/bf467c44-4ae7-54a9-b149-37160ae38610

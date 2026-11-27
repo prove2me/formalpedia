@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valAtHom_apply
 -- name    : GlobalTheory.valAtHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:36.050798+00:00
 -- url     : https://prove2.me/theorems/fef69966-f598-4af7-946f-7ec1df61a8d3

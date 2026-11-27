@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_KerCut_appLE_appLE_apply
 -- name    : GlobalTheory.ZJ.KerCut.appLE_appLE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:14:30.663797+00:00
 -- url     : https://prove2.me/theorems/00d4cf57-137a-4059-b78d-64e8bef8688b

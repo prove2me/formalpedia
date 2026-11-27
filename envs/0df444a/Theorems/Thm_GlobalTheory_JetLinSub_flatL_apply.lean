@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_flatL_apply
 -- name    : GlobalTheory.JetLinSub.flatL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:33:50.347972+00:00
 -- url     : https://prove2.me/theorems/ea92c36b-8ae6-4f32-a42c-7d16339217dc

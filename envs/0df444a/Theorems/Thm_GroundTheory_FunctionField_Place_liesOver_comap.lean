@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_liesOver_comap
 -- name    : GroundTheory.FunctionField.Place.liesOver_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:20.82165+00:00
 -- url     : https://prove2.me/theorems/00d4b224-1dca-54da-a89c-73bccf7f6cad

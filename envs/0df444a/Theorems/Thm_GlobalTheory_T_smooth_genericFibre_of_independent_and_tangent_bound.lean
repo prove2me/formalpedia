@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_genericFibre_of_independent_and_tangent_bound
 -- name    : GlobalTheory.T.smooth_genericFibre_of_independent_and_tangent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:15:54.9747+00:00
 -- url     : https://prove2.me/theorems/1b11dea1-26ca-419d-834e-5f1fcb436a78

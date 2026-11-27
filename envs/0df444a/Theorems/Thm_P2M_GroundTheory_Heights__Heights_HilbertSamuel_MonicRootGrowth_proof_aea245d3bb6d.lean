@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MonicRootGrowth_proof_aea245d3bb6d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MonicRootGrowth_proof_aea245d3bb6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:13:57.14692+00:00
 -- url     : https://prove2.me/theorems/fba5c914-af62-42ab-aa3c-283d3a58e17d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_whole_isHomogGenerators_abdd91caeef4
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_whole_isHomogGenerators_abdd91caeef4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:06.043627+00:00
 -- url     : https://prove2.me/theorems/c53ae2dc-cc83-4d61-a470-dde368ceeca7

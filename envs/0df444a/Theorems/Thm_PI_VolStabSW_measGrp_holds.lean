@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_measGrp_holds
 -- name    : PI.VolStabSW.measGrp_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:12.957611+00:00
 -- url     : https://prove2.me/theorems/b1670e72-163c-4fa3-a72e-0ca8e185a1ae

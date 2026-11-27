@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_fdata
 -- name    : PositivityTheory.Rg.BcB.E2.P.fdata
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:03.900682+00:00
 -- url     : https://prove2.me/theorems/25ac8aa4-b632-5842-aa7e-0e2de97902b8

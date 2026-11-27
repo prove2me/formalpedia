@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_RLRS_IsRegularLocalRing_exists_isRegular_ofList_eq_maximalIdeal
 -- name    : PI.UnitaryGroupMassFormula.RLRS.IsRegularLocalRing.exists_isRegular_ofList_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:06.727698+00:00
 -- url     : https://prove2.me/theorems/79972785-4db5-4044-95a7-82362be77acf

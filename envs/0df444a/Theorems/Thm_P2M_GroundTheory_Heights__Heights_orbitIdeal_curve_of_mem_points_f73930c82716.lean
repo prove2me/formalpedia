@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_orbitIdeal_curve_of_mem_points_f73930c82716
 -- name    : P2M_GroundTheory_Heights__Heights_orbitIdeal_curve_of_mem_points_f73930c82716
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:12.148565+00:00
 -- url     : https://prove2.me/theorems/2300fffc-2623-5bae-a1d5-196420ea3cea

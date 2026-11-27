@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_cutoffGramBoundMixedBlock_two_lt_top
 -- name    : GlobalTheory.T.lintegral_cutoffGramBoundMixedBlock_two_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:38.222681+00:00
 -- url     : https://prove2.me/theorems/81e28168-d747-49a1-bb54-5ae33a1a3fc7

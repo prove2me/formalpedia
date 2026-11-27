@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_isIso_fst_of_extension
 -- name    : GlobalTheory.graphClosure.isIso_fst_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:51.593164+00:00
 -- url     : https://prove2.me/theorems/6ccad8a5-acda-431c-aa97-b3fe09993fed

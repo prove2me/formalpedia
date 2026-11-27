@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_vogDrop
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.vogDrop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:08:38.877207+00:00
 -- url     : https://prove2.me/theorems/8619c263-406c-4513-b05f-8dbae847c0aa

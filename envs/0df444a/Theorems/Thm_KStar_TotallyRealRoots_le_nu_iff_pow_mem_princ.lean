@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_le_nu_iff_pow_mem_princ
 -- name    : KStar.TotallyRealRoots.le_nu_iff_pow_mem_princ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:13.295797+00:00
 -- url     : https://prove2.me/theorems/fde27683-9b9f-452e-89b6-4044c23585b3

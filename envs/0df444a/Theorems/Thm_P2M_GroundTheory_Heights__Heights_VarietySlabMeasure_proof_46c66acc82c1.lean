@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_proof_46c66acc82c1
 -- name    : P2M_GroundTheory_Heights__Heights_VarietySlabMeasure_proof_46c66acc82c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:29.186433+00:00
 -- url     : https://prove2.me/theorems/a2f0b024-ce05-4453-898c-8f2bcdddad45

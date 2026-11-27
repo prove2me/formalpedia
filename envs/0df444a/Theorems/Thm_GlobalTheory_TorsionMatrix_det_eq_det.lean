@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionMatrix_det_eq_det
 -- name    : GlobalTheory.TorsionMatrix.det_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:10:31.73991+00:00
 -- url     : https://prove2.me/theorems/0c756e51-8bb1-550a-a08d-47e1fc0d2e15

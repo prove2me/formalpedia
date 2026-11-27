@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_four_squares
 -- name    : kernel_four_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:38.185631+00:00
 -- url     : https://prove2.me/theorems/d4673e87-8fd7-4d26-acaa-40e638d74815

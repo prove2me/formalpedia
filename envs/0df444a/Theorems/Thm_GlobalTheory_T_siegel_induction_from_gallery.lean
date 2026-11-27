@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegel_induction_from_gallery
 -- name    : GlobalTheory.T.siegel_induction_from_gallery
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:16.837804+00:00
 -- url     : https://prove2.me/theorems/0040b955-1561-5f56-9da6-8cb8dff66115

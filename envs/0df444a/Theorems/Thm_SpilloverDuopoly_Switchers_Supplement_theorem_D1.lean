@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpilloverDuopoly_Switchers_Supplement_theorem_D1
 -- name    : SpilloverDuopoly.Switchers.Supplement.theorem_D1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:41:11.706072+00:00
 -- url     : https://prove2.me/theorems/fed72ab3-dabb-49e6-824b-02d266f6222c

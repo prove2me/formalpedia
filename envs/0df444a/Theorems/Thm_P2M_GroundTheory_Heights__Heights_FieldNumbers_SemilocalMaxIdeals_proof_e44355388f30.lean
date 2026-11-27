@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalMaxIdeals_proof_e44355388f30
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_SemilocalMaxIdeals_proof_e44355388f30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:16:51.58529+00:00
 -- url     : https://prove2.me/theorems/43b39d2e-1559-4239-b53c-638bef68b5f9

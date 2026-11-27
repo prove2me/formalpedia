@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_Supplement_theorem_4_2
 -- name    : SystemicHoldings.FEfficient.Supplement.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:18:57.857916+00:00
 -- url     : https://prove2.me/theorems/b1489c11-099f-4118-8c72-f0a05f899a72

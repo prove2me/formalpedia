@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingIntClosureFinite_proof_0dcf1bf58f37
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingIntClosureFinite_proof_0dcf1bf58f37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:33.754385+00:00
 -- url     : https://prove2.me/theorems/1895a995-9e84-5617-9d0a-101730f8fc2c

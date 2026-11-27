@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_KrullAkizuki_equiv_dc190e01df28
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_KrullAkizuki_equiv_dc190e01df28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:49.352822+00:00
 -- url     : https://prove2.me/theorems/f62d0eb5-aad7-5e70-b6ea-8f96918f3e1d

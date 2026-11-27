@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_split_injective_of_forall_prime_baseChange_field_injective
 -- name    : GlobalTheory.split_injective_of_forall_prime_baseChange_field_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:40.943328+00:00
 -- url     : https://prove2.me/theorems/10ea3379-d02c-5c3e-add4-19d280a04560

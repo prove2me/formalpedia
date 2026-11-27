@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glob1_finite_and_projective
 -- name    : GlobalTheory.T.glob1_finite_and_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:51:17.080262+00:00
 -- url     : https://prove2.me/theorems/1622c24c-d7e4-4953-b269-9bf33062ece8

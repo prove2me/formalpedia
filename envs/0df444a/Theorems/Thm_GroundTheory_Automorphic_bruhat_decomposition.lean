@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_bruhat_decomposition
 -- name    : GroundTheory.Automorphic.bruhat_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:32.146251+00:00
 -- url     : https://prove2.me/theorems/adc27240-58e7-589a-80ba-6045863cea82

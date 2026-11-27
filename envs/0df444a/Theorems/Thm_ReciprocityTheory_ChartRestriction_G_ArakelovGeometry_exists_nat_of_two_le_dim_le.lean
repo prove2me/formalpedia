@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_nat_of_two_le_dim_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_nat_of_two_le_dim_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:12:13.637262+00:00
 -- url     : https://prove2.me/theorems/681002b8-9198-4a1c-86d5-46efc8625e1b

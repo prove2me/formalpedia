@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Loc_dl_sum_zero
 -- name    : PI.LevelKSplit.W.Loc.dl_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:46:21.880821+00:00
 -- url     : https://prove2.me/theorems/a041239b-bb77-47ce-badd-e12143b11743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PrimeDimLeTrdeg_proof_0fa8bf75b725
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PrimeDimLeTrdeg_proof_0fa8bf75b725
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:36:47.646847+00:00
 -- url     : https://prove2.me/theorems/edbf02c6-695d-5d4f-8c4a-ad21a32995c3

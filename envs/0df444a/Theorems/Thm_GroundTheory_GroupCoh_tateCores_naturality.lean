@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCores_naturality
 -- name    : GroundTheory.GroupCoh.tateCores_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:59:03.815613+00:00
 -- url     : https://prove2.me/theorems/635e6eb7-672a-489b-9ec1-f1bb0aa7c78b

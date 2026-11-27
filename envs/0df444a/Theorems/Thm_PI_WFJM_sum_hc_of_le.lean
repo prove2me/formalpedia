@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_sum_hc_of_le
 -- name    : PI.WFJM.sum_hc_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:54:46.705702+00:00
 -- url     : https://prove2.me/theorems/63e1dc67-6fe2-59c2-9e3b-89cb5148c29f

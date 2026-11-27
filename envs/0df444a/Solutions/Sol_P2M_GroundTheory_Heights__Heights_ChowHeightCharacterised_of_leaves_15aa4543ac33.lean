@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_ChowHeightCharacterised_of_leaves_15aa4543ac33
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-27T04:54:27.705408+00:00
+-- url     : https://prove2.me/submissions/e8c425f6-ac6d-4b62-b1dd-074bdca0f8ce
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_RenameProdMapMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SphereMean
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LogGaussNormSupportFinite
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ContinuousHermNormGroup
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_MahlerMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_HeightMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LineInhabitant
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LowerBoundConditional
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PConeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PBaseChangeLogBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PRecursion
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PCharacterised
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_OfLeaves
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinear_full_31e270c28397
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSwap_full_b74178c489e2
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussLemma_full_d46a7dc3148d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerMul_full_4da1469534a5
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightMul_full_8111df422348
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightConst_full_3faaa5f07ab0
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_proof_d1598fdd0006
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCharacterised_proof_5cff3b7b4e2f
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightRecursion_proof_551609a7f0f6
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeLogBound_proof_ab4a666aa1df
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+namespace GroundTheory.Heights₂.Heights
+namespace ChowHeightCharacterised
+theorem _root_.solution (hV : ChowFormSectionVertical.Statement)
+    (hA : MahlerSection.Statement) (hS : ChowFormSection.Statement)
+    (hB : ChowFormBaseChange.Statement) (hAv : BaseChangeAvoid.Statement)
+    (hPt : ProjPrimeHasPoint.Statement) : ChowHeightCharacterised.Statement :=
+  ChowHeightCharacterised.proof (ChowHeightRecursion.proof hV hA hB hAv) hS ChowHeightMul.full hPt
+end ChowHeightCharacterised
+end GroundTheory.Heights₂.Heights

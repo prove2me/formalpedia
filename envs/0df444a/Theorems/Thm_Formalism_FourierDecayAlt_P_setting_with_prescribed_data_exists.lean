@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_setting_with_prescribed_data_exists
 -- name    : Formalism.FourierDecayAlt.P.setting_with_prescribed_data_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:03.477801+00:00
 -- url     : https://prove2.me/theorems/3957e268-7d0d-4fec-822f-1aaf68ecabc7

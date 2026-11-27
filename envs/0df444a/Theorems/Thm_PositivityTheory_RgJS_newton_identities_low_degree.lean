@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_newton_identities_low_degree
 -- name    : PositivityTheory.RgJS.newton_identities_low_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:48.062701+00:00
 -- url     : https://prove2.me/theorems/408428df-fbc4-4498-a751-319842f59b5a

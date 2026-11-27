@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchInCurveComponent_proof_718b5c618c1a
 -- name    : P2M_GroundTheory_Heights__Heights_BranchInCurveComponent_proof_718b5c618c1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:26.415798+00:00
 -- url     : https://prove2.me/theorems/88243bfa-1c3b-4210-a70e-8eaafd29f8e7

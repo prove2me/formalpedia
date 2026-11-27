@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_CA_height_le_height_comap_of_eval__surjective_53198ccc5ac1
 -- name    : P2M_ReciprocityTheory_CA_height_le_height_comap_of_eval__surjective_53198ccc5ac1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:38.444215+00:00
 -- url     : https://prove2.me/theorems/4f9c5dca-4b1c-4380-a876-5102b39a8479

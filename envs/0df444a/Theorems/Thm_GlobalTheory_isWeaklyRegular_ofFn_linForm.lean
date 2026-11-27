@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_ofFn_linForm
 -- name    : GlobalTheory.isWeaklyRegular_ofFn_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:22.063109+00:00
 -- url     : https://prove2.me/theorems/a977fc85-a6b4-4cdf-a95f-f6825489d2d1

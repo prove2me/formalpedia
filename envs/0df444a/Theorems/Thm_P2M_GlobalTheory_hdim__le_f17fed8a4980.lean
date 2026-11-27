@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_hdim__le_f17fed8a4980
 -- name    : P2M_GlobalTheory_hdim__le_f17fed8a4980
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:13:32.773076+00:00
 -- url     : https://prove2.me/theorems/5971c2fc-1938-4f11-8bdf-e3d368a25cb6

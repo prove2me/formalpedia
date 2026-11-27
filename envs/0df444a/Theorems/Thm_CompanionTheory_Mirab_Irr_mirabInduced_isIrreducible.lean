@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_mirabInduced_isIrreducible
 -- name    : CompanionTheory.Mirab.Irr.mirabInduced_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:22:36.801462+00:00
 -- url     : https://prove2.me/theorems/bdfb0829-74a2-411f-9542-83aff7e0b4cc

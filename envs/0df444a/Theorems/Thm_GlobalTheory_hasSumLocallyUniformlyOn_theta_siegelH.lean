@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSumLocallyUniformlyOn_theta_siegelH
 -- name    : GlobalTheory.hasSumLocallyUniformlyOn_theta_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:00.536638+00:00
 -- url     : https://prove2.me/theorems/97437d6b-cfda-5885-bc69-c00980790c40

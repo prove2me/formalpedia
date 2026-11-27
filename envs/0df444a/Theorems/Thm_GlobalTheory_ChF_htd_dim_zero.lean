@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_htd_dim_zero
 -- name    : GlobalTheory.ChF.htd_dim_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:07:43.020959+00:00
 -- url     : https://prove2.me/theorems/299bfe9f-3011-411d-994c-0302d6a85434

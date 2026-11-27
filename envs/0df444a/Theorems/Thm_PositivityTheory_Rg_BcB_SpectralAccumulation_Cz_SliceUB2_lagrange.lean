@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SliceUB2_lagrange
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SliceUB2.lagrange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:52:43.044461+00:00
 -- url     : https://prove2.me/theorems/f3e471f4-2964-4d2e-a021-ed4c09a212fa

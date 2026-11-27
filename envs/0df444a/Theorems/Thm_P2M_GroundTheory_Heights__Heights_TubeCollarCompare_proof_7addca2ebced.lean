@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeCollarCompare_proof_7addca2ebced
 -- name    : P2M_GroundTheory_Heights__Heights_TubeCollarCompare_proof_7addca2ebced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:34.96387+00:00
 -- url     : https://prove2.me/theorems/9c281df7-22c5-4924-b1c2-7f3ed41613e9

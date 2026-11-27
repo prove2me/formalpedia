@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_artin_relation
 -- name    : GroundTheory.ProfCoh.exists_artin_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:20.420998+00:00
 -- url     : https://prove2.me/theorems/eab1079c-e0e2-4de1-80f0-464c24efde8b

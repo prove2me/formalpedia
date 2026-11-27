@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_holomorphic_parameter_integral_gaussian_bound
 -- name    : GlobalTheory.T.holomorphic_parameter_integral_gaussian_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:10.625838+00:00
 -- url     : https://prove2.me/theorems/15d9ad1d-04b5-45b8-aa33-a071ff9306dc

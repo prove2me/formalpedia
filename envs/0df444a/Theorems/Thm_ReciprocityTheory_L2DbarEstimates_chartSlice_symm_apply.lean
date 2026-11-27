@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_chartSlice_symm_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.chartSlice_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:22.829613+00:00
 -- url     : https://prove2.me/theorems/484f2d14-c066-4082-9cd1-47aa43e8edf3

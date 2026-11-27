@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_inh_standard_two_one_93972da74e08
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_inh_standard_two_one_93972da74e08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:35:02.359002+00:00
 -- url     : https://prove2.me/theorems/ef4a9d1b-4b0a-4873-b5c5-60ba6d60e9a5

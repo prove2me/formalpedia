@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_algHom_eq_eval__finSuccEquiv_5cb1311331dc
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_algHom_eq_eval__finSuccEquiv_5cb1311331dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:42.289797+00:00
 -- url     : https://prove2.me/theorems/093014dc-9bc9-47a8-922e-3b0147ed28ce

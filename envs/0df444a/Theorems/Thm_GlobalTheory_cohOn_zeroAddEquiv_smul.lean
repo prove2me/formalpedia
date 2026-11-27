@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_zeroAddEquiv_smul
 -- name    : GlobalTheory.cohOn.zeroAddEquiv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:35.653553+00:00
 -- url     : https://prove2.me/theorems/322a9057-3d9e-4b13-ab69-77c34760a652

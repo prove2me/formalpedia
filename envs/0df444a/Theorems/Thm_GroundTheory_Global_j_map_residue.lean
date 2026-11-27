@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_j_map_residue
 -- name    : GroundTheory.Global.j_map_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:16.510349+00:00
 -- url     : https://prove2.me/theorems/b19879ed-f0e7-53ce-9a58-f32a01a71c9f

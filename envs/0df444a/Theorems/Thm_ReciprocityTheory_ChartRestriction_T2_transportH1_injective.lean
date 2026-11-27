@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_transportH1_injective
 -- name    : ReciprocityTheory.ChartRestriction.T2.transportH1_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:36:48.647992+00:00
 -- url     : https://prove2.me/theorems/0d2104f4-3c37-4910-a515-03ad8e64e800

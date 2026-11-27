@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_topologicalKrullDim_drop_and_finite_of_dim_zero
 -- name    : GlobalTheory.T.topologicalKrullDim_drop_and_finite_of_dim_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:05.124495+00:00
 -- url     : https://prove2.me/theorems/65e1fd8a-6781-4161-9091-cb0882466bf6

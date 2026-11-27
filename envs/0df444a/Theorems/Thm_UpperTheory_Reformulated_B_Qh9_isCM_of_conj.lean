@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qh9_isCM_of_conj
 -- name    : UpperTheory.Reformulated.B.Qh9.isCM_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:57.308579+00:00
 -- url     : https://prove2.me/theorems/75268e2c-6bd5-421e-a35f-35c2d166b8de

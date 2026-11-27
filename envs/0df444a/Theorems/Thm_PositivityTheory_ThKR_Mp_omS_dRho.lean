@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_omS_dRho
 -- name    : PositivityTheory.ThKR.Mp.omS_dRho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:27.233468+00:00
 -- url     : https://prove2.me/theorems/7fa9a969-7859-458f-9ce1-4f822468dea9

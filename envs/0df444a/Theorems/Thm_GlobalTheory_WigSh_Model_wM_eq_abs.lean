@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_wM_eq_abs
 -- name    : GlobalTheory.WigSh.Model.wM_eq_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:59.025899+00:00
 -- url     : https://prove2.me/theorems/ec94c7e2-1abf-4bf5-9545-453c09457089

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHScalarsEquiv_smul
 -- name    : GlobalTheory.cechHScalarsEquiv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:55.030733+00:00
 -- url     : https://prove2.me/theorems/a4a60eb4-a808-43f7-b7eb-43bb610c0a13

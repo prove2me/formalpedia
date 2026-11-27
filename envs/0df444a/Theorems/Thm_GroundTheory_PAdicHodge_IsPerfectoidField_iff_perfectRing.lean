@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_iff_perfectRing
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.iff_perfectRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:37.03189+00:00
 -- url     : https://prove2.me/theorems/c9bd3cb1-5a4a-5c6b-8318-e545371ab01d

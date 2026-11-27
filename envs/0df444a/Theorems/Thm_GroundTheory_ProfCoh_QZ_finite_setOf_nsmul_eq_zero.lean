@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_finite_setOf_nsmul_eq_zero
 -- name    : GroundTheory.ProfCoh.QZ.finite_setOf_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:01:55.734582+00:00
 -- url     : https://prove2.me/theorems/2748cf0c-7f3c-4e22-a612-33a03190c212

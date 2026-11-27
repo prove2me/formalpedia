@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_setIntegral_mem_addSubgroup_of_openSubgroup_invariant
 -- name    : UpperTheory.setIntegral_mem_addSubgroup_of_openSubgroup_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:40:34.555647+00:00
 -- url     : https://prove2.me/theorems/88d41fa6-50e5-4cbc-9365-6bd1f6ca38bb

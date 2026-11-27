@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_proof_273300c6540e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_proof_273300c6540e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:37.207116+00:00
 -- url     : https://prove2.me/theorems/af7a5844-eb3e-5f14-990e-cc4eaadb158d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_big_cell_g
 -- name    : big_cell_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:39:44.590957+00:00
 -- url     : https://prove2.me/theorems/ca46a9a7-1bf1-5c10-8959-43a6d3f2cac5

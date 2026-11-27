@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_resM_zero
 -- name    : GroundTheory.Arith.SchemeCoh.resM_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:48.028069+00:00
 -- url     : https://prove2.me/theorems/a5a7fdda-b744-4f2d-b23b-b389d40f5e69

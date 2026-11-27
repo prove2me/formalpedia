@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_flagDegreeBound_7c0e09942d43
 -- name    : P2M_GroundTheory_Heights__Heights_flagDegreeBound_7c0e09942d43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:06.318329+00:00
 -- url     : https://prove2.me/theorems/e83cc5ac-fa8b-4096-8d70-e9893d4a8bed

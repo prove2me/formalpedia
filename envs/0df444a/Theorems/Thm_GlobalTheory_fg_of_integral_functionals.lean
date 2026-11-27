@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fg_of_integral_functionals
 -- name    : GlobalTheory.fg_of_integral_functionals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:48.637214+00:00
 -- url     : https://prove2.me/theorems/8851bd7f-08f3-5d07-ac13-b6fcb187fa60

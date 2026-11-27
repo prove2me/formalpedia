@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addVal_prod
 -- name    : GroundTheory.LocalField.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:24.765547+00:00
 -- url     : https://prove2.me/theorems/9c6144da-d4c6-4064-995b-24e29af167c7

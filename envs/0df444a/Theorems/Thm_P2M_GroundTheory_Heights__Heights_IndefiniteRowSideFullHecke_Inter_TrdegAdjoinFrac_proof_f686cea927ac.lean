@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_TrdegAdjoinFrac_proof_f686cea927ac
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_TrdegAdjoinFrac_proof_f686cea927ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:24:24.404631+00:00
 -- url     : https://prove2.me/theorems/200718d2-1e97-45c3-ba47-95679bc6ef78

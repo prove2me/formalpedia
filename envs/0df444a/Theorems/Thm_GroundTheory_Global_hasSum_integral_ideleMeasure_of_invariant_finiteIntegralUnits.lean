@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasSum_integral_ideleMeasure_of_invariant_finiteIntegralUnits
 -- name    : GroundTheory.Global.hasSum_integral_ideleMeasure_of_invariant_finiteIntegralUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:44.870614+00:00
 -- url     : https://prove2.me/theorems/25bd4917-6988-52f4-a378-f02af657351b

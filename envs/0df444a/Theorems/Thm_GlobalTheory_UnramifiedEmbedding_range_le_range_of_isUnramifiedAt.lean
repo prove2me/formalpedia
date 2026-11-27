@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEmbedding_range_le_range_of_isUnramifiedAt
 -- name    : GlobalTheory.UnramifiedEmbedding.range_le_range_of_isUnramifiedAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:24.481299+00:00
 -- url     : https://prove2.me/theorems/2e2918ba-9f07-55e9-9829-f0236dc9b1b3

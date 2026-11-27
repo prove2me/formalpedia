@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_away_of_isAlgebraic_of_finiteType
 -- name    : GlobalTheory.finite_away_of_isAlgebraic_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:17.566024+00:00
 -- url     : https://prove2.me/theorems/dc19dca1-cbfb-41e3-83f2-f3828ac9f2b9

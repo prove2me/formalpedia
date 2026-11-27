@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubWeil_self
 -- name    : GlobalTheory.UU.cubWeil_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:10.105065+00:00
 -- url     : https://prove2.me/theorems/e1f1720f-cb65-4b03-9dae-16de300c765b

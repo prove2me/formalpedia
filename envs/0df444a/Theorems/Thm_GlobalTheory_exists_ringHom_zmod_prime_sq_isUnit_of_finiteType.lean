@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringHom_zmod_prime_sq_isUnit_of_finiteType
 -- name    : GlobalTheory.exists_ringHom_zmod_prime_sq_isUnit_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:52.995584+00:00
 -- url     : https://prove2.me/theorems/b8340a86-4ec6-5f03-8d22-4dad987c2e6e

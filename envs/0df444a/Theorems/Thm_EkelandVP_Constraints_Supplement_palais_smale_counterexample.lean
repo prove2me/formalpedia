@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_Constraints_Supplement_palais_smale_counterexample
 -- name    : EkelandVP.Constraints.Supplement.palais_smale_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:26:35.907991+00:00
 -- url     : https://prove2.me/theorems/8fa6ba20-4969-4b16-a8ac-a2f23dbe8a23

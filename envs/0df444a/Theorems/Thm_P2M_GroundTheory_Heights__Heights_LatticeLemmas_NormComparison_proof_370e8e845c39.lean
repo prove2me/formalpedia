@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_NormComparison_proof_370e8e845c39
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_NormComparison_proof_370e8e845c39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:15.193512+00:00
 -- url     : https://prove2.me/theorems/a7fb1758-f847-4223-9928-772fa03a629a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeaklyHolomorphicIntegral_proof_c7693f6812f9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeaklyHolomorphicIntegral_proof_c7693f6812f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:21.51739+00:00
 -- url     : https://prove2.me/theorems/c9150ae6-eb45-5a22-ba24-ee76009d5e05

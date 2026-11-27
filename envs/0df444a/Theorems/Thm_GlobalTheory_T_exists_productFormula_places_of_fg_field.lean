@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_productFormula_places_of_fg_field
 -- name    : GlobalTheory.T.exists_productFormula_places_of_fg_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:06:36.5458+00:00
 -- url     : https://prove2.me/theorems/79212fc4-ac54-5f77-8eea-a21683aae7de

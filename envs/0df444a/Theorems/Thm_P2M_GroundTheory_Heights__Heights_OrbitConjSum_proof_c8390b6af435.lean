@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_proof_c8390b6af435
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_proof_c8390b6af435
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:37.896066+00:00
 -- url     : https://prove2.me/theorems/92dd9441-57d4-5287-946e-4952faa2be03

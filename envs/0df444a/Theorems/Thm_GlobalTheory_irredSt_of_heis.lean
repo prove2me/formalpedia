@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_irredSt_of_heis
 -- name    : GlobalTheory.irredSt_of_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:11.127969+00:00
 -- url     : https://prove2.me/theorems/96b85d67-455c-5652-832b-a77391baf5c2

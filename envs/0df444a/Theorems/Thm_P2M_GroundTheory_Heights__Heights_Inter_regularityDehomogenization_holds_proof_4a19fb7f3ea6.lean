@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityDehomogenization_holds_proof_4a19fb7f3ea6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityDehomogenization_holds_proof_4a19fb7f3ea6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:28:19.084727+00:00
 -- url     : https://prove2.me/theorems/bd804ce2-26b5-5895-a2d0-c5e225de4ecf

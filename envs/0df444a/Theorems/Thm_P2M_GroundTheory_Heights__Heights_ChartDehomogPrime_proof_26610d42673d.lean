@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDehomogPrime_proof_26610d42673d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDehomogPrime_proof_26610d42673d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:24.506349+00:00
 -- url     : https://prove2.me/theorems/7c4da2d8-245c-5ae0-b576-fafa77e58235

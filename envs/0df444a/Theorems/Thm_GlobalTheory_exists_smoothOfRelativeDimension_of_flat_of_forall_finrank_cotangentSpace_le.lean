@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smoothOfRelativeDimension_of_flat_of_forall_finrank_cotangentSpace_le
 -- name    : GlobalTheory.exists_smoothOfRelativeDimension_of_flat_of_forall_finrank_cotangentSpace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:43:03.211597+00:00
 -- url     : https://prove2.me/theorems/4e527bde-36c1-5df0-be15-dfcaf0ab9598

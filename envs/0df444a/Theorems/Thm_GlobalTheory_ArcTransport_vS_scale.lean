@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_vS_scale
 -- name    : GlobalTheory.ArcTransport.vS_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:29:10.435728+00:00
 -- url     : https://prove2.me/theorems/78326ffe-dd84-588d-a838-607a5e561b56

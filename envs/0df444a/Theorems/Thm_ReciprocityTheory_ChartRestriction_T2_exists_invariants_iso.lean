@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_exists_invariants_iso
 -- name    : ReciprocityTheory.ChartRestriction.T2.exists_invariants_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:51.268924+00:00
 -- url     : https://prove2.me/theorems/f3855915-87f8-4ebc-baa2-910c9dbb3b76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_schur_posDef
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_schur_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:11.096945+00:00
 -- url     : https://prove2.me/theorems/33a637b8-8fae-40f8-95cb-74f2367d9a8f

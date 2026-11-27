@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_NormalFormRelations_vander__fab4b06acbc2
 -- name    : P2M_Formalism_FourierDecayAlt_P_NormalFormRelations_vander__fab4b06acbc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:04:59.642423+00:00
 -- url     : https://prove2.me/theorems/1905cfb2-806e-5414-b7ff-7a6d7d06d49f

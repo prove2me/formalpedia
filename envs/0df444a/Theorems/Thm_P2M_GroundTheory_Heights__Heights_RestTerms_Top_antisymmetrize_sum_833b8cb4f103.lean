@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_sum_833b8cb4f103
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_sum_833b8cb4f103
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:36:32.17789+00:00
 -- url     : https://prove2.me/theorems/4c304cca-f462-5b6f-bbd8-14811503b8bf

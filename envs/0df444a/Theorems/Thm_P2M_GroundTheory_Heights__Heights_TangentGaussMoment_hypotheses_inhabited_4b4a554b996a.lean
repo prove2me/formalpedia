@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentGaussMoment_hypotheses_inhabited_4b4a554b996a
 -- name    : P2M_GroundTheory_Heights__Heights_TangentGaussMoment_hypotheses_inhabited_4b4a554b996a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:46:42.880034+00:00
 -- url     : https://prove2.me/theorems/8f11771f-fd29-4c2b-b889-1c992d08806b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoveringCompare_exists_finite_splitOver
 -- name    : GlobalTheory.CoveringCompare.exists_finite_splitOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:57:44.717343+00:00
 -- url     : https://prove2.me/theorems/5d4ccf46-aecb-534f-b264-80f0abae76dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_Supplement_lemma_8
 -- name    : AtomicDynRouting.ResidenceTime.Supplement.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:34:17.805383+00:00
 -- url     : https://prove2.me/theorems/c46918ce-de7e-4493-be23-98780e0489b1

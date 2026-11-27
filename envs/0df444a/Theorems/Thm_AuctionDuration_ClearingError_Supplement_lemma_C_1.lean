@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuctionDuration_ClearingError_Supplement_lemma_C_1
 -- name    : AuctionDuration.ClearingError.Supplement.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:50:01.012307+00:00
 -- url     : https://prove2.me/theorems/e18fd07c-4c5f-4a96-b460-02c811381e3d

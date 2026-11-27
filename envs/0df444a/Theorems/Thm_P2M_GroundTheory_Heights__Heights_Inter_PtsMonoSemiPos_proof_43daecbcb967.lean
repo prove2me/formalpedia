@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsMonoSemiPos_proof_43daecbcb967
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsMonoSemiPos_proof_43daecbcb967
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:18.337165+00:00
 -- url     : https://prove2.me/theorems/dc126faa-54f6-4f07-a24e-4d5cd37d1ff7

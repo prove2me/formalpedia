@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_hasDerivAt_of_mulHom
 -- name    : PositivityTheory.Rg.Cz.hasDerivAt_of_mulHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:08.873838+00:00
 -- url     : https://prove2.me/theorems/ebbe7aa1-7dfc-5d7f-aeda-e59475918e59

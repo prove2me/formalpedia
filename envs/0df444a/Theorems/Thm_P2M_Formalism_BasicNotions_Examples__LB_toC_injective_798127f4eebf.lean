@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_toC_injective_798127f4eebf
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_toC_injective_798127f4eebf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:33:20.304078+00:00
 -- url     : https://prove2.me/theorems/c3844089-473e-449d-b3fe-9dc81aacceb1

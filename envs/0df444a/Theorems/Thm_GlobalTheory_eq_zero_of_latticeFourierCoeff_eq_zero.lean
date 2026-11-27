@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_latticeFourierCoeff_eq_zero
 -- name    : GlobalTheory.eq_zero_of_latticeFourierCoeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:57.47258+00:00
 -- url     : https://prove2.me/theorems/9ad9327c-d79e-5812-8ec2-5dce44de8489

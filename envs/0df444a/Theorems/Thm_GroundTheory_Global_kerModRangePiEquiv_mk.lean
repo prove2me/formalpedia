@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_kerModRangePiEquiv_mk
 -- name    : GroundTheory.Global.kerModRangePiEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:12.94032+00:00
 -- url     : https://prove2.me/theorems/a697ba8c-cfa1-542b-b9eb-6932d27a2348

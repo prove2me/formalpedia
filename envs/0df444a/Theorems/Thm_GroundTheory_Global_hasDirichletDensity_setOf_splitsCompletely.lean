@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_setOf_splitsCompletely
 -- name    : GroundTheory.Global.hasDirichletDensity_setOf_splitsCompletely
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:37.967459+00:00
 -- url     : https://prove2.me/theorems/ff36fd16-47fb-5ab0-8e5f-ffa4d283d01c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_left_of_isAbelianScheme
 -- name    : GlobalTheory.isIntegral_left_of_isAbelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:13.261478+00:00
 -- url     : https://prove2.me/theorems/9d1076d4-533a-4804-b805-d25a2992779e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_inflationCocone_pt
 -- name    : GroundTheory.ProfCoh.inflationCocone_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:04.264637+00:00
 -- url     : https://prove2.me/theorems/6880ec85-fc5a-4007-afbf-da2c68ae5c20

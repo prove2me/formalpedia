@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_actE_intCast
 -- name    : GlobalTheory.TensorLat.actE_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:30:13.645627+00:00
 -- url     : https://prove2.me/theorems/8dff2d6e-368a-4f72-a7f1-0e7f860f95b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_pcLarge_of
 -- name    : PI.PC.pcLarge_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:49.20391+00:00
 -- url     : https://prove2.me/theorems/202238b8-c7f9-5e16-bd32-11a8bf986e4f

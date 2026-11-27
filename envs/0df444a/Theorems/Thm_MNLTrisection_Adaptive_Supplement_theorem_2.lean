@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLTrisection_Adaptive_Supplement_theorem_2
 -- name    : MNLTrisection.Adaptive.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:14:28.318857+00:00
 -- url     : https://prove2.me/theorems/66560440-44cc-4a92-8705-405bbdbe6534

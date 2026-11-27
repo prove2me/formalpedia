@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_poly_normSq_roots__42597430cd16
 -- name    : P2M_GlobalTheory_T_exists_poly_normSq_roots__42597430cd16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:53:35.458801+00:00
 -- url     : https://prove2.me/theorems/3f75c495-220c-46c8-8281-5b9f4733d298

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_proof_ce886f653f57
 -- name    : P2M_GroundTheory_Heights__Heights_CuspLeadingMinima_proof_ce886f653f57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:24.436063+00:00
 -- url     : https://prove2.me/theorems/7b64c64d-e6e0-4908-bec3-23ded7d32cf7

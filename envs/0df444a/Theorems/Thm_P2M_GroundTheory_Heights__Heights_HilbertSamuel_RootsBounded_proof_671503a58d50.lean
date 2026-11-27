@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsBounded_proof_671503a58d50
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsBounded_proof_671503a58d50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:14:58.809031+00:00
 -- url     : https://prove2.me/theorems/675e9219-ee0f-4891-847e-db2bab839d8c

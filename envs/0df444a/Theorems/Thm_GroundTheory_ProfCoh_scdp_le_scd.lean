@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_scdp_le_scd
 -- name    : GroundTheory.ProfCoh.scdp_le_scd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:04:43.60162+00:00
 -- url     : https://prove2.me/theorems/265533cf-352b-4a20-8529-ac59c6cdc682

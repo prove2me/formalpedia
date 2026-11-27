@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_chain_rule_lin
 -- name    : GlobalTheory.ChF.chain_rule_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:11:51.980333+00:00
 -- url     : https://prove2.me/theorems/90f918a4-abf3-48f4-8e8f-0ade3c10d51e

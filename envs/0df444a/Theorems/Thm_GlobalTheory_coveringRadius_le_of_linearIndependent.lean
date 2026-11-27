@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringRadius_le_of_linearIndependent
 -- name    : GlobalTheory.coveringRadius_le_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:56.471237+00:00
 -- url     : https://prove2.me/theorems/ff430e52-88ea-5c78-915a-9187cc5e52de

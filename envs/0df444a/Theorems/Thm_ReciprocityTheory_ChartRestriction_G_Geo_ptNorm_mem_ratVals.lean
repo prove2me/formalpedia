@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ptNorm_mem_ratVals
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.ptNorm_mem_ratVals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:43.816661+00:00
 -- url     : https://prove2.me/theorems/515c67a4-6939-5920-bde6-52907832298c

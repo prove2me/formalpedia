@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiT_mat_inv
 -- name    : PI.LevelKSplit.W.SemiT.mat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:53:21.04104+00:00
 -- url     : https://prove2.me/theorems/3630b4fb-e950-522d-abf7-b4d3d13b434c

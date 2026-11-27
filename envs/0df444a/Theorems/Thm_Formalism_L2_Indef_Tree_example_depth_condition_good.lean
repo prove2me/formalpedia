@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_depth_condition_good
 -- name    : Formalism.L2.Indef.Tree.example_depth_condition_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:34:05.221403+00:00
 -- url     : https://prove2.me/theorems/e98900f2-ec9c-5c6e-b941-c5a2547549cb

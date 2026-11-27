@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_algHom_sq_eq_discr_and_addVal
 -- name    : GlobalTheory.det_algHom_sq_eq_discr_and_addVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:59.119309+00:00
 -- url     : https://prove2.me/theorems/5a8bf639-f9bc-4e8f-a415-75ee57c789d7

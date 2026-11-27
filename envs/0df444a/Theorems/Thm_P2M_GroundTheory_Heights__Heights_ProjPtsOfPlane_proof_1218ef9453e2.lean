@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjPtsOfPlane_proof_1218ef9453e2
 -- name    : P2M_GroundTheory_Heights__Heights_ProjPtsOfPlane_proof_1218ef9453e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:52.980486+00:00
 -- url     : https://prove2.me/theorems/9c5799dd-c1cc-492f-8f69-403be869207e

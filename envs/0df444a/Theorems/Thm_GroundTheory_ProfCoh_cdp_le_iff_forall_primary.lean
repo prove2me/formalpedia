@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cdp_le_iff_forall_primary
 -- name    : GroundTheory.ProfCoh.cdp_le_iff_forall_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:22.765469+00:00
 -- url     : https://prove2.me/theorems/24d0c03b-fee2-5156-9bfd-7b5662378284

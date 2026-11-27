@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_eq_zero_iff_coord
 -- name    : GlobalTheory.UU.SecMod.eq_zero_iff_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:47.692596+00:00
 -- url     : https://prove2.me/theorems/ec3bd440-5d63-5706-bf99-95eab611c0f1

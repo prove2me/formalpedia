@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_matrix_basis_ker_of_exact_at_point
 -- name    : GlobalTheory.exists_matrix_basis_ker_of_exact_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:33.435208+00:00
 -- url     : https://prove2.me/theorems/1fd070ac-6f6a-4b16-91ad-f27914765f97

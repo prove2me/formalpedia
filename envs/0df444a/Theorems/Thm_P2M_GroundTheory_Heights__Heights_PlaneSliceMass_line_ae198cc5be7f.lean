@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaneSliceMass_line_ae198cc5be7f
 -- name    : P2M_GroundTheory_Heights__Heights_PlaneSliceMass_line_ae198cc5be7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:33:35.192334+00:00
 -- url     : https://prove2.me/theorems/09120cdc-db77-52ad-9fdb-9be77a223b6c

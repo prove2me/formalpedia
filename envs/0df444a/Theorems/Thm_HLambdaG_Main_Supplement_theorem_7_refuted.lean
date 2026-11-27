@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HLambdaG_Main_Supplement_theorem_7_refuted
 -- name    : HLambdaG.Main.Supplement.theorem_7_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:06:29.732591+00:00
 -- url     : https://prove2.me/theorems/0d3d7e81-bf3a-4a16-986d-51218232e816

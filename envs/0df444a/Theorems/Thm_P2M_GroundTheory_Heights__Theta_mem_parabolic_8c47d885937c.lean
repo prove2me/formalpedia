@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mem_parabolic_8c47d885937c
 -- name    : P2M_GroundTheory_Heights__Theta_mem_parabolic_8c47d885937c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:59:06.34058+00:00
 -- url     : https://prove2.me/theorems/6e91e465-d35c-58cc-9d46-71cdf5213a56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_units_sign
 -- name    : GroundTheory.ProfCoh.exists_units_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:14.546256+00:00
 -- url     : https://prove2.me/theorems/924d7bd2-0e42-505d-8b04-7dfb28da7d4e

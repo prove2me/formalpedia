@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopExt_dualEquiv_apply
 -- name    : GlobalTheory.TopExt.dualEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:46.899175+00:00
 -- url     : https://prove2.me/theorems/9273c0bb-f235-4323-8caf-25831ef830c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_Sublattice_proof_2bf9f6e7348f
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_Sublattice_proof_2bf9f6e7348f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:24.708734+00:00
 -- url     : https://prove2.me/theorems/02a9c88c-e5a2-51af-94c8-c393aa5dabc7

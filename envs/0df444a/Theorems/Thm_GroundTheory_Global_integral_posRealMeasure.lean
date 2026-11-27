@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_posRealMeasure
 -- name    : GroundTheory.Global.integral_posRealMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:58.043037+00:00
 -- url     : https://prove2.me/theorems/7be97c32-6be1-51aa-b569-66aa5dcd0d83

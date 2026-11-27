@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechCube_obj
 -- name    : GlobalTheory.cechCube_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:51.023412+00:00
 -- url     : https://prove2.me/theorems/26890b32-e7d7-5d16-a4c8-a5fa84c87e71

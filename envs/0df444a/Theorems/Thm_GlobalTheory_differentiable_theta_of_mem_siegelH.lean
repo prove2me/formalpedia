@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_theta_of_mem_siegelH
 -- name    : GlobalTheory.differentiable_theta_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:37.789842+00:00
 -- url     : https://prove2.me/theorems/0e1481df-eb3c-423a-b663-e58cde45b5ed

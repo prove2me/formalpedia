@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_TraceHermNondegenerate_proof_d7dac07170ad
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_TraceHermNondegenerate_proof_d7dac07170ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:17:11.483334+00:00
 -- url     : https://prove2.me/theorems/bf7aacff-2f4d-4b9d-b413-78a1b532b58d

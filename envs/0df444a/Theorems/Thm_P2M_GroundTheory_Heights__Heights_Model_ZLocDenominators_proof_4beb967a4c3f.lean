@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ZLocDenominators_proof_4beb967a4c3f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ZLocDenominators_proof_4beb967a4c3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:49.280235+00:00
 -- url     : https://prove2.me/theorems/3058fe9d-06de-4f1d-801c-de6cd4d9aac2

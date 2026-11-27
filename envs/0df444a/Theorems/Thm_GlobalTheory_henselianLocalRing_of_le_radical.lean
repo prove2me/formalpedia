@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselianLocalRing_of_le_radical
 -- name    : GlobalTheory.henselianLocalRing_of_le_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:57.053488+00:00
 -- url     : https://prove2.me/theorems/5963d6da-c161-4cad-ae99-87bb017c3610

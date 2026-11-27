@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitOf_bijective_mul_natural
 -- name    : GlobalTheory.unitOf_bijective_mul_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:59.896008+00:00
 -- url     : https://prove2.me/theorems/8566ab45-5670-5a57-a399-d0294811d416

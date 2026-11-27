@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linear_form_hyps_b156864bfb3e
 -- name    : P2M_GroundTheory_Heights__Heights_linear_form_hyps_b156864bfb3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:23.674278+00:00
 -- url     : https://prove2.me/theorems/456ca896-39bd-4baf-94c2-3cdad7d5b146

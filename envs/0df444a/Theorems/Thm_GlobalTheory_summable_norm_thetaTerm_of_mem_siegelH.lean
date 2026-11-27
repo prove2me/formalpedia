@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_thetaTerm_of_mem_siegelH
 -- name    : GlobalTheory.summable_norm_thetaTerm_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:43.106262+00:00
 -- url     : https://prove2.me/theorems/27040310-845d-59a3-90ac-584fc2c46a7a

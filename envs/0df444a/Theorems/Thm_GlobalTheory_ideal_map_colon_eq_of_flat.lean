@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ideal_map_colon_eq_of_flat
 -- name    : GlobalTheory.ideal_map_colon_eq_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:11.597604+00:00
 -- url     : https://prove2.me/theorems/9e3e8c23-1339-45b4-8937-5daebe6a81e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbamix_logRatio_deg
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbamix_logRatio_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:11:43.307173+00:00
 -- url     : https://prove2.me/theorems/8fb89b1e-187e-5b3b-a720-a742a6e731b3

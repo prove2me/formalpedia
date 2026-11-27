@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_cub_push
 -- name    : GlobalTheory.ArcTransport.cub_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:31:10.375547+00:00
 -- url     : https://prove2.me/theorems/8dcc5288-e67a-49f6-9184-ba834850dced

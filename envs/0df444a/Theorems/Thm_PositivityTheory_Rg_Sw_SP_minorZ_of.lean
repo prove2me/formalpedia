@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_minorZ_of
 -- name    : PositivityTheory.Rg.Sw.SP.minorZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:52:54.842362+00:00
 -- url     : https://prove2.me/theorems/7e795869-57d2-55af-86a2-f5072d3324d2

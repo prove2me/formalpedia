@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_rationalWeight_succ_mul_inv_norm
 -- name    : PositivityTheory.ThKG.Loc.Bump.rationalWeight_succ_mul_inv_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:47.26558+00:00
 -- url     : https://prove2.me/theorems/7684b221-52a3-4154-8987-f17afb907f9a

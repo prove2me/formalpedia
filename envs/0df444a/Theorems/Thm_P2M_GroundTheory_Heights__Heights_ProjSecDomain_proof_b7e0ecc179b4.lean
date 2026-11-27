@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDomain_proof_b7e0ecc179b4
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDomain_proof_b7e0ecc179b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:39.900584+00:00
 -- url     : https://prove2.me/theorems/6938d582-4109-51fb-a646-ceec07ec4601

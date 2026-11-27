@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SemilinearResidue_exists_sub_eq
 -- name    : GroundTheory.PAdicHodge.SemilinearResidue.exists_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:19.967927+00:00
 -- url     : https://prove2.me/theorems/b0cf2b45-79c4-5cc9-8eaa-754f100d4035

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_not_isMetric_zero
 -- name    : GlobalTheory.TestLat.Model.not_isMetric_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:30.032457+00:00
 -- url     : https://prove2.me/theorems/f5511b32-9f38-50f3-ac95-bd7a4c7c4f24

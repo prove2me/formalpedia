@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CycleSectionChow_proof_79f707d56c28
 -- name    : P2M_GroundTheory_Heights__Heights_CycleSectionChow_proof_79f707d56c28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:10:44.523067+00:00
 -- url     : https://prove2.me/theorems/24e29617-95eb-4c66-9e0d-8bfc6ca940e4

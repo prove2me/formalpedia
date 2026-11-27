@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_ringHom_eq_mul_algebraTrace
 -- name    : GlobalTheory.T.trace_ringHom_eq_mul_algebraTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:51.626471+00:00
 -- url     : https://prove2.me/theorems/b8f39bc9-20ce-529e-9b6d-34edc2c3f4f1

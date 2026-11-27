@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_idele_class_finite
 -- name    : PIW.ClassFinD.idele_class_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:46.736375+00:00
 -- url     : https://prove2.me/theorems/566b3c9f-79b2-467c-a662-7efb0dafdfbd

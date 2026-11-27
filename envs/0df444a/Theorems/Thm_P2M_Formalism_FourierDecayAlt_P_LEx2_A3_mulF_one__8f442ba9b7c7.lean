@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LEx2_A3_mulF_one__8f442ba9b7c7
 -- name    : P2M_Formalism_FourierDecayAlt_P_LEx2_A3_mulF_one__8f442ba9b7c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:04:51.940319+00:00
 -- url     : https://prove2.me/theorems/1292b10d-a8e2-5f4b-bf29-e4696bd99499

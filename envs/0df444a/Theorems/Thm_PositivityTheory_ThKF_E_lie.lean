@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_lie
 -- name    : PositivityTheory.ThKF.E.lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:14.339817+00:00
 -- url     : https://prove2.me/theorems/27a47906-f5fe-56ae-80cb-4122fbc36dae

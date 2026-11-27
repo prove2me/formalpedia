@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaValueCont_continuousAt_constant
 -- name    : GlobalTheory.ThetaValueCont.continuousAt_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:38.686258+00:00
 -- url     : https://prove2.me/theorems/7305a095-3558-4549-90c5-0695f710d9eb

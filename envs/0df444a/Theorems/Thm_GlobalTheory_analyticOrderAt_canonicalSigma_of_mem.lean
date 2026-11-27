@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_analyticOrderAt_canonicalSigma_of_mem
 -- name    : GlobalTheory.analyticOrderAt_canonicalSigma_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:22.364879+00:00
 -- url     : https://prove2.me/theorems/1e9e31d7-fbd5-59c4-96f3-525217a7d508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_toPrimitive_ofPrimitive
 -- name    : HostParam.Seam.toPrimitive_ofPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:04:17.237655+00:00
 -- url     : https://prove2.me/theorems/64d5dab8-10d7-4322-86ce-9e6513a4d8e4

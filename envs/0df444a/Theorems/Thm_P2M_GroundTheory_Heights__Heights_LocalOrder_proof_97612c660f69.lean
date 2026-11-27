@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalOrder_proof_97612c660f69
 -- name    : P2M_GroundTheory_Heights__Heights_LocalOrder_proof_97612c660f69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:30:21.308264+00:00
 -- url     : https://prove2.me/theorems/7dc1f701-96db-4c48-bb26-a625a3f37eee

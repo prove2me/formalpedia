@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_shearCLE_apply_zero
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.shearCLE_apply_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:57.724099+00:00
 -- url     : https://prove2.me/theorems/393bae85-dd93-4b05-b1cd-828da2266205

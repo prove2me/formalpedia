@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_of_smul_top_eq_top
 -- name    : GlobalTheory.isQuasiRegularSeq_of_smul_top_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:14.197921+00:00
 -- url     : https://prove2.me/theorems/beba3e1a-d425-5536-af6e-705a7f263182

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mem_sympGroup_964162e978e0
 -- name    : P2M_GroundTheory_Heights__Theta_mem_sympGroup_964162e978e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:25.229114+00:00
 -- url     : https://prove2.me/theorems/9b89fb72-22fb-53a1-b571-6618c1a1a18e

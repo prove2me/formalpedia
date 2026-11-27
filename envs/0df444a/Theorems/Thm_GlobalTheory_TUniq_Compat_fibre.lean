@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TUniq_Compat_fibre
 -- name    : GlobalTheory.TUniq.Compat.fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:49:23.004408+00:00
 -- url     : https://prove2.me/theorems/2663e7a1-85c1-40ab-8c96-e9b85b0e3e1d

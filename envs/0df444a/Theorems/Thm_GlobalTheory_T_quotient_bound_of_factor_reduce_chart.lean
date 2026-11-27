@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quotient_bound_of_factor_reduce_chart
 -- name    : GlobalTheory.T.quotient_bound_of_factor_reduce_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:13.505796+00:00
 -- url     : https://prove2.me/theorems/9d0583ab-3d6c-5247-9828-38fb942b5d7b

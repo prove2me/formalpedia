@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeChar_local_value_div_uniformiser_pow
 -- name    : GlobalTheory.T.heckeChar_local_value_div_uniformiser_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:58.688799+00:00
 -- url     : https://prove2.me/theorems/ff9a06ce-1df9-459b-be86-66812811beaf

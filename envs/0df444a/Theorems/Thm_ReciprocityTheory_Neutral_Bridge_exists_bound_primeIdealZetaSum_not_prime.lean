@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_exists_bound_primeIdealZetaSum_not_prime
 -- name    : ReciprocityTheory.Neutral.Bridge.exists_bound_primeIdealZetaSum_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:26.402991+00:00
 -- url     : https://prove2.me/theorems/5ca50da3-0b8a-4557-a2bc-ab861b4d7aee

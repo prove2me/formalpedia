@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symplectic_torsion_system_is_geometric_basis
 -- name    : GlobalTheory.T.symplectic_torsion_system_is_geometric_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:24.226943+00:00
 -- url     : https://prove2.me/theorems/abc690db-12c9-5603-a076-85f67708fb95

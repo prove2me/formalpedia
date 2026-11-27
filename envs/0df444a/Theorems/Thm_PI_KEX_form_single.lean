@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KEX_form_single
 -- name    : PI.KEX.form_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:47:04.018054+00:00
 -- url     : https://prove2.me/theorems/c25c8609-01b7-41ad-a379-e4f000e6f4cc

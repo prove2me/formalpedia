@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_Discounted_Supplement_theorem_A_1
 -- name    : StableFA.Discounted.Supplement.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:41:01.348812+00:00
 -- url     : https://prove2.me/theorems/24c1f794-5334-4ea1-a4a7-cf8ac1368a45

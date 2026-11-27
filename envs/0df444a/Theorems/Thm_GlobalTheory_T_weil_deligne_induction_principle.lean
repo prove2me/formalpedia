@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_deligne_induction_principle
 -- name    : GlobalTheory.T.weil_deligne_induction_principle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:07:05.317591+00:00
 -- url     : https://prove2.me/theorems/1fd587ba-9b18-47e6-9017-15a5f5faaaff

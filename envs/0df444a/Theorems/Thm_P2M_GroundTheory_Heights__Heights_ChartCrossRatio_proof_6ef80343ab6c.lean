@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCrossRatio_proof_6ef80343ab6c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCrossRatio_proof_6ef80343ab6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:31.227036+00:00
 -- url     : https://prove2.me/theorems/68025bc6-2c8b-4082-ac82-43caebef1ae3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_nonempty_tq_of_gtCoord
 -- name    : GlobalTheory.UU.nonempty_tq_of_gtCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:21:27.503923+00:00
 -- url     : https://prove2.me/theorems/bbf1ba03-0c6d-52b8-b368-cc01809f8feb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeKrullDimLe_proof_c1f5f4470879
 -- name    : P2M_GroundTheory_Heights__Heights_ConeKrullDimLe_proof_c1f5f4470879
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:34.435824+00:00
 -- url     : https://prove2.me/theorems/cb00a56d-3ded-419f-aa74-db9ad797485b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_weak_op
 -- name    : PositivityTheory.ThKG.Loc.Bump.weak_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:40.665381+00:00
 -- url     : https://prove2.me/theorems/c10d9eb3-bd79-48ee-a91c-f854644846ae

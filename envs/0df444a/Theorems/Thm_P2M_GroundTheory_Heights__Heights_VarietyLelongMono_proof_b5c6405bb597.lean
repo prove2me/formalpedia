@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyLelongMono_proof_b5c6405bb597
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyLelongMono_proof_b5c6405bb597
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:38.484412+00:00
 -- url     : https://prove2.me/theorems/c5d42b22-380f-47cc-8542-b020e6ec2e33

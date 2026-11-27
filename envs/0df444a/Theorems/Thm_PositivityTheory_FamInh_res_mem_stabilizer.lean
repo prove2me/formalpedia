@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_res_mem_stabilizer
 -- name    : PositivityTheory.FamInh.res_mem_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:50:32.986277+00:00
 -- url     : https://prove2.me/theorems/76dd3a43-888a-42d3-9b5c-4a6f72c770b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_bool_eq_of_ne_ne
 -- name    : ReciprocityTheory.ChartRestriction.DS.bool_eq_of_ne_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:48.165201+00:00
 -- url     : https://prove2.me/theorems/6968e202-eb10-4190-b627-1ba4d68fc1e7

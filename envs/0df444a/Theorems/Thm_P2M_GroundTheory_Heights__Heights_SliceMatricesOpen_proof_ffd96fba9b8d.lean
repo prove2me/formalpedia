@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceMatricesOpen_proof_ffd96fba9b8d
 -- name    : P2M_GroundTheory_Heights__Heights_SliceMatricesOpen_proof_ffd96fba9b8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:37:08.309712+00:00
 -- url     : https://prove2.me/theorems/ce352f46-ec62-5fc9-a300-59d6857c3ed5

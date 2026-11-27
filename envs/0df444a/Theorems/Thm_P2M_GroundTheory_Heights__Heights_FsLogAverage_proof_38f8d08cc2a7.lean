@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FsLogAverage_proof_38f8d08cc2a7
 -- name    : P2M_GroundTheory_Heights__Heights_FsLogAverage_proof_38f8d08cc2a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:41.243858+00:00
 -- url     : https://prove2.me/theorems/3eafb6ae-55f4-5961-bb61-9c0c461b5295

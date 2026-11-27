@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_schwarzLemmaBall_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.schwarzLemmaBall_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:41.456149+00:00
 -- url     : https://prove2.me/theorems/2f80da1f-0474-4bad-bbb2-917debb4d392

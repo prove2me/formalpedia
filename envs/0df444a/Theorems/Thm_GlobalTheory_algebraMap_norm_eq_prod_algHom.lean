@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_norm_eq_prod_algHom
 -- name    : GlobalTheory.algebraMap_norm_eq_prod_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:22.309577+00:00
 -- url     : https://prove2.me/theorems/79d2be35-2b9f-5a6b-b689-73ca9ae264f3

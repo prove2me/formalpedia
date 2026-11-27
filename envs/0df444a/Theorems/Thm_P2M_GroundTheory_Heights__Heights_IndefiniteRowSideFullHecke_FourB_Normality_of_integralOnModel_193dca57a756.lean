@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_Normality_of_integralOnModel_193dca57a756
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_Normality_of_integralOnModel_193dca57a756
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:46.822337+00:00
 -- url     : https://prove2.me/theorems/a95e6975-c0a9-4cb0-96c7-25f4ca78a2c8

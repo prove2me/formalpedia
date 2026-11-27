@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDualVacuum_gaussian_shape_rootOfUnity_phases
 -- name    : GlobalTheory.T.selfDualVacuum_gaussian_shape_rootOfUnity_phases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:31.130263+00:00
 -- url     : https://prove2.me/theorems/08da0406-5cc5-5854-a5b8-9dc1cb82cedb

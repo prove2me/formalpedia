@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_fundamentalDomain_periodLattice
 -- name    : GlobalTheory.volume_fundamentalDomain_periodLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:12.397298+00:00
 -- url     : https://prove2.me/theorems/9a5a92b6-eef7-57f5-a3ba-28a6945e6809

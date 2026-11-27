@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_Carry_norLift
 -- name    : GlobalTheory.IntPair.Carry.norLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:18:50.649862+00:00
 -- url     : https://prove2.me/theorems/70ba14b5-fec3-5244-8ad8-92673c0d2eaa

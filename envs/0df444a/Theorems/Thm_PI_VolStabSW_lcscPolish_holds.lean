@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_lcscPolish_holds
 -- name    : PI.VolStabSW.lcscPolish_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:24.569807+00:00
 -- url     : https://prove2.me/theorems/c6fb774c-c6a6-5b26-a1b2-083d4c2859b8

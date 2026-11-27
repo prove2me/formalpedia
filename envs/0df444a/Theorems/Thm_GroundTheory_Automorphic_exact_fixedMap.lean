@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exact_fixedMap
 -- name    : GroundTheory.Automorphic.exact_fixedMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:44.146625+00:00
 -- url     : https://prove2.me/theorems/c07ea462-5caf-4a14-b62a-9b46c1128bbb

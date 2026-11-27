@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTie_det_sub_mem_hat
 -- name    : GlobalTheory.TwistTie.det_sub_mem_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:59.558805+00:00
 -- url     : https://prove2.me/theorems/9afe8139-b3f8-4bb1-b1c9-d4d659b15b6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_proof_82ad9735a6be
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_proof_82ad9735a6be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:45.338554+00:00
 -- url     : https://prove2.me/theorems/79467bec-d45f-5d18-8143-8b047e0c287f

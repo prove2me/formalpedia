@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_LEx1_meas_th__0b3f90443561
 -- name    : P2M_Formalism_FourierDecayAlt_P_LEx1_meas_th__0b3f90443561
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:04:50.68902+00:00
 -- url     : https://prove2.me/theorems/161404fe-c122-58ec-9a36-94e3f903b3e6

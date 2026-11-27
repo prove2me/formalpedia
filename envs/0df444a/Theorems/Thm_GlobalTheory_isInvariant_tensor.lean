@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isInvariant_tensor
 -- name    : GlobalTheory.isInvariant_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:03.583809+00:00
 -- url     : https://prove2.me/theorems/65cdb77d-b1ab-53ab-b30c-89be79840d94

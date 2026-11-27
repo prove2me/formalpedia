@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfdual_measure_transport_equiv
 -- name    : GlobalTheory.T.selfdual_measure_transport_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:54.602222+00:00
 -- url     : https://prove2.me/theorems/97eafdba-887a-5f99-b6e5-4b5de3e8f94e

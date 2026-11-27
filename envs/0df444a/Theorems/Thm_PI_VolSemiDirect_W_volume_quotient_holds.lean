@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_volume_quotient_holds
 -- name    : PI.VolSemiDirect.W.volume_quotient_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:49:45.180159+00:00
 -- url     : https://prove2.me/theorems/cc05f543-6a7d-4cf3-82a5-6feac6b7ba29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntGramSubLast_proof_bff89b1362e1
 -- name    : P2M_GroundTheory_Heights__Heights_IntGramSubLast_proof_bff89b1362e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:26:08.240341+00:00
 -- url     : https://prove2.me/theorems/36c724ba-ffc4-4907-8f99-3301320fc975

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_pow_eq_one_mem_fixedField_primaryQuotientPreimage
 -- name    : GroundTheory.ProfCoh.pow_eq_one_mem_fixedField_primaryQuotientPreimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:02:18.134522+00:00
 -- url     : https://prove2.me/theorems/1a874410-382e-5198-8ad1-6f66c6640574

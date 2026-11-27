@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_differentiableOn_finset_sum
 -- name    : GlobalTheory.TorsionHolomorphic.differentiableOn_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:32.034634+00:00
 -- url     : https://prove2.me/theorems/2825a887-3988-5b86-87eb-519ca878195a

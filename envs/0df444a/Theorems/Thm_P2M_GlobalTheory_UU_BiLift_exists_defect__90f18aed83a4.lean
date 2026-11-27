@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UU_BiLift_exists_defect__90f18aed83a4
 -- name    : P2M_GlobalTheory_UU_BiLift_exists_defect__90f18aed83a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:08:27.070853+00:00
 -- url     : https://prove2.me/theorems/67a31f45-10bb-44f0-829c-f57eb3b2498b

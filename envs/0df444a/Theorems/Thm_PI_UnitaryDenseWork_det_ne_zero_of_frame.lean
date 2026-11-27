@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryDenseWork_det_ne_zero_of_frame
 -- name    : PI.UnitaryDenseWork.det_ne_zero_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:17.753273+00:00
 -- url     : https://prove2.me/theorems/3c7d2097-9ed4-4c36-b2b6-667e598a4500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_iterated_integral_eq_integral_pi
 -- name    : GlobalTheory.iterated_integral_eq_integral_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:46.67883+00:00
 -- url     : https://prove2.me/theorems/e1aac411-d0a6-4572-9dd9-cdfe95345f18

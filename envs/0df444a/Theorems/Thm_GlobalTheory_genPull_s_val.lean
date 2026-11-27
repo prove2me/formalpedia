@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_genPull_s_val
 -- name    : GlobalTheory.genPull_s_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:39.988109+00:00
 -- url     : https://prove2.me/theorems/3ba34ecb-cc45-42b3-982d-00ebf6743ab7

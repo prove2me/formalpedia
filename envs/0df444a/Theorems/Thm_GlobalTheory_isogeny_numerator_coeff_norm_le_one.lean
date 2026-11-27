@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isogeny_numerator_coeff_norm_le_one
 -- name    : GlobalTheory.isogeny_numerator_coeff_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:46.940385+00:00
 -- url     : https://prove2.me/theorems/0c1d5ab5-f436-4f3c-936f-5f523a869780

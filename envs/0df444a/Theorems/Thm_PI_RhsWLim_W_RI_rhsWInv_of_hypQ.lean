@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_rhsWInv_of_hypQ
 -- name    : PI.RhsWLim.W.RI.rhsWInv_of_hypQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:28.109254+00:00
 -- url     : https://prove2.me/theorems/fbb47061-5f8b-5425-8f67-95d2b1256f9e

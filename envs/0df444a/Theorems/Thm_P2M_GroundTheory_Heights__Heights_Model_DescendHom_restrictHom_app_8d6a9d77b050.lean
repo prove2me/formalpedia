@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DescendHom_restrictHom_app_8d6a9d77b050
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DescendHom_restrictHom_app_8d6a9d77b050
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:35:19.08338+00:00
 -- url     : https://prove2.me/theorems/e37edab9-0015-5b14-878c-b3ac30537fb3

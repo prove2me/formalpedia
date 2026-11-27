@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertModule_proof_c4bb6dc798ea
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertModule_proof_c4bb6dc798ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:13:45.882552+00:00
 -- url     : https://prove2.me/theorems/a5c510a0-fa40-5e91-a716-df0c40a4f9ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FormIntSymm_proof_9a40e923f73c
 -- name    : P2M_GroundTheory_Heights__Heights_FormIntSymm_proof_9a40e923f73c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:08.180075+00:00
 -- url     : https://prove2.me/theorems/c39f8456-2fa3-5082-aa46-67ef75e437e7

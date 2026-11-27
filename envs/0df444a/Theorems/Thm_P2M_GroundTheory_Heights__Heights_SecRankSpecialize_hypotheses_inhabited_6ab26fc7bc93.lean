@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SecRankSpecialize_hypotheses_inhabited_6ab26fc7bc93
 -- name    : P2M_GroundTheory_Heights__Heights_SecRankSpecialize_hypotheses_inhabited_6ab26fc7bc93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:36:27.441094+00:00
 -- url     : https://prove2.me/theorems/4df6be36-c4ad-5cae-b147-430abe9c87e3

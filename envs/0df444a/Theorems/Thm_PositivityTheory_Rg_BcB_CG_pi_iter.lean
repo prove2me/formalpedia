@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_CG_pi_iter
 -- name    : PositivityTheory.Rg.BcB.CG.pi_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:05.48651+00:00
 -- url     : https://prove2.me/theorems/c0abc8a0-0e0c-4448-8d02-be964e9240be

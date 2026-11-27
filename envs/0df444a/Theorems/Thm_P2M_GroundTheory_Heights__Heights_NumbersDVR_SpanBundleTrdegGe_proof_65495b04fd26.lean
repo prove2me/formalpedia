@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_proof_65495b04fd26
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_proof_65495b04fd26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:34:02.198084+00:00
 -- url     : https://prove2.me/theorems/731d9fe1-ffe6-433b-bbf5-65e87603df01

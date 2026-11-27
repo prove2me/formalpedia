@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lowerBound_along_residues
 -- name    : GlobalTheory.lowerBound_along_residues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:10.252226+00:00
 -- url     : https://prove2.me/theorems/0d0dc200-c05a-5d20-8d0f-86f0cc246146

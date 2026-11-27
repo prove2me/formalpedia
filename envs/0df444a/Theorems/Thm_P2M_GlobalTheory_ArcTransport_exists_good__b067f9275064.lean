@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ArcTransport_exists_good__b067f9275064
 -- name    : P2M_GlobalTheory_ArcTransport_exists_good__b067f9275064
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:27:03.92151+00:00
 -- url     : https://prove2.me/theorems/32903c56-37f8-5b0e-9457-04462009218f

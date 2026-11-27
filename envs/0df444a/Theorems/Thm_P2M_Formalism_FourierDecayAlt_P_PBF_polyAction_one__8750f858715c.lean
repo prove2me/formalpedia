@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBF_polyAction_one__8750f858715c
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBF_polyAction_one__8750f858715c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:38.301337+00:00
 -- url     : https://prove2.me/theorems/07dc7621-fbef-5822-a0a9-05c17d5a1732

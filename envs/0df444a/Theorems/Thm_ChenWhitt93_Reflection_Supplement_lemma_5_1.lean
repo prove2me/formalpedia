@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_Supplement_lemma_5_1
 -- name    : ChenWhitt93.Reflection.Supplement.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:55:32.825639+00:00
 -- url     : https://prove2.me/theorems/3301807f-a796-4d31-94fb-279968d7076b

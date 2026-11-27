@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_herm_EFf
 -- name    : GlobalTheory.existsUnique_herm_EFf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:48.567035+00:00
 -- url     : https://prove2.me/theorems/0dcb2924-9754-46e7-ac70-11fb1e207c2c

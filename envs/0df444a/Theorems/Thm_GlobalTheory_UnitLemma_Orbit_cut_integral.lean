@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_cut_integral
 -- name    : GlobalTheory.UnitLemma.Orbit.cut_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:39.846029+00:00
 -- url     : https://prove2.me/theorems/5f741ede-d1c3-5204-a85c-5e787d041cea

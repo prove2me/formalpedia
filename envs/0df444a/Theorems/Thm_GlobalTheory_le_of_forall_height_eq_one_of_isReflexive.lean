@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_of_forall_height_eq_one_of_isReflexive
 -- name    : GlobalTheory.le_of_forall_height_eq_one_of_isReflexive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:25.391523+00:00
 -- url     : https://prove2.me/theorems/58b328b4-a65c-43b1-bd74-2723e4a5ac0d

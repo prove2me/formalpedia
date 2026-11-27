@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_range_fderiv_lt_of_volume_image_eq_zero
 -- name    : GlobalTheory.finrank_range_fderiv_lt_of_volume_image_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:14.393139+00:00
 -- url     : https://prove2.me/theorems/b88c4e09-0eeb-5329-99a2-f2e3e8d77747

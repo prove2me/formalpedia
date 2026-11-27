@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerZeroSpec_proof_8f41ac6bb216
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerZeroSpec_proof_8f41ac6bb216
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:30:57.751564+00:00
 -- url     : https://prove2.me/theorems/11e1bc89-de12-4025-9d06-d264cf51faec

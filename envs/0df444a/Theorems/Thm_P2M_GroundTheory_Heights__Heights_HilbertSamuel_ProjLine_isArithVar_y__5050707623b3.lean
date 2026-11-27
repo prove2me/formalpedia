@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isArithVar_y__5050707623b3
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isArithVar_y__5050707623b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:49.36215+00:00
 -- url     : https://prove2.me/theorems/92bef802-31b1-5036-b0cd-9c60c14f339e

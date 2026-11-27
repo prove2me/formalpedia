@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_laU_odd
 -- name    : GlobalTheory.UnifDataTest.laU_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:01.761574+00:00
 -- url     : https://prove2.me/theorems/d8f0f3ac-96b7-4178-9296-ced48190bb0d

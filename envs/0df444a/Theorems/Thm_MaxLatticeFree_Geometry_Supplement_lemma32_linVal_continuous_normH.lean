@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_Supplement_lemma32_linVal_continuous_normH
 -- name    : MaxLatticeFree.Geometry.Supplement.lemma32_linVal_continuous_normH
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:02:17.692874+00:00
 -- url     : https://prove2.me/theorems/a8236615-e487-4d74-b93b-6276da652e03

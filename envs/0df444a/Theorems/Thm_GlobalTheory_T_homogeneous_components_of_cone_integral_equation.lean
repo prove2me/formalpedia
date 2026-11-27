@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_homogeneous_components_of_cone_integral_equation
 -- name    : GlobalTheory.T.homogeneous_components_of_cone_integral_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:46.06433+00:00
 -- url     : https://prove2.me/theorems/602ba6d8-5ccd-4115-8a1b-5255f8c41146

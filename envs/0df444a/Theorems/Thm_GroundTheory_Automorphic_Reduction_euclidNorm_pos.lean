@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_pos
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:53.311399+00:00
 -- url     : https://prove2.me/theorems/457b89d0-3622-5b8e-a8c8-543684a54948

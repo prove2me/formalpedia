@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_metaplecticRepresentation_holds
 -- name    : GlobalTheory.metaplecticRepresentation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:39.790568+00:00
 -- url     : https://prove2.me/theorems/cecf5492-c242-5f1b-a8cc-7e18bad9d11a

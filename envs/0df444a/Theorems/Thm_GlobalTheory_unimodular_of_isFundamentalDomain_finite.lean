@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unimodular_of_isFundamentalDomain_finite
 -- name    : GlobalTheory.unimodular_of_isFundamentalDomain_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:09.226162+00:00
 -- url     : https://prove2.me/theorems/18548387-fa5f-5264-90f8-9c0bfbe28755

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuationPoint_eq_exp
 -- name    : GroundTheory.Arith.Abelian.valuationPoint_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:00.930404+00:00
 -- url     : https://prove2.me/theorems/8522fa37-fa4d-5a95-91f2-f8e41fecff39

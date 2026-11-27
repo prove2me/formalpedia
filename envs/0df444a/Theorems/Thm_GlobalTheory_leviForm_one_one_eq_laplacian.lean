@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leviForm_one_one_eq_laplacian
 -- name    : GlobalTheory.leviForm_one_one_eq_laplacian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:01.683888+00:00
 -- url     : https://prove2.me/theorems/cd70cffe-f4d2-4e4e-9709-f0fb784d4436

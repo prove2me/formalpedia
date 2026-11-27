@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_conjTranspose_preservesIndefJ_5d6a03c17248
 -- name    : P2M_GroundTheory_Heights__Theta_conjTranspose_preservesIndefJ_5d6a03c17248
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:26.409632+00:00
 -- url     : https://prove2.me/theorems/0d7c8c15-e1c3-5ab4-9688-237bc0bddd2f

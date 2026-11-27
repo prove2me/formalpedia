@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCont_exists_slice
 -- name    : GlobalTheory.WeilCont.exists_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:22.344391+00:00
 -- url     : https://prove2.me/theorems/b64007c5-59e9-5ea0-aaee-306ac5156fe6

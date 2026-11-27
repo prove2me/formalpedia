@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Sh_pt6__551763a68825
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Sh_pt6__551763a68825
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:34.757787+00:00
 -- url     : https://prove2.me/theorems/5e120b94-8473-4fdc-916d-be0e7d99e3fd

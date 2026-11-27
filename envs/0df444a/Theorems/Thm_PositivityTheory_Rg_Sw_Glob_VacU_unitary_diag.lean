@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_VacU_unitary_diag
 -- name    : PositivityTheory.Rg.Sw.Glob.VacU.unitary_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:53:04.18738+00:00
 -- url     : https://prove2.me/theorems/dd06b63a-3485-40c0-b05e-4a253ebc6536

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_smallSections_hypotheses_block_power_c19766cd189f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_smallSections_hypotheses_block_power_c19766cd189f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:15:43.516343+00:00
 -- url     : https://prove2.me/theorems/f582a18b-7eda-54ec-aa26-72729ba7d817

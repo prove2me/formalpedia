@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_full_8c7b028900ff
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_full_8c7b028900ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:31:48.79514+00:00
 -- url     : https://prove2.me/theorems/0631d31e-ebe0-5efc-90ce-1d298677dc25

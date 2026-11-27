@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_nonnegDom_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.nonnegDom_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:27:44.290064+00:00
 -- url     : https://prove2.me/theorems/29769a7d-4d62-40cc-a99a-82767b902f9f

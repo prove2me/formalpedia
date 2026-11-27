@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_formal_log_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.formal_log_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:37:59.835947+00:00
 -- url     : https://prove2.me/theorems/095c01e2-42cd-4421-b4cb-6ae4065bbf68

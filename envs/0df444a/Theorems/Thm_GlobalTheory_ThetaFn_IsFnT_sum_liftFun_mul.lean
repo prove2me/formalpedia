@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnT_sum_liftFun_mul
 -- name    : GlobalTheory.ThetaFn.IsFnT.sum_liftFun_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:02.166993+00:00
 -- url     : https://prove2.me/theorems/ee692b7a-3c14-4fc0-85ef-75fe758d6768

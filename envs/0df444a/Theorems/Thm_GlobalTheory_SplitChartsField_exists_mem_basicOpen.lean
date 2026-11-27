@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitChartsField_exists_mem_basicOpen
 -- name    : GlobalTheory.SplitChartsField.exists_mem_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:01:27.250286+00:00
 -- url     : https://prove2.me/theorems/3f5fcf1f-7468-4a29-8fff-efffc796d8fe

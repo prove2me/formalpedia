@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocAwaySpec_proof_4d1ec4825297
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocAwaySpec_proof_4d1ec4825297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:25:43.894214+00:00
 -- url     : https://prove2.me/theorems/7a65fda8-e855-53f6-867f-058d755d61cd

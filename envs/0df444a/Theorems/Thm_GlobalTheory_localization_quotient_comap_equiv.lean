@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localization_quotient_comap_equiv
 -- name    : GlobalTheory.localization_quotient_comap_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:12.6058+00:00
 -- url     : https://prove2.me/theorems/200e94dc-485d-4aac-8397-18445261d665

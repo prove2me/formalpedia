@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_coordMap_injective
 -- name    : GlobalTheory.TorusCoord.coordMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:37.371798+00:00
 -- url     : https://prove2.me/theorems/a9ee3b90-9881-52c1-a50e-f8cb94e8e5ad

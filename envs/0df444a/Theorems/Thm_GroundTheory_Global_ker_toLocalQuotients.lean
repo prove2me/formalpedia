@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ker_toLocalQuotients
 -- name    : GroundTheory.Global.ker_toLocalQuotients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:42.094035+00:00
 -- url     : https://prove2.me/theorems/44054b90-0c6b-5084-9245-c26947c01432

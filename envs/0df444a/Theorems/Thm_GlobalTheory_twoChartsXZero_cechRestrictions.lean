@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twoChartsXZero_cechRestrictions
 -- name    : GlobalTheory.twoChartsXZero_cechRestrictions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:51.579203+00:00
 -- url     : https://prove2.me/theorems/13cf08dc-9f4c-5e05-a7f0-974da4434aa1

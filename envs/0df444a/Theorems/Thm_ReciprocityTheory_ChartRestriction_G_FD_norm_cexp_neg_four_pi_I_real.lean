@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_norm_cexp_neg_four_pi_I_real
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.norm_cexp_neg_four_pi_I_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:39.558636+00:00
 -- url     : https://prove2.me/theorems/ec6892a6-43e9-4ed1-89fa-444a7b113ce2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_proof_a27fe217e109
 -- name    : P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_proof_a27fe217e109
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:09.437148+00:00
 -- url     : https://prove2.me/theorems/49c7dae9-db7a-444a-a92c-5e25739b8825

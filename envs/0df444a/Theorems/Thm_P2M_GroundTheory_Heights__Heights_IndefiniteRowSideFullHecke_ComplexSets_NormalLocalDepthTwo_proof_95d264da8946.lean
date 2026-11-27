@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocalDepthTwo_proof_95d264da8946
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocalDepthTwo_proof_95d264da8946
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:47.771978+00:00
 -- url     : https://prove2.me/theorems/9dce8825-73c7-5d74-84f4-462044690f0e

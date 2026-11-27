@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairJoinRight_proof_88a9de3bed1d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairJoinRight_proof_88a9de3bed1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:32:40.059788+00:00
 -- url     : https://prove2.me/theorems/5a282054-fbff-410d-88a7-bbc9a7831b33

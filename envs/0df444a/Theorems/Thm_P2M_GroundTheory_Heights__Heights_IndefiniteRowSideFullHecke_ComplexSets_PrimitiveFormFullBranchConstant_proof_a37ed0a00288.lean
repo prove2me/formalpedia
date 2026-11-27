@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimitiveFormFullBranchConstant_proof_a37ed0a00288
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PrimitiveFormFullBranchConstant_proof_a37ed0a00288
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:17:21.323475+00:00
 -- url     : https://prove2.me/theorems/00afc9ef-4110-5a63-ab4f-b7e4443d7588

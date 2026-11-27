@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_powerSeries_reading_groupHom_nilpotentCharts
 -- name    : GlobalTheory.T.exists_powerSeries_reading_groupHom_nilpotentCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:05:08.292689+00:00
 -- url     : https://prove2.me/theorems/39e53374-e6ee-4dd5-96cb-ebf69f051bf4

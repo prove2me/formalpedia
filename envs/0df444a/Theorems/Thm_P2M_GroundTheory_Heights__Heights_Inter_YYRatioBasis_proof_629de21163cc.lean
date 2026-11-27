@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_YYRatioBasis_proof_629de21163cc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_YYRatioBasis_proof_629de21163cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:28:05.270862+00:00
 -- url     : https://prove2.me/theorems/f32fb8dd-6c6f-57b0-8b3c-11cc1b12e109

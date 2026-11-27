@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightMetricChange_8390543b9bc2
 -- name    : P2M_GroundTheory_Heights__Heights_heightMetricChange_8390543b9bc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:58.099426+00:00
 -- url     : https://prove2.me/theorems/4a9d06cf-f743-4c50-8c02-5916dd5c10cf

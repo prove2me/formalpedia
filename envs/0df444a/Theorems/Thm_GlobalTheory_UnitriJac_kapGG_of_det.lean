@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_kapGG_of_det
 -- name    : GlobalTheory.UnitriJac.kapGG_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:47.187046+00:00
 -- url     : https://prove2.me/theorems/b324ebf2-7cfb-5b4c-b061-ab6117d9581a

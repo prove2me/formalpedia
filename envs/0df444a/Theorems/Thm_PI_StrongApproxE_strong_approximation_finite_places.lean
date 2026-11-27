@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StrongApproxE_strong_approximation_finite_places
 -- name    : PI.StrongApproxE.strong_approximation_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:47:43.723794+00:00
 -- url     : https://prove2.me/theorems/b688f305-4582-5772-9482-2f6ab6bb67c6

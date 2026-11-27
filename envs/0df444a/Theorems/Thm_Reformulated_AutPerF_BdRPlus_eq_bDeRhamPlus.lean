@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_eq_bDeRhamPlus
 -- name    : Reformulated.AutPerF.BdRPlus.eq_bDeRhamPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:38.580181+00:00
 -- url     : https://prove2.me/theorems/e18d48c5-eb1e-4e13-9e69-1a0358635b5b

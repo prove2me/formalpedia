@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_localise_holds
 -- name    : ReciprocityTheory.Coh.localise_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:38.087002+00:00
 -- url     : https://prove2.me/theorems/80df3012-2189-514f-b7e5-eff45a22c175

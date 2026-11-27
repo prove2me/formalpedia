@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalCurveRegularPoint_proof_bb10d4225231
 -- name    : P2M_GroundTheory_Heights__Heights_NormalCurveRegularPoint_proof_bb10d4225231
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:33.104246+00:00
 -- url     : https://prove2.me/theorems/a7dc8d07-3d0d-4dc6-a81a-d92ce634d801

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HExp_Chart_exists_density__d36e9d9e0f6a
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HExp_Chart_exists_density__d36e9d9e0f6a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:04.80638+00:00
 -- url     : https://prove2.me/theorems/4ecff977-6197-5441-bad6-71e4c1182c8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeVarSurj_proof_3a88b7dc50b1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeVarSurj_proof_3a88b7dc50b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:26:51.508382+00:00
 -- url     : https://prove2.me/theorems/8cd4922e-0857-5294-8c64-5f2dd658d3b7

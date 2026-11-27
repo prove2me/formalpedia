@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coh_toH_map
 -- name    : GlobalTheory.coh.toH_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:55.324448+00:00
 -- url     : https://prove2.me/theorems/45d6c054-6e2a-5b13-8348-f4b7c60d84c8

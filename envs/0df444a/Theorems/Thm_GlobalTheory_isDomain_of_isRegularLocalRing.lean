@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_of_isRegularLocalRing
 -- name    : GlobalTheory.isDomain_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:56.361842+00:00
 -- url     : https://prove2.me/theorems/4959b485-f84e-4e77-b22f-731f73b82833

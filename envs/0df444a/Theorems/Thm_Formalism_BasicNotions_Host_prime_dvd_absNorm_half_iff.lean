@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_prime_dvd_absNorm_half_iff
 -- name    : Formalism.BasicNotions.Host.prime_dvd_absNorm_half_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:41:42.483689+00:00
 -- url     : https://prove2.me/theorems/435d9766-d0de-48df-9d6c-9fdcb6ab5f33

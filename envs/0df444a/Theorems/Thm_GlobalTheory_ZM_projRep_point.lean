@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_projRep_point
 -- name    : GlobalTheory.ZM.projRep_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:05.935184+00:00
 -- url     : https://prove2.me/theorems/fd85eb29-a6e3-4114-8100-783acefb6f9f

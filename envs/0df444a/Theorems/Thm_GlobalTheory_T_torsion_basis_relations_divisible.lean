@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsion_basis_relations_divisible
 -- name    : GlobalTheory.T.torsion_basis_relations_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:47.384127+00:00
 -- url     : https://prove2.me/theorems/a790dda7-a2e8-510a-975f-a98252931787

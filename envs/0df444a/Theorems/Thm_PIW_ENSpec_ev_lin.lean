@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ENSpec_ev_lin
 -- name    : PIW.ENSpec.ev_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:27.845288+00:00
 -- url     : https://prove2.me/theorems/8e7d56a2-278b-4336-a74d-ab4428fd26a6

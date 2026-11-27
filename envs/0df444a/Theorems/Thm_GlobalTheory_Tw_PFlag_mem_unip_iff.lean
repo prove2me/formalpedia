@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_mem_unip_iff
 -- name    : GlobalTheory.Tw.PFlag.mem_unip_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:37.343638+00:00
 -- url     : https://prove2.me/theorems/bce8f0ba-a675-5be8-a2bd-1ab027a1d989

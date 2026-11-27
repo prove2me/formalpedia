@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_padic_ringHom_eq
 -- name    : GlobalTheory.norm_padic_ringHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:54.612895+00:00
 -- url     : https://prove2.me/theorems/69c0b914-95c0-5ec7-b8d3-f3bec7d71c01

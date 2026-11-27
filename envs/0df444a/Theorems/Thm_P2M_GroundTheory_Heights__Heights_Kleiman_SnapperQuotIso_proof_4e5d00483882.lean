@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotIso_proof_4e5d00483882
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperQuotIso_proof_4e5d00483882
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:29:06.519712+00:00
 -- url     : https://prove2.me/theorems/d96d5158-9a0b-49f0-b958-edf154971b3f

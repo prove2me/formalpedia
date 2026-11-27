@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_toricPointExtension_tangentSeq_equivariant
 -- name    : GlobalTheory.T.toricPointExtension_tangentSeq_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:25:31.184856+00:00
 -- url     : https://prove2.me/theorems/bed82ed9-a6fa-5492-9691-df56b6f4eed7

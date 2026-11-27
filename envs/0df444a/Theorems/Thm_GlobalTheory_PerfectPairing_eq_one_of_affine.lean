@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_eq_one_of_affine
 -- name    : GlobalTheory.PerfectPairing.eq_one_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:23:42.264396+00:00
 -- url     : https://prove2.me/theorems/512a0c45-8e9b-59b2-b9f1-1ec97ca410d6

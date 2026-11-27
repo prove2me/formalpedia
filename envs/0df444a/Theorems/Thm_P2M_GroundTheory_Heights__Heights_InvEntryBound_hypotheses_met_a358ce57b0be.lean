@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvEntryBound_hypotheses_met_a358ce57b0be
 -- name    : P2M_GroundTheory_Heights__Heights_InvEntryBound_hypotheses_met_a358ce57b0be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:26:37.275067+00:00
 -- url     : https://prove2.me/theorems/3a148aa1-e0e0-5f35-a790-9cac52226786

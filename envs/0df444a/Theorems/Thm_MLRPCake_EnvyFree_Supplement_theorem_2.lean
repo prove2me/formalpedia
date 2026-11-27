@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLRPCake_EnvyFree_Supplement_theorem_2
 -- name    : MLRPCake.EnvyFree.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:06:13.71184+00:00
 -- url     : https://prove2.me/theorems/aba88710-b411-4c46-8605-cf41b315212e

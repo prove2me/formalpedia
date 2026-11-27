@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingNoeth_proof_0fc554ecc399
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingNoeth_proof_0fc554ecc399
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:27:44.074261+00:00
 -- url     : https://prove2.me/theorems/43730014-cb21-5c8f-86df-6526fabe277a

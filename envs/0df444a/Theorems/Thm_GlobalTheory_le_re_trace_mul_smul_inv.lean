@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_re_trace_mul_smul_inv
 -- name    : GlobalTheory.le_re_trace_mul_smul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:33.16949+00:00
 -- url     : https://prove2.me/theorems/6ec87efc-564e-44f3-9a84-432abe972a8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homology_of_free_complex_of_isFiniteLength
 -- name    : GlobalTheory.homology_of_free_complex_of_isFiniteLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:49.146021+00:00
 -- url     : https://prove2.me/theorems/b18441ee-a009-4485-92cd-ca950edd7dfd

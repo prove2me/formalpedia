@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_signedLength_span_basis_eq_log_ordFrac_det
 -- name    : GlobalTheory.signedLength_span_basis_eq_log_ordFrac_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:42.22845+00:00
 -- url     : https://prove2.me/theorems/2a1baa74-053c-43ed-8323-2bd5435af21a

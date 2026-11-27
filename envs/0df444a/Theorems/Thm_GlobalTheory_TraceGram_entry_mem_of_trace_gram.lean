@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceGram_entry_mem_of_trace_gram
 -- name    : GlobalTheory.TraceGram.entry_mem_of_trace_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:33.765494+00:00
 -- url     : https://prove2.me/theorems/2964c9ce-1a5e-4e15-9783-2e113c138b1e

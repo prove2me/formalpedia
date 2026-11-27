@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_QiP_comp_mulPt
 -- name    : PositivityTheory.PrwZar.QiP.comp_mulPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:03:36.162921+00:00
 -- url     : https://prove2.me/theorems/efc469bd-b633-5c48-949d-6ccdaa301f46

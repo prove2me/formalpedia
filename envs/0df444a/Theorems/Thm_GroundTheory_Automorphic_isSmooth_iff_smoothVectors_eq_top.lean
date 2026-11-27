@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_iff_smoothVectors_eq_top
 -- name    : GroundTheory.Automorphic.isSmooth_iff_smoothVectors_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:42.446372+00:00
 -- url     : https://prove2.me/theorems/19402d2c-9bc9-49c8-acbc-fc2fa8157e5d

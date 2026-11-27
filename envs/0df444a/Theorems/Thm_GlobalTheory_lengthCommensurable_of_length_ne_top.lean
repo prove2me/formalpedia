@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_of_length_ne_top
 -- name    : GlobalTheory.lengthCommensurable_of_length_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:54.026433+00:00
 -- url     : https://prove2.me/theorems/1cfc69b7-900d-4ecc-8717-2d4b9c15c280

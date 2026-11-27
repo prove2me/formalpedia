@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_presheafCubeEmptyEquiv_apply
 -- name    : GlobalTheory.presheafCubeEmptyEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:12.84563+00:00
 -- url     : https://prove2.me/theorems/4bc9018e-9c2e-4f1b-b460-9bf86cb95a1a

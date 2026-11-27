@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_continuous_coord
 -- name    : PI.InvTopW.continuous_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:45:50.468358+00:00
 -- url     : https://prove2.me/theorems/cdaeef3a-644b-5714-8e67-934f51837a29

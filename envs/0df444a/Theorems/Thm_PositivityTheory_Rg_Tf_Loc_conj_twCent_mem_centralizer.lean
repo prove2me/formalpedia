@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_conj_twCent_mem_centralizer
 -- name    : PositivityTheory.Rg.Tf.Loc.conj_twCent_mem_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:12.866715+00:00
 -- url     : https://prove2.me/theorems/9e867640-0411-5219-9e51-8998eae451b3

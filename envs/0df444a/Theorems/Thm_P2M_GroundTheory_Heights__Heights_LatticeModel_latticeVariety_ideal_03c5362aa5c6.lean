@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_latticeVariety_ideal_03c5362aa5c6
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_latticeVariety_ideal_03c5362aa5c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:10.771309+00:00
 -- url     : https://prove2.me/theorems/c849c1dc-2e70-48a3-b6e4-c5fb72939cb9

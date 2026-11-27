@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GlobalFunctionsIntegral_proof_c966c963ce89
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GlobalFunctionsIntegral_proof_c966c963ce89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:29.736214+00:00
 -- url     : https://prove2.me/theorems/deca43cb-99cc-5b10-8ac6-0ca7c2c58c03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SubQuotient_proof_e6af52f4a40d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SubQuotient_proof_e6af52f4a40d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:37:36.331599+00:00
 -- url     : https://prove2.me/theorems/78f1ec24-c79c-5e8b-b206-a1542175d6cb

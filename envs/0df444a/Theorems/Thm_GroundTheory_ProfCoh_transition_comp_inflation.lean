@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_transition_comp_inflation
 -- name    : GroundTheory.ProfCoh.transition_comp_inflation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:08:00.680972+00:00
 -- url     : https://prove2.me/theorems/9f176df3-1d5f-4ffa-9c47-6d405a08b872

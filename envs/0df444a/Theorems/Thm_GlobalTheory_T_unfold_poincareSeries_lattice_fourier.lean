@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unfold_poincareSeries_lattice_fourier
 -- name    : GlobalTheory.T.unfold_poincareSeries_lattice_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:30.616836+00:00
 -- url     : https://prove2.me/theorems/b54b1924-f287-47ff-aaaf-111f75e4b3ff

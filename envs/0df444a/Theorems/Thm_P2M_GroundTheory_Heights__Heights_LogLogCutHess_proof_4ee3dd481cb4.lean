@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogLogCutHess_proof_4ee3dd481cb4
 -- name    : P2M_GroundTheory_Heights__Heights_LogLogCutHess_proof_4ee3dd481cb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:37.471584+00:00
 -- url     : https://prove2.me/theorems/68e68d8e-c136-57b7-bab8-ef4997bfdb16

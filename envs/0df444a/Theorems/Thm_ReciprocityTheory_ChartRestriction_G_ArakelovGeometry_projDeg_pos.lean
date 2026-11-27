@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_projDeg_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.projDeg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:00.219295+00:00
 -- url     : https://prove2.me/theorems/2359e038-99fd-4140-b7e1-eb5ec59125f6

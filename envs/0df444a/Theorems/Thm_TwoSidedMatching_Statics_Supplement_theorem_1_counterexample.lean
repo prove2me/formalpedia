@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_Statics_Supplement_theorem_1_counterexample
 -- name    : TwoSidedMatching.Statics.Supplement.theorem_1_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:05:18.238166+00:00
 -- url     : https://prove2.me/theorems/4009f54f-0dcb-40d2-aeb1-85a22c57e4b0

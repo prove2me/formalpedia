@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_conj_of_charpoly_eq
 -- name    : GroundTheory.Automorphic.exists_conj_of_charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:26.412006+00:00
 -- url     : https://prove2.me/theorems/054a808e-79c5-5093-a7e6-789c07b1950e

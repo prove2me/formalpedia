@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_places_formPerpVector_le
 -- name    : GlobalTheory.places_formPerpVector_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:27.740896+00:00
 -- url     : https://prove2.me/theorems/bf2024bd-0caa-568f-a157-1b11d7cb5a75

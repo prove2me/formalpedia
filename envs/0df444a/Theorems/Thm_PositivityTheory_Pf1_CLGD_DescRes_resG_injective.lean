@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Pf1_CLGD_DescRes_resG_injective
 -- name    : PositivityTheory.Pf1.CLGD.DescRes.resG_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:57:40.586615+00:00
 -- url     : https://prove2.me/theorems/1e3c0b05-0dd1-5afe-96d7-2ed2e027b509

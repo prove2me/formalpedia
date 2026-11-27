@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_nat_notMem
 -- name    : PI.SqPairLocal.nat_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:47:35.472698+00:00
 -- url     : https://prove2.me/theorems/889cd7bf-f3eb-5178-b0a1-c0ff7e9397a1

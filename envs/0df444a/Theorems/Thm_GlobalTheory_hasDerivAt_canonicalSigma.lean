@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasDerivAt_canonicalSigma
 -- name    : GlobalTheory.hasDerivAt_canonicalSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:08.201258+00:00
 -- url     : https://prove2.me/theorems/6eebd71c-82d6-4f94-b766-6a5c8932c1a1

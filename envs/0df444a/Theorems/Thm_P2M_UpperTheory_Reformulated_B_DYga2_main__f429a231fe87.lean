@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_DYga2_main__f429a231fe87
 -- name    : P2M_UpperTheory_Reformulated_B_DYga2_main__f429a231fe87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:02.016116+00:00
 -- url     : https://prove2.me/theorems/8ad71ad5-2b78-4ec0-97df-be7a82e12471

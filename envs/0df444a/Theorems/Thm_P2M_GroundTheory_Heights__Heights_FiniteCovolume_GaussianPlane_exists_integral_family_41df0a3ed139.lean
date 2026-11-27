@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_exists_integral_family_41df0a3ed139
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_exists_integral_family_41df0a3ed139
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:24.185399+00:00
 -- url     : https://prove2.me/theorems/71f7c586-08b3-5fdc-bbf1-4604cc89f632

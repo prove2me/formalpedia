@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_CapelliAbsoluteValue_abs
 -- name    : UpperTheory.Reformulated.B.CapelliAbsoluteValue.abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:25.998804+00:00
 -- url     : https://prove2.me/theorems/df8c0401-b3c2-4e98-a238-948821818b4d

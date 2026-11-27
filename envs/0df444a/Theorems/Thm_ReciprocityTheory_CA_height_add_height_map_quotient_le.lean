@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_height_map_quotient_le
 -- name    : ReciprocityTheory.CA.height_add_height_map_quotient_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:03:25.429512+00:00
 -- url     : https://prove2.me/theorems/649a8e6e-a834-5cc9-ae68-eaea4ba1a6a0

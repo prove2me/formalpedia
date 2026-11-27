@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntegralSection_exists_multihomog_witness_of_nonzeroAt_ad676ed0d0dd
 -- name    : P2M_GroundTheory_Heights__Heights_IntegralSection_exists_multihomog_witness_of_nonzeroAt_ad676ed0d0dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:27:13.43532+00:00
 -- url     : https://prove2.me/theorems/4c62b022-7f94-4c01-8a1a-b983db15606b

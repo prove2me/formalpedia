@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassDivisionAtPoint_proof_6a0145f3c8a2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassDivisionAtPoint_proof_6a0145f3c8a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:57.775086+00:00
 -- url     : https://prove2.me/theorems/907f4413-3e27-4777-9664-6d220c42aa56

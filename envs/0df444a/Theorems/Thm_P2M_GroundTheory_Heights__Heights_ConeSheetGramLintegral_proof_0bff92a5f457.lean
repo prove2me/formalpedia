@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeSheetGramLintegral_proof_0bff92a5f457
 -- name    : P2M_GroundTheory_Heights__Heights_ConeSheetGramLintegral_proof_0bff92a5f457
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:17:01.470946+00:00
 -- url     : https://prove2.me/theorems/7403aa85-3393-47f6-9751-60b3cd7a60c9

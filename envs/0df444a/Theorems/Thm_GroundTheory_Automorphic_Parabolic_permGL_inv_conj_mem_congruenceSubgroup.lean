@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_permGL_inv_conj_mem_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.Parabolic.permGL_inv_conj_mem_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:13.010714+00:00
 -- url     : https://prove2.me/theorems/882401d0-dced-5159-97bb-12784afce83b

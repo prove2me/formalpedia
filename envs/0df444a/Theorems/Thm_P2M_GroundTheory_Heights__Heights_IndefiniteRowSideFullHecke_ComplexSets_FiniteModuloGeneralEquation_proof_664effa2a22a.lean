@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteModuloGeneralEquation_proof_664effa2a22a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteModuloGeneralEquation_proof_664effa2a22a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:16:16.686383+00:00
 -- url     : https://prove2.me/theorems/d25ce744-45dd-5c25-bffa-7ffd9521170c

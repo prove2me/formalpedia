@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesRebate_NoIncreasing_Supplement_theorem_5
 -- name    : SalesRebate.NoIncreasing.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:22:31.79213+00:00
 -- url     : https://prove2.me/theorems/a9334aa3-f452-444d-aa18-3afef44ad5d5

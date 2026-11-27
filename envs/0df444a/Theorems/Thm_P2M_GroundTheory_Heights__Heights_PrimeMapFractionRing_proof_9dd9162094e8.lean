@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeMapFractionRing_proof_9dd9162094e8
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeMapFractionRing_proof_9dd9162094e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:19.029803+00:00
 -- url     : https://prove2.me/theorems/2c7dc6be-46cb-4f77-98e5-000f27981eb5

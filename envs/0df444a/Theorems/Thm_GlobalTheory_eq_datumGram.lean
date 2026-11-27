@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_datumGram
 -- name    : GlobalTheory.eq_datumGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:30.415366+00:00
 -- url     : https://prove2.me/theorems/feba43cb-e316-4d56-8e6e-37cc074eb2fd

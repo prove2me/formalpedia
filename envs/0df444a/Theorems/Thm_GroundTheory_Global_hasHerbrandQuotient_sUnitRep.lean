@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasHerbrandQuotient_sUnitRep
 -- name    : GroundTheory.Global.hasHerbrandQuotient_sUnitRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:59.160844+00:00
 -- url     : https://prove2.me/theorems/9f4e92e0-faa7-5903-a507-5151600348a7

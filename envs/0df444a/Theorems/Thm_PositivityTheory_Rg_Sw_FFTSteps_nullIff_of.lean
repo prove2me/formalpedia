@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_nullIff_of
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.nullIff_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:53:38.332372+00:00
 -- url     : https://prove2.me/theorems/afdd5dbf-83f2-46ed-a3f4-3ebae1723250

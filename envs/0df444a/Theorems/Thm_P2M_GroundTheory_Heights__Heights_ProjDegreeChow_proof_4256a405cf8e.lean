@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjDegreeChow_proof_4256a405cf8e
 -- name    : P2M_GroundTheory_Heights__Heights_ProjDegreeChow_proof_4256a405cf8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:05.67398+00:00
 -- url     : https://prove2.me/theorems/9a1d6655-b2da-46ea-9976-bbc962968c6c

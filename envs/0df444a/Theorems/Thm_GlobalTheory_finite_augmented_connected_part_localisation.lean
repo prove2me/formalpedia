@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_augmented_connected_part_localisation
 -- name    : GlobalTheory.finite_augmented_connected_part_localisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:54.406507+00:00
 -- url     : https://prove2.me/theorems/6cfdfbc0-1502-5c2b-b528-a19a471209e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothOfRelativeDimension_of_isPullback_isDominant
 -- name    : GlobalTheory.smoothOfRelativeDimension_of_isPullback_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:32.838717+00:00
 -- url     : https://prove2.me/theorems/8633ce0c-656e-5074-9e77-4644e0d998e5

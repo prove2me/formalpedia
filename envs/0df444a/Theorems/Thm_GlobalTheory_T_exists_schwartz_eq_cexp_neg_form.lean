@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartz_eq_cexp_neg_form
 -- name    : GlobalTheory.T.exists_schwartz_eq_cexp_neg_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:13.237647+00:00
 -- url     : https://prove2.me/theorems/d82489b3-1955-4f4e-b7a6-438ab4d852a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_eq_sum_length_localizedModule
 -- name    : GlobalTheory.length_eq_sum_length_localizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:40.0788+00:00
 -- url     : https://prove2.me/theorems/0f5ef8dc-cd36-549b-8c14-c2d884ed078b

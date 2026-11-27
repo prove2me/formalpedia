@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_PCD_fderiv_integral
 -- name    : PositivityTheory.Rg.Sw.HSt.PCD.fderiv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:52:39.439685+00:00
 -- url     : https://prove2.me/theorems/a05bb090-e292-46ba-93a3-84632f43aa0c

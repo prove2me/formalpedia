@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isClosed_range_normUnits
 -- name    : GroundTheory.LocalField.isClosed_range_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:21.117744+00:00
 -- url     : https://prove2.me/theorems/5b5e47eb-3a3c-40f1-a777-f2a2b741af8e

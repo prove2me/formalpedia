@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FluidBias_Supplement_theorem_5_counterexample
 -- name    : MarketInterference.FluidBias.Supplement.theorem_5_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:48:10.149394+00:00
 -- url     : https://prove2.me/theorems/35fef86e-fc3c-4258-bb2c-b67c64f69965

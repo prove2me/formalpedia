@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegreDimGe_proof_6cbe446ce7ad
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegreDimGe_proof_6cbe446ce7ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:33.6948+00:00
 -- url     : https://prove2.me/theorems/a738ca35-e561-4336-84a6-eb8775eb8d4b

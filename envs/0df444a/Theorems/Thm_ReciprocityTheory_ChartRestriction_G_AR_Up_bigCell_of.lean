@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_bigCell_of
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.bigCell_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:14.004338+00:00
 -- url     : https://prove2.me/theorems/cbe2792a-17f4-417a-944a-1b6d24a3906e

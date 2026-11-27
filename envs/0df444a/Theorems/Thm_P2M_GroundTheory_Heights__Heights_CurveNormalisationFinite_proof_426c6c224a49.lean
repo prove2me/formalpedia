@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveNormalisationFinite_proof_426c6c224a49
 -- name    : P2M_GroundTheory_Heights__Heights_CurveNormalisationFinite_proof_426c6c224a49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:10:44.45182+00:00
 -- url     : https://prove2.me/theorems/24201e91-b967-590d-a804-49d0736c2978

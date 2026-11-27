@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatSheetSumMeasurable_proof_317c9f9c8c16
 -- name    : P2M_GroundTheory_Heights__Heights_RatSheetSumMeasurable_proof_317c9f9c8c16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:48.567683+00:00
 -- url     : https://prove2.me/theorems/15e6c348-fe4c-5b00-b880-555ba09b27cc

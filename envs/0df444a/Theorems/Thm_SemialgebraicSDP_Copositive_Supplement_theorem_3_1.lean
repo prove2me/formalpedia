@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SemialgebraicSDP_Copositive_Supplement_theorem_3_1
 -- name    : SemialgebraicSDP.Copositive.Supplement.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:43:43.51509+00:00
 -- url     : https://prove2.me/theorems/d771491f-4b6f-4081-91ea-081cbace9cb8

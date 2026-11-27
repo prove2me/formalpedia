@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_limRep_holds
 -- name    : ReciprocityTheory.Coh.limRep_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:48.76532+00:00
 -- url     : https://prove2.me/theorems/ab903d71-a447-4793-b246-3293309ec5ae

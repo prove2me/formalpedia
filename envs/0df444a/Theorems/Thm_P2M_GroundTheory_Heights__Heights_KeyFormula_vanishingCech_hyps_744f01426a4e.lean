@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_vanishingCech_hyps_744f01426a4e
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_vanishingCech_hyps_744f01426a4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:26:18.070651+00:00
 -- url     : https://prove2.me/theorems/65b62db8-7074-46cf-8977-a865445de17a

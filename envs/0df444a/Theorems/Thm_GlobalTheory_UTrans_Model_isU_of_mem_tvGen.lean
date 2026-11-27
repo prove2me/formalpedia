@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Model_isU_of_mem_tvGen
 -- name    : GlobalTheory.UTrans.Model.isU_of_mem_tvGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:42:05.543622+00:00
 -- url     : https://prove2.me/theorems/a24425c6-4f4f-570b-a134-99f5a9ed82f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_unitPoint_isArithVar_bee5c872afd6
 -- name    : P2M_GroundTheory_Heights__Heights_unitPoint_isArithVar_bee5c872afd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:17.987617+00:00
 -- url     : https://prove2.me/theorems/7858ce35-b4e8-4e02-ad2b-d1b70c53b1e9

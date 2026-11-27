@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_normTorus_le
 -- name    : GroundTheory.Automorphic.HermitianForm.normTorus_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:53:30.227493+00:00
 -- url     : https://prove2.me/theorems/08f786ee-c510-5cbd-87aa-7fee9c8fb58f

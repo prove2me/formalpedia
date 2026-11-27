@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Md_continuous_phiW_raw
 -- name    : PI.VolSemiDirect.W.Md.continuous_phiW_raw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:22.847746+00:00
 -- url     : https://prove2.me/theorems/c699eb68-a8ac-53e0-9081-ded0c95fdba5

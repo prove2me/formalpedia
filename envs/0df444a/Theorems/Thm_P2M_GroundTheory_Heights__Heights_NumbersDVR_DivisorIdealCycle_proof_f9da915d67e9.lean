@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DivisorIdealCycle_proof_f9da915d67e9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DivisorIdealCycle_proof_f9da915d67e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:23.043055+00:00
 -- url     : https://prove2.me/theorems/2207b462-a404-5948-b006-167469fc71c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_ptDeg_eq_of_isChart
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.ptDeg_eq_of_isChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:10:35.512566+00:00
 -- url     : https://prove2.me/theorems/eece25a0-b5d5-5f45-852e-3361c1fb4667

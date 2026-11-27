@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_ClosureIsSubmonoid_hyps_173fb0052cdd
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_ClosureIsSubmonoid_hyps_173fb0052cdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:39:40.368789+00:00
 -- url     : https://prove2.me/theorems/7549c1a4-c3a7-4bc3-b7f9-dff97972cf07

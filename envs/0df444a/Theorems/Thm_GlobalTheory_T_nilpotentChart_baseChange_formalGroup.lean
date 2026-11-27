@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nilpotentChart_baseChange_formalGroup
 -- name    : GlobalTheory.T.nilpotentChart_baseChange_formalGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:14:51.533769+00:00
 -- url     : https://prove2.me/theorems/464a50cb-c35b-499a-82df-3a26cae131a3

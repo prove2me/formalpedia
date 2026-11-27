@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FieldNumbers_blockIncl_injective_5f0b79acc28b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FieldNumbers_blockIncl_injective_5f0b79acc28b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:23:18.64082+00:00
 -- url     : https://prove2.me/theorems/b36bcd57-d60f-51dc-8398-8e4c4620ac7d

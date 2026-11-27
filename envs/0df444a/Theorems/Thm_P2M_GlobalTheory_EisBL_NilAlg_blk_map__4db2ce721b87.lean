@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_EisBL_NilAlg_blk_map__4db2ce721b87
 -- name    : P2M_GlobalTheory_EisBL_NilAlg_blk_map__4db2ce721b87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:59.190345+00:00
 -- url     : https://prove2.me/theorems/49cc249f-cc56-42a2-a104-63522aeb0217

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_eq_zero_of_tower
 -- name    : GroundTheory.PAdicHodge.SenTateChar.eq_zero_of_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:31.923937+00:00
 -- url     : https://prove2.me/theorems/ea7f50f5-4e05-53db-8ae6-cf7a868020aa

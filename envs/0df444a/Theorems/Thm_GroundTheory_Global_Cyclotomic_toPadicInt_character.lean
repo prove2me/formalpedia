@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_toPadicInt_character
 -- name    : GroundTheory.Global.Cyclotomic.toPadicInt_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:34.218562+00:00
 -- url     : https://prove2.me/theorems/4c8a65c2-874c-48ed-990e-36e85bc98b05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_pullbackIso_hom_toSpec
 -- name    : GlobalTheory.WeierstrassCurve.pullbackIso_hom_toSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:15.144838+00:00
 -- url     : https://prove2.me/theorems/f0d06784-c555-4087-b85a-e4fc93e9bd7c

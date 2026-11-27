@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_one_ne_zero_spec
 -- name    : GlobalTheory.UU.SecMod.one_ne_zero_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:22.186327+00:00
 -- url     : https://prove2.me/theorems/c11bd7fe-a209-539d-88b6-562993f36883

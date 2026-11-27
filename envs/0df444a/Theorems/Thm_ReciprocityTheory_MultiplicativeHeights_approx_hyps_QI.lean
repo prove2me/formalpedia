@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approx_hyps_QI
 -- name    : ReciprocityTheory.MultiplicativeHeights.approx_hyps_QI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:18.973997+00:00
 -- url     : https://prove2.me/theorems/1d64bf43-a6ef-59ca-bdb3-c973a30d9163

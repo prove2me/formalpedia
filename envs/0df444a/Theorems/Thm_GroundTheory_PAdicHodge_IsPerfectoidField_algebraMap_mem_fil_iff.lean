@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_algebraMap_mem_fil_iff
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.algebraMap_mem_fil_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:51.229829+00:00
 -- url     : https://prove2.me/theorems/e17761cc-0e15-53e4-865b-565a37da621a

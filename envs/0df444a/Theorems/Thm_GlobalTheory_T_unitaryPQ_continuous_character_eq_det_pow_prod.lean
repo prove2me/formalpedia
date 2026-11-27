@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryPQ_continuous_character_eq_det_pow_prod
 -- name    : GlobalTheory.T.unitaryPQ_continuous_character_eq_det_pow_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:15.961491+00:00
 -- url     : https://prove2.me/theorems/2174d25e-c93b-53fa-82f3-ecff8aeaa8fe

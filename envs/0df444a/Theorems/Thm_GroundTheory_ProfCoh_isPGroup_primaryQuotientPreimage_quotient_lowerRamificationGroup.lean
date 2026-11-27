@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isPGroup_primaryQuotientPreimage_quotient_lowerRamificationGroup
 -- name    : GroundTheory.ProfCoh.isPGroup_primaryQuotientPreimage_quotient_lowerRamificationGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:46.904941+00:00
 -- url     : https://prove2.me/theorems/fa45d9d3-3ec9-4d3a-9fb7-0cbf43eea6e4

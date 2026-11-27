@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_involutive
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:45.170615+00:00
 -- url     : https://prove2.me/theorems/8842a493-a16c-48d3-9d51-cb6a0ce54327

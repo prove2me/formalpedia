@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_gram_mul_self_le
 -- name    : GroundTheory.Automorphic.gram_mul_self_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:29.988933+00:00
 -- url     : https://prove2.me/theorems/81ae5ee8-b85f-41a4-b414-7e796970bff5

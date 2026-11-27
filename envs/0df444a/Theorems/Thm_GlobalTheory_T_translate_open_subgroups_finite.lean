@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_translate_open_subgroups_finite
 -- name    : GlobalTheory.T.translate_open_subgroups_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:16.078422+00:00
 -- url     : https://prove2.me/theorems/5c8c2bf6-f44d-556f-b7ea-c13d314dac73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_degree_surjective
 -- name    : GroundTheory.Global.Cyclotomic.degree_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:54:35.705722+00:00
 -- url     : https://prove2.me/theorems/f0a70bc4-d79c-4d0f-b4dc-56ffe9c895bf

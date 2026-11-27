@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_phi_form__7b939bde157d
 -- name    : P2M_phi_form__7b939bde157d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:39.72842+00:00
 -- url     : https://prove2.me/theorems/30d530ed-3435-4def-8758-0170fffb1f49

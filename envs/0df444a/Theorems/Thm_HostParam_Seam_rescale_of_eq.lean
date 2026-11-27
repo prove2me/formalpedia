@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_rescale_of_eq
 -- name    : HostParam.Seam.rescale_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:18.614092+00:00
 -- url     : https://prove2.me/theorems/50fe633c-1f9f-5ce5-9ee7-35cff4640bda

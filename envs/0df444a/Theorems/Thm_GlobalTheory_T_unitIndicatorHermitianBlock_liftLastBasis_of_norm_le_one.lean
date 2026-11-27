@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitIndicatorHermitianBlock_liftLastBasis_of_norm_le_one
 -- name    : GlobalTheory.T.unitIndicatorHermitianBlock_liftLastBasis_of_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:15.643319+00:00
 -- url     : https://prove2.me/theorems/b87ad618-5d30-5cd7-a38a-02dce7a7a1f7

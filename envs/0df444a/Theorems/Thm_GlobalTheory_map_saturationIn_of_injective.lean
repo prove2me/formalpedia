@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_saturationIn_of_injective
 -- name    : GlobalTheory.map_saturationIn_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:18.202648+00:00
 -- url     : https://prove2.me/theorems/ef7ed99f-c629-4f2d-92a7-c47e31d1f142

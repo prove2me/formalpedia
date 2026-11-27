@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_gtDatum_prod
 -- name    : GlobalTheory.UU.exists_gtDatum_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:25:39.342802+00:00
 -- url     : https://prove2.me/theorems/db5eb3ef-3930-57e2-8df8-05e5f2abe0b5

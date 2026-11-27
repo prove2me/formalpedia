@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RamBoundW_apL_nil
 -- name    : PI.RamBoundW.apL_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:37.088096+00:00
 -- url     : https://prove2.me/theorems/6a0ad336-92a8-4e38-8bdc-1cfbad0fa2f3

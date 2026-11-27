@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_exists_harmA_ne_zero
 -- name    : GlobalTheory.ThetaClaimsCompare.exists_harmA_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:09.875888+00:00
 -- url     : https://prove2.me/theorems/15f52be9-c757-55b6-acd7-ce3f59e69c28

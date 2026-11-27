@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockBridge_proof_0f55500440ab
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockBridge_proof_0f55500440ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:09:09.611844+00:00
 -- url     : https://prove2.me/theorems/8d8ebbeb-c9f5-42f0-a7ec-811a9a45a442

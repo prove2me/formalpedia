@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_BoundedSums_prod
 -- name    : UpperTheory.Reformulated.B.BoundedSums.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:22.662472+00:00
 -- url     : https://prove2.me/theorems/78a3a859-e2f9-426b-9fba-5a899a7138e0

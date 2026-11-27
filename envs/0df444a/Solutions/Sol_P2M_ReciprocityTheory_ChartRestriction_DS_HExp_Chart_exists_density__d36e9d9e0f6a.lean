@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for P2M_ReciprocityTheory_ChartRestriction_DS_HExp_Chart_exists_density__d36e9d9e0f6a
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-27T05:14:26.677853+00:00
+-- url     : https://prove2.me/submissions/69bf4eb0-1a55-442e-ab8e-b07bfa3a140d
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_FormalDegree_HaarVolumes_HaarExpA
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_FormalDegree_HaarVolumes_HaarExpB
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_Chart_exists_density
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_exists_density
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+noncomputable section
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.DS ReciprocityTheory.ChartRestriction.DS.HExp
+open MeasureTheory Filter Topology Metric NormedSpace Set
+open scoped ENNReal NNReal
+variable {𝔸 : Type*} [NormedRing 𝔸] [NormedAlgebra ℝ 𝔸] [CompleteSpace 𝔸]
+namespace ReciprocityTheory.ChartRestriction.DS.HExp
+namespace Chart
+theorem _root_.solution {V : Submodule ℝ 𝔸} {G : Type*} [Group G] [TopologicalSpace G]
+    (C : Chart V G) (_hfd : FiniteDimensional ℝ V) (mV : MeasurableSpace V) (_hbV : BorelSpace V)
+    (mG : MeasurableSpace G) (_hbG : BorelSpace G) (_hG : IsTopologicalGroup G)
+    (μ : Measure G) (_hμ : μ.IsHaarMeasure) (lam : Measure V) (_hlam : lam.IsAddHaarMeasure) :
+    ∃ c : ℝ≥0∞, c ≠ 0 ∧ c ≠ ⊤ ∧ ∀ S : ℝ → Set V, (∀ r, MeasurableSet (S r)) →
+      (∀ δ > 0, ∀ᶠ r in 𝓝[>] (0 : ℝ), ∀ X ∈ S r, ‖(X : 𝔸)‖ < δ) →
+      (∀ᶠ r in 𝓝[>] (0 : ℝ), lam (S r) ≠ 0 ∧ lam (S r) ≠ ⊤) →
+      Tendsto (fun r => μ {g | ∃ X ∈ S r, C.mat g = exp ((X : V) : 𝔸)} / lam (S r)) (𝓝[>] 0) (𝓝 c) := by
+  obtain ⟨c, h0, ht, h⟩ := C.exists_density μ lam
+  refine ⟨c, h0, ht, fun S hm hS hS0 => h S hm (fun δ hδ => ?_) hS0⟩
+  filter_upwards [hS δ hδ] with r hr X hX
+  rw [mem_ball_zero_iff]
+  exact hr X hX
+end Chart
+end ReciprocityTheory.ChartRestriction.DS.HExp

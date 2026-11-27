@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoVaRMC_Batching_Supplement_lemma_5
 -- name    : CoVaRMC.Batching.Supplement.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:13:23.197792+00:00
 -- url     : https://prove2.me/theorems/d0feda16-c2aa-45f2-95a6-a2681ca9cbfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsionIsometry_primitiveRoot_bijective_mod_n
 -- name    : GlobalTheory.T.torsionIsometry_primitiveRoot_bijective_mod_n
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:07.468012+00:00
 -- url     : https://prove2.me/theorems/73ebe7dc-181c-5fed-ac5f-5e1386864a92

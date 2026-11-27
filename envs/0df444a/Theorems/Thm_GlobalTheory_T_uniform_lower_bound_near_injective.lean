@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_uniform_lower_bound_near_injective
 -- name    : GlobalTheory.T.uniform_lower_bound_near_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:09.722491+00:00
 -- url     : https://prove2.me/theorems/33194643-38c3-5fe4-8770-aa6d33e31482

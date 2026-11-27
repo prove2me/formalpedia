@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOnVariety_proof_d7ecdb3a6c59
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOnVariety_proof_d7ecdb3a6c59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:18.330824+00:00
 -- url     : https://prove2.me/theorems/f00ceb9a-e68e-4267-8ba4-af333b568e2e

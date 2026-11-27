@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_ResCompat_inv
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.ResCompat.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:27:43.063283+00:00
 -- url     : https://prove2.me/theorems/0ef675ea-a149-40a7-9b7b-0800ef0bfeb1

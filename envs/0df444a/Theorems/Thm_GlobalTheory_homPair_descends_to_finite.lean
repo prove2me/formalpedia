@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homPair_descends_to_finite
 -- name    : GlobalTheory.homPair_descends_to_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:17:42.804801+00:00
 -- url     : https://prove2.me/theorems/c5387e43-594c-574a-8187-02aa96c05e60

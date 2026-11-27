@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartPeriodImPos_proof_58f4e7c41de1
 -- name    : P2M_GroundTheory_Heights__Heights_ChartPeriodImPos_proof_58f4e7c41de1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:10:07.674112+00:00
 -- url     : https://prove2.me/theorems/1ef3e2bf-9d15-42d3-8e92-f9330af30cc1

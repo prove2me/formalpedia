@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogNormEnergyDensNonneg_proof_333b72926e75
 -- name    : P2M_GroundTheory_Heights__Heights_LogNormEnergyDensNonneg_proof_333b72926e75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:50:15.870102+00:00
 -- url     : https://prove2.me/theorems/90fe1a85-8d48-5031-81c9-bf8d171e3d04

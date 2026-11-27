@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeBundle_proof_acdf3cba65a0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeBundle_proof_acdf3cba65a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:27:38.942643+00:00
 -- url     : https://prove2.me/theorems/0b20410d-f34f-48d3-a63d-29dab2789c56

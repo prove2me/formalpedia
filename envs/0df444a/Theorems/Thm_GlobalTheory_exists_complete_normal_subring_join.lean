@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_normal_subring_join
 -- name    : GlobalTheory.exists_complete_normal_subring_join
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:01:08.318245+00:00
 -- url     : https://prove2.me/theorems/8952ead1-87d7-5380-8deb-4a8a85473655

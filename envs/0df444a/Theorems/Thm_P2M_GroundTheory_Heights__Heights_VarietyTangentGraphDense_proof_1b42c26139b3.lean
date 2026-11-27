@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:23:39.456017+00:00
 -- url     : https://prove2.me/theorems/701533f9-3603-4ac8-af72-f2be792acb35

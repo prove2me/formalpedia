@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lf_rhoHol_sub_rhoN
 -- name    : ReciprocityTheory.ChartRestriction.DS.lf_rhoHol_sub_rhoN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:59.834133+00:00
 -- url     : https://prove2.me/theorems/1b9b53f3-daf0-53ad-8423-02060c53413e

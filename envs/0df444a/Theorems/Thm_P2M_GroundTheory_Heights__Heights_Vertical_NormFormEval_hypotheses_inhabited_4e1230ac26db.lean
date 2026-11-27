@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormEval_hypotheses_inhabited_4e1230ac26db
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormEval_hypotheses_inhabited_4e1230ac26db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:41:00.605682+00:00
 -- url     : https://prove2.me/theorems/5b347354-9b5a-40a3-8344-488ef095a561

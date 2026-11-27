@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_smul_vec
 -- name    : GlobalTheory.isoTransvection.smul_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:34.0609+00:00
 -- url     : https://prove2.me/theorems/0d08e42f-f6a1-4cfb-a48b-390b370c2ed5

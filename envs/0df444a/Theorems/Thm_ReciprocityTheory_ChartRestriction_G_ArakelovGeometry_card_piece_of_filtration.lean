@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_piece_of_filtration
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_piece_of_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:11:11.333785+00:00
 -- url     : https://prove2.me/theorems/23d2daba-893f-5408-b894-72306fb215b5

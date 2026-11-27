@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_MultisetSeparation_msetSep
 -- name    : UpperTheory.Reformulated.B.MultisetSeparation.msetSep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:44:39.152967+00:00
 -- url     : https://prove2.me/theorems/96b7f6b9-653a-4010-885f-36a9dded22ce

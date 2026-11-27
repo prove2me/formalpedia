@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hsNorm_adjoint
 -- name    : GroundTheory.Automorphic.hsNorm_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:18.744603+00:00
 -- url     : https://prove2.me/theorems/26c5f6a7-72cd-4cb2-ade9-02cd68152154

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_biadditive_bilinear
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.biadditive_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:26:16.833164+00:00
 -- url     : https://prove2.me/theorems/49ff1fcd-593f-4c28-84a7-e03e60c1c447

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_twistLevi
 -- name    : ReciprocityTheory.L2DbarEstimates.I.twistLevi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:21.992949+00:00
 -- url     : https://prove2.me/theorems/026cefee-97fb-5ca8-8724-e03df98c3ba4

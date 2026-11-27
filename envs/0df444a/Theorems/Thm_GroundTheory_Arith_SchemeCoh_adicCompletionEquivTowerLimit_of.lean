@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_adicCompletionEquivTowerLimit_of
 -- name    : GroundTheory.Arith.SchemeCoh.adicCompletionEquivTowerLimit_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:12.046913+00:00
 -- url     : https://prove2.me/theorems/122ea595-2ee7-5103-95f0-fe6bd151a89f

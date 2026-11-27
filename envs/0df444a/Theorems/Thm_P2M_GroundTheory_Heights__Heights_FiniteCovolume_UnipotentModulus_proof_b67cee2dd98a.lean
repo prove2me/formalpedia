@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentModulus_proof_b67cee2dd98a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentModulus_proof_b67cee2dd98a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:13:21.772751+00:00
 -- url     : https://prove2.me/theorems/50d8a453-373b-5909-bf02-a7358d963e29

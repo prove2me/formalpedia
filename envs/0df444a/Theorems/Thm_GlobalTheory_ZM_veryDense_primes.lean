@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_veryDense_primes
 -- name    : GlobalTheory.ZM.veryDense_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:04.90193+00:00
 -- url     : https://prove2.me/theorems/2ea53274-f91a-40ba-9b90-96e74ea388ef

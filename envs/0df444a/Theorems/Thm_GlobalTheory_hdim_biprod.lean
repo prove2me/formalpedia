@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hdim_biprod
 -- name    : GlobalTheory.hdim_biprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:24.601803+00:00
 -- url     : https://prove2.me/theorems/bb5c16a4-ee06-4205-ba35-d3ca0143655f

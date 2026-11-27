@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_appTop_inj_of_epi
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.appTop_inj_of_epi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:41:15.262641+00:00
 -- url     : https://prove2.me/theorems/0412f320-aff4-58cd-8431-8755422c934a

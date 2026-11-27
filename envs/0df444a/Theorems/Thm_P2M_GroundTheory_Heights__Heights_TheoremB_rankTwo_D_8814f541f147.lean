@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_rankTwo_D_8814f541f147
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_rankTwo_D_8814f541f147
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:00.617413+00:00
 -- url     : https://prove2.me/theorems/c8481b83-1ee3-5232-947e-96749534e610

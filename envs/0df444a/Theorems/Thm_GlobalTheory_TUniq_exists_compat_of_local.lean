@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TUniq_exists_compat_of_local
 -- name    : GlobalTheory.TUniq.exists_compat_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:49:33.795798+00:00
 -- url     : https://prove2.me/theorems/763cc2f9-f3bc-497b-96db-93368091a193

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_translation_character_invariant_form
 -- name    : GlobalTheory.T.translation_character_invariant_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:02.208819+00:00
 -- url     : https://prove2.me/theorems/6275dd43-548b-4e10-a116-b156113645a1

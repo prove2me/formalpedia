@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_finset_prod
 -- name    : GlobalTheory.addVal_finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:00.520611+00:00
 -- url     : https://prove2.me/theorems/35656e33-90f5-5f5c-a9ca-8fae959b2389

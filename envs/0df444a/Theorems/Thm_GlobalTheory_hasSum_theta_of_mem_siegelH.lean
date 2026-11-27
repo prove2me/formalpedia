@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_theta_of_mem_siegelH
 -- name    : GlobalTheory.hasSum_theta_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:03.924152+00:00
 -- url     : https://prove2.me/theorems/7195e8dd-2630-5ca9-a721-ee5e9a3d2312

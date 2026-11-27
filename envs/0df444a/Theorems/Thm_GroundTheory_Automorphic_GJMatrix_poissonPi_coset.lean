@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_poissonPi_coset
 -- name    : GroundTheory.Automorphic.GJMatrix.poissonPi_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:57:08.390396+00:00
 -- url     : https://prove2.me/theorems/66343e8d-baaa-5132-a7d5-a06db7ca22b8

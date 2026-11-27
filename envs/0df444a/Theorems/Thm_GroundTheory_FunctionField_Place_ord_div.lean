@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_ord_div
 -- name    : GroundTheory.FunctionField.Place.ord_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:25.93689+00:00
 -- url     : https://prove2.me/theorems/321d8048-ed99-4fe6-b9b2-fe874629426c

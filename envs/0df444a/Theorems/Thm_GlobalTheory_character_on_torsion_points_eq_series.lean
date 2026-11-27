@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_character_on_torsion_points_eq_series
 -- name    : GlobalTheory.character_on_torsion_points_eq_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:28:33.909132+00:00
 -- url     : https://prove2.me/theorems/7dc811b6-9a8a-4ec4-a150-5c320e063139

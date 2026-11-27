@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_base_comm
 -- name    : GlobalTheory.ArcTransport.base_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:27:32.084083+00:00
 -- url     : https://prove2.me/theorems/3a08775b-c490-562e-a4fc-fe7d4f2c4e0e

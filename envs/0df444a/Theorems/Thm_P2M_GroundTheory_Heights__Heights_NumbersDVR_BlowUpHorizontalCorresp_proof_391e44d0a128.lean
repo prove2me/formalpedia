@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalCorresp_proof_391e44d0a128
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalCorresp_proof_391e44d0a128
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:12.291099+00:00
 -- url     : https://prove2.me/theorems/ff73de40-e686-5772-b14e-0a417896c2f4

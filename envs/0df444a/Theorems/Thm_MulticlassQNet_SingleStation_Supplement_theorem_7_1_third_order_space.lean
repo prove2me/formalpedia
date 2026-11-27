@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_Supplement_theorem_7_1_third_order_space
 -- name    : MulticlassQNet.SingleStation.Supplement.theorem_7_1_third_order_space
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:32:27.122899+00:00
 -- url     : https://prove2.me/theorems/a7450ffd-ea13-4fbc-8250-d94709ed05e8

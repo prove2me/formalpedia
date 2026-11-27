@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_congruenceSubgroup_le_rayGroup
 -- name    : GroundTheory.Global.Modulus.congruenceSubgroup_le_rayGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:40.147808+00:00
 -- url     : https://prove2.me/theorems/72d5a14b-5901-5d32-8049-479d7fd39e1e

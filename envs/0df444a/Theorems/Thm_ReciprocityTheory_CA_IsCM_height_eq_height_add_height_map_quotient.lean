@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_height_eq_height_add_height_map_quotient
 -- name    : ReciprocityTheory.CA.IsCM.height_eq_height_add_height_map_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:33.078189+00:00
 -- url     : https://prove2.me/theorems/98233e75-e76f-4ce7-a6c9-5299fd69ad72

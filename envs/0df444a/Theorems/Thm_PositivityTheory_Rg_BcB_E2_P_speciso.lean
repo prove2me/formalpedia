@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_speciso
 -- name    : PositivityTheory.Rg.BcB.E2.P.speciso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:33.329976+00:00
 -- url     : https://prove2.me/theorems/eecf1dd3-3f2f-5567-86b0-584049081578

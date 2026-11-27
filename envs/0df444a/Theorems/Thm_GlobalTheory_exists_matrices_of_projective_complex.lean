@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_matrices_of_projective_complex
 -- name    : GlobalTheory.exists_matrices_of_projective_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:32.817923+00:00
 -- url     : https://prove2.me/theorems/c81fb57e-cfc3-4558-ab6e-3527e277b970

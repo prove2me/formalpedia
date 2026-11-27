@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_exists_wedge_eq_integral_smul
 -- name    : ReciprocityTheory.PGsh.exists_wedge_eq_integral_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:29.41367+00:00
 -- url     : https://prove2.me/theorems/3ab42e78-4205-467b-90e0-70d222098e67

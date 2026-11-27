@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDenominatorAlt_proof_5da06b6208a9
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDenominatorAlt_proof_5da06b6208a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:07:51.967252+00:00
 -- url     : https://prove2.me/theorems/ecedf749-2cdf-58cf-bd62-58794b6ba271

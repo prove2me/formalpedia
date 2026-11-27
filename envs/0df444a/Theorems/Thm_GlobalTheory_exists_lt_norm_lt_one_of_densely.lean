@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lt_norm_lt_one_of_densely
 -- name    : GlobalTheory.exists_lt_norm_lt_one_of_densely
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:36.062136+00:00
 -- url     : https://prove2.me/theorems/de13e93a-ae52-492f-9dd2-d3916366deaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_funPermRep_eq_of_card_fixedBy_eq
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_funPermRep_eq_of_card_fixedBy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:36.725634+00:00
 -- url     : https://prove2.me/theorems/f257908e-6c13-5cdc-8857-0a9f57f7ed52

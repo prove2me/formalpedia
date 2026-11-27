@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegular_ofFn_X
 -- name    : GlobalTheory.isRegular_ofFn_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:42.23895+00:00
 -- url     : https://prove2.me/theorems/8ba2a34d-46b5-44ac-b41c-93a8e1588146

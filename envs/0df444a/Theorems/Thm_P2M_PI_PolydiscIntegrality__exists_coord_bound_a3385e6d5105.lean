@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolydiscIntegrality__exists_coord_bound_a3385e6d5105
 -- name    : P2M_PI_PolydiscIntegrality__exists_coord_bound_a3385e6d5105
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:52.649052+00:00
 -- url     : https://prove2.me/theorems/3df8a2d7-3cf0-579b-a58e-00f599c37e93

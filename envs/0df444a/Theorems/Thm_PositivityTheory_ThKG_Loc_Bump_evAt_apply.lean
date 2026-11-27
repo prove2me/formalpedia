@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_evAt_apply
 -- name    : PositivityTheory.ThKG.Loc.Bump.evAt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:44.284073+00:00
 -- url     : https://prove2.me/theorems/f007827b-de82-40e4-b061-85aa246ab438

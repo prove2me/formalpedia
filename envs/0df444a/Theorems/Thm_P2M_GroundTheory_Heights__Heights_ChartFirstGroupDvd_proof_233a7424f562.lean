@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_proof_233a7424f562
 -- name    : P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_proof_233a7424f562
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:56.393138+00:00
 -- url     : https://prove2.me/theorems/24b79b77-ab1f-41ca-a034-47628fcc9c82

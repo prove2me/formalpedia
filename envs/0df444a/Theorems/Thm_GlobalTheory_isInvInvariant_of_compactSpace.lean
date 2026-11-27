@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isInvInvariant_of_compactSpace
 -- name    : GlobalTheory.isInvInvariant_of_compactSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:06.474014+00:00
 -- url     : https://prove2.me/theorems/64851a61-13f0-5987-b94d-b79bc8c5317c

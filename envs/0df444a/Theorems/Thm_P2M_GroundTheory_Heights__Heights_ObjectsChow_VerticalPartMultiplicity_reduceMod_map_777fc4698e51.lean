@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_reduceMod_map_777fc4698e51
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_reduceMod_map_777fc4698e51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:34:06.335533+00:00
 -- url     : https://prove2.me/theorems/cbff2ad4-9752-4f01-9529-ccd401c4022f

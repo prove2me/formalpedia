@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Abstract_Supplement_lemma_3_2_ii
 -- name    : FracPSG.Abstract.Supplement.lemma_3_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:57:32.348095+00:00
 -- url     : https://prove2.me/theorems/50f9a197-99fe-4912-8121-91e8bd603fc3

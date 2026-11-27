@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_reduction_of_derived_series
 -- name    : GlobalTheory.T.reduction_of_derived_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:40.043696+00:00
 -- url     : https://prove2.me/theorems/177b9c90-cb44-4316-8284-ff722a275bd8

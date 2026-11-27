@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sgnLat_prod_eq_eta_resultant_mul
 -- name    : GlobalTheory.T.sgnLat_prod_eq_eta_resultant_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:15.735973+00:00
 -- url     : https://prove2.me/theorems/8c5cf1b6-f0ab-5587-b909-78cad65e8789

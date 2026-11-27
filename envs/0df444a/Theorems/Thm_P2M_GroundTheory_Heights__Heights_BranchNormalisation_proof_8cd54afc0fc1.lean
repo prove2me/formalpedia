@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchNormalisation_proof_8cd54afc0fc1
 -- name    : P2M_GroundTheory_Heights__Heights_BranchNormalisation_proof_8cd54afc0fc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:28.986478+00:00
 -- url     : https://prove2.me/theorems/845311c1-301a-43a4-92d3-e8c25582e691

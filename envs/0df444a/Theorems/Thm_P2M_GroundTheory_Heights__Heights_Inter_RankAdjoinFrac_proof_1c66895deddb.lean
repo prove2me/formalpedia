@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RankAdjoinFrac_proof_1c66895deddb
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RankAdjoinFrac_proof_1c66895deddb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:25:51.8019+00:00
 -- url     : https://prove2.me/theorems/52346b13-a2b6-4f1a-b428-644f661a2dd1

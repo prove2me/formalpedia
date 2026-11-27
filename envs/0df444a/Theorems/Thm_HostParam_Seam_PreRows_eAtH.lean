@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_PreRows_eAtH
 -- name    : HostParam.Seam.PreRows.eAtH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:02:59.493248+00:00
 -- url     : https://prove2.me/theorems/043a9665-93c2-5686-9b7a-5c003edc6f03

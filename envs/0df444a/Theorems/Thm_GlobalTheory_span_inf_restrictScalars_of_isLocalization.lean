@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_inf_restrictScalars_of_isLocalization
 -- name    : GlobalTheory.span_inf_restrictScalars_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:50.449219+00:00
 -- url     : https://prove2.me/theorems/9725ec6c-be6e-5833-8196-bdd451448949

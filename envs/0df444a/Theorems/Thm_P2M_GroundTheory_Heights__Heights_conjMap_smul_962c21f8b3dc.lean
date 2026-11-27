@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_conjMap_smul_962c21f8b3dc
 -- name    : P2M_GroundTheory_Heights__Heights_conjMap_smul_962c21f8b3dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:44.765513+00:00
 -- url     : https://prove2.me/theorems/221ecde7-d18f-4c71-b467-77699f9f5811

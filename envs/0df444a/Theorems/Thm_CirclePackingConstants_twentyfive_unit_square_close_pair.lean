@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_twentyfive_unit_square_close_pair
 -- name    : CirclePackingConstants.twentyfive_unit_square_close_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-09-23T14:13:01.21081+00:00
 -- url     : https://prove2.me/theorems/d684404f-77b8-4e70-9531-f0384eff2e8d

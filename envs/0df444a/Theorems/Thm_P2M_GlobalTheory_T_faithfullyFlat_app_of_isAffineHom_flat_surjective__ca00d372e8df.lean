@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_faithfullyFlat_app_of_isAffineHom_flat_surjective__ca00d372e8df
 -- name    : P2M_GlobalTheory_T_faithfullyFlat_app_of_isAffineHom_flat_surjective__ca00d372e8df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:31.195687+00:00
 -- url     : https://prove2.me/theorems/e77b9642-c52c-519d-a47d-f79f22d837dd

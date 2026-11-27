@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_exists_quat
 -- name    : PositivityTheory.PrwZar.exists_quat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:50:58.578263+00:00
 -- url     : https://prove2.me/theorems/a61e2aa1-8481-4d81-b76d-14b6d2f5a14d

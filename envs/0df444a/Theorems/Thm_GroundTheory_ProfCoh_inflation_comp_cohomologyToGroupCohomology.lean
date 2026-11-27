@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_inflation_comp_cohomologyToGroupCohomology
 -- name    : GroundTheory.ProfCoh.inflation_comp_cohomologyToGroupCohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:36.106455+00:00
 -- url     : https://prove2.me/theorems/edf89865-79cf-4440-a950-bc419312cfb2

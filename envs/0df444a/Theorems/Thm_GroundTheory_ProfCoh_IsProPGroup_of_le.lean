@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_IsProPGroup_of_le
 -- name    : GroundTheory.ProfCoh.IsProPGroup.of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:16.056823+00:00
 -- url     : https://prove2.me/theorems/99c72bfa-f3eb-42a3-a4f4-11f2cb5b448d

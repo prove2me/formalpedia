@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_isClosed_trivLocus
 -- name    : GlobalTheory.TrivLocus.isClosed_trivLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:11.311132+00:00
 -- url     : https://prove2.me/theorems/ddf03d97-95f6-4a34-8158-9c924479d145

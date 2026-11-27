@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_range_towerComp_antitone
 -- name    : GroundTheory.Arith.SchemeCoh.range_towerComp_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:50.52961+00:00
 -- url     : https://prove2.me/theorems/97290b2e-08d8-4b53-92d2-79c4575b94e5

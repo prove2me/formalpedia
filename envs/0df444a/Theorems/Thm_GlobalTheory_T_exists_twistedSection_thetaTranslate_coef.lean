@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_twistedSection_thetaTranslate_coef
 -- name    : GlobalTheory.T.exists_twistedSection_thetaTranslate_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:20:10.681488+00:00
 -- url     : https://prove2.me/theorems/1bde20b5-af49-4643-bdb7-2e471138b8f6

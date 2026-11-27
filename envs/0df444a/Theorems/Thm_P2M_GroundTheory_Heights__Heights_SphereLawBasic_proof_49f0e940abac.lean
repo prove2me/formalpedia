@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawBasic_proof_49f0e940abac
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawBasic_proof_49f0e940abac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:37:46.661785+00:00
 -- url     : https://prove2.me/theorems/049ba3cd-a704-5eff-abcb-221d02baca3a

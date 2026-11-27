@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_mem_prime_of_pow_mulVec_mem_smul
 -- name    : GlobalTheory.trace_mem_prime_of_pow_mulVec_mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:14.496804+00:00
 -- url     : https://prove2.me/theorems/d6d4813f-1414-5147-9548-941a586c228c

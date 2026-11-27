@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjArithVar_proof_69b8ee479acc
 -- name    : P2M_GroundTheory_Heights__Heights_ProjArithVar_proof_69b8ee479acc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:24.689942+00:00
 -- url     : https://prove2.me/theorems/b311ff8d-529e-53c7-943e-624452d73073

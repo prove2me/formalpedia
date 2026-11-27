@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Avoid_minor__Multi_78e0f06a3ccb
 -- name    : P2M_GlobalTheory_Avoid_minor__Multi_78e0f06a3ccb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:27.192268+00:00
 -- url     : https://prove2.me/theorems/68d48b41-7f17-498c-a0e4-c2b73c148c70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_lengthDegree_of_wdet_parts
 -- name    : ReciprocityTheory.PGsh.Up.lengthDegree_of_wdet_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:30:44.981347+00:00
 -- url     : https://prove2.me/theorems/8ca21787-e111-496a-9c2b-c8db8ee0c81b

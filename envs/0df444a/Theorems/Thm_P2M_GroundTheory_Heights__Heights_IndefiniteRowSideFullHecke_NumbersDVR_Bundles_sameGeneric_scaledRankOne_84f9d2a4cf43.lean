@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_sameGeneric_scaledRankOne_84f9d2a4cf43
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_sameGeneric_scaledRankOne_84f9d2a4cf43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:09.918511+00:00
 -- url     : https://prove2.me/theorems/ab8f1d20-e781-58f7-9c18-e0d85d55d151

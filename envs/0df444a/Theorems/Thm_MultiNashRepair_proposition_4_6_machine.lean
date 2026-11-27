@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiNashRepair_proposition_4_6_machine
 -- name    : MultiNashRepair.proposition_4_6_machine
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T01:57:51.528539+00:00
 -- url     : https://prove2.me/theorems/5ee719a1-2692-5573-8606-e5642039c9b5

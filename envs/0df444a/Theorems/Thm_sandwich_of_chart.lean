@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sandwich_of_chart
 -- name    : sandwich_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:04:26.71792+00:00
 -- url     : https://prove2.me/theorems/4d59b9e2-da57-4b1e-aaee-bd5021eb2d4f

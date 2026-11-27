@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_diagGL
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_diagGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:14.003806+00:00
 -- url     : https://prove2.me/theorems/1ba253f3-e285-58f8-8304-0085d0f5758c

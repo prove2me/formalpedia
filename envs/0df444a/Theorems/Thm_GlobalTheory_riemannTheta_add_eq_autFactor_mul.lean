@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannTheta_add_eq_autFactor_mul
 -- name    : GlobalTheory.riemannTheta_add_eq_autFactor_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:52.780117+00:00
 -- url     : https://prove2.me/theorems/f6c42cd1-4a41-50e3-b08b-57a7c878aad4

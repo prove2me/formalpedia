@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffShape_proof_7a4e0c91808b
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffShape_proof_7a4e0c91808b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:11.266292+00:00
 -- url     : https://prove2.me/theorems/4567ff19-1adc-4b0b-a1b4-ece7f1054fc9

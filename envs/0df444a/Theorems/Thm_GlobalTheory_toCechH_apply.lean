@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_toCechH_apply
 -- name    : GlobalTheory.toCechH_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:01:13.89338+00:00
 -- url     : https://prove2.me/theorems/51a6a4f2-80a5-5bec-8830-ee5475608c2c

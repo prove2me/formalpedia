@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Tree_example_size_condition__be567d152dea
 -- name    : P2M_Formalism_L2_Indef_Tree_example_size_condition__be567d152dea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:33:42.646009+00:00
 -- url     : https://prove2.me/theorems/732ed8db-a3bb-53b4-850a-d29385118699

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_unitaryPoints
 -- name    : GroundTheory.Automorphic.mem_unitaryPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:53.312228+00:00
 -- url     : https://prove2.me/theorems/d4ddd69a-8f97-5d97-b4ae-83cc30278e34

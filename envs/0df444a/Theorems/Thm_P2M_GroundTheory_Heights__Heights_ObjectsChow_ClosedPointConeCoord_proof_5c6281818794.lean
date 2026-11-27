@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ClosedPointConeCoord_proof_5c6281818794
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ClosedPointConeCoord_proof_5c6281818794
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:33:52.062042+00:00
 -- url     : https://prove2.me/theorems/2eb40c53-c81d-4fc9-b714-42498278d13a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_differentiableAt_fsGrad
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.differentiableAt_fsGrad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:13:04.600844+00:00
 -- url     : https://prove2.me/theorems/b4358d46-94dc-50e7-8c3a-b202f94b10dd

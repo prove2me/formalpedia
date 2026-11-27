@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_mBaseMem
 -- name    : PI.RhsWLim.W.mBaseMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:30.114715+00:00
 -- url     : https://prove2.me/theorems/7001d972-7759-4d4e-8b40-f2adb150caf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_strictTransform__eq_subscheme__a25c28be5dce
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_strictTransform__eq_subscheme__a25c28be5dce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:47.926808+00:00
 -- url     : https://prove2.me/theorems/b664e7f2-5749-4283-a5a2-a51909187a5b

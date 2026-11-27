@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_Supplement_theorem_4
 -- name    : TwoSidedExp.DemandLimit.Supplement.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:25:29.779858+00:00
 -- url     : https://prove2.me/theorems/f30b8f97-d238-43d9-9e6d-b6487766de2a

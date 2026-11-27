@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_column_degree_le
 -- name    : GlobalTheory.column_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:16.043936+00:00
 -- url     : https://prove2.me/theorems/c17de67a-0db9-45c6-84ff-34b61441c945

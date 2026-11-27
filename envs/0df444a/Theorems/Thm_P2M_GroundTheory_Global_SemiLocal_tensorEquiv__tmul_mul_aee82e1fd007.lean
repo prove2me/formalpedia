@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_SemiLocal_tensorEquiv__tmul_mul_aee82e1fd007
 -- name    : P2M_GroundTheory_Global_SemiLocal_tensorEquiv__tmul_mul_aee82e1fd007
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:45.130613+00:00
 -- url     : https://prove2.me/theorems/d14ca1a7-01d8-5c3a-b3d7-bc42ecd4b98b

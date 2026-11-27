@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_Fib_fib_meas
 -- name    : PositivityTheory.Rg.Sw.Glob.Fib.fib_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:53:07.441476+00:00
 -- url     : https://prove2.me/theorems/eed17e4e-c1eb-4766-8151-40a3a83b4e5a

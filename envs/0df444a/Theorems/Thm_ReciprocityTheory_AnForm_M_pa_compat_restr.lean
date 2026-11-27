@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pa_compat_restr
 -- name    : ReciprocityTheory.AnForm.M.pa_compat_restr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:04.792158+00:00
 -- url     : https://prove2.me/theorems/474b4381-9564-4355-8d85-0876c45ec84a

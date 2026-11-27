@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_even_cubicalTrivialisation_lift_nilpotent
 -- name    : GlobalTheory.T.exists_even_cubicalTrivialisation_lift_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:43:07.875334+00:00
 -- url     : https://prove2.me/theorems/17c4a36f-0104-4ccc-82b3-ffe12a6631e0

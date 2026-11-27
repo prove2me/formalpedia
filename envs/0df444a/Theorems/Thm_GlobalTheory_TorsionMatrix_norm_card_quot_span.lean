@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionMatrix_norm_card_quot_span
 -- name    : GlobalTheory.TorsionMatrix.norm_card_quot_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:07:27.149487+00:00
 -- url     : https://prove2.me/theorems/6f35bd12-ea75-4fea-b5ef-b036b142edf3

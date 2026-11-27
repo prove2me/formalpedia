@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_mem_unitary
 -- name    : GroundTheory.Automorphic.UnitaryRep.mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:58.527806+00:00
 -- url     : https://prove2.me/theorems/9e82b6e3-c006-5fbb-840d-dab37ffdbb05

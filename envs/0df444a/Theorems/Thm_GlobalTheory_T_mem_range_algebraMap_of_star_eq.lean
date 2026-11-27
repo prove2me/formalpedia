@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_range_algebraMap_of_star_eq
 -- name    : GlobalTheory.T.mem_range_algebraMap_of_star_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:28.787291+00:00
 -- url     : https://prove2.me/theorems/4e999450-5ff6-4cd5-846c-305643d80890

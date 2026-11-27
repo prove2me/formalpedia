@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_le_powerSubgroup__e59580feb9f3
 -- name    : P2M_GroundTheory_Variant__N1_le_powerSubgroup__e59580feb9f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:46.504795+00:00
 -- url     : https://prove2.me/theorems/4002b45a-c0e8-530d-bf59-fb3eab502e4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_self_eq_top_of_dvr
 -- name    : GlobalTheory.length_self_eq_top_of_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:55.8285+00:00
 -- url     : https://prove2.me/theorems/b017990b-37f0-53bb-a16b-af9b14caac8b

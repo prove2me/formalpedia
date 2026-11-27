@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regularFunction_const_of_finite_values_any_level
 -- name    : GlobalTheory.T.regularFunction_const_of_finite_values_any_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:49:08.930202+00:00
 -- url     : https://prove2.me/theorems/fcbfcf85-b8ab-4f1d-8f58-11265eda1b59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_subrepCohomologyCocone___app_98e7da747dcd
 -- name    : P2M_GroundTheory_ProfCoh_subrepCohomologyCocone___app_98e7da747dcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:47.234544+00:00
 -- url     : https://prove2.me/theorems/2cf6e4e2-e8dc-58a3-8b63-1e7146189628

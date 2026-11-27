@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_tangent_splitEx
 -- name    : GlobalTheory.ChF.tangent_splitEx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:31:19.11649+00:00
 -- url     : https://prove2.me/theorems/0ad873e7-ec97-5fde-9c4e-c33eec3e6e13

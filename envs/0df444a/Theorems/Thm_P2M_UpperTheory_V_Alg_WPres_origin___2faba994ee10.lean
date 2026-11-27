@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_V_Alg_WPres_origin___2faba994ee10
 -- name    : P2M_UpperTheory_V_Alg_WPres_origin___2faba994ee10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:08.49035+00:00
 -- url     : https://prove2.me/theorems/d06981f7-69e9-5968-b38f-47467bbdea5f

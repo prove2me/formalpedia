@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerIntegrand_proof_287835cc31c5
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerIntegrand_proof_287835cc31c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:30:27.915629+00:00
 -- url     : https://prove2.me/theorems/59b5dffb-bbd8-4f72-9c70-b39cfbe7c0a1

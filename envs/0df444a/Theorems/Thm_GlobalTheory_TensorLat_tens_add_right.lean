@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_tens_add_right
 -- name    : GlobalTheory.TensorLat.tens_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:29:59.220996+00:00
 -- url     : https://prove2.me/theorems/61b5fc67-7721-40e3-a73f-b801b12a3871

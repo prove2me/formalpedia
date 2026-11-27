@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootDense_proof_a268f5a29d5d
 -- name    : P2M_GroundTheory_Heights__Heights_RootDense_proof_a268f5a29d5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:18.805249+00:00
 -- url     : https://prove2.me/theorems/6f27bd12-da5b-44c6-ae3d-7023d1978622

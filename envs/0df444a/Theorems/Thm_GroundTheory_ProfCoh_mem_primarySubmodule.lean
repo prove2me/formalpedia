@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_primarySubmodule
 -- name    : GroundTheory.ProfCoh.mem_primarySubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:04:11.094465+00:00
 -- url     : https://prove2.me/theorems/b2c691eb-ad52-4e0b-9c19-bcb53eca5d33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_short_basis_gram
 -- name    : GroundTheory.Automorphic.exists_short_basis_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:53.688627+00:00
 -- url     : https://prove2.me/theorems/76b7625d-f4b4-4d0c-a1a6-ed5c00623b5a

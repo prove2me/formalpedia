@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_Supplement_theorem_D_2
 -- name    : TradingPostNSW.Leontief.Supplement.theorem_D_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:37:39.941176+00:00
 -- url     : https://prove2.me/theorems/13049817-dd70-4cb6-827b-d70bb0f4d894

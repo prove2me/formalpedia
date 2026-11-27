@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_isOfDegree_iff_3652ab92fe78
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_isOfDegree_iff_3652ab92fe78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:15:56.217508+00:00
 -- url     : https://prove2.me/theorems/8e84920a-a68b-4ae1-b567-c0aff2a05fe0

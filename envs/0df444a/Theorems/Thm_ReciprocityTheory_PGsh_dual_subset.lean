@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_dual_subset
 -- name    : ReciprocityTheory.PGsh.dual_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:28.941136+00:00
 -- url     : https://prove2.me/theorems/35bd2378-68ab-47d0-85d4-316e8047d2d6

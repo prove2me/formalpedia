@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ClopenPieceSheetCount_proof_029d75258762
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ClopenPieceSheetCount_proof_029d75258762
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:13:38.393655+00:00
 -- url     : https://prove2.me/theorems/c931185f-bf51-5b7f-b50c-dcaf6fd1eb5f

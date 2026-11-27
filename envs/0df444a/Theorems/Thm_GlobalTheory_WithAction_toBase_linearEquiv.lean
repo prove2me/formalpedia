@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WithAction_toBase_linearEquiv
 -- name    : GlobalTheory.WithAction.toBase_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:34.371606+00:00
 -- url     : https://prove2.me/theorems/30566ec0-7117-5089-a82c-059c178d65ab

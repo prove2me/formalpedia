@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_PFCoord_of_found_98a9f87ddae8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_PFCoord_of_found_98a9f87ddae8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:41:38.299032+00:00
 -- url     : https://prove2.me/theorems/4ef2ae2c-5d4e-4235-b4fa-637b134b47a2

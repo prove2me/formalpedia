@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_neg_one_zpow_form_apply_semicharacter
 -- name    : GlobalTheory.neg_one_zpow_form_apply_semicharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:16.95166+00:00
 -- url     : https://prove2.me/theorems/888ff837-1e1f-5f30-9777-628e85a34fd7

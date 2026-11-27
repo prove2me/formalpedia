@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringEquiv_adicCompletion_mem_integers_iff
 -- name    : GlobalTheory.ringEquiv_adicCompletion_mem_integers_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:37.52782+00:00
 -- url     : https://prove2.me/theorems/976ea325-2e1f-5429-9859-1c3259b3c50c

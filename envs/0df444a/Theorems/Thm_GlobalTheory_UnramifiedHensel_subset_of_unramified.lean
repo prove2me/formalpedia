@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedHensel_subset_of_unramified
 -- name    : GlobalTheory.UnramifiedHensel.subset_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:36.475019+00:00
 -- url     : https://prove2.me/theorems/1ab5000a-65fc-5b63-9724-fa50d70f27c8

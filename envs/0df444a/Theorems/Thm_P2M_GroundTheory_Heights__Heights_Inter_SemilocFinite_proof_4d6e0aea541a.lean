@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocFinite_proof_4d6e0aea541a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocFinite_proof_4d6e0aea541a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:58.349268+00:00
 -- url     : https://prove2.me/theorems/a05f1292-c14d-536a-9b43-c25642038298

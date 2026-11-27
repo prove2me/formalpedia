@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMeetNull_proof_2706e04a8a9e
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMeetNull_proof_2706e04a8a9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:09:51.46274+00:00
 -- url     : https://prove2.me/theorems/1a1200eb-f80a-5c10-a5d9-6eab056a2f58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsInner_self_eq_sum_sq_8a8bb0ebef43
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsInner_self_eq_sum_sq_8a8bb0ebef43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:21.797183+00:00
 -- url     : https://prove2.me/theorems/2bd0dc02-9fa7-435f-b811-d4e8c45ba9d2

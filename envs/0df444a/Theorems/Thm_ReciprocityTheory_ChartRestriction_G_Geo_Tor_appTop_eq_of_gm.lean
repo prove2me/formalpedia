@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_appTop_eq_of_gm
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.appTop_eq_of_gm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:24:47.604178+00:00
 -- url     : https://prove2.me/theorems/0f904665-f957-544f-8f49-bf34281e07ce

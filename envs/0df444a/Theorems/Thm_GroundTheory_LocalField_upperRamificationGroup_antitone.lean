@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_upperRamificationGroup_antitone
 -- name    : GroundTheory.LocalField.upperRamificationGroup_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:50.284027+00:00
 -- url     : https://prove2.me/theorems/7c19e885-2b58-45e5-a1ee-083d0c95441d

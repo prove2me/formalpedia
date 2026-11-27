@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_TorsBasis_of_level
 -- name    : GlobalTheory.ZV.TorsBasis.of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:58.718108+00:00
 -- url     : https://prove2.me/theorems/70e4a28c-c305-5bb8-81ce-cccd30dede24

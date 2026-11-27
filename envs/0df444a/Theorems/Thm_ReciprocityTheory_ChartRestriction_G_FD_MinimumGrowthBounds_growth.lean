@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MinimumGrowthBounds_growth
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MinimumGrowthBounds.growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:13:59.538536+00:00
 -- url     : https://prove2.me/theorems/a5ec965a-7a68-482e-bec1-8cbbda501a22

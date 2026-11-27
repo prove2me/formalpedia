@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_trace_mul_eq_sum
 -- name    : GroundTheory.Automorphic.GJMatrix.trace_mul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:36.77742+00:00
 -- url     : https://prove2.me/theorems/41517010-c730-4aff-a51d-e8fd59ae92c5

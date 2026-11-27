@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_span_heisenberg_translates_of_vacuum
 -- name    : GlobalTheory.T.mem_span_heisenberg_translates_of_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:16.75434+00:00
 -- url     : https://prove2.me/theorems/75892ee7-49b1-58d1-a0b1-6705159f3147

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Sieg_lintegral_siegel_le
 -- name    : PositivityTheory.ThKR.Sieg.lintegral_siegel_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:09.401385+00:00
 -- url     : https://prove2.me/theorems/54f1fb29-838b-5e0b-82b1-d254581b8ebd

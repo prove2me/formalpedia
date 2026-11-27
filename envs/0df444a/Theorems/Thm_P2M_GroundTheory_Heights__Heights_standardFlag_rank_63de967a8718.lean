@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_standardFlag_rank_63de967a8718
 -- name    : P2M_GroundTheory_Heights__Heights_standardFlag_rank_63de967a8718
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:09.655477+00:00
 -- url     : https://prove2.me/theorems/6e07a115-c96b-4dd8-8319-38024fc7e05d

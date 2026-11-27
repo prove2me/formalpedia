@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IdealHeightSpread_proof_d4314a43e12c
 -- name    : P2M_GroundTheory_Heights__Heights_IdealHeightSpread_proof_d4314a43e12c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:15:48.145742+00:00
 -- url     : https://prove2.me/theorems/892b7fe3-5c1c-4804-807f-dbcec5ac0e2f

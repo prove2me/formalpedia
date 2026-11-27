@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_range_ne_top_iff
 -- name    : GlobalTheory.length_quotient_range_ne_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:50.888933+00:00
 -- url     : https://prove2.me/theorems/81fd3d5e-dd7d-5ea4-beeb-eb687b9fa1ee

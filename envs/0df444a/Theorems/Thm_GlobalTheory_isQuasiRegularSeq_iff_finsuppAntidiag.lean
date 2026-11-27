@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_iff_finsuppAntidiag
 -- name    : GlobalTheory.isQuasiRegularSeq_iff_finsuppAntidiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:17.392337+00:00
 -- url     : https://prove2.me/theorems/dfc84cb9-fa7f-52e7-903d-26a9ba431885

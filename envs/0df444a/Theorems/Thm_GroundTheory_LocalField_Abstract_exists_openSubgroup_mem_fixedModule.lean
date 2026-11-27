@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_exists_openSubgroup_mem_fixedModule
 -- name    : GroundTheory.LocalField.Abstract.exists_openSubgroup_mem_fixedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:30.862972+00:00
 -- url     : https://prove2.me/theorems/7aaf4844-199b-4f85-a191-d16879ad283e

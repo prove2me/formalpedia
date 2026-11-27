@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTrace_exists_isometry_mul_eq
 -- name    : GlobalTheory.WittTrace.exists_isometry_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:12.772801+00:00
 -- url     : https://prove2.me/theorems/8f9914ed-b4e4-44e4-a391-f63867545b42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_ker_thetaC
 -- name    : Reformulated.AutPerF.BdRPlus.ker_thetaC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T16:49:45.22645+00:00
 -- url     : https://prove2.me/theorems/42f5996c-d282-4388-955a-9fd80e42d732

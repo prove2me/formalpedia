@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pushFr_of_isGen
 -- name    : GlobalTheory.T.exists_pushFr_of_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:17.150474+00:00
 -- url     : https://prove2.me/theorems/3275228a-4910-5ac6-9380-d506d59dde42

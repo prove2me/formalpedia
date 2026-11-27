@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_avg_one
 -- name    : PositivityTheory.Mirab.Irr.avg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:19:48.026208+00:00
 -- url     : https://prove2.me/theorems/218f5ca2-2e9e-4a12-8863-dcde07d08c43

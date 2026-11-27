@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_coe_matrixCoordHomeomorph
 -- name    : GroundTheory.Automorphic.GJMatrix.coe_matrixCoordHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:34.09749+00:00
 -- url     : https://prove2.me/theorems/46749717-7c9b-5349-8d73-68952f7919e2

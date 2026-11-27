@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_chartIndexAt_source
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.chartIndexAt_source
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:27.725035+00:00
 -- url     : https://prove2.me/theorems/9a3c39af-e975-4c50-9b8f-0a2594280e84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_sUnits_sIdeles_exact
 -- name    : GroundTheory.Global.IdeleGroup.sUnits_sIdeles_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:06.1572+00:00
 -- url     : https://prove2.me/theorems/4f7fcffd-1612-5bb8-8233-4616fc535ad7

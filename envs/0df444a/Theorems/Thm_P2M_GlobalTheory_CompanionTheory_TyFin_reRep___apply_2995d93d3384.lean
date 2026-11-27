@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_TyFin_reRep___apply_2995d93d3384
 -- name    : P2M_GlobalTheory_CompanionTheory_TyFin_reRep___apply_2995d93d3384
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:54.33355+00:00
 -- url     : https://prove2.me/theorems/2586e8bd-6396-430f-9fcf-8a74ed1d7777

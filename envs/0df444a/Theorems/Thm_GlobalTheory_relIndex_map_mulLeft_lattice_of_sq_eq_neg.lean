@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_map_mulLeft_lattice_of_sq_eq_neg
 -- name    : GlobalTheory.relIndex_map_mulLeft_lattice_of_sq_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:53.490388+00:00
 -- url     : https://prove2.me/theorems/99d63f1f-e651-595e-811d-bcda2ea5f3c6

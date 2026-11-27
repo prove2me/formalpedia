@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_mem_lieN
 -- name    : GlobalTheory.Tw.PFlag.mem_lieN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:21.301271+00:00
 -- url     : https://prove2.me/theorems/10e18100-e49a-5e3c-a95f-1385d6a52994

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_unitaryCongr_apply
 -- name    : GroundTheory.Automorphic.unitaryCongr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:49.571884+00:00
 -- url     : https://prove2.me/theorems/c32ad7c0-0da8-56f1-876a-5eead51844a7

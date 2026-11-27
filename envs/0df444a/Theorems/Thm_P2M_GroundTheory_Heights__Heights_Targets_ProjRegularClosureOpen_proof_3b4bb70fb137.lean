@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRegularClosureOpen_proof_3b4bb70fb137
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRegularClosureOpen_proof_3b4bb70fb137
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:45:19.134841+00:00
 -- url     : https://prove2.me/theorems/94bf0bf2-de13-5e9f-aa98-1b9fa1a325bc

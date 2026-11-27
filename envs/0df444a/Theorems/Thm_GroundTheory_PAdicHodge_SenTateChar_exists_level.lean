@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_exists_level
 -- name    : GroundTheory.PAdicHodge.SenTateChar.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:22.380797+00:00
 -- url     : https://prove2.me/theorems/5a1f19f3-eb5b-4e11-b7bc-13ed3597091a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_h2GalUnitsAddEquiv_H2_class
 -- name    : GroundTheory.ProfCoh.h2GalUnitsAddEquiv_H2_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:07:00.348379+00:00
 -- url     : https://prove2.me/theorems/5ba0e82a-d3d7-5954-9c81-347dd7627244

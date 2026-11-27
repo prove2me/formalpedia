@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_RevisedDual_Supplement_corollary_2_27
 -- name    : KellyLossNetworks.RevisedDual.Supplement.corollary_2_27
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:58:33.402016+00:00
 -- url     : https://prove2.me/theorems/2d6ee906-1312-4d13-87f0-1bad7a7bcd5d

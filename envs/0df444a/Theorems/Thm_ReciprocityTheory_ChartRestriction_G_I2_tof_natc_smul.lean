@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_natc_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_natc_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:05:05.123377+00:00
 -- url     : https://prove2.me/theorems/b56da3ee-276a-4781-948a-f0c85ddda450

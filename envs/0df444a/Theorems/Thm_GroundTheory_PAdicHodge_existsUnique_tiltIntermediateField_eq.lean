@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_existsUnique_tiltIntermediateField_eq
 -- name    : GroundTheory.PAdicHodge.existsUnique_tiltIntermediateField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:25.134631+00:00
 -- url     : https://prove2.me/theorems/0bfdb8d3-33cb-4910-97b7-5c0ce985daff

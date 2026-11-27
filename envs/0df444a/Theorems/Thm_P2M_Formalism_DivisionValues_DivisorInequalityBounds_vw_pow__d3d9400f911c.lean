@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_DivisionValues_DivisorInequalityBounds_vw_pow__d3d9400f911c
 -- name    : P2M_Formalism_DivisionValues_DivisorInequalityBounds_vw_pow__d3d9400f911c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:23.388204+00:00
 -- url     : https://prove2.me/theorems/edd69801-52cc-5f3a-8ec6-84d8e774f231

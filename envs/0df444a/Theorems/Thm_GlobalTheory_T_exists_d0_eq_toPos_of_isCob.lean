@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_d0_eq_toPos_of_isCob
 -- name    : GlobalTheory.T.exists_d0_eq_toPos_of_isCob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:17:30.08898+00:00
 -- url     : https://prove2.me/theorems/a2126208-e404-475a-b474-20dadb99020f

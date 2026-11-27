@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_map_apply
 -- name    : GlobalTheory.isoTransvection.map_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:11.618356+00:00
 -- url     : https://prove2.me/theorems/6e434858-3166-5e76-8564-9a6e1f397026

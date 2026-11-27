@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Offline_Supplement_theorem4_projected_cones_regret_false
 -- name    : CtxInvOpt.Offline.Supplement.theorem4_projected_cones_regret_false
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:09:15.4203+00:00
 -- url     : https://prove2.me/theorems/908f2c64-d1c9-4552-8cf6-e2fbed834847

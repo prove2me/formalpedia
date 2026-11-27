@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_CocycleMultiplicative_norm_eq_one_of_root
 -- name    : UpperTheory.Reformulated.B.CocycleMultiplicative.norm_eq_one_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:25.03443+00:00
 -- url     : https://prove2.me/theorems/edc290d5-8ab2-49d5-8129-7d23a0a79d03

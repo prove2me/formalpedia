@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wedge_bound_finite_places
 -- name    : GlobalTheory.T.wedge_bound_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:48.652637+00:00
 -- url     : https://prove2.me/theorems/41a9c2cc-91ad-4c8b-aa57-736834e167f1

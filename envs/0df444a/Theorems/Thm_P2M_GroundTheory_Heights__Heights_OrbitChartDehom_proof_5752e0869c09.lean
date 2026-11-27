@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartDehom_proof_5752e0869c09
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartDehom_proof_5752e0869c09
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:46:29.300847+00:00
 -- url     : https://prove2.me/theorems/03c6063c-776a-5a97-90c0-9393645e0aec

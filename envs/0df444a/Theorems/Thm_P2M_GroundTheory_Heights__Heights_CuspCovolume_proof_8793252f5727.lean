@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CuspCovolume_proof_8793252f5727
 -- name    : P2M_GroundTheory_Heights__Heights_CuspCovolume_proof_8793252f5727
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:10:09.512336+00:00
 -- url     : https://prove2.me/theorems/cf835f96-5db7-58dd-9b95-b17bc8c588b7

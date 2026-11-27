@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedFourierInv_mixedFourier
 -- name    : GroundTheory.Global.mixedFourierInv_mixedFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:58.928135+00:00
 -- url     : https://prove2.me/theorems/333e4684-e438-54d6-bc86-108928f1b73d

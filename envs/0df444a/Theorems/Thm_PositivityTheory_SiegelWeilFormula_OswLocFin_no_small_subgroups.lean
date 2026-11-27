@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_OswLocFin_no_small_subgroups
 -- name    : PositivityTheory.SiegelWeilFormula.OswLocFin.no_small_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:57:32.528562+00:00
 -- url     : https://prove2.me/theorems/618313b7-170b-4de1-9afa-a28a601923a6

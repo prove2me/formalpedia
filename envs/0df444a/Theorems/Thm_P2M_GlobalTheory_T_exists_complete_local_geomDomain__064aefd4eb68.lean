@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_complete_local_geomDomain__064aefd4eb68
 -- name    : P2M_GlobalTheory_T_exists_complete_local_geomDomain__064aefd4eb68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:37.226229+00:00
 -- url     : https://prove2.me/theorems/7d4c50cc-d597-5431-b56c-7bf2f9412c39

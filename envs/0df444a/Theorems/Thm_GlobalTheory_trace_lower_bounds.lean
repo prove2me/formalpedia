@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_lower_bounds
 -- name    : GlobalTheory.trace_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:05.988074+00:00
 -- url     : https://prove2.me/theorems/983e9caf-93e1-5848-8172-70da45c09f18

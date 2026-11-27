@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coprimeRelPreimage_le
 -- name    : GroundTheory.ProfCoh.coprimeRelPreimage_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:46.289699+00:00
 -- url     : https://prove2.me/theorems/28ea6773-a6b7-4535-84ba-57b9cb52d71c

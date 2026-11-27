@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocFrac_proof_52da8c49b8a4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocFrac_proof_52da8c49b8a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:23:16.861853+00:00
 -- url     : https://prove2.me/theorems/4ab90aa5-b10e-59e4-87ca-c6479875fbde

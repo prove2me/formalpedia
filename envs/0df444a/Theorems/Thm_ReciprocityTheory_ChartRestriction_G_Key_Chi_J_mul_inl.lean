@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_J_mul_inl
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.J_mul_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:36.5036+00:00
 -- url     : https://prove2.me/theorems/f8a07ac7-8ee9-51bb-bd4c-332611bd9cc0

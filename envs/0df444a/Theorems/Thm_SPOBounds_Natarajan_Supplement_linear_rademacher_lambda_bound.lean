@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Natarajan_Supplement_linear_rademacher_lambda_bound
 -- name    : SPOBounds.Natarajan.Supplement.linear_rademacher_lambda_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:41:22.356262+00:00
 -- url     : https://prove2.me/theorems/0df6424d-afc0-4b3f-b6e3-aab5ee6663b2

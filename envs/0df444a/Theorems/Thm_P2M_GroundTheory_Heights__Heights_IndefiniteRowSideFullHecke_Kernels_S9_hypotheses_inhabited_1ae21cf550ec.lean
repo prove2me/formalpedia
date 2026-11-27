@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S9_hypotheses_inhabited_1ae21cf550ec
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S9_hypotheses_inhabited_1ae21cf550ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:23:59.041727+00:00
 -- url     : https://prove2.me/theorems/e6510443-ec80-559e-bb7c-0f459a1dfa79

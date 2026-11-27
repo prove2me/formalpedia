@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_continuous_galCp_symm
 -- name    : GroundTheory.PAdicHodge.continuous_galCp_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:16.550793+00:00
 -- url     : https://prove2.me/theorems/7735b638-4f3b-465b-89ac-a87c63622620

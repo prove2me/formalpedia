@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_twist_tx_eq_zero_of_aeval_arcTx
 -- name    : GlobalTheory.eval_twist_tx_eq_zero_of_aeval_arcTx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:45:36.97498+00:00
 -- url     : https://prove2.me/theorems/7f9eafec-279d-5809-918e-d1f294e42fe7

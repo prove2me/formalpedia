@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_StModel_exists_clear
 -- name    : PI.SqPairLocal.StModel.exists_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:53:36.721532+00:00
 -- url     : https://prove2.me/theorems/b4f1ed44-d143-4f31-a8ce-17c49d9df97f

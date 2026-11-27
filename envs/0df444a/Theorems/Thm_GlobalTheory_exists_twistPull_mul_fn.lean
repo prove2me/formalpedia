@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_twistPull_mul_fn
 -- name    : GlobalTheory.exists_twistPull_mul_fn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:17.561105+00:00
 -- url     : https://prove2.me/theorems/dd132e6b-2488-43a2-a3d5-c1ed35503d97

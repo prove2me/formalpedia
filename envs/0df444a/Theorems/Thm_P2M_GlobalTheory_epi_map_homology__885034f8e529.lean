@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_epi_map_homology__885034f8e529
 -- name    : P2M_GlobalTheory_epi_map_homology__885034f8e529
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:53.576207+00:00
 -- url     : https://prove2.me/theorems/b39cbdec-9ae9-4ea3-b670-c9b0fb26e7e1

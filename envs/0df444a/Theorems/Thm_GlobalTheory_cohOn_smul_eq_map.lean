@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_smul_eq_map
 -- name    : GlobalTheory.cohOn.smul_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:01.628816+00:00
 -- url     : https://prove2.me/theorems/0c25afe8-365e-547e-a7e1-f0cbc2878d26

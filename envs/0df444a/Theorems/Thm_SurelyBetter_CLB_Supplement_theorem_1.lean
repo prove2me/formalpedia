@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_Supplement_theorem_1
 -- name    : SurelyBetter.CLB.Supplement.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:49:22.165029+00:00
 -- url     : https://prove2.me/theorems/94025c99-a5d5-4ef5-ba83-53c344b25a0d

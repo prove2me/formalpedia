@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_slope_variableChange_4c0b17c3f1f6
 -- name    : P2M_GroundTheory_Variant__N1_slope_variableChange_4c0b17c3f1f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:49.977483+00:00
 -- url     : https://prove2.me/theorems/dd8b4277-5611-51c0-9b88-503d7caa1ea2

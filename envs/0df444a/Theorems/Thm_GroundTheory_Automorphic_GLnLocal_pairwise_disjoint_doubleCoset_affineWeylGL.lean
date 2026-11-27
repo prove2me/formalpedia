@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_pairwise_disjoint_doubleCoset_affineWeylGL
 -- name    : GroundTheory.Automorphic.GLnLocal.pairwise_disjoint_doubleCoset_affineWeylGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:28.843798+00:00
 -- url     : https://prove2.me/theorems/16a7e8ab-9113-53bc-987c-e3f1f2c479ec

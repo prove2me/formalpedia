@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_conj_entry_and_inv_entry_linear
 -- name    : GlobalTheory.T.unitary_conj_entry_and_inv_entry_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:47.663188+00:00
 -- url     : https://prove2.me/theorems/f55adcd9-fd7a-5914-89b2-258bfbacfac8

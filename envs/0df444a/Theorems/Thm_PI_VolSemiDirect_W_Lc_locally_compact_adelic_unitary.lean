@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Lc_locally_compact_adelic_unitary
 -- name    : PI.VolSemiDirect.W.Lc.locally_compact_adelic_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:53:49.95979+00:00
 -- url     : https://prove2.me/theorems/5cd21e53-5b53-518a-b5e7-ceae1d03284b

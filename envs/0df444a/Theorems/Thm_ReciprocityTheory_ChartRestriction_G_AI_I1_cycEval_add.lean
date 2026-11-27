@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_cycEval_add
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.cycEval_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:50.588812+00:00
 -- url     : https://prove2.me/theorems/d46d5c8b-1f28-446e-b66d-1c0b601df910

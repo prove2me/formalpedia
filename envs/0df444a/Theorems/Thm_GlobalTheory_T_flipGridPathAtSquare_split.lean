@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flipGridPathAtSquare_split
 -- name    : GlobalTheory.T.flipGridPathAtSquare_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:00.842239+00:00
 -- url     : https://prove2.me/theorems/7cc30c99-dc62-4d1c-9aa8-dca84b65b288

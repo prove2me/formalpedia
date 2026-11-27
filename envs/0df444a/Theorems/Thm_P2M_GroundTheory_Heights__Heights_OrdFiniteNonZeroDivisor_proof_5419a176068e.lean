@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdFiniteNonZeroDivisor_proof_5419a176068e
 -- name    : P2M_GroundTheory_Heights__Heights_OrdFiniteNonZeroDivisor_proof_5419a176068e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:39.852065+00:00
 -- url     : https://prove2.me/theorems/6d565e78-0569-40b0-b562-e086ad4575dc

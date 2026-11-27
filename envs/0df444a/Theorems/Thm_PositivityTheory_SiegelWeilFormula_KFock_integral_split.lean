@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_integral_split
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.integral_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:43.433882+00:00
 -- url     : https://prove2.me/theorems/b2565f3c-0e42-4d1c-b7ab-0a7d30e267e3

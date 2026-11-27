@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegreHilb_proof_d11b80c3da88
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SegreHilb_proof_d11b80c3da88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:15:38.913052+00:00
 -- url     : https://prove2.me/theorems/5d2cb5b5-c841-43f4-a88c-81154e163feb

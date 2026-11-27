@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCenterZero_proof_f29a9d7c5910
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCenterZero_proof_f29a9d7c5910
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:36.626703+00:00
 -- url     : https://prove2.me/theorems/45f2780a-53ee-597c-a568-31bc2ba57430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_smoothOn_potOf
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.smoothOn_potOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:14:26.993306+00:00
 -- url     : https://prove2.me/theorems/3d867a1b-0879-4ed1-823b-3eb30c1c5a40

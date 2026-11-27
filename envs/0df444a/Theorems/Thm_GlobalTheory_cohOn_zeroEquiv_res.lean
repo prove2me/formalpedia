@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_zeroEquiv_res
 -- name    : GlobalTheory.cohOn.zeroEquiv_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:32.070794+00:00
 -- url     : https://prove2.me/theorems/f8d3c220-c9d4-403d-9102-a0752fa83fa8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_r_n_twenty_five_upper
 -- name    : CirclePackingConstants.r_n_twenty_five_upper
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T02:21:10.933745+00:00
 -- url     : https://prove2.me/theorems/6ba17ee8-189d-4031-9b31-3eae62299c1b

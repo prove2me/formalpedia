@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_equiv_8b881e320897
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_equiv_8b881e320897
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:06.369503+00:00
 -- url     : https://prove2.me/theorems/d041dc77-d1a9-5458-b04f-55d968d218c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_avg_fd_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.avg_fd_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:47.044801+00:00
 -- url     : https://prove2.me/theorems/002f030a-1a01-46c1-954e-3545725b5ee3

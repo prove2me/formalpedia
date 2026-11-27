@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_soundness
 -- name    : BarelyTestable.LowerBound.soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:16.313323+00:00
 -- url     : https://prove2.me/theorems/857612e6-87ef-4428-bc38-5161abb81eff

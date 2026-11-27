@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_fiber_of_smooth
 -- name    : GlobalTheory.isIntegral_fiber_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:50.325063+00:00
 -- url     : https://prove2.me/theorems/7a113e2e-de51-573b-8678-573b75e48480

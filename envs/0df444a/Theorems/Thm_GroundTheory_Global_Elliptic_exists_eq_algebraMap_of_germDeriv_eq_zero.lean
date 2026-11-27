@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_eq_algebraMap_of_germDeriv_eq_zero
 -- name    : GroundTheory.Global.Elliptic.exists_eq_algebraMap_of_germDeriv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:36.17245+00:00
 -- url     : https://prove2.me/theorems/4aa31004-6493-5adf-8539-87d107724fa7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_LinearIndependentEigenvectors_li_eig
 -- name    : UpperTheory.Reformulated.B.LinearIndependentEigenvectors.li_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:32.105987+00:00
 -- url     : https://prove2.me/theorems/e36c5ec7-de8d-40ec-9137-d7be83eb3cd7

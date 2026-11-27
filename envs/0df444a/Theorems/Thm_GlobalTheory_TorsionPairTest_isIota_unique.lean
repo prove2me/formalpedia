@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_isIota_unique
 -- name    : GlobalTheory.TorsionPairTest.isIota_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:32:39.160152+00:00
 -- url     : https://prove2.me/theorems/be94ce96-bc29-5660-93eb-85dfbfdfba5d

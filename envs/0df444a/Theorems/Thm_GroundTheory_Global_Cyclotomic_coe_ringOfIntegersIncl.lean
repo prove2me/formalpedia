@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_coe_ringOfIntegersIncl
 -- name    : GroundTheory.Global.Cyclotomic.coe_ringOfIntegersIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:55.090434+00:00
 -- url     : https://prove2.me/theorems/c0fa6ffa-1175-4302-8676-30a31c52ad7a

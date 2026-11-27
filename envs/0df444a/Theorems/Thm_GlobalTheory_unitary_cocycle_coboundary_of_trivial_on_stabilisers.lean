@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_cocycle_coboundary_of_trivial_on_stabilisers
 -- name    : GlobalTheory.unitary_cocycle_coboundary_of_trivial_on_stabilisers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:10.608958+00:00
 -- url     : https://prove2.me/theorems/308d75a0-60e2-5d18-b261-5dad308ed608

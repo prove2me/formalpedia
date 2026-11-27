@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisAddVal_eq_of_forall_nonneg
 -- name    : GlobalTheory.basisAddVal_eq_of_forall_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:43:39.714365+00:00
 -- url     : https://prove2.me/theorems/32ca42ae-545f-5f64-949b-8a4138fe7c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_gvHerm
 -- name    : PI.PolynomialProperness.gvHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:54:28.895002+00:00
 -- url     : https://prove2.me/theorems/8312a693-8a62-4567-b289-fef3de9ec7bb

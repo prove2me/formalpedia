@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechRestrictions_injective
 -- name    : GlobalTheory.cechRestrictions_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:20.343607+00:00
 -- url     : https://prove2.me/theorems/08d80476-c813-51a2-99a5-7055d9e064d5

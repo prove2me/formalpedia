@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_RightMul_val_add
 -- name    : GroundTheory.Brauer.RightMul.val_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:27.400513+00:00
 -- url     : https://prove2.me/theorems/972bca3a-ea4a-5dc1-83d2-0ecf15f13cc2

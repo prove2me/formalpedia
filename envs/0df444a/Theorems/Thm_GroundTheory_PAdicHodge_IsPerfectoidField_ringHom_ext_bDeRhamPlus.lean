@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_ringHom_ext_bDeRhamPlus
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.ringHom_ext_bDeRhamPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:25.116975+00:00
 -- url     : https://prove2.me/theorems/ff20c18e-3471-439d-95f0-30c6f31e1ed1

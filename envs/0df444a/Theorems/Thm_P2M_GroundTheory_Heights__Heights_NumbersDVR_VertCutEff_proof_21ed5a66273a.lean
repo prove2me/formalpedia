@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VertCutEff_proof_21ed5a66273a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_VertCutEff_proof_21ed5a66273a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:35:07.277223+00:00
 -- url     : https://prove2.me/theorems/3cb02296-c284-47e2-ac21-f41848490cfb

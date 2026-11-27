@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LocalIntegralClosureFinite_proof_0a2405da4010
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LocalIntegralClosureFinite_proof_0a2405da4010
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:14:31.599208+00:00
 -- url     : https://prove2.me/theorems/c1396437-72a0-4735-92c3-e9f29ba21cf5

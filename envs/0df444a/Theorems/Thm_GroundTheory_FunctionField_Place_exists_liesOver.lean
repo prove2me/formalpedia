@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_exists_liesOver
 -- name    : GroundTheory.FunctionField.Place.exists_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:44.975288+00:00
 -- url     : https://prove2.me/theorems/83fe5ed9-e83d-4867-9069-fbea79488a6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_vanishingOn_anti
 -- name    : GroundTheory.Automorphic.Whittaker.vanishingOn_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:19.441352+00:00
 -- url     : https://prove2.me/theorems/b9fe1dca-560c-54b9-a3bb-b14426fe8d0a

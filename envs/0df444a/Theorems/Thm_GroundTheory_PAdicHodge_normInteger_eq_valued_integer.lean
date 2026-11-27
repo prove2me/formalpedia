@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normInteger_eq_valued_integer
 -- name    : GroundTheory.PAdicHodge.normInteger_eq_valued_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:13.204901+00:00
 -- url     : https://prove2.me/theorems/af77aaad-fbb5-52c3-97ff-e548d3d5e5c7

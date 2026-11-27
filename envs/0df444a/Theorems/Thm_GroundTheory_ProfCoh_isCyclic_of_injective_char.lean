@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isCyclic_of_injective_char
 -- name    : GroundTheory.ProfCoh.isCyclic_of_injective_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:47.68562+00:00
 -- url     : https://prove2.me/theorems/e21eb757-fc85-5507-bab5-a0417a1458de

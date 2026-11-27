@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLength_proof_c41b2f5f30ce
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLength_proof_c41b2f5f30ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:02.37024+00:00
 -- url     : https://prove2.me/theorems/8cfc87b2-7118-4b9b-a6f8-f9ae80a03740

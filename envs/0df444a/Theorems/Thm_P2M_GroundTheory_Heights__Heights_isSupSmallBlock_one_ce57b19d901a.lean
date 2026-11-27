@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isSupSmallBlock_one_ce57b19d901a
 -- name    : P2M_GroundTheory_Heights__Heights_isSupSmallBlock_one_ce57b19d901a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:21.826971+00:00
 -- url     : https://prove2.me/theorems/69e6aa3e-500a-4b89-8b40-1afc4bf7b40a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHMap_cechClass
 -- name    : GlobalTheory.cechHMap_cechClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:35.667935+00:00
 -- url     : https://prove2.me/theorems/1ee7f615-9f1d-4f47-ac9d-c181a2727f83

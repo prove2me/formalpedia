@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_mul_length_le_addVal_discr_of_equiv
 -- name    : GlobalTheory.two_mul_length_le_addVal_discr_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:16.003961+00:00
 -- url     : https://prove2.me/theorems/b5150c05-07dd-5368-a7c6-5184245aea1e

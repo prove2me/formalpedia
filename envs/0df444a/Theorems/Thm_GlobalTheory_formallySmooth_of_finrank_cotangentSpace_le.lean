@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallySmooth_of_finrank_cotangentSpace_le
 -- name    : GlobalTheory.formallySmooth_of_finrank_cotangentSpace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:43:08.760751+00:00
 -- url     : https://prove2.me/theorems/eb8bb366-e06f-5068-9506-0b5f143f2f74

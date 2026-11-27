@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_gram_det_change_of_basis__5b91eb961e07
 -- name    : P2M_GlobalTheory_T_gram_det_change_of_basis__5b91eb961e07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:28.546023+00:00
 -- url     : https://prove2.me/theorems/01e44033-0148-5ce5-b93e-667e6f20ba11

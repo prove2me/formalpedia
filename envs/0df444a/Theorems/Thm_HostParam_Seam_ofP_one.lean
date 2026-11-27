@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_ofP_one
 -- name    : HostParam.Seam.ofP_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:04:15.787547+00:00
 -- url     : https://prove2.me/theorems/2d12f3a1-5cb4-4e6a-b767-a4e05fccb8ed

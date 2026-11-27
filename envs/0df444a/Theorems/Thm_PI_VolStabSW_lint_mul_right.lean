@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_lint_mul_right
 -- name    : PI.VolStabSW.lint_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:39.693995+00:00
 -- url     : https://prove2.me/theorems/1b4106da-999f-5302-8138-8a102b6f55d9

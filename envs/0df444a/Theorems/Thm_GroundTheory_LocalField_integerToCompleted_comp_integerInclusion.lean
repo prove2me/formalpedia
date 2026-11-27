@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integerToCompleted_comp_integerInclusion
 -- name    : GroundTheory.LocalField.integerToCompleted_comp_integerInclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:22.273559+00:00
 -- url     : https://prove2.me/theorems/4b56afc8-1843-5ee7-b5e7-76ae99d97028

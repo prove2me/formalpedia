@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isGradedMap_lsmul__da4273aa92c0
 -- name    : P2M_GlobalTheory_isGradedMap_lsmul__da4273aa92c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:14.030055+00:00
 -- url     : https://prove2.me/theorems/550188e9-1b11-4f45-a692-587eff3024db

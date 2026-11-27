@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_polar
 -- name    : ReciprocityTheory.L2DbarEstimates.I.polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:04.822805+00:00
 -- url     : https://prove2.me/theorems/a5a33cd9-e591-4475-8c37-6b07755b378b

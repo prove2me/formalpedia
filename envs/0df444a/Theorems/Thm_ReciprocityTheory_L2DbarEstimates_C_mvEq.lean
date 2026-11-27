@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mvEq
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mvEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:10.675246+00:00
 -- url     : https://prove2.me/theorems/71bd634c-a52f-4521-b822-b283bcc2ad33

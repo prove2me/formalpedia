@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_Supplement_no_purchase_ratio_overlapping
 -- name    : AssortSearch.MNLQC.Supplement.no_purchase_ratio_overlapping
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:23:09.575443+00:00
 -- url     : https://prove2.me/theorems/84dc27e6-0374-4f28-8584-b28f60a10766

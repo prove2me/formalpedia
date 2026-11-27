@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_real_isotropic_or_one_class
 -- name    : GlobalTheory.UTrans.real_isotropic_or_one_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:42:11.846659+00:00
 -- url     : https://prove2.me/theorems/774b1852-7bc1-5c92-a30c-f347e529e0b8

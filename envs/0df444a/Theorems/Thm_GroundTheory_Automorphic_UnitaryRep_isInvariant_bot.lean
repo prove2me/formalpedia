@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isInvariant_bot
 -- name    : GroundTheory.Automorphic.UnitaryRep.isInvariant_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:47.582326+00:00
 -- url     : https://prove2.me/theorems/2918130e-dfff-41a7-8135-05564fd00077

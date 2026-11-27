@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_proper_lift_trait_of_generic_lift
 -- name    : GlobalTheory.T.proper_lift_trait_of_generic_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:53.400553+00:00
 -- url     : https://prove2.me/theorems/df1fee25-4bb9-5f40-855f-4ec731bb7308

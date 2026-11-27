@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_spanLower_le_nMinusU
 -- name    : GroundTheory.Automorphic.HarishChandra.spanLower_le_nMinusU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:11.318803+00:00
 -- url     : https://prove2.me/theorems/daded81b-8dfe-52f9-8c8a-d6837bb327d2

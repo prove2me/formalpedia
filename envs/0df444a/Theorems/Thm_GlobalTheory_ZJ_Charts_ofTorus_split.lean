@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_Charts_ofTorus_split
 -- name    : GlobalTheory.ZJ.Charts.ofTorus_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:33:22.773201+00:00
 -- url     : https://prove2.me/theorems/0027e9c0-fbc8-5e91-a15f-f9307a21c457

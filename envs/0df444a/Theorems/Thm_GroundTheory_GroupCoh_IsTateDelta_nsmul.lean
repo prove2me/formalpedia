@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_IsTateDelta_nsmul
 -- name    : GroundTheory.GroupCoh.IsTateDelta.nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:00:09.26828+00:00
 -- url     : https://prove2.me/theorems/513c42e4-ebca-4d2e-ac9d-afccc66e2b80

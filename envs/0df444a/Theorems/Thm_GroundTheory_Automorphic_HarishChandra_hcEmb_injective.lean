@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hcEmb_injective
 -- name    : GroundTheory.Automorphic.HarishChandra.hcEmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:11.4198+00:00
 -- url     : https://prove2.me/theorems/2a08658f-5de6-48d8-9ab1-a4a7962a5fdb

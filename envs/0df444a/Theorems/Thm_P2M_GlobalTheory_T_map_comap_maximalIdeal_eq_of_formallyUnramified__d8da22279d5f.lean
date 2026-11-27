@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_map_comap_maximalIdeal_eq_of_formallyUnramified__d8da22279d5f
 -- name    : P2M_GlobalTheory_T_map_comap_maximalIdeal_eq_of_formallyUnramified__d8da22279d5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:35.818282+00:00
 -- url     : https://prove2.me/theorems/a3c03851-bc3d-4d51-a947-33657b62845c

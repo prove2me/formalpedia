@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_Supplement_lemma_8
 -- name    : StochSQP.Vanishing.Supplement.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:17:27.434794+00:00
 -- url     : https://prove2.me/theorems/a6daa17e-412e-49eb-bca7-033d69bef054

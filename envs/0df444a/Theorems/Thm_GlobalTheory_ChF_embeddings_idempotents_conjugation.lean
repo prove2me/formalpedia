@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_embeddings_idempotents_conjugation
 -- name    : GlobalTheory.ChF.embeddings_idempotents_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:12:49.126496+00:00
 -- url     : https://prove2.me/theorems/1f8b4034-2594-5cc1-8951-9fb648f0fab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_variableChange_eq_weierstrassCurve
 -- name    : GroundTheory.Global.Elliptic.exists_variableChange_eq_weierstrassCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:20.232669+00:00
 -- url     : https://prove2.me/theorems/a004be74-03c4-442b-a8c4-4217d16d7fa4

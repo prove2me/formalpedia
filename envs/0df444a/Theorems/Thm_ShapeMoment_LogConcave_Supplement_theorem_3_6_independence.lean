@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_Supplement_theorem_3_6_independence
 -- name    : ShapeMoment.LogConcave.Supplement.theorem_3_6_independence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:08:55.755625+00:00
 -- url     : https://prove2.me/theorems/e65252f1-4812-438e-934c-02a1e04397c5

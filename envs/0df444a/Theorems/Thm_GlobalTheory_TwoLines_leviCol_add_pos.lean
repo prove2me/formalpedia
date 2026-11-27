@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_leviCol_add_pos
 -- name    : GlobalTheory.TwoLines.leviCol_add_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:49:48.882136+00:00
 -- url     : https://prove2.me/theorems/4f1492b8-65a8-5c80-ac93-02de261519f6

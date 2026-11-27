@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finiteIndex_range_normUnits
 -- name    : GroundTheory.LocalField.finiteIndex_range_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:36.076939+00:00
 -- url     : https://prove2.me/theorems/ae7687f3-cc0e-4d76-a7de-9d648d11c272

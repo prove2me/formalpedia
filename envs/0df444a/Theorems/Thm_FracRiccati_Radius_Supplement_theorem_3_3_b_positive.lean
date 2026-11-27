@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_Supplement_theorem_3_3_b_positive
 -- name    : FracRiccati.Radius.Supplement.theorem_3_3_b_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:54:15.597648+00:00
 -- url     : https://prove2.me/theorems/d3883429-b0cb-4807-9593-b6899afa6150

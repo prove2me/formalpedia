@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isDomain_stalk_of_smooth_field
 -- name    : GroundTheory.Arith.SchemeCoh.isDomain_stalk_of_smooth_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:31.339371+00:00
 -- url     : https://prove2.me/theorems/805db46f-51f4-55ab-8500-8b065bdffd5d

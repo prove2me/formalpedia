@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Col_HXm_eq_map__8e8b55c128f6
 -- name    : P2M_Formalism_L2_Col_HXm_eq_map__8e8b55c128f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:16:50.568869+00:00
 -- url     : https://prove2.me/theorems/10325c77-951e-4c15-80c6-ec79aa5ba285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_det_mem
 -- name    : PI.UnitaryApproxFinWork.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:05.538357+00:00
 -- url     : https://prove2.me/theorems/f9a91a42-d9a6-4056-92bd-40eddce40faf

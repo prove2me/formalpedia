@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValUFD_isUnit_mvPolynomial
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValUFD.isUnit_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:14:42.142035+00:00
 -- url     : https://prove2.me/theorems/f68d18e0-76ec-44ba-baa2-99c6deb096dc

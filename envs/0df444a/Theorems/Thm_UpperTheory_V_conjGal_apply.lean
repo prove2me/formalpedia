@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_conjGal_apply
 -- name    : UpperTheory.V.conjGal_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:10.03701+00:00
 -- url     : https://prove2.me/theorems/6492c0d2-ecd1-4084-b893-a5e3b34fe9a0

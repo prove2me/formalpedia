@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_two_le_krullDim_of_relevant_prime
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.two_le_krullDim_of_relevant_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:12:16.088584+00:00
 -- url     : https://prove2.me/theorems/e17d6adc-6432-4138-85bc-a8dae2440466

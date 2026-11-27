@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_RelBaseChange_proof_f0a97540c8b4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_RelBaseChange_proof_f0a97540c8b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:23:59.493649+00:00
 -- url     : https://prove2.me/theorems/742ab0f6-fbff-54f5-822f-8c05a4f7dc91

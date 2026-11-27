@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_kerThetaFrob_eq_span_mu
 -- name    : GroundTheory.PAdicHodge.AInf.kerThetaFrob_eq_span_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:56.325476+00:00
 -- url     : https://prove2.me/theorems/d7b19dda-6bdb-4bd4-af72-5cee10710f06

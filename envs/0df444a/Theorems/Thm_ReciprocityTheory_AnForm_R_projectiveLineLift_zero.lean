@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_projectiveLineLift_zero
 -- name    : ReciprocityTheory.AnForm.R.projectiveLineLift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:51.551532+00:00
 -- url     : https://prove2.me/theorems/fab9402f-2063-5b5b-a1e0-092badd54259

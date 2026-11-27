@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_convergence_of_landau_euler
 -- name    : PositivityTheory.RgJS.convergence_of_landau_euler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:45.150502+00:00
 -- url     : https://prove2.me/theorems/e0433658-2298-4ace-a97b-aa5aa11900fc

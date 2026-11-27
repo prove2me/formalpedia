@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_finite_forall_liesOver
 -- name    : GroundTheory.Global.exists_finite_forall_liesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:44.073849+00:00
 -- url     : https://prove2.me/theorems/1cb717f3-1d7c-4c34-a09b-6e7352ff0fba

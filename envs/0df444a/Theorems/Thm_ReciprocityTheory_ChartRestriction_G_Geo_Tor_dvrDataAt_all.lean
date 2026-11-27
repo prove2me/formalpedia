@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_dvrDataAt_all
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.dvrDataAt_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:24:47.666234+00:00
 -- url     : https://prove2.me/theorems/d389421a-150d-5d69-93ed-0ae52ff40fa7

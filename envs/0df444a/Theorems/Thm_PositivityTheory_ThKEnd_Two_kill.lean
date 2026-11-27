@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_kill
 -- name    : PositivityTheory.ThKEnd.Two.kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:20.837351+00:00
 -- url     : https://prove2.me/theorems/ef9952b5-6280-4ff0-98b2-81003fae1ce9

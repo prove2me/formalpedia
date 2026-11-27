@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_uniformizerPowerTorus_mem_normal_unitarySubgroup
 -- name    : GlobalTheory.T.uniformizerPowerTorus_mem_normal_unitarySubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:14.851284+00:00
 -- url     : https://prove2.me/theorems/8db0f8e5-abba-4f04-9ba2-260c7b966d71

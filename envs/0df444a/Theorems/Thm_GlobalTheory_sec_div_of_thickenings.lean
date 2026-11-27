@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_div_of_thickenings
 -- name    : GlobalTheory.sec_div_of_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:50:04.458309+00:00
 -- url     : https://prove2.me/theorems/2b51ba90-7ae9-41cb-b07b-d6c7f8df68a9

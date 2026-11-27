@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_isWeakD_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.B.isWeakD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:43.252244+00:00
 -- url     : https://prove2.me/theorems/2af9ee6d-5124-42db-8a60-957831dc2e6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_polyAddContent_iff
 -- name    : GlobalTheory.le_polyAddContent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:24.569661+00:00
 -- url     : https://prove2.me/theorems/f5c87c4a-75cc-44ac-ba28-6f867cb4ad08

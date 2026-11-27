@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_point_transport_embedding
 -- name    : GlobalTheory.torsion_point_transport_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:51:49.787382+00:00
 -- url     : https://prove2.me/theorems/87381e3e-3c4c-435d-844b-ed77d3cc8ee8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_equivPullL
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.equivPullL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:01:25.684894+00:00
 -- url     : https://prove2.me/theorems/1e9744ef-331e-4c32-a1a5-3162f7f04e17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryThreeLCC_Main_linear_three_query_length_lower_bound
 -- name    : BinaryThreeLCC.Main.linear_three_query_length_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:03:02.002922+00:00
 -- url     : https://prove2.me/theorems/369baf5b-0985-4422-9dc5-4423c6f50fd4

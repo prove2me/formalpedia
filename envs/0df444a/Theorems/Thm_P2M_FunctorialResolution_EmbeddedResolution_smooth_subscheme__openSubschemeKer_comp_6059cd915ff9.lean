@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__openSubschemeKer_comp_6059cd915ff9
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__openSubschemeKer_comp_6059cd915ff9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:13.295291+00:00
 -- url     : https://prove2.me/theorems/564664b3-d4da-41fa-85ca-b542cd19b1db

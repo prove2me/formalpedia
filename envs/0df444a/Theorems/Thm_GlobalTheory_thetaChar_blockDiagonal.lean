@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaChar_blockDiagonal
 -- name    : GlobalTheory.thetaChar_blockDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:21:21.859376+00:00
 -- url     : https://prove2.me/theorems/2cc74a6f-78c4-43d2-a3dc-1a0749aae9bc

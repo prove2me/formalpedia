@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_end_eq_zero_of_twist_proportional
 -- name    : GlobalTheory.end_eq_zero_of_twist_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:45.543999+00:00
 -- url     : https://prove2.me/theorems/20058343-2f02-4d17-908f-bbcf787877a3

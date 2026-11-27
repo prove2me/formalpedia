@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FormIntLelong_proof_27b9bde41f3b
 -- name    : P2M_GroundTheory_Heights__Heights_FormIntLelong_proof_27b9bde41f3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:23.435535+00:00
 -- url     : https://prove2.me/theorems/44aeb2ae-cd2c-4810-a7fb-dfd7283c5395

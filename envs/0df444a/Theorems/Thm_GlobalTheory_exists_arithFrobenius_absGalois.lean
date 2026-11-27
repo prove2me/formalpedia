@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_arithFrobenius_absGalois
 -- name    : GlobalTheory.exists_arithFrobenius_absGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:25.945961+00:00
 -- url     : https://prove2.me/theorems/381773c7-662a-4298-bcc8-158a06f08077

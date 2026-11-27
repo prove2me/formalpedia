@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WachLettersCompare__A_letE_ec2d29c80467
 -- name    : P2M_GlobalTheory_WachLettersCompare__A_letE_ec2d29c80467
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:44.565961+00:00
 -- url     : https://prove2.me/theorems/3213f56e-7da7-4c0f-8c53-c18bfb070018

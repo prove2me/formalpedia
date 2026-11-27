@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_isAffineOpen_of_ringKrullDim_le_one
 -- name    : GlobalTheory.eq_of_isAffineOpen_of_ringKrullDim_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:38.629843+00:00
 -- url     : https://prove2.me/theorems/adb6f256-0026-41be-bb4b-37cb2afe618d

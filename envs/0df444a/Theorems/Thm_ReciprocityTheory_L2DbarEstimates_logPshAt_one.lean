@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_logPshAt_one
 -- name    : ReciprocityTheory.L2DbarEstimates.logPshAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:39:57.509395+00:00
 -- url     : https://prove2.me/theorems/48a3cd09-ff7a-481d-a2a0-304d151fdc76

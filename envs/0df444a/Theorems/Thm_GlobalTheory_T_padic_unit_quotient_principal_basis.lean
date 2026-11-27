@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padic_unit_quotient_principal_basis
 -- name    : GlobalTheory.T.padic_unit_quotient_principal_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:25:31.306856+00:00
 -- url     : https://prove2.me/theorems/fae45f0b-51dd-40d4-9a0f-3abdbe76056b

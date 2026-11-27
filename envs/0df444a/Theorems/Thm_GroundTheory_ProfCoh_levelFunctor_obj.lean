@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_levelFunctor_obj
 -- name    : GroundTheory.ProfCoh.levelFunctor_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:42.473434+00:00
 -- url     : https://prove2.me/theorems/0481643c-05f9-5dbd-bd0a-bb03273305be

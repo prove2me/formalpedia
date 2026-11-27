@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_apply_eq_of_transcendental
 -- name    : GlobalTheory.exists_algHom_apply_eq_of_transcendental
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:46:12.456063+00:00
 -- url     : https://prove2.me/theorems/fd2b75e2-7c9c-492f-95be-a4d07555f5eb

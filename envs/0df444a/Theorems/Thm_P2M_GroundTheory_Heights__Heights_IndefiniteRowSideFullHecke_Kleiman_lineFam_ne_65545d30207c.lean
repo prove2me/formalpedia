@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_lineFam_ne_65545d30207c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kleiman_lineFam_ne_65545d30207c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:22.346129+00:00
 -- url     : https://prove2.me/theorems/7633a8da-93e3-45c3-86ff-caa1bc946b4a

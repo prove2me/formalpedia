@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_lemma_2_4
 -- name    : ParityDegreeDepth.Main.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:23:45.334357+00:00
 -- url     : https://prove2.me/theorems/8c57b1e0-8b4c-4bcf-ab33-ff80c3a28b40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SumCp_proof_70d9a2c55444
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SumCp_proof_70d9a2c55444
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:33:38.453997+00:00
 -- url     : https://prove2.me/theorems/fa04fe24-4b6b-5e2c-84ac-9c9f2ace3029

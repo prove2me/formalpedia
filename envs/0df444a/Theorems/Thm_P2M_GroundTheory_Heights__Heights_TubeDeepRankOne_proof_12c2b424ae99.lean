@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_proof_12c2b424ae99
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_proof_12c2b424ae99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:27.027233+00:00
 -- url     : https://prove2.me/theorems/40fa1340-cc4b-41ac-af41-206d469a0081

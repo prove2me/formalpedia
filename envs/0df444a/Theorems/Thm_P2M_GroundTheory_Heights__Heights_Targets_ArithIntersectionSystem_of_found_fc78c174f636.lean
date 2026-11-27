@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ArithIntersectionSystem_of_found_fc78c174f636
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ArithIntersectionSystem_of_found_fc78c174f636
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:21.532109+00:00
 -- url     : https://prove2.me/theorems/3dcf9bf3-36d6-550a-9bd1-e9bfed4acec0

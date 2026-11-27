@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreRFlatAscent_proof_7cd3a1f495c3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SerreRFlatAscent_proof_7cd3a1f495c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:36.884731+00:00
 -- url     : https://prove2.me/theorems/0c84b0d5-6002-4df6-8b5e-34a8957b0bcc

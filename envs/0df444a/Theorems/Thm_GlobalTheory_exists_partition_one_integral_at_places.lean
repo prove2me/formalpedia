@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_partition_one_integral_at_places
 -- name    : GlobalTheory.exists_partition_one_integral_at_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:06.300473+00:00
 -- url     : https://prove2.me/theorems/8aca768f-b224-578e-9ea8-cd686256cb3d

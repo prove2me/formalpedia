@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechRestrictions_exact
 -- name    : GlobalTheory.cechRestrictions_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:13.296388+00:00
 -- url     : https://prove2.me/theorems/8d7827cd-26ab-5f0d-8c21-7662f6d2421e

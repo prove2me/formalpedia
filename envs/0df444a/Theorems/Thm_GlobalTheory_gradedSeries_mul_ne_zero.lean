@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gradedSeries_mul_ne_zero
 -- name    : GlobalTheory.gradedSeries_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:42.172076+00:00
 -- url     : https://prove2.me/theorems/04f17108-b685-4b0b-a3ad-a6dadbf9f2ec

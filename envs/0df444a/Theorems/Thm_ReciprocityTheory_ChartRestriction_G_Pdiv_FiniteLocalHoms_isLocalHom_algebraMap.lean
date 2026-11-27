@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_FiniteLocalHoms_isLocalHom_algebraMap
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.FiniteLocalHoms.isLocalHom_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:14:16.829908+00:00
 -- url     : https://prove2.me/theorems/cdf516b6-ac63-4ebc-ad75-aa07c78df00e

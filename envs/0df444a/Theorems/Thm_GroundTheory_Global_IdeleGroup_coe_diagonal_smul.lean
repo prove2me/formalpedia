@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_coe_diagonal_smul
 -- name    : GroundTheory.Global.IdeleGroup.coe_diagonal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:47.76799+00:00
 -- url     : https://prove2.me/theorems/0e4d2966-8d0a-53da-8acb-5e51e8dbe8e1

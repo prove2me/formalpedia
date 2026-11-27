@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_theorem_3_5
 -- name    : ParityDegreeDepth.Main.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:23:52.514892+00:00
 -- url     : https://prove2.me/theorems/50671668-9bc3-4c61-86a0-1aa7c36e9b3b

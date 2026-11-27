@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_le_at_nearby_indices
 -- name    : GlobalTheory.eventually_le_at_nearby_indices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:52.943608+00:00
 -- url     : https://prove2.me/theorems/b5013bfa-d8b8-4b5c-afcf-519eb8702e48

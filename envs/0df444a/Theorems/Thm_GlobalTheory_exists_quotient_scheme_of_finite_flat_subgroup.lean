@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_quotient_scheme_of_finite_flat_subgroup
 -- name    : GlobalTheory.exists_quotient_scheme_of_finite_flat_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:45.419638+00:00
 -- url     : https://prove2.me/theorems/14b872ec-d301-42aa-a293-b48579f282ae

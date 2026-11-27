@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSDP_FullPert_Supplement_theorem_4_1
 -- name    : RobustSDP.FullPert.Supplement.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:46:00.44348+00:00
 -- url     : https://prove2.me/theorems/6d946094-440c-4bc0-b2c7-35cd80f3f9d2

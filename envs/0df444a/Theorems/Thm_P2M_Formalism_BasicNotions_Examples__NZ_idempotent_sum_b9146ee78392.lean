@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_idempotent_sum_b9146ee78392
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_idempotent_sum_b9146ee78392
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:10:06.403229+00:00
 -- url     : https://prove2.me/theorems/4a397fec-4ab9-58aa-aa3e-73348c178bbd

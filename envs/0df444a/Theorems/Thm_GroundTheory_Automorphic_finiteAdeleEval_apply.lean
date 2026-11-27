@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_finiteAdeleEval_apply
 -- name    : GroundTheory.Automorphic.finiteAdeleEval_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:48.628814+00:00
 -- url     : https://prove2.me/theorems/b62322dd-0d3c-4145-b7d5-ade06877453d

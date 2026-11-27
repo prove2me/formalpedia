@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_coe_invariantsToQuotient
 -- name    : GroundTheory.ProfCoh.coe_coe_invariantsToQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:56.261967+00:00
 -- url     : https://prove2.me/theorems/183f00b2-b68b-471e-a014-c679766d6f76

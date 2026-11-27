@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DeRhamCompare__V_mp_65acf6129754
 -- name    : P2M_GlobalTheory_DeRhamCompare__V_mp_65acf6129754
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:28.754082+00:00
 -- url     : https://prove2.me/theorems/94993aaf-73a7-52e5-8c0d-079284c35d8c

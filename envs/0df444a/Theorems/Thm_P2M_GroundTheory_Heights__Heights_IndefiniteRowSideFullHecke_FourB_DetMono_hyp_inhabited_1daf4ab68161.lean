@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_DetMono_hyp_inhabited_1daf4ab68161
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_DetMono_hyp_inhabited_1daf4ab68161
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:23:20.055635+00:00
 -- url     : https://prove2.me/theorems/e8c21857-179c-524b-b9a5-edb9e9b122e8

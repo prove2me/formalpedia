@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_cechAbHEquiv
 -- name    : GlobalTheory.smul_cechAbHEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:51:08.255306+00:00
 -- url     : https://prove2.me/theorems/f57e90ab-5c9e-5797-a5fe-65a77574c1d1

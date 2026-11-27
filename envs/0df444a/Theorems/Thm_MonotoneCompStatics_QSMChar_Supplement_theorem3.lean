@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneCompStatics_QSMChar_Supplement_theorem3
 -- name    : MonotoneCompStatics.QSMChar.Supplement.theorem3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:09:04.339418+00:00
 -- url     : https://prove2.me/theorems/ba52706a-ba45-4dbb-b8e6-b214f2b6a475

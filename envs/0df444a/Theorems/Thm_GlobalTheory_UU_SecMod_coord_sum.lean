@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_SecMod_coord_sum
 -- name    : GlobalTheory.UU.SecMod.coord_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:03.377549+00:00
 -- url     : https://prove2.me/theorems/a01e9b56-72e0-4e2b-80f0-d8888c92c8f0

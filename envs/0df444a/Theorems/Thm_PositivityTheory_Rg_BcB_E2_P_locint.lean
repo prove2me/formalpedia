@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_locint
 -- name    : PositivityTheory.Rg.BcB.E2.P.locint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:28.344026+00:00
 -- url     : https://prove2.me/theorems/901a896d-737f-4ce6-9309-da0c308fab40

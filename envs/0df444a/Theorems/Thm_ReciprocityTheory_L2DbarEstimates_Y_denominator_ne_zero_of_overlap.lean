@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_denominator_ne_zero_of_overlap
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.denominator_ne_zero_of_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:09:55.15189+00:00
 -- url     : https://prove2.me/theorems/66d81b05-f276-4fcf-8e74-9b0ed2b737a1

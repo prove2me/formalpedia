@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowCycleSwap_proof_542455c6b0c7
 -- name    : P2M_GroundTheory_Heights__Heights_ChowCycleSwap_proof_542455c6b0c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:23.237913+00:00
 -- url     : https://prove2.me/theorems/678bca29-3fc7-4f5c-a258-0dbd428c4b9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_EvaluationMap_main
 -- name    : UpperTheory.Reformulated.B.EvaluationMap.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:10.750799+00:00
 -- url     : https://prove2.me/theorems/dd97c147-1395-5701-b3d9-e5c0c99fd3d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multilinearMap_sum_eq_of_sum_prod_eval_eq
 -- name    : GlobalTheory.T.multilinearMap_sum_eq_of_sum_prod_eval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:25.803632+00:00
 -- url     : https://prove2.me/theorems/d116f869-2b85-5309-b90c-b058707f140a

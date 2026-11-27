@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_isReduced_subscheme_vanishingIdeal_30eea735de51a3be
 -- name    : P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_isReduced_subscheme_vanishingIdeal_30eea735de51a3be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:29.117306+00:00
 -- url     : https://prove2.me/theorems/32644701-bd50-4c13-bc6f-d4e59368578e

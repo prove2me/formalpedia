@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteFibreGermIntegral_proof_6c70cd55f5c2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteFibreGermIntegral_proof_6c70cd55f5c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:45.504806+00:00
 -- url     : https://prove2.me/theorems/1113c2c1-937a-54f7-9652-a0466ebed5af

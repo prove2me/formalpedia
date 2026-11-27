@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_localComponent_uniformizer_eq
 -- name    : GroundTheory.Global.HeckeCharacter.localComponent_uniformizer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:01:04.164357+00:00
 -- url     : https://prove2.me/theorems/acae9ffb-ef05-4752-acd1-90c30755ce61

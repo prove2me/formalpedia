@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_summable_norm_coset_out__5fd537106224
 -- name    : P2M_GlobalTheory_T_summable_norm_coset_out__5fd537106224
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:06:20.376731+00:00
 -- url     : https://prove2.me/theorems/363c7772-2512-5931-82fe-6a53075f447e

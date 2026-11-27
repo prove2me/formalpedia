@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_ord_nonneg_iff
 -- name    : GroundTheory.FunctionField.Place.ord_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:25.154914+00:00
 -- url     : https://prove2.me/theorems/a4dbc977-905c-4376-91b7-61fc942980a3

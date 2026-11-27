@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Tow_Levi_exists_move
 -- name    : PositivityTheory.ThKG.Tow.Levi.exists_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:01.518828+00:00
 -- url     : https://prove2.me/theorems/a8d6ef2b-b314-4a6d-98bc-08d7fbd9a00e

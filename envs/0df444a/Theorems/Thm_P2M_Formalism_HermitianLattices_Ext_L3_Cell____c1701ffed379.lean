@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_Cell____c1701ffed379
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_Cell____c1701ffed379
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:03.940354+00:00
 -- url     : https://prove2.me/theorems/f8718c8d-bf5e-53e6-a742-41cd24066aab

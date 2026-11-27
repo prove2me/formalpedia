@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_OrthProjection_hyps_96e56183e03b
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_OrthProjection_hyps_96e56183e03b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:15.412886+00:00
 -- url     : https://prove2.me/theorems/821d0e41-ecdc-5d51-92ff-b0cd86025d3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_complexComponent_eq_one_of_isOfFinOrder
 -- name    : GroundTheory.Global.HeckeCharacter.complexComponent_eq_one_of_isOfFinOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:22.840094+00:00
 -- url     : https://prove2.me/theorems/2fa4e235-01f6-4feb-837a-8327f3625ea5

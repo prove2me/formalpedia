@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for DirectedHamiltonicity.Main.execute_cycle_search
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:21:07.246241+00:00
 -- url     : https://prove2.me/submissions/d598b63a-c237-42b5-8fc1-e2966ac678e9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LogCostRAM_StructuredExecution
 import Definitions.Def_DirectedHamiltonicity_CycleSearchHost

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_trace_smul
 -- name    : GroundTheory.Automorphic.trace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:39.072516+00:00
 -- url     : https://prove2.me/theorems/edbdf4b4-84a0-5bf4-b205-b8a39155e2a2

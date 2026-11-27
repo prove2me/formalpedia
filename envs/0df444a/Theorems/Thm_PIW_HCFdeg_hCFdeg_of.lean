@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_hCFdeg_of
 -- name    : PIW.HCFdeg.hCFdeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:35.276546+00:00
 -- url     : https://prove2.me/theorems/4864baf7-e753-4120-b2a5-d9c960a2f05b

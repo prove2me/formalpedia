@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twoCharts_one
 -- name    : GlobalTheory.twoCharts_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:35.946356+00:00
 -- url     : https://prove2.me/theorems/acb8f3ec-c2c4-4dcc-acb5-ccf121a06edb

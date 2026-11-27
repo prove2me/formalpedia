@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_SupNormEquality_equiv_4ada4e93fda3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_SupNormEquality_equiv_4ada4e93fda3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:17:05.731328+00:00
 -- url     : https://prove2.me/theorems/1ca2d334-0410-4238-965f-49e20e0090f5

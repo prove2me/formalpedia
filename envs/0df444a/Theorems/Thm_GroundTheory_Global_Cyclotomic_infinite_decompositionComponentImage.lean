@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_infinite_decompositionComponentImage
 -- name    : GroundTheory.Global.Cyclotomic.infinite_decompositionComponentImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:55:26.183408+00:00
 -- url     : https://prove2.me/theorems/2a62cce7-a90b-42b6-9b3a-116cb6fb33a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_span_basis
 -- name    : GlobalTheory.lengthCommensurable_span_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:55.27485+00:00
 -- url     : https://prove2.me/theorems/8e5f71f8-dc19-5ce9-8906-933ae17b15a6

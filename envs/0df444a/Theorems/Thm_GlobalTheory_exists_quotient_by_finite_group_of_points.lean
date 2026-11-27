@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_quotient_by_finite_group_of_points
 -- name    : GlobalTheory.exists_quotient_by_finite_group_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:45.211365+00:00
 -- url     : https://prove2.me/theorems/765f0e4f-43ee-585c-8c09-44702182766b

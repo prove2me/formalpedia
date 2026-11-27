@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_rank_mul_isLittleO
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.rank_mul_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:41.465068+00:00
 -- url     : https://prove2.me/theorems/5b930806-e123-47e1-a934-b658292a2f46

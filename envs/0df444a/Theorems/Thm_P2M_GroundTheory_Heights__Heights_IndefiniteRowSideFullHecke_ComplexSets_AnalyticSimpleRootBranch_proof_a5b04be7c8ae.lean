@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticSimpleRootBranch_proof_a5b04be7c8ae
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AnalyticSimpleRootBranch_proof_a5b04be7c8ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:18.82981+00:00
 -- url     : https://prove2.me/theorems/16a9e8c5-02a9-5e3a-9010-10245a0829c1

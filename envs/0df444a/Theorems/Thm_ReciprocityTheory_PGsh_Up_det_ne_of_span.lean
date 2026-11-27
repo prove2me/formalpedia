@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_det_ne_of_span
 -- name    : ReciprocityTheory.PGsh.Up.det_ne_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:29:23.066154+00:00
 -- url     : https://prove2.me/theorems/4f6fd2cb-9bd4-4f0e-8550-a42744951d2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_desc_of_isFinite_of_densePart
 -- name    : GlobalTheory.exists_desc_of_isFinite_of_densePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:50:38.283658+00:00
 -- url     : https://prove2.me/theorems/ac95bfdf-c2a8-5363-abeb-e36270e6a836

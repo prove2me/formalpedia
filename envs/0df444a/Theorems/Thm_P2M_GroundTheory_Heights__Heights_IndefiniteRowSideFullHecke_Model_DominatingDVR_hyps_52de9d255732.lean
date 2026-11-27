@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_DominatingDVR_hyps_52de9d255732
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_DominatingDVR_hyps_52de9d255732
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:24:25.640102+00:00
 -- url     : https://prove2.me/theorems/4e84018e-7f83-4f96-9ebd-539aa351a3c7

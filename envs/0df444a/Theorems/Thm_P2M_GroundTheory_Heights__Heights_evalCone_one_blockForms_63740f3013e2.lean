@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_evalCone_one_blockForms_63740f3013e2
 -- name    : P2M_GroundTheory_Heights__Heights_evalCone_one_blockForms_63740f3013e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:52.383508+00:00
 -- url     : https://prove2.me/theorems/f61dda14-58dc-59fd-b2e6-03ec75c6efdc

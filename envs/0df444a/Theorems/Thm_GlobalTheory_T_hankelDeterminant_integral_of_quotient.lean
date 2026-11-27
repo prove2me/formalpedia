@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hankelDeterminant_integral_of_quotient
 -- name    : GlobalTheory.T.hankelDeterminant_integral_of_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:06.351296+00:00
 -- url     : https://prove2.me/theorems/35ebf0ba-801c-524b-87d5-95b988414ecd

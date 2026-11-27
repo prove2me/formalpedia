@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_thmBc_iff
 -- name    : UpperTheory.V.thmBc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:22.751171+00:00
 -- url     : https://prove2.me/theorems/995cb720-170a-45f9-afe1-fcad6e4ba1de

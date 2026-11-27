@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbitWeightedStabilizerSum_transport_equivariant
 -- name    : GlobalTheory.T.orbitWeightedStabilizerSum_transport_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:41.901811+00:00
 -- url     : https://prove2.me/theorems/74acea88-8da3-59da-9079-c3709c098c12

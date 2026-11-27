@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_Siua_siu_num
 -- name    : PositivityTheory.HtPt.Siua.siu_num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:50:04.294135+00:00
 -- url     : https://prove2.me/theorems/ee269c22-66bb-4f6c-b7a8-a0ca962c2319

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_quotient_span_rows_eq_addVal_det
 -- name    : GlobalTheory.length_quotient_span_rows_eq_addVal_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:34.721951+00:00
 -- url     : https://prove2.me/theorems/491599e3-14f8-5c37-8802-536cdd6b5ee6

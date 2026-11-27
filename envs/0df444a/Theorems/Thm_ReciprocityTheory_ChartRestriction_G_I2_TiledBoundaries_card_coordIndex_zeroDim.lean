@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_card_coordIndex_zeroDim
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.card_coordIndex_zeroDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:58.039658+00:00
 -- url     : https://prove2.me/theorems/757f1dc4-11cd-4151-aa2d-c82436a998ae

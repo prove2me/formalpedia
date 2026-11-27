@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_periodPairOfIdeal
 -- name    : exists_periodPairOfIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:51.310611+00:00
 -- url     : https://prove2.me/theorems/fec4a43e-b02e-5aac-bd7c-2a498eb97be2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagClosureTrdeg_proof_9b806228acde
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagClosureTrdeg_proof_9b806228acde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:37:58.289798+00:00
 -- url     : https://prove2.me/theorems/9ac41cfa-7620-53a3-89ab-ab8ce0b883e6

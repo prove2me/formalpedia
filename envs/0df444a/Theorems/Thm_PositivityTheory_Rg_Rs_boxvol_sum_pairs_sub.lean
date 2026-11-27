@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_boxvol_sum_pairs_sub
 -- name    : PositivityTheory.Rg.Rs.boxvol.sum_pairs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:34.685988+00:00
 -- url     : https://prove2.me/theorems/085a217e-3762-43d9-82e3-2962787dafd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_algebraMap_norm
 -- name    : GroundTheory.LocalField.ord_algebraMap_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:37.958808+00:00
 -- url     : https://prove2.me/theorems/001067af-0b07-41b4-8a9f-fa42d7cecd36

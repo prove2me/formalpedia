@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for P2M_Formalism_SLP_GlobalBoundRefinements_Final_det_index_product_hyperbolic_inequality__4e4e32904daf
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-27T04:50:31.35638+00:00
+-- url     : https://prove2.me/submissions/65c0c302-e1f8-416d-9c71-af4534776c8f
+
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_SubgroupIndexCounts_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_SubgroupIndexCounts_ArithmeticLatticeHypothesis
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_SubgroupIndexCounts_ProdInfinitePlaceLeOfIntegral
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_SubgroupIndexCounts_TheoremBEntryFormula
+import Definitions.Def_Formalism_HyperbolicPlaceProducts_ArithmeticCountRevised
+import Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_det_index_product_hyperbolic_inequality
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.SLP Formalism.SLP.GlobalBoundRefinements Formalism.SLP.GlobalBoundRefinements.Final
+namespace Formalism.SLP.GlobalBoundRefinements.Final
+theorem _root_.solution : Formalism.SLP.GlobalBoundRefinements.DetIndexProductHyperbolicInequality := Formalism.SLP.GlobalBoundRefinements.P.det_index_product_hyperbolic_inequality
+end Formalism.SLP.GlobalBoundRefinements.Final

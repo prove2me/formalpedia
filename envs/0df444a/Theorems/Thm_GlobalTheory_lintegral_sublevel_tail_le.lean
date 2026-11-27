@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lintegral_sublevel_tail_le
 -- name    : GlobalTheory.lintegral_sublevel_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:49.945459+00:00
 -- url     : https://prove2.me/theorems/c60b435d-aac3-46c1-a23f-52fadefa6af3

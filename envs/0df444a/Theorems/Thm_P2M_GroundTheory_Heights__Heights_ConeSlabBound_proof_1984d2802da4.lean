@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeSlabBound_proof_1984d2802da4
 -- name    : P2M_GroundTheory_Heights__Heights_ConeSlabBound_proof_1984d2802da4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:11:28.872098+00:00
 -- url     : https://prove2.me/theorems/1c43c5f0-ac16-4ed1-8309-ddbadcec66dc

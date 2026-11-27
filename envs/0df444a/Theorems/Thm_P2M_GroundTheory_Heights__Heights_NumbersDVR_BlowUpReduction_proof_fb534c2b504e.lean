@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpReduction_proof_fb534c2b504e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpReduction_proof_fb534c2b504e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:04.465207+00:00
 -- url     : https://prove2.me/theorems/c3b31245-5b1a-404e-a6fb-dcdfcd8bee4c

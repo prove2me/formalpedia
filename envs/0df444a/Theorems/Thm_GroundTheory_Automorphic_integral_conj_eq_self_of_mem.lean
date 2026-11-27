@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_integral_conj_eq_self_of_mem
 -- name    : GroundTheory.Automorphic.integral_conj_eq_self_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:06.643273+00:00
 -- url     : https://prove2.me/theorems/3f24464e-7563-44c9-bf08-e0f304923890

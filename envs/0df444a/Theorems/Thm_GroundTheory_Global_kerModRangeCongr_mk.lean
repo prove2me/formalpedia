@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_kerModRangeCongr_mk
 -- name    : GroundTheory.Global.kerModRangeCongr_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:25.936122+00:00
 -- url     : https://prove2.me/theorems/790171d8-9624-4f68-bd16-c9dd1aeb425e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CirclePackingConstants.twentyfive_unit_square_close_pair
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @vebis
 -- created : 2026-10-07T06:20:25.700968+00:00
 -- url     : https://prove2.me/submissions/7f7d5c9e-0c5d-4264-adea-3d7250efc40b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CirclePackingConstants
 import Theorems.Thm_CirclePackingConstants_twentyfive_fifth_cells_struct

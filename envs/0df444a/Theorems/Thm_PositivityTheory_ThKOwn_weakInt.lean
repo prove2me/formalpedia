@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_weakInt
 -- name    : PositivityTheory.ThKOwn.weakInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:34.228637+00:00
 -- url     : https://prove2.me/theorems/f866be94-0977-40dc-8580-81a7b5eb9b65

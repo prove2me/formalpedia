@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polarisation_dual_statement
 -- name    : GlobalTheory.T.polarisation_dual_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:45.4012+00:00
 -- url     : https://prove2.me/theorems/00797218-8d6e-5bf5-9fbe-d510a3c7c386

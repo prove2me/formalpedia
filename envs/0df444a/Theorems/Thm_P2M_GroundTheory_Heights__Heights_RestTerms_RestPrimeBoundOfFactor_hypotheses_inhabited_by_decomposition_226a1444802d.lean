@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestPrimeBoundOfFactor_hypotheses_inhabited_by_decomposition_226a1444802d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestPrimeBoundOfFactor_hypotheses_inhabited_by_decomposition_226a1444802d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:36:48.525857+00:00
 -- url     : https://prove2.me/theorems/c7a09780-0439-4856-9e09-cef7ea2ab3f7

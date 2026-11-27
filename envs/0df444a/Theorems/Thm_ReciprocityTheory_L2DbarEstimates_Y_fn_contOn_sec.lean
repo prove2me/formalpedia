@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_fn_contOn_sec
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.fn_contOn_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:52:24.199699+00:00
 -- url     : https://prove2.me/theorems/e91b5b98-5d86-49a9-8809-b8cdc238558a

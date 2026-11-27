@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_algebraMap_teich_mem_Econ
 -- name    : GroundTheory.PAdicHodge.TeichLift.algebraMap_teich_mem_Econ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:23.935229+00:00
 -- url     : https://prove2.me/theorems/069977a2-d44b-5c77-bc38-0d781cf74bd3

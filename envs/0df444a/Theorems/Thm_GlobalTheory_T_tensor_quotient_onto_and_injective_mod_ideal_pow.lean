@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_quotient_onto_and_injective_mod_ideal_pow
 -- name    : GlobalTheory.T.tensor_quotient_onto_and_injective_mod_ideal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:44.279393+00:00
 -- url     : https://prove2.me/theorems/78b5a63a-cdde-55d4-8303-ed6a521af47c

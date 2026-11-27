@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongLimitAtBranches_proof_fac54619724b
 -- name    : P2M_GroundTheory_Heights__Heights_LelongLimitAtBranches_proof_fac54619724b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:30:12.359257+00:00
 -- url     : https://prove2.me/theorems/44767221-4bd2-46d7-bc46-b6303d856b05

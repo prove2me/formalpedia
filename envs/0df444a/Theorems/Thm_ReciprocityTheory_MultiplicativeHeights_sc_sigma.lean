@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_sigma
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:40:40.554874+00:00
 -- url     : https://prove2.me/theorems/e6616348-7e74-4386-8cf5-67ac1ccbcf33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integrable_norm_pow_mul_exp_neg_mul_norm_sq
 -- name    : GlobalTheory.integrable_norm_pow_mul_exp_neg_mul_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:04.976806+00:00
 -- url     : https://prove2.me/theorems/95782af1-9c70-5ebd-adc5-50b2d89a98f1

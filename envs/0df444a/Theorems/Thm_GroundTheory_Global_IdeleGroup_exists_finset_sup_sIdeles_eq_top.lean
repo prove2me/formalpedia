@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_finset_sup_sIdeles_eq_top
 -- name    : GroundTheory.Global.IdeleGroup.exists_finset_sup_sIdeles_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:35.819146+00:00
 -- url     : https://prove2.me/theorems/5df86833-079f-5dde-94dc-3b45afe653e4

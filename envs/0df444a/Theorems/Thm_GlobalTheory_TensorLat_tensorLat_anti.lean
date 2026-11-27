@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_tensorLat_anti
 -- name    : GlobalTheory.TensorLat.tensorLat_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:31:16.176052+00:00
 -- url     : https://prove2.me/theorems/0aff2da4-790e-4d32-8f66-2958616ddec9

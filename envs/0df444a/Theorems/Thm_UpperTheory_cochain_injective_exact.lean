@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_cochain_injective_exact
 -- name    : UpperTheory.cochain_injective_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:09:35.357045+00:00
 -- url     : https://prove2.me/theorems/8f6c88d4-bf31-5e68-8561-359a4727577c

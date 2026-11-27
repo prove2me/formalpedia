@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpilloverDuopoly_Switchers_Supplement_theorem_D3_refuted
 -- name    : SpilloverDuopoly.Switchers.Supplement.theorem_D3_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:42:42.326+00:00
 -- url     : https://prove2.me/theorems/c86411bd-c64e-42d8-9fc9-8fd12a37f571

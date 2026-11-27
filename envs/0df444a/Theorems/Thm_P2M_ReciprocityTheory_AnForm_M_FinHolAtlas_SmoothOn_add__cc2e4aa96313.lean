@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_SmoothOn_add__cc2e4aa96313
 -- name    : P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_SmoothOn_add__cc2e4aa96313
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:44:34.209312+00:00
 -- url     : https://prove2.me/theorems/78d496b5-c451-448f-b2e3-f26ed19bdf94

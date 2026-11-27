@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_main_theorem
 -- name    : BarelyTestable.LowerBound.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:57.321398+00:00
 -- url     : https://prove2.me/theorems/ebd6f3d1-d89c-48f4-9b00-64b81320d5f4

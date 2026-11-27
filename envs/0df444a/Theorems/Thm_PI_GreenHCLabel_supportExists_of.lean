@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenHCLabel_supportExists_of
 -- name    : PI.GreenHCLabel.supportExists_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:46:09.011876+00:00
 -- url     : https://prove2.me/theorems/c5224c41-3509-4bde-b658-246c13031f76

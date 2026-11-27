@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_CA_g_dimcpl
 -- name    : UpperTheory.V.CA.g_dimcpl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:57.443494+00:00
 -- url     : https://prove2.me/theorems/d5d818c7-4f6d-4232-8a2e-d698bc024102

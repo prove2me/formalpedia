@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_isRegular_append_of_modDepthGE
 -- name    : ReciprocityTheory.CA.exists_isRegular_append_of_modDepthGE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:03:11.718738+00:00
 -- url     : https://prove2.me/theorems/1610633d-74d5-48a1-82fa-1ebbbf18ce81

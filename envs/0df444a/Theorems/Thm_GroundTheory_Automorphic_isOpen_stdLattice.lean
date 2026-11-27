@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isOpen_stdLattice
 -- name    : GroundTheory.Automorphic.isOpen_stdLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:00.678669+00:00
 -- url     : https://prove2.me/theorems/272e049c-be99-47cd-8576-c0ae83b5eda2

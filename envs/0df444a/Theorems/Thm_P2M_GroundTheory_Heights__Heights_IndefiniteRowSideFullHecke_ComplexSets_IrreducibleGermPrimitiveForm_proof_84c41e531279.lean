@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermPrimitiveForm_proof_84c41e531279
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermPrimitiveForm_proof_84c41e531279
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:16:34.952962+00:00
 -- url     : https://prove2.me/theorems/30a21eae-d47e-52a6-a7c0-b08c2a522535

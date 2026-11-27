@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_Supplement_theorem49
 -- name    : ShockWear.Inherit.Supplement.theorem49
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:55:22.08612+00:00
 -- url     : https://prove2.me/theorems/803ce131-c8c9-46c5-a79f-f96b28101c91

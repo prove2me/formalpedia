@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WithAction_toBase_linearMap
 -- name    : GlobalTheory.WithAction.toBase_linearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:05.065276+00:00
 -- url     : https://prove2.me/theorems/697cd357-9fb5-478f-9402-315f22e4c57f

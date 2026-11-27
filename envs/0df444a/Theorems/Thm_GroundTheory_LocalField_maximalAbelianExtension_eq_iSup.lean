@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_maximalAbelianExtension_eq_iSup
 -- name    : GroundTheory.LocalField.maximalAbelianExtension_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:34.051189+00:00
 -- url     : https://prove2.me/theorems/b7c36dd8-d760-4d80-a0c8-4e1d093fa82d

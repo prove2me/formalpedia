@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isConjInvariantH_fs_e9afde28417e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isConjInvariantH_fs_e9afde28417e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:43.475033+00:00
 -- url     : https://prove2.me/theorems/f49239db-f0a2-4343-8edb-c6cb9892a496

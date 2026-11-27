@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartHomogenise_hypotheses_inhabited_fdb393048ec5
 -- name    : P2M_GroundTheory_Heights__Heights_ChartHomogenise_hypotheses_inhabited_fdb393048ec5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:46.530581+00:00
 -- url     : https://prove2.me/theorems/ffdbea45-1673-5abe-ac18-c6cd0c91ece7

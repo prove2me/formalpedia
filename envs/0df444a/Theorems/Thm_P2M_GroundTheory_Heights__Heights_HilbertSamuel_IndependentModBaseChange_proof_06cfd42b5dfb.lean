@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IndependentModBaseChange_proof_06cfd42b5dfb
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IndependentModBaseChange_proof_06cfd42b5dfb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:00.914445+00:00
 -- url     : https://prove2.me/theorems/602c43a7-dc96-444d-b730-e2cd19f702c7

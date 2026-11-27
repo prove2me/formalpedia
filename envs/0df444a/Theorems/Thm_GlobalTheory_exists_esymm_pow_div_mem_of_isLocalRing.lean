@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_esymm_pow_div_mem_of_isLocalRing
 -- name    : GlobalTheory.exists_esymm_pow_div_mem_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:57.492385+00:00
 -- url     : https://prove2.me/theorems/88970f41-6151-4d59-90cc-a5c39d0656b3

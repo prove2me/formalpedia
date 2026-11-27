@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_good_pos
 -- name    : GroundTheory.Automorphic.LineKernel.good_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:43.459195+00:00
 -- url     : https://prove2.me/theorems/fb90fc51-d7a9-47e2-9cc0-c5c61d0c19a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ratStandard_isDualBasis_99a9af2cb50b
 -- name    : P2M_GroundTheory_Heights__Heights_ratStandard_isDualBasis_99a9af2cb50b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:04.848684+00:00
 -- url     : https://prove2.me/theorems/fe829bb4-3a60-580d-ab5b-fde7cc590495

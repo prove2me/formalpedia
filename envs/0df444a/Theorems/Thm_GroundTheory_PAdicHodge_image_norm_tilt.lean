@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_image_norm_tilt
 -- name    : GroundTheory.PAdicHodge.image_norm_tilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:32.851363+00:00
 -- url     : https://prove2.me/theorems/d33455b1-a40e-47cc-ab69-9bfe56cc8cbe

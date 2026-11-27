@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_det_mul_eq_zero_of_lt
 -- name    : GroundTheory.PAdicHodge.det_mul_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:16.246388+00:00
 -- url     : https://prove2.me/theorems/a789bbe2-371f-56bf-b566-85db65c7f39f

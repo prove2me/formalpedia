@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unramified_etale_sections
 -- name    : GlobalTheory.unramified_etale_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:12.40127+00:00
 -- url     : https://prove2.me/theorems/9250ed81-5b1e-4bf0-a6af-d83236714d02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCF_mem_inertia_map_iff
 -- name    : ReciprocityTheory.Neutral.Bridge.HCF.mem_inertia_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:03.389884+00:00
 -- url     : https://prove2.me/theorems/9e5ce505-505a-53d9-877a-f11188d840ff

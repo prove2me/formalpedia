@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZDual_card_eq
 -- name    : GroundTheory.ProfCoh.QZDual.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:02.176993+00:00
 -- url     : https://prove2.me/theorems/7a0e6ae3-03fc-4371-8689-da5577d5d7bc

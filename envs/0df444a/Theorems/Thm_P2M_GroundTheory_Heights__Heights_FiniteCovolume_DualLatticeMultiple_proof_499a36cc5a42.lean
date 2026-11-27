@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_DualLatticeMultiple_proof_499a36cc5a42
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_DualLatticeMultiple_proof_499a36cc5a42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:55.22921+00:00
 -- url     : https://prove2.me/theorems/d1216575-48ba-540b-a795-208ec583cee2

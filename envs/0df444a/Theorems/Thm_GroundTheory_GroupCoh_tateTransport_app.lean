@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateTransport_app
 -- name    : GroundTheory.GroupCoh.tateTransport_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:12.99656+00:00
 -- url     : https://prove2.me/theorems/7c6c596e-9a5a-5b81-84e2-5e9b878e5815

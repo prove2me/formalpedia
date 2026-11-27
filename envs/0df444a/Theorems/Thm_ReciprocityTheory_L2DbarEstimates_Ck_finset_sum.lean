@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Ck_finset_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.Ck.finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:40.025911+00:00
 -- url     : https://prove2.me/theorems/e510aa75-d2cf-412a-ae44-91c31c16abe4

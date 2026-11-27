@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHScalarsEquiv_apply
 -- name    : GlobalTheory.cechHScalarsEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:45.710707+00:00
 -- url     : https://prove2.me/theorems/caf1a966-6075-52b9-867a-94c033a90ebe

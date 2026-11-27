@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_galEmb_apply
 -- name    : UpperTheory.V.Base.galEmb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:50.296814+00:00
 -- url     : https://prove2.me/theorems/3a64709c-b342-4ab8-a8d5-2a048d28aae5

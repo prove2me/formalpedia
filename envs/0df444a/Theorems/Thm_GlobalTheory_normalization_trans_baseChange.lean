@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normalization_trans_baseChange
 -- name    : GlobalTheory.normalization_trans_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:15.148842+00:00
 -- url     : https://prove2.me/theorems/5d22cc68-4b0b-48ac-8b3d-fa8a4e0024a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measurableEquivMixedSpace_apply
 -- name    : GroundTheory.Global.measurableEquivMixedSpace_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:28.129951+00:00
 -- url     : https://prove2.me/theorems/a53f2ee6-a73d-5079-b8e8-c2107220f153

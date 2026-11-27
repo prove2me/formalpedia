@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRho_exists_unit_frame
 -- name    : GlobalTheory.ThetaRho.exists_unit_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:30:39.65656+00:00
 -- url     : https://prove2.me/theorems/ceb0c894-154d-5240-a57c-4197a6239c94

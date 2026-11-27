@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_MinimalPrimesMap_eq_or_eq_of_mem_minimalPrimes
 -- name    : UpperTheory.Reformulated.B.MinimalPrimesMap.eq_or_eq_of_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:32.829942+00:00
 -- url     : https://prove2.me/theorems/4c9713f4-5fe6-4bda-a114-ff060a4b3fcf

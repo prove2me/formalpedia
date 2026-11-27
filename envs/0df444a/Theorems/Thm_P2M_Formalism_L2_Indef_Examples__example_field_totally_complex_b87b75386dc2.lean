@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__example_field_totally_complex_b87b75386dc2
 -- name    : P2M_Formalism_L2_Indef_Examples__example_field_totally_complex_b87b75386dc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:10:25.859693+00:00
 -- url     : https://prove2.me/theorems/ab6c4a3e-b243-431a-bb8f-b5dbd2df308f

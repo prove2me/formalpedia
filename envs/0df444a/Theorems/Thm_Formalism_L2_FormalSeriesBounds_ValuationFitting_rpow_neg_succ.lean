@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_rpow_neg_succ
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.rpow_neg_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:36:08.893015+00:00
 -- url     : https://prove2.me/theorems/451b3752-e311-43f2-8cdb-3729e0882314

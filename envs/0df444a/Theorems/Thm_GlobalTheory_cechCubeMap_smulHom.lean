@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechCubeMap_smulHom
 -- name    : GlobalTheory.cechCubeMap_smulHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:12.435479+00:00
 -- url     : https://prove2.me/theorems/ad9899b4-9339-4f1f-aa3c-72beceba2d67

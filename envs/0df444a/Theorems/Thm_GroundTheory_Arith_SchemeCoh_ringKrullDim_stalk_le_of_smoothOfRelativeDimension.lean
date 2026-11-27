@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ringKrullDim_stalk_le_of_smoothOfRelativeDimension
 -- name    : GroundTheory.Arith.SchemeCoh.ringKrullDim_stalk_le_of_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:22.088278+00:00
 -- url     : https://prove2.me/theorems/406e32d2-8049-4626-8fc2-dc5acebe513f

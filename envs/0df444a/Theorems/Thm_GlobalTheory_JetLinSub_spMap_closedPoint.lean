@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_spMap_closedPoint
 -- name    : GlobalTheory.JetLinSub.spMap_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:33:18.789852+00:00
 -- url     : https://prove2.me/theorems/2fc41ddb-9503-4f2b-bd51-b2e238d9bfc1

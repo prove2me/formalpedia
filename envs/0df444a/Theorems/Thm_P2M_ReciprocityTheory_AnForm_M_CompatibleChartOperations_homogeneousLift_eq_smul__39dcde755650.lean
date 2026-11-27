@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_CompatibleChartOperations_homogeneousLift_eq_smul__39dcde755650
 -- name    : P2M_ReciprocityTheory_AnForm_M_CompatibleChartOperations_homogeneousLift_eq_smul__39dcde755650
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:44:12.96392+00:00
 -- url     : https://prove2.me/theorems/97f7e933-07d7-4ef6-978f-1fffa68e0530

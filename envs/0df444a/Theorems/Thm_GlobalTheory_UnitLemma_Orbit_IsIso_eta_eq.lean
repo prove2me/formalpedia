@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_IsIso_eta_eq
 -- name    : GlobalTheory.UnitLemma.Orbit.IsIso.eta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:21.99753+00:00
 -- url     : https://prove2.me/theorems/c0461d52-900d-4e81-9519-885ad32c9236

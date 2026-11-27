@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_sectionL2NormSq_nonneg_bda227904033
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_sectionL2NormSq_nonneg_bda227904033
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:15:19.600912+00:00
 -- url     : https://prove2.me/theorems/a9cba049-78e1-44dc-92cd-dd34b0a1babe

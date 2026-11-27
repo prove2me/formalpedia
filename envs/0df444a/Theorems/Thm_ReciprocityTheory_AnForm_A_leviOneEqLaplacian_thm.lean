@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_leviOneEqLaplacian_thm
 -- name    : ReciprocityTheory.AnForm.A.leviOneEqLaplacian_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:01:26.460423+00:00
 -- url     : https://prove2.me/theorems/8cc50d05-a871-42c5-8f5c-9543be80c1da

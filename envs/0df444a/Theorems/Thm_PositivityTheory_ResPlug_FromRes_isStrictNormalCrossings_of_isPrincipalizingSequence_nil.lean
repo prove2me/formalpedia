@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_isStrictNormalCrossings_of_isPrincipalizingSequence_nil
 -- name    : PositivityTheory.ResPlug.FromRes.isStrictNormalCrossings_of_isPrincipalizingSequence_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:56:21.913345+00:00
 -- url     : https://prove2.me/theorems/9e09487e-ba46-5d3d-bb3c-dd6417f555f2

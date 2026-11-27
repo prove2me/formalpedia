@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_W_toT_ofT
 -- name    : UpperTheory.V.W.toT_ofT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:23:04.727816+00:00
 -- url     : https://prove2.me/theorems/0e555a92-9fe2-48ed-8249-7bfb2b2e67b2

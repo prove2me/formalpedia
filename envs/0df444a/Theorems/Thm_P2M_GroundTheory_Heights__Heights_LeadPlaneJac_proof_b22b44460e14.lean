@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadPlaneJac_proof_b22b44460e14
 -- name    : P2M_GroundTheory_Heights__Heights_LeadPlaneJac_proof_b22b44460e14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:29:28.224442+00:00
 -- url     : https://prove2.me/theorems/47c4976f-945b-54fc-aa1a-ad2fb1543066

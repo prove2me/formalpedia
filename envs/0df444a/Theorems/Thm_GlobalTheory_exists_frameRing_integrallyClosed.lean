@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_frameRing_integrallyClosed
 -- name    : GlobalTheory.exists_frameRing_integrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:34.793184+00:00
 -- url     : https://prove2.me/theorems/bb0faf25-ebd6-4114-a6e9-22bb11ce5e88

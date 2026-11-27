@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sTwo_eq_eisenstein
 -- name    : GlobalTheory.sTwo_eq_eisenstein
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:50:31.158355+00:00
 -- url     : https://prove2.me/theorems/3157a2ac-19d3-4cd0-842c-7ee0700be5f2

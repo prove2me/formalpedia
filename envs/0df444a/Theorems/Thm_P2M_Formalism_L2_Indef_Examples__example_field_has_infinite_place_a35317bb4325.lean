@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__example_field_has_infinite_place_a35317bb4325
 -- name    : P2M_Formalism_L2_Indef_Examples__example_field_has_infinite_place_a35317bb4325
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:12:06.418681+00:00
 -- url     : https://prove2.me/theorems/57ebe71f-6a91-5eac-a9ae-24ddfda6f4d3

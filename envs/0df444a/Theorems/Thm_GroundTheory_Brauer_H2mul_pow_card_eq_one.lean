@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_pow_card_eq_one
 -- name    : GroundTheory.Brauer.H2mul.pow_card_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:58.660885+00:00
 -- url     : https://prove2.me/theorems/23d28483-97d7-5b4f-931c-8753d7508110

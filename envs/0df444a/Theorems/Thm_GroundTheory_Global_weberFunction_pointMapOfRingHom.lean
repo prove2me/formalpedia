@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_weberFunction_pointMapOfRingHom
 -- name    : GroundTheory.Global.weberFunction_pointMapOfRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:51.254918+00:00
 -- url     : https://prove2.me/theorems/877fed82-5562-5d10-9814-fe04d51a65a1

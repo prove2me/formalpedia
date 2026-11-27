@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_transl_sum
 -- name    : GroundTheory.Automorphic.Whittaker.transl_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:48.778261+00:00
 -- url     : https://prove2.me/theorems/095915bc-6b1b-4c2c-85aa-17e139080947

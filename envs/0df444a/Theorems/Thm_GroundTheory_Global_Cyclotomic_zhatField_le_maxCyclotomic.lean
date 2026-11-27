@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_zhatField_le_maxCyclotomic
 -- name    : GroundTheory.Global.Cyclotomic.zhatField_le_maxCyclotomic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:26.720684+00:00
 -- url     : https://prove2.me/theorems/02c58ab9-cb38-5467-864d-43ed7dd2ea00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermPointsOffDiscriminant_proof_d09f4d6f8b46
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermPointsOffDiscriminant_proof_d09f4d6f8b46
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:15.563808+00:00
 -- url     : https://prove2.me/theorems/e951f78b-9781-4724-b811-68cb72f32ab9

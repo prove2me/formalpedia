@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EmultiplicityOrd_proof_39412d3e8e9d
 -- name    : P2M_GroundTheory_Heights__Heights_EmultiplicityOrd_proof_39412d3e8e9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:11:13.874902+00:00
 -- url     : https://prove2.me/theorems/ef9bed8b-bc99-5509-9960-922e3c74712d

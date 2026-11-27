@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TFIMPhaseDiagram_Classical_Supplement_prop_26
 -- name    : TFIMPhaseDiagram.Classical.Supplement.prop_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T21:04:16.382244+00:00
 -- url     : https://prove2.me/theorems/c7e37eeb-302b-40ea-bed2-24a1a5a8bc48

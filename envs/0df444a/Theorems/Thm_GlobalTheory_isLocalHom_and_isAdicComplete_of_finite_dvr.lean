@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalHom_and_isAdicComplete_of_finite_dvr
 -- name    : GlobalTheory.isLocalHom_and_isAdicComplete_of_finite_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:48.117992+00:00
 -- url     : https://prove2.me/theorems/3f08dbf6-1f3a-5c3d-9f65-f84d8008e16b

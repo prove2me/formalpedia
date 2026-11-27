@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimeComap_proof_356b0e36643b
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimeComap_proof_356b0e36643b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:30:48.230923+00:00
 -- url     : https://prove2.me/theorems/46b05f38-4412-4244-990d-ab68f349bf12

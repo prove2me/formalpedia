@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G3_mem_iff_of_cut__fe115a58110d
 -- name    : P2M_Formalism_L2_SG_Pf_G3_mem_iff_of_cut__fe115a58110d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:45.4198+00:00
 -- url     : https://prove2.me/theorems/a3e13523-f480-5f47-b767-515358ef0a51

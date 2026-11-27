@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsion_count_multiplicative_prime_powers
 -- name    : GlobalTheory.T.torsion_count_multiplicative_prime_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:48.29305+00:00
 -- url     : https://prove2.me/theorems/1583abc8-6a5b-5982-874e-3e63be2307f8

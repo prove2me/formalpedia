@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_Supplement_tubeDist_expansion
 -- name    : StochApproxDyn.WeakAPT.Supplement.tubeDist_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:17:26.809889+00:00
 -- url     : https://prove2.me/theorems/04aeb46b-ceee-429c-9a70-b37b306968a0

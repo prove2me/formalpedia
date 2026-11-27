@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_inv_card_stabilizer_eq_tsum_mul_card_fiber
 -- name    : GlobalTheory.T.tsum_inv_card_stabilizer_eq_tsum_mul_card_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:23.051185+00:00
 -- url     : https://prove2.me/theorems/353c52af-ed3d-45f7-971c-218b6f850d6d

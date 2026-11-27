@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchInComponent_proof_0edb71a61cab
 -- name    : P2M_GroundTheory_Heights__Heights_BranchInComponent_proof_0edb71a61cab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:20.265579+00:00
 -- url     : https://prove2.me/theorems/76e7d477-f1e2-4045-a25c-c63d5183f848

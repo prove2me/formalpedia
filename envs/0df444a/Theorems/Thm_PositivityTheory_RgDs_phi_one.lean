@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgDs_phi_one
 -- name    : PositivityTheory.RgDs.phi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:23.497636+00:00
 -- url     : https://prove2.me/theorems/9d17003e-1f26-52ff-9030-11abfbbccb5a

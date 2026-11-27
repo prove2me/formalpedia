@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeGraphCover_proof_f3201e462c5d
 -- name    : P2M_GroundTheory_Heights__Heights_ConeGraphCover_proof_f3201e462c5d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:11:11.646466+00:00
 -- url     : https://prove2.me/theorems/d5249143-1d79-48ed-a7ac-4f3b011a29da

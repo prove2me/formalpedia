@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsMeasureOf_selfDualMeasure
 -- name    : GroundTheory.LocalField.unitsMeasureOf_selfDualMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:53.144305+00:00
 -- url     : https://prove2.me/theorems/aac70bdf-7f3c-5ac2-bc4b-c60d65bf88fe

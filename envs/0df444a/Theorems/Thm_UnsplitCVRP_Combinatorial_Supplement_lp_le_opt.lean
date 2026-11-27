@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_Supplement_lp_le_opt
 -- name    : UnsplitCVRP.Combinatorial.Supplement.lp_le_opt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:40:32.723156+00:00
 -- url     : https://prove2.me/theorems/2b44580a-6312-48f8-a0c2-bf115784699a

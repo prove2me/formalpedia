@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_Supplement_prop_C_1
 -- name    : FracRiccati.Radius.Supplement.prop_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:56:19.006921+00:00
 -- url     : https://prove2.me/theorems/f61dd922-234b-431f-938c-d6cbfdbd83ee

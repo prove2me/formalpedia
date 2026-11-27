@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PrwZar_QiP_mulPt_onePt
 -- name    : PositivityTheory.PrwZar.QiP.mulPt_onePt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:54:41.079011+00:00
 -- url     : https://prove2.me/theorems/003661d3-6c88-511b-be97-4f0e56f3ad5f

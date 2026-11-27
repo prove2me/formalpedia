@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_polyTower_nontrivial_4554658d4f8f
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_polyTower_nontrivial_4554658d4f8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:10:52.541405+00:00
 -- url     : https://prove2.me/theorems/30eb36df-5c82-468c-be1d-241e4b05997e

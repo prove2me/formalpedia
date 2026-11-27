@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamChartInt_proof_1ba5dd5dda3d
 -- name    : P2M_GroundTheory_Heights__Heights_ParamChartInt_proof_1ba5dd5dda3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:21.070057+00:00
 -- url     : https://prove2.me/theorems/186ce73b-d367-59cc-b3bb-f8d768f71c95

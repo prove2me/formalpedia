@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_multigraded_hilbertPoly
 -- name    : GlobalTheory.exists_multigraded_hilbertPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:21.323845+00:00
 -- url     : https://prove2.me/theorems/850374bf-aa37-53b5-87c7-63325827c9f5

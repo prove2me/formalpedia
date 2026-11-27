@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetAgg_NashChar_Supplement_lemma_15
 -- name    : BudgetAgg.NashChar.Supplement.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:13:42.269309+00:00
 -- url     : https://prove2.me/theorems/40272c37-deef-4d94-abf2-aaedcba6dce6

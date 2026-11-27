@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_iUnion_doubleCoset_permGL
 -- name    : GroundTheory.Automorphic.iUnion_doubleCoset_permGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:56.602474+00:00
 -- url     : https://prove2.me/theorems/8ab80c34-c495-5e4f-b6e4-ec93a822267a

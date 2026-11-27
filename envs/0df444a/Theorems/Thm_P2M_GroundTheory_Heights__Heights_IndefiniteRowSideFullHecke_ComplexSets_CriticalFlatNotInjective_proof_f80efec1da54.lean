@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CriticalFlatNotInjective_proof_f80efec1da54
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CriticalFlatNotInjective_proof_f80efec1da54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:16:30.185924+00:00
 -- url     : https://prove2.me/theorems/7e921c36-80f0-43eb-aad8-82f69987524f

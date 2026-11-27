@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_eq_algebraMap
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_eq_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:05.742719+00:00
 -- url     : https://prove2.me/theorems/653bb149-2d8a-562c-844c-48aa0863b957

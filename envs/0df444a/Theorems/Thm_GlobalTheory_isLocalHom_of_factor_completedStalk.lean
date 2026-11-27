@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalHom_of_factor_completedStalk
 -- name    : GlobalTheory.isLocalHom_of_factor_completedStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:16.178922+00:00
 -- url     : https://prove2.me/theorems/247ee6c7-c6b9-53b0-81cb-ca3a246c1d41

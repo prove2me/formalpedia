@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_not_dim_strict_lt_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.not_dim_strict_lt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:26.080076+00:00
 -- url     : https://prove2.me/theorems/9ab64ec5-36ef-48c2-98b6-61aaa02116db

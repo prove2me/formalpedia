@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MPECRelax_ScholtesConv_Supplement_theorem_3_12
 -- name    : MPECRelax.ScholtesConv.Supplement.theorem_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:34:47.035022+00:00
 -- url     : https://prove2.me/theorems/6aecbab5-2d5e-47c4-9d03-0637b481ee3e

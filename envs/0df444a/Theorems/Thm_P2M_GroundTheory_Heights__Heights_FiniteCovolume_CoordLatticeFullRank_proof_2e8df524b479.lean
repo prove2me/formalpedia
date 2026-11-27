@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoordLatticeFullRank_proof_2e8df524b479
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoordLatticeFullRank_proof_2e8df524b479
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:14:09.557683+00:00
 -- url     : https://prove2.me/theorems/bd28e3f7-fb35-57a0-963c-243aca7353e6

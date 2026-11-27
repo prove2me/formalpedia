@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_linForm_comp
 -- name    : GlobalTheory.range_linForm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:44.485797+00:00
 -- url     : https://prove2.me/theorems/05a9e1c4-8a21-57f9-aab3-69c2c199a3e7

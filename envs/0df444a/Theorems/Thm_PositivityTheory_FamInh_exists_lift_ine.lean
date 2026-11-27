@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_exists_lift_ine
 -- name    : PositivityTheory.FamInh.exists_lift_ine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:51.077062+00:00
 -- url     : https://prove2.me/theorems/8ed5ecce-2cc8-4087-9dca-3ae2f6982209

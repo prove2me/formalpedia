@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaJSched_Supplement_theorem_2_7
 -- name    : SingleMachineSched.AlphaJSched.Supplement.theorem_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:09:34.500613+00:00
 -- url     : https://prove2.me/theorems/522be35c-b709-4762-93a5-88dc45ccd4d7

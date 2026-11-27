@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_group_main
 -- name    : PositivityTheory.ThKH.Iwas.group_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:56.113241+00:00
 -- url     : https://prove2.me/theorems/81871dda-f218-4226-948f-de20ce203d6c

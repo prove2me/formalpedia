@@ -1,0 +1,48 @@
+-- Prove2me | solution 1 for GlobalTheory.ThetaWeberRoad.thetaWeberStatement_of
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-27T06:02:19.564841+00:00
+-- url     : https://prove2.me/submissions/e5ec4499-7777-409e-8dc9-c6d844b418bf
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_GlobalSignature_ThetaConstantWeber
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_ThetaLine
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_DifferentiableOddTheta
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_JacobiTripleProductTwoVariableThetaStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ThetaConstEqEtaWeberSqOfTripleProductStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_WeberFunctionProductEqSqrtTwoStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_HasDerivAtOddJacobiThetaZeroEtaCubeStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_GaussianOddJacobiThetaEqDerivMulSgStarStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_HalfPeriodDiffThetaFourthOfSigmaStarAdditionStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_WeberFunctionsRootsOfCubicOfHalfPeriodDiffStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_JacobiProductOfThetaWeber
+import Theorems.Thm_GlobalTheory_ThetaWeberRoad_jacobiProduct_of_thetaWeber
+import Theorems.Thm_GlobalTheory_T_gaussianOddJacobiTheta_eq_deriv_mul_sgStar
+import Theorems.Thm_GlobalTheory_T_halfPeriodDiffThetaFourth_of_sigmaStar_addition
+import Theorems.Thm_GlobalTheory_T_hasDerivAt_oddJacobiTheta_zero_eta_cube
+import Theorems.Thm_GlobalTheory_T_jacobiTripleProduct_twoVariableTheta
+import Theorems.Thm_GlobalTheory_T_thetaConstEqEtaWeberSq_of_tripleProduct
+import Theorems.Thm_GlobalTheory_T_weberFunction_product_eq_sqrt_two
+import Theorems.Thm_GlobalTheory_T_weberFunctionsRootsOfCubic_of_halfPeriodDiff
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory.IndefiniteRowSideFullHecke.ThetaConstantWeber
+open GlobalTheory GlobalTheory.ThetaWeberRoad
+namespace GlobalTheory.ThetaWeberRoad
+theorem _root_.solution (hTL : Formalism.L2.Th1.F.ThetaLine) (hSB : Formalism.L2.Th1.F.SgStarBasic)
+    (hSA : Formalism.L2.Th1.F.SgStarAdd) : ThetaWeberStatement := by
+  have hTW := GlobalTheory.T.thetaConstEqEtaWeberSq_of_tripleProduct GlobalTheory.T.jacobiTripleProduct_twoVariableTheta
+  have hJ : ∀ τ : UpperHalfPlane, JacobiProduct τ := fun τ ↦
+    jacobiProduct_of_thetaWeber (hTW τ) (GlobalTheory.T.weberFunction_product_eq_sqrt_two τ)
+  have hH := GlobalTheory.T.halfPeriodDiffThetaFourth_of_sigmaStar_addition hSA (GlobalTheory.T.gaussianOddJacobiTheta_eq_deriv_mul_sgStar hTL hSB) (GlobalTheory.T.hasDerivAt_oddJacobiTheta_zero_eta_cube GlobalTheory.T.jacobiTripleProduct_twoVariableTheta) hJ
+  intro τ
+  exact ⟨hH τ, hJ τ, hTW τ, GlobalTheory.T.weberFunctionsRootsOfCubic_of_halfPeriodDiff τ (hH τ) (hJ τ) (hTW τ)⟩
+end GlobalTheory.ThetaWeberRoad

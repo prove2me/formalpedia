@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgEquiv_mul_inv
 -- name    : GlobalTheory.WigSh.OmgEquiv.mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:10.659833+00:00
 -- url     : https://prove2.me/theorems/2f5b2a71-604c-5beb-a3d9-abaf2054096c

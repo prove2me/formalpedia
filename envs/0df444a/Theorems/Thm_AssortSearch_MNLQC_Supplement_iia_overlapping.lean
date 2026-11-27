@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_Supplement_iia_overlapping
 -- name    : AssortSearch.MNLQC.Supplement.iia_overlapping
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:22:34.428557+00:00
 -- url     : https://prove2.me/theorems/36d7f12e-74f7-4ea3-ac0b-951e2f2ba938

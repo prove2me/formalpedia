@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_Val_comp
 -- name    : GlobalTheory.PerfectPairing.Val.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:25:22.841146+00:00
 -- url     : https://prove2.me/theorems/edb0d3e2-371e-4287-a154-ca2bc4edd45d

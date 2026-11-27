@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDualClosed_selfDualLatticeLemmas
 -- name    : GlobalTheory.UnramSelfDualClosed.selfDualLatticeLemmas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:54.459314+00:00
 -- url     : https://prove2.me/theorems/bc4978e7-54a1-5df7-abae-c0d1025f2a21

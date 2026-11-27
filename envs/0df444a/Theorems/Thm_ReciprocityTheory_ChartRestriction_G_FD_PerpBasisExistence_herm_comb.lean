@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpBasisExistence_herm_comb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpBasisExistence.herm_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:15:03.037168+00:00
 -- url     : https://prove2.me/theorems/3f8c7932-1e24-4d7c-8b80-8b126b1bf101

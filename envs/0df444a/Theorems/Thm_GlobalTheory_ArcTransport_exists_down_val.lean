@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_exists_down_val
 -- name    : GlobalTheory.ArcTransport.exists_down_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:27:42.19335+00:00
 -- url     : https://prove2.me/theorems/1e1712b1-e29c-4740-8aa9-771fbbc9584c

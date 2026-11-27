@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_proof_48ec24d3d0c5
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_proof_48ec24d3d0c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:31:25.928904+00:00
 -- url     : https://prove2.me/theorems/ca293d6f-bbdb-5f22-a5aa-9cc85ccc9107

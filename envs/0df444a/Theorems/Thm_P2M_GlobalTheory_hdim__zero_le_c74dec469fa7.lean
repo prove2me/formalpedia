@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_hdim__zero_le_c74dec469fa7
 -- name    : P2M_GlobalTheory_hdim__zero_le_c74dec469fa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:17.033057+00:00
 -- url     : https://prove2.me/theorems/9d5e12c4-f971-48c3-ac5c-74e82e3b70d3

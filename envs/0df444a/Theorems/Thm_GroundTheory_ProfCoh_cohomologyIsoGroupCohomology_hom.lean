@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cohomologyIsoGroupCohomology_hom
 -- name    : GroundTheory.ProfCoh.cohomologyIsoGroupCohomology_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:18.549159+00:00
 -- url     : https://prove2.me/theorems/9b3cbb8f-2c62-55ba-9549-f33b0f64806c

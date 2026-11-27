@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_frob_log
 -- name    : Reformulated.AutPerF.Acris.frob_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:45:57.172236+00:00
 -- url     : https://prove2.me/theorems/df79def1-3242-40ac-8066-df8ed982a9b3

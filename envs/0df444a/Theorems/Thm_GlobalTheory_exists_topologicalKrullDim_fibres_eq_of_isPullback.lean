@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_topologicalKrullDim_fibres_eq_of_isPullback
 -- name    : GlobalTheory.exists_topologicalKrullDim_fibres_eq_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:15.775528+00:00
 -- url     : https://prove2.me/theorems/29bbfe48-7682-5b3a-982a-5f1a3f2e7b40

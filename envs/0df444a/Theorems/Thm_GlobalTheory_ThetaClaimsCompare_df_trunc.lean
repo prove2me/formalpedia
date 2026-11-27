@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_df_trunc
 -- name    : GlobalTheory.ThetaClaimsCompare.df_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:22.799809+00:00
 -- url     : https://prove2.me/theorems/0f6e8b18-e298-4611-bafe-73e14051aee9

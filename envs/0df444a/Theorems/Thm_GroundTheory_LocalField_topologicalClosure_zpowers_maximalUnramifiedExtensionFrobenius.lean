@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_topologicalClosure_zpowers_maximalUnramifiedExtensionFrobenius
 -- name    : GroundTheory.LocalField.topologicalClosure_zpowers_maximalUnramifiedExtensionFrobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:16:58.552019+00:00
 -- url     : https://prove2.me/theorems/da0b63f4-ecce-5d6c-9861-6ea79df341cf

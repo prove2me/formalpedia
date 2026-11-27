@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_bot_iff_forall_algEquiv_apply_eq
 -- name    : GroundTheory.Global.mem_bot_iff_forall_algEquiv_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:56:08.080185+00:00
 -- url     : https://prove2.me/theorems/c5074c3f-7023-4780-b52e-f01f6922ef64

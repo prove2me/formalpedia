@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_MultAtOfSaturated_proof_3b9b4f261e9d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_MultAtOfSaturated_proof_3b9b4f261e9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:33:04.142372+00:00
 -- url     : https://prove2.me/theorems/3df7b3bb-7eb2-56ec-bc6a-c826fb1a4a28

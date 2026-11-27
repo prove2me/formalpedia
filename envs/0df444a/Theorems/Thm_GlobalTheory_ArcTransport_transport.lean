@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_transport
 -- name    : GlobalTheory.ArcTransport.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:26:53.045615+00:00
 -- url     : https://prove2.me/theorems/987c4b1e-d7fa-57a7-b143-14ce614a9f18

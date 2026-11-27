@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetExponomial_ChoiceProb_Supplement_corollary_1
 -- name    : HetExponomial.ChoiceProb.Supplement.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:35:43.084595+00:00
 -- url     : https://prove2.me/theorems/c6f1d438-dbd9-416e-9d11-8534a5f29384

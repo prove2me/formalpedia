@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_image_mem_Kur_sup
 -- name    : UpperTheory.Small.image_mem_Kur_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:47.367316+00:00
 -- url     : https://prove2.me/theorems/fa36392d-f347-4c2f-b295-4f963f23b14d

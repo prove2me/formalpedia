@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_lift_mul
 -- name    : GroundTheory.Automorphic.HaarSK.lift_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:53:02.298081+00:00
 -- url     : https://prove2.me/theorems/d900a1bd-56ce-5ab2-bade-f2b4c5ab3b65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_nilChart_of_isChartJ
 -- name    : GlobalTheory.ChF.nilChart_of_isChartJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:11:40.623853+00:00
 -- url     : https://prove2.me/theorems/9516c759-5a85-42be-864b-9e39270dcd69

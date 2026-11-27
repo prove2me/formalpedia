@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_holUnif_ex_zero_eq_one
 -- name    : GlobalTheory.holUnif_ex_zero_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:39.357012+00:00
 -- url     : https://prove2.me/theorems/21a058ba-f710-4f01-bcc9-f067c63e884c

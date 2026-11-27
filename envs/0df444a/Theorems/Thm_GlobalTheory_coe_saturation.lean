@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coe_saturation
 -- name    : GlobalTheory.coe_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:02.199911+00:00
 -- url     : https://prove2.me/theorems/b74a2956-7536-46e3-915e-9e316471da49

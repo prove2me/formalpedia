@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__example_weights_injective_4d5356484bd1
 -- name    : P2M_Formalism_L2_Indef_Examples__example_weights_injective_4d5356484bd1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:12:00.344493+00:00
 -- url     : https://prove2.me/theorems/99ea8315-c72e-5a32-8c9c-9fcf1d0d0ee3

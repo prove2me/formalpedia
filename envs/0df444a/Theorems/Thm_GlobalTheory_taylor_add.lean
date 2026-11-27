@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylor_add
 -- name    : GlobalTheory.taylor_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:06.940677+00:00
 -- url     : https://prove2.me/theorems/345bc876-e0ae-5fb7-a0d5-f78018c6c5da

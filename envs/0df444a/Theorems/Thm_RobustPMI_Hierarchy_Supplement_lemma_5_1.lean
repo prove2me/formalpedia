@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_Supplement_lemma_5_1
 -- name    : RobustPMI.Hierarchy.Supplement.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:47:00.867024+00:00
 -- url     : https://prove2.me/theorems/61dffbec-0bdb-4a1c-a8a6-5dd97238b866

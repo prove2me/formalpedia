@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_ChartPartitionExists_proof_f3ec24aa3eca
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_ChartPartitionExists_proof_f3ec24aa3eca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:20.522353+00:00
 -- url     : https://prove2.me/theorems/ab441fda-0029-5677-bfd8-dae0c1b2cf67

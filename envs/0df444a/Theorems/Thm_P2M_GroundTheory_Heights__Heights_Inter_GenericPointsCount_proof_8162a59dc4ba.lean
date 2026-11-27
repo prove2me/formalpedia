@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_GenericPointsCount_proof_8162a59dc4ba
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_GenericPointsCount_proof_8162a59dc4ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:52:09.779813+00:00
 -- url     : https://prove2.me/theorems/c8717005-a321-5495-9f7d-1c189794f32b

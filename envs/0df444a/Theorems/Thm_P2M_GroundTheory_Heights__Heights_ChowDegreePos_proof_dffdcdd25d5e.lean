@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowDegreePos_proof_dffdcdd25d5e
 -- name    : P2M_GroundTheory_Heights__Heights_ChowDegreePos_proof_dffdcdd25d5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:09.496014+00:00
 -- url     : https://prove2.me/theorems/c424dda8-1313-42be-acfb-c1a9c73ac630

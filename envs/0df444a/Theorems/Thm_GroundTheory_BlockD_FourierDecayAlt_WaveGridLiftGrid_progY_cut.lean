@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_progY_cut
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.progY_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:14.330548+00:00
 -- url     : https://prove2.me/theorems/b809c59c-ccad-5a58-a5b1-f85a16370a05

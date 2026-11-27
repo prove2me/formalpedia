@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalBoundedQuotient_proof_08a57083f268
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalBoundedQuotient_proof_08a57083f268
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:42.338968+00:00
 -- url     : https://prove2.me/theorems/969bbae8-25d7-54a9-a41c-f00fa939516d

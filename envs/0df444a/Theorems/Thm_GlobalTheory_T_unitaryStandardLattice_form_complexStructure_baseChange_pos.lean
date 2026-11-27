@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryStandardLattice_form_complexStructure_baseChange_pos
 -- name    : GlobalTheory.T.unitaryStandardLattice_form_complexStructure_baseChange_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:48.290292+00:00
 -- url     : https://prove2.me/theorems/d97e37b8-00b3-4343-8f0e-a2afe393ebf5

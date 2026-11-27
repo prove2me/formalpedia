@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stalkMap_flat_formallyEtale_essFiniteType_of_etale_open
 -- name    : GlobalTheory.T.stalkMap_flat_formallyEtale_essFiniteType_of_etale_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:09.839347+00:00
 -- url     : https://prove2.me/theorems/4c85f9a8-579a-5318-a441-58a25fc6a6e7

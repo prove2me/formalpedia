@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnitsInvHaar_proof_7af59dfd863c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnitsInvHaar_proof_7af59dfd863c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:53.673492+00:00
 -- url     : https://prove2.me/theorems/3a4765d1-196d-5a38-a65a-191c7995461d

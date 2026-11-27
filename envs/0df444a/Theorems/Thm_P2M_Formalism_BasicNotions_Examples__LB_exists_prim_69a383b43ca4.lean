@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_exists_prim_69a383b43ca4
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_exists_prim_69a383b43ca4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T16:48:57.737298+00:00
 -- url     : https://prove2.me/theorems/fa96dd61-3e75-4322-ac13-66158c1f5109

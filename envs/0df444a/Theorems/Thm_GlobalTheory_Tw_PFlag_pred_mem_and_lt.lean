@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_pred_mem_and_lt
 -- name    : GlobalTheory.Tw.PFlag.pred_mem_and_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:07.81574+00:00
 -- url     : https://prove2.me/theorems/520ce49c-9d33-4dc7-9eeb-7210a12819b3

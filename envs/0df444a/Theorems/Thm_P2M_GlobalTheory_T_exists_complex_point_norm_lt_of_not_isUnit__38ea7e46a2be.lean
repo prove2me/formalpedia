@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_complex_point_norm_lt_of_not_isUnit__38ea7e46a2be
 -- name    : P2M_GlobalTheory_T_exists_complex_point_norm_lt_of_not_isUnit__38ea7e46a2be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:52.886573+00:00
 -- url     : https://prove2.me/theorems/68f96857-1a48-436e-9956-dad6958d4da1

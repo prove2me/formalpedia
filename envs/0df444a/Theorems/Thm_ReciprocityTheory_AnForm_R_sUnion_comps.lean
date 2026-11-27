@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sUnion_comps
 -- name    : ReciprocityTheory.AnForm.R.sUnion_comps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:14:52.09098+00:00
 -- url     : https://prove2.me/theorems/fe7c86f7-4541-47f7-a900-688a557f9a02

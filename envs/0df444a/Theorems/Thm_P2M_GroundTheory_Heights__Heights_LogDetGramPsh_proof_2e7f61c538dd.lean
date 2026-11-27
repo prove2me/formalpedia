@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogDetGramPsh_proof_2e7f61c538dd
 -- name    : P2M_GroundTheory_Heights__Heights_LogDetGramPsh_proof_2e7f61c538dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:34.494868+00:00
 -- url     : https://prove2.me/theorems/4321c4b3-f20e-595e-a52e-727865cff8f2

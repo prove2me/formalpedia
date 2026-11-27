@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalSeriesJacobian_chain_rule_linearPart
 -- name    : GlobalTheory.T.formalSeriesJacobian_chain_rule_linearPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:24:16.778163+00:00
 -- url     : https://prove2.me/theorems/f84fb13a-2f7e-50fd-85ac-dc945308c095

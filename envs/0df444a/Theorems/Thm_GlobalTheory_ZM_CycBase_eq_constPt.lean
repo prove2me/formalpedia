@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_CycBase_eq_constPt
 -- name    : GlobalTheory.ZM.CycBase.eq_constPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:37.806627+00:00
 -- url     : https://prove2.me/theorems/4475da59-2074-5cb5-8281-fc6b5e759097

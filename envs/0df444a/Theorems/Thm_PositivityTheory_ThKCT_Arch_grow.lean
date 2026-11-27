@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_grow
 -- name    : PositivityTheory.ThKCT.Arch.grow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:58:51.676502+00:00
 -- url     : https://prove2.me/theorems/7990c0d5-4716-4bed-ad27-2a1625d955ba

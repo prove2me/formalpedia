@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_pushF_surjective
 -- name    : GlobalTheory.ArcTransport.pushF_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:29:39.876733+00:00
 -- url     : https://prove2.me/theorems/521f9b32-75f0-4f87-8c33-bad3ca91e83e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_CutData_T_sub_K
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.CutData.T_sub_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:04.036965+00:00
 -- url     : https://prove2.me/theorems/7d63f1b8-3596-53ca-8a85-8550fbce9c07

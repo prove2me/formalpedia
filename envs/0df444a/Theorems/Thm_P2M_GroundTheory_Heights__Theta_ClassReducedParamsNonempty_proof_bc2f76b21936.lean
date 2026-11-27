@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassReducedParamsNonempty_proof_bc2f76b21936
 -- name    : P2M_GroundTheory_Heights__Theta_ClassReducedParamsNonempty_proof_bc2f76b21936
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:07.452241+00:00
 -- url     : https://prove2.me/theorems/bd5f3621-3cc6-407e-b353-0b2af52ff37b

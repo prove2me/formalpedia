@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionNonvanish_proof_63ed4a7faaa2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionNonvanish_proof_63ed4a7faaa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:15.602119+00:00
 -- url     : https://prove2.me/theorems/76eca29b-951b-5154-9625-b7ace645b1ce

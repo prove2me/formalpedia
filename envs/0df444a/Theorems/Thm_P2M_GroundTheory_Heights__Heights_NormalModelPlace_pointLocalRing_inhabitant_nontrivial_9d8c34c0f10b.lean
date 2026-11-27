@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelPlace_pointLocalRing_inhabitant_nontrivial_9d8c34c0f10b
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelPlace_pointLocalRing_inhabitant_nontrivial_9d8c34c0f10b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:32:57.921804+00:00
 -- url     : https://prove2.me/theorems/fcd73db0-a620-40e3-a1b8-9cf595dca2b6

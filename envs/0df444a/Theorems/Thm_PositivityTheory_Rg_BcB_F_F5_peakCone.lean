@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_F5_peakCone
 -- name    : PositivityTheory.Rg.BcB.F.F5.peakCone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:50:59.285752+00:00
 -- url     : https://prove2.me/theorems/bb6541a3-e811-5ff3-8df6-085f059ef9c9

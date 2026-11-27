@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_exists_base_vanishing_ed32069dae63
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_exists_base_vanishing_ed32069dae63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:27.235173+00:00
 -- url     : https://prove2.me/theorems/c8420108-ddf3-4a72-a693-1bf649bbd524

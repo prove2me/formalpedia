@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFock_gsSch
 -- name    : PositivityTheory.SiegelWeilFormula.KFock.gsSch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:57:57.702623+00:00
 -- url     : https://prove2.me/theorems/0947ea71-5384-4286-bf1e-b4137ba3306a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_ctstepglue_conj_block
 -- name    : PositivityTheory.Rg.Rs.ctstepglue.conj_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:31.603576+00:00
 -- url     : https://prove2.me/theorems/28dc85fa-ab98-4f01-88e6-e5bf1d1fc7a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_cartan_decomposition_4a795a4a6e5b
 -- name    : P2M_GroundTheory_Heights__Theta_cartan_decomposition_4a795a4a6e5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:21.011725+00:00
 -- url     : https://prove2.me/theorems/46863c8f-edbe-5001-b5ad-94d93319068f

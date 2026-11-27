@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_evalQpow_C
 -- name    : GroundTheory.LocalField.evalQpow_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:27.761797+00:00
 -- url     : https://prove2.me/theorems/6df9eca3-7f8a-44f6-b84e-4520c7d2c694

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermRegularConnected_proof_cd19fd2f7eb1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_IrreducibleGermRegularConnected_proof_cd19fd2f7eb1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:20.635027+00:00
 -- url     : https://prove2.me/theorems/751e50d9-89bd-41b0-b022-d561f9cf9ddf

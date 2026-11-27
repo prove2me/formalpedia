@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_gram_det_ne_zero_of_ker_orth__c48c67bfcbef
 -- name    : P2M_GlobalTheory_T_gram_det_ne_zero_of_ker_orth__c48c67bfcbef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:03.413138+00:00
 -- url     : https://prove2.me/theorems/35fd6b26-d115-4145-8440-5d1ddb6c84da

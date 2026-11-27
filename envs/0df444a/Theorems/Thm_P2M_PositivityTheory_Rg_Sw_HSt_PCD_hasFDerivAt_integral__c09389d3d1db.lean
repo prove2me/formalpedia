@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_HSt_PCD_hasFDerivAt_integral__c09389d3d1db
 -- name    : P2M_PositivityTheory_Rg_Sw_HSt_PCD_hasFDerivAt_integral__c09389d3d1db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:55.870093+00:00
 -- url     : https://prove2.me/theorems/f931a04a-eee6-5756-b6fe-b179dcea6dd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_muHom_injective_69240724cc49
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_muHom_injective_69240724cc49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:40:50.157163+00:00
 -- url     : https://prove2.me/theorems/01c3a1f3-2a50-4c91-b241-83e41e9d4ab4

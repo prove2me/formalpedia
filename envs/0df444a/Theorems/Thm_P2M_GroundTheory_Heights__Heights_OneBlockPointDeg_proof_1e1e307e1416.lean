@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_proof_1e1e307e1416
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_proof_1e1e307e1416
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:37:51.411119+00:00
 -- url     : https://prove2.me/theorems/d7c5ac3e-722a-50f8-9d8d-d97b39218a77

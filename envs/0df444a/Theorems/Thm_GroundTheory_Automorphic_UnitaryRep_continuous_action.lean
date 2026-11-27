@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_continuous_action
 -- name    : GroundTheory.Automorphic.UnitaryRep.continuous_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:23.344629+00:00
 -- url     : https://prove2.me/theorems/d82fe8c0-7281-50ba-b83a-5d282f0adfa1

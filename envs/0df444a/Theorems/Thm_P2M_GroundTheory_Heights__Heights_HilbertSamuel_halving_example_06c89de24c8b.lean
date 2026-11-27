@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_halving_example_06c89de24c8b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_halving_example_06c89de24c8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:35.052836+00:00
 -- url     : https://prove2.me/theorems/9208ef9a-d95a-5c0b-bbdd-6ca9165b1fcb

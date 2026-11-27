@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnitBallK_add_mem
 -- name    : UnitBallK.add_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:32:55.836483+00:00
 -- url     : https://prove2.me/theorems/f8511a7a-3be4-4f5b-b86d-0dd726ef76a2

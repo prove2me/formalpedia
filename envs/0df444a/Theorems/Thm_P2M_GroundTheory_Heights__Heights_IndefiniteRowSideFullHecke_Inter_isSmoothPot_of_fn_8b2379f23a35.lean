@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isSmoothPot_of_fn_8b2379f23a35
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isSmoothPot_of_fn_8b2379f23a35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:40:38.20749+00:00
 -- url     : https://prove2.me/theorems/eb1931c4-cf76-4239-b0a4-db5a15968130

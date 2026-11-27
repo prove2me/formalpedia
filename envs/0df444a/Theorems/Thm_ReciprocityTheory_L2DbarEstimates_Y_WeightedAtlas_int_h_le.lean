@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_int_h_le
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.int_h_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:36:00.409042+00:00
 -- url     : https://prove2.me/theorems/0f443d4f-354f-4391-b82a-b2f250ef5a20

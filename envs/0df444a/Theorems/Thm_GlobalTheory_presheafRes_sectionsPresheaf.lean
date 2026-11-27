@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_presheafRes_sectionsPresheaf
 -- name    : GlobalTheory.presheafRes_sectionsPresheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:44.562657+00:00
 -- url     : https://prove2.me/theorems/da502835-4a4c-5516-b436-6f7e619560f7

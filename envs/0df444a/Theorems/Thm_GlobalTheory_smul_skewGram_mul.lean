@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_skewGram_mul
 -- name    : GlobalTheory.smul_skewGram_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:32.111134+00:00
 -- url     : https://prove2.me/theorems/2934f178-1cb0-4565-ad61-496bdae99cd4

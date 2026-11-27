@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreeOrient_RecGreedy_Supplement_theorem_2_9
 -- name    : TreeOrient.RecGreedy.Supplement.theorem_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:54:27.346645+00:00
 -- url     : https://prove2.me/theorems/f15494b3-987d-43d7-8db5-70ab2d3a6ba1

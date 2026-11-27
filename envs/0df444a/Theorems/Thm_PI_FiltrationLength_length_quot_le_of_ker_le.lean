@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FiltrationLength_length_quot_le_of_ker_le
 -- name    : PI.FiltrationLength.length_quot_le_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:45:26.566452+00:00
 -- url     : https://prove2.me/theorems/2c94a7f5-6d9f-4a68-93c5-cf3926055727

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_decomposition_smul_def
 -- name    : GroundTheory.Global.decomposition_smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:06.640824+00:00
 -- url     : https://prove2.me/theorems/e8d93c37-9ff6-4297-9dd0-77ddae1d2dd8

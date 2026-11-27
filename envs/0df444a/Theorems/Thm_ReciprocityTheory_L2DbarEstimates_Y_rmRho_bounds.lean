@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmRho_bounds
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmRho_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:58.486516+00:00
 -- url     : https://prove2.me/theorems/87e91168-5e56-44f8-af84-055b6ee65588

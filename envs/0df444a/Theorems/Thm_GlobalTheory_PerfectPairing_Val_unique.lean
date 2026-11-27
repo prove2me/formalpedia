@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_Val_unique
 -- name    : GlobalTheory.PerfectPairing.Val.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:23:09.78849+00:00
 -- url     : https://prove2.me/theorems/bcb483cb-3706-599c-b5e0-afdf379d9140

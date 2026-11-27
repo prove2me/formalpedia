@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfdual_measure_twist_by_symmetric_auto
 -- name    : GlobalTheory.T.selfdual_measure_twist_by_symmetric_auto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:32.034814+00:00
 -- url     : https://prove2.me/theorems/18cc5b8a-8617-40c2-9064-efd33e616276

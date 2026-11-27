@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ChartBundlesAgree_proof_f3cd81616161
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ChartBundlesAgree_proof_f3cd81616161
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:33:25.3808+00:00
 -- url     : https://prove2.me/theorems/43b9637a-c527-5a59-8812-de54962ec761

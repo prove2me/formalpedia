@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchInverseOffHypersurface_proof_89921571aa0c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchInverseOffHypersurface_proof_89921571aa0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:15:51.294712+00:00
 -- url     : https://prove2.me/theorems/e84738d9-43c4-43df-bd1a-1fae68b35a2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_relIndex_powerSubgroup_empty
 -- name    : GroundTheory.Global.IdeleGroup.relIndex_powerSubgroup_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:00:18.693995+00:00
 -- url     : https://prove2.me/theorems/74db0cb0-7749-4d26-8cc1-4c6e20c7640e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_ofLp_sop
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.ofLp_sop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:50.501243+00:00
 -- url     : https://prove2.me/theorems/dce8a869-4c02-45d8-b494-b1d290309574

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_not_isTransverseSliceAt_zero_857b1534e408
 -- name    : P2M_GroundTheory_Heights__Heights_not_isTransverseSliceAt_zero_857b1534e408
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:38.483363+00:00
 -- url     : https://prove2.me/theorems/2d0e82b6-3d37-5b44-a538-5df8599addb5

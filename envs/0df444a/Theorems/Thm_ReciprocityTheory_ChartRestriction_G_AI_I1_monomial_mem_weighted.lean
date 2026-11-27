@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_monomial_mem_weighted
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.monomial_mem_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:10.17386+00:00
 -- url     : https://prove2.me/theorems/f217a3d8-b7b7-4e87-b291-b849f6fe3b17

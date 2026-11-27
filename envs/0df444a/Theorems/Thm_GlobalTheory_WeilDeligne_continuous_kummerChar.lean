@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_continuous_kummerChar
 -- name    : GlobalTheory.WeilDeligne.continuous_kummerChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:05:02.422629+00:00
 -- url     : https://prove2.me/theorems/14d9d01b-a76a-4eb6-aeaa-fa8295cde55d

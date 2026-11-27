@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitLocalSum_proof_7d04b33757f3
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitLocalSum_proof_7d04b33757f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:46.95789+00:00
 -- url     : https://prove2.me/theorems/e8587ecc-ad1a-48e3-b989-df652bbb9b8b

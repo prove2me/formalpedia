@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_span_genEigen_of_finiteDimensional_orbit_alt
 -- name    : GlobalTheory.T.mem_span_genEigen_of_finiteDimensional_orbit_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:45.688499+00:00
 -- url     : https://prove2.me/theorems/adbec1c8-5daa-4721-99d7-e88bfbf78b7a

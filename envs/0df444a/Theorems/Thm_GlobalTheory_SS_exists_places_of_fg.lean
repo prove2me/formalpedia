@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_places_of_fg
 -- name    : GlobalTheory.SS.exists_places_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:35.043101+00:00
 -- url     : https://prove2.me/theorems/a48f0e57-4151-4531-93f2-6bdf787e9ca5

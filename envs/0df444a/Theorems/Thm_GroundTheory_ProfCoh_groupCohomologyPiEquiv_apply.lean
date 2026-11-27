@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_groupCohomologyPiEquiv_apply
 -- name    : GroundTheory.ProfCoh.groupCohomologyPiEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:17.370467+00:00
 -- url     : https://prove2.me/theorems/4c3ddde5-bfd9-4afe-916d-8c8a4133b1ca

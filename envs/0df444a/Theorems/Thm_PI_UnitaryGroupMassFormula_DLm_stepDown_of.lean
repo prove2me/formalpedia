@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_stepDown_of
 -- name    : PI.UnitaryGroupMassFormula.DLm.stepDown_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:38.13991+00:00
 -- url     : https://prove2.me/theorems/2f94ad0a-5aca-58b0-8ee9-9abbe5f66044

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_kerCore_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.kerCore_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:14:06.279791+00:00
 -- url     : https://prove2.me/theorems/83caa361-7a44-41fe-86fa-ff94e63ea497

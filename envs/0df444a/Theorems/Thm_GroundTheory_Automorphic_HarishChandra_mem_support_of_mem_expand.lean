@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_support_of_mem_expand
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_support_of_mem_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:53:25.013115+00:00
 -- url     : https://prove2.me/theorems/b70cedf7-af9f-48c0-bac7-54f287abf968

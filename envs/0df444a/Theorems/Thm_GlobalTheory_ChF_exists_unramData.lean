@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_exists_unramData
 -- name    : GlobalTheory.ChF.exists_unramData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:24:31.538492+00:00
 -- url     : https://prove2.me/theorems/7cd4da3c-57d9-51d3-bf59-2311bc792fe5

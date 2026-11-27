@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_mul_mem_dpSpan
 -- name    : Reformulated.AutPerF.mul_mem_dpSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:31.718037+00:00
 -- url     : https://prove2.me/theorems/b8d0b19e-df2f-4e4c-a587-8dc8e790c133

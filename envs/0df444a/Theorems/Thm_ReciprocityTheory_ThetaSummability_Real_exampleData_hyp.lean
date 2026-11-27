@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Real_exampleData_hyp
 -- name    : ReciprocityTheory.ThetaSummability.Real.exampleData_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:38:16.778771+00:00
 -- url     : https://prove2.me/theorems/896db8e5-054b-49f4-81db-59d09712733d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InLieN_zero
 -- name    : PI.InLieN.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:46:09.868969+00:00
 -- url     : https://prove2.me/theorems/7c578df4-8073-4f24-814e-9a903ea2351e

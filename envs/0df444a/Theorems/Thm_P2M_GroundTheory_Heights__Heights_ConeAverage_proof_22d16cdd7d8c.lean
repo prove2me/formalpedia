@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeAverage_proof_22d16cdd7d8c
 -- name    : P2M_GroundTheory_Heights__Heights_ConeAverage_proof_22d16cdd7d8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:45.471477+00:00
 -- url     : https://prove2.me/theorems/1555567b-9b3e-4f6a-a59f-ace88f1f3fae

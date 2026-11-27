@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_holUnif_linComb
 -- name    : GlobalTheory.exists_holUnif_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:50.490611+00:00
 -- url     : https://prove2.me/theorems/46f86195-ef3f-57f8-87e4-7c8246a7c0de

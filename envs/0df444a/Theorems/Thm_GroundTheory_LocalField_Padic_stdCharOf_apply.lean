@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Padic_stdCharOf_apply
 -- name    : GroundTheory.LocalField.Padic.stdCharOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:44.716479+00:00
 -- url     : https://prove2.me/theorems/ed75092b-e1f6-5baa-9bf6-18f1f61d6d2e

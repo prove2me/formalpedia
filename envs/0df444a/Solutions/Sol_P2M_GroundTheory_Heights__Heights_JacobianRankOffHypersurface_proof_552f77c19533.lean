@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_proof_552f77c19533
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-27T05:02:44.191851+00:00
+-- url     : https://prove2.me/submissions/5aa3b087-2f48-4a08-ad05-cf03bf154778
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StJacobianRankOffHypersurface
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameJacobianGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PJacobianRankGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PConormalGenerationGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PJacobianRankOffHypersurface
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_proof_of_frame_2fb63f20aef4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConormalGenerationGeneric_proof_f41f288e0b9b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianGeneric_proof_1ca593bfb056
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_proof_63329d51f704
+import Theorems.Thm_UpperTheory_Reformulated_B_Qf34_proof
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial
+noncomputable section
+namespace GroundTheory.Heights₂.Heights
+namespace JacobianRankOffHypersurface
+theorem _root_.solution : JacobianRankOffHypersurface.Statement :=
+  JacobianRankOffHypersurface.proof_of_frame
+    (FrameJacobianGeneric.proof JacobianRankGeneric.proof ConormalGenerationGeneric.proof)
+end JacobianRankOffHypersurface
+end GroundTheory.Heights₂.Heights

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_traceMat_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.traceMat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:23:34.978417+00:00
 -- url     : https://prove2.me/theorems/6b607bc9-f398-4de3-aa77-d4c9060e7362

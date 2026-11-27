@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_plane_wave_norm_bound__45d7e2805956
 -- name    : P2M_Formalism_FourierDecayAlt_P_plane_wave_norm_bound__45d7e2805956
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:17:40.125808+00:00
 -- url     : https://prove2.me/theorems/51f538a6-eeae-5d1c-82c2-8bc5c0712270

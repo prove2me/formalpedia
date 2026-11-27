@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EntirePolynomialGrowth_proof_edc7f7dc1017
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EntirePolynomialGrowth_proof_edc7f7dc1017
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:13:33.633362+00:00
 -- url     : https://prove2.me/theorems/785a5142-d605-4f53-b610-81ce9cace4f8

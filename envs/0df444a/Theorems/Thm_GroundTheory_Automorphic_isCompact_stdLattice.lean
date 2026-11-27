@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompact_stdLattice
 -- name    : GroundTheory.Automorphic.isCompact_stdLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:12.940536+00:00
 -- url     : https://prove2.me/theorems/e32084fb-5dad-5e7e-96a1-c38f7859f428

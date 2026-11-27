@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_contr_sum_right
 -- name    : GlobalTheory.TensorLat.contr_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:30:40.937238+00:00
 -- url     : https://prove2.me/theorems/2e15f11c-0fd6-46df-aa60-5d6917993a8b

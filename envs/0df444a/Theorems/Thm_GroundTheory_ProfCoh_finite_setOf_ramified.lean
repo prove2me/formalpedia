@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_setOf_ramified
 -- name    : GroundTheory.ProfCoh.finite_setOf_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:31.460723+00:00
 -- url     : https://prove2.me/theorems/44eaf375-9e3b-4a06-8cc1-34a9646613ef

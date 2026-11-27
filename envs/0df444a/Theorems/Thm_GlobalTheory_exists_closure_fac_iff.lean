@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_closure_fac_iff
 -- name    : GlobalTheory.exists_closure_fac_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:18.402157+00:00
 -- url     : https://prove2.me/theorems/73683d4b-2c2e-5e3b-9d08-86fac3d9d9c4

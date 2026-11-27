@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DivCycleMinimal_proof_47741daf48e4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DivCycleMinimal_proof_47741daf48e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:38.740695+00:00
 -- url     : https://prove2.me/theorems/3e00f5c7-e04d-5268-9ded-d4b2d86182b0

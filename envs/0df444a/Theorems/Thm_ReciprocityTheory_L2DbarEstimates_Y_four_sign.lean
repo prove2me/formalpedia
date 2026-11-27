@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_four_sign
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.four_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:34.094939+00:00
 -- url     : https://prove2.me/theorems/8e25bef6-7a91-4b58-a065-d3947fe64d65

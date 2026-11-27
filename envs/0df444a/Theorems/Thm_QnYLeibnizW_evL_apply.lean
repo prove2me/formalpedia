@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_evL_apply
 -- name    : QnYLeibnizW.evL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:21:25.663018+00:00
 -- url     : https://prove2.me/theorems/272c7ba5-a6dc-4894-a55e-2791381d23ef

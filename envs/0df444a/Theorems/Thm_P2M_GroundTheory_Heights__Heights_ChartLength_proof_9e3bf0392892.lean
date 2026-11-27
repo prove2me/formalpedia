@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLength_proof_9e3bf0392892
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLength_proof_9e3bf0392892
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:02.856676+00:00
 -- url     : https://prove2.me/theorems/24bcce40-2e14-4cab-9388-f27a3d2a88e6

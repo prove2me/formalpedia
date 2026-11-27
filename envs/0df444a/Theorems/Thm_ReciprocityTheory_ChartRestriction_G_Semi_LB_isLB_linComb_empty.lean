@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_LB_isLB_linComb_empty
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.LB.isLB_linComb_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:27:56.683165+00:00
 -- url     : https://prove2.me/theorems/8081e172-820e-595d-94ca-24663b25b3f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_eig_one
 -- name    : UpperTheory.V.Base.eig_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:01.226634+00:00
 -- url     : https://prove2.me/theorems/9aedab5b-10d5-4247-933f-a752723df16d

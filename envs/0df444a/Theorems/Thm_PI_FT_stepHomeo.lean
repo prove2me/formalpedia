@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FT_stepHomeo
 -- name    : PI.FT.stepHomeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:32.159387+00:00
 -- url     : https://prove2.me/theorems/08531d34-ace7-439a-8c1f-2e24486f4566

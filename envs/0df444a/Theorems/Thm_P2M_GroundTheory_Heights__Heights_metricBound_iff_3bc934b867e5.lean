@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_metricBound_iff_3bc934b867e5
 -- name    : P2M_GroundTheory_Heights__Heights_metricBound_iff_3bc934b867e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:53:09.797789+00:00
 -- url     : https://prove2.me/theorems/1a8099ad-ff8b-539f-a5c7-366df1b115fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_theorem_zero_condition
 -- name    : Formalism.L2.Indef.Tree.example_theorem_zero_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T17:24:58.884201+00:00
 -- url     : https://prove2.me/theorems/0a294682-190d-55b5-ba5f-6dc68f066439

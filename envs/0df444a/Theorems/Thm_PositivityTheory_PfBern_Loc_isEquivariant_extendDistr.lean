@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_isEquivariant_extendDistr
 -- name    : PositivityTheory.PfBern.Loc.isEquivariant_extendDistr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:50:32.251687+00:00
 -- url     : https://prove2.me/theorems/1a881980-fa6c-52fe-8ecf-25506f8c529b

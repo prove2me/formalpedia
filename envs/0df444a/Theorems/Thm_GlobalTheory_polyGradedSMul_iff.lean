@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyGradedSMul_iff
 -- name    : GlobalTheory.polyGradedSMul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:16.477594+00:00
 -- url     : https://prove2.me/theorems/6f46b3f0-609a-5484-bd2e-7ab208d69f73

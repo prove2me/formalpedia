@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_Lvl_precomp
 -- name    : GlobalTheory.UU.Lvl.precomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:20:24.525422+00:00
 -- url     : https://prove2.me/theorems/c0c3527c-4acf-53a5-8d02-55560108dcfa

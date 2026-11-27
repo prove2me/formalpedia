@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_balanced_centers
 -- name    : BarelyTestable.LowerBound.balanced_centers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:23:10.203222+00:00
 -- url     : https://prove2.me/theorems/ce97bed8-5df2-497b-8650-8362b3419fd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_rootEval_mem_span_root
 -- name    : GroundTheory.LocalField.rootEval_mem_span_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:51.231429+00:00
 -- url     : https://prove2.me/theorems/9fb7bd35-0e7a-4d94-93f2-8257f441b725

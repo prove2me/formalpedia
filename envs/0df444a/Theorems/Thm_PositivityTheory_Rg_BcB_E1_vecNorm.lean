@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_vecNorm
 -- name    : PositivityTheory.Rg.BcB.E1.vecNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:51:38.054283+00:00
 -- url     : https://prove2.me/theorems/ec214fa6-60c3-4e7c-89be-1dbb64a2a7ac

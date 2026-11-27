@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isTraceClass_iff
 -- name    : GroundTheory.Automorphic.isTraceClass_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:40.6121+00:00
 -- url     : https://prove2.me/theorems/97f11643-0331-4523-9236-6605855e6e1a

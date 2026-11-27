@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_deriv_weierstrassZeta
 -- name    : GlobalTheory.deriv_weierstrassZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:11.478277+00:00
 -- url     : https://prove2.me/theorems/e3507e9a-2b52-4793-ae19-6d2c4dd29a6c

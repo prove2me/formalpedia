@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Ex_TateInh_twist_tate___ca67d5cd6140
 -- name    : P2M_GlobalTheory_Ex_TateInh_twist_tate___ca67d5cd6140
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:12:34.988592+00:00
 -- url     : https://prove2.me/theorems/ffe45cb2-c620-567e-9126-9d3470045001

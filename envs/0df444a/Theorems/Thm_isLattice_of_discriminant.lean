@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isLattice_of_discriminant
 -- name    : isLattice_of_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:44.849811+00:00
 -- url     : https://prove2.me/theorems/7afda6f4-ce34-4978-8c2a-63a171b0ecee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_Supplement_theorem_1_gas
 -- name    : TwoSidedExp.DemandLimit.Supplement.theorem_1_gas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T02:20:24.875637+00:00
 -- url     : https://prove2.me/theorems/ad200da4-2878-4c2a-af80-c70c27096751

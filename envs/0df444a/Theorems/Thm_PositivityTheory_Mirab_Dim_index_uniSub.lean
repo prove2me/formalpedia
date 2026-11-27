@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Dim_index_uniSub
 -- name    : PositivityTheory.Mirab.Dim.index_uniSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:16:31.005621+00:00
 -- url     : https://prove2.me/theorems/2e91b7b9-a3d0-48d4-9a7f-6977353fe494

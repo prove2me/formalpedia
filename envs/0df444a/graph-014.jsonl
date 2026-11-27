@@ -65970,9 +65970,9 @@
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P32.sdp_limit", "child": "QAlgorithms_Papers_Independent_Advance50_P32", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_graph_has_exact_edge_count__p2m_ade061e0_083b_4a3b_882e_6784f9579cdf_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P28.corollary44", "child": "QAlgorithms_Papers_Independent_Extend50_P28", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["statement"]}
+{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_Downlink", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.energy_bound", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_triangulation_supergraph_exact_edge_count__p2m_46e0438a_7261_453d_aed1_bf3efef6fc1f_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P10.bounded_approximately_affine_continuity", "child": "QAlgorithms_Papers_Independent_Advance50_P10", "via": ["statement"]}
 {"parent": "BSSSampleRobust_Asymptotic_Model", "child": "BSSSampleRobust_Asymptotic_Policy", "via": ["statement"]}
@@ -68980,17 +68980,17 @@
 {"parent": "AdaGradDHS.Diag.theorem_5_diagonal_adagrad_regret", "child": "AdaGradDHS_Diag_adagradPsi", "via": ["solution", "statement"]}
 {"parent": "AdaGradDHS.Diag.theorem_5_diagonal_adagrad_regret", "child": "AdaGradDHS_Diag_IsCompositeMDRun", "via": ["solution", "statement"]}
 {"parent": "AdaGradDHS.Diag.theorem_5_diagonal_adagrad_regret", "child": "AdaGradDHS_Diag_supNorm", "via": ["solution", "statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_queueU", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsAdaptedIID", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsAdmissiblePolicy", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_virtD", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_B", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_throughputAvg", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_rStar", "via": ["statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_Downlink", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_queueU", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsAdaptedIID", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_IsAdmissiblePolicy", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_virtD", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_B", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_throughputAvg", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.theorem_6_3_ecca_performance", "child": "CrossLayerControl_ECCA_rStar", "via": ["solution", "statement"]}
 {"parent": "BitcoinMiniscript.runSeq_append", "child": "BitcoinMiniscript", "via": ["solution", "statement"]}
 {"parent": "BitcoinMiniscript.runSeq_append", "child": "BitcoinScript", "via": ["statement"]}
 {"parent": "DerivativeChainAnalytic_RootProbabilityExtension", "child": "DerivativeChain_root_probability", "via": ["statement"]}
@@ -70452,12 +70452,12 @@
 {"parent": "OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.QueryNodeEvaluation.prepare_native_run", "child": "OAIQ081S181", "via": ["solution", "statement"]}
 {"parent": "BitcoinDifficulty.target_after_upper", "child": "BitcoinPow", "via": ["solution", "statement"]}
 {"parent": "BitcoinDifficulty.target_after_upper", "child": "BitcoinDifficulty", "via": ["solution", "statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_RateHyp", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_IsAdmissiblePolicy", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_throughputAvg", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_rStar", "via": ["statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_Downlink", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_RateHyp", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_IsAdmissiblePolicy", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_throughputAvg", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.rStar_ge_admissible", "child": "CrossLayerControl_ECCA_rStar", "via": ["solution", "statement"]}
 {"parent": "OAIQ081S060", "child": "OAIQ081S024", "via": ["statement"]}
 {"parent": "OAIQ081S060", "child": "OAIQ081S027", "via": ["statement"]}
 {"parent": "OAIQ081S060", "child": "OAIQ081S030", "via": ["statement"]}
@@ -74657,15 +74657,15 @@
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P44.toeplitzPrep", "child": "QAlgorithms_Papers_Independent_Extend50_P44", "via": ["statement"]}
 {"parent": "OAI.PureTypeSystem.Labelled.SpecializedCode.Formed.edge_to_tagged", "child": "OAIQ5T6000", "via": ["solution", "statement"]}
 {"parent": "OAI.PureTypeSystem.Labelled.SpecializedCode.Formed.edge_to_tagged", "child": "TypeSystemNormalization", "via": ["solution", "statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_queueU", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_RateHyp", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_IsAdaptedIID", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_virtD", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_B", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_achievable", "via": ["statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_Downlink", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_queueU", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_RateHyp", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_IsAdaptedIID", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_DownlinkMeas", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_virtD", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_B", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.ecca_drift_comparison", "child": "CrossLayerControl_ECCA_achievable", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Advance50.P25.firmSubadditivity_does_not_imply_strongSubadditivity", "child": "QAlgorithms_Papers_Independent_Advance50_P25", "via": ["statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_exact_edge_count__p2m_bd02a62a_20ac_45ba_a540_81b91c2ce75e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count__p2m_9e09229e_d4ec_4237_9818_555f2ee4ea2a_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
@@ -76023,10 +76023,10 @@
 {"parent": "QAlgorithms.Papers.Independent.Bridge50.P22.eMax_channel_cone", "child": "QAlgorithms_Papers_Independent_Bridge50_P22", "via": ["statement"]}
 {"parent": "OAI.PureTypeSystem.Labelled.SpecializedCode.Formed.pair_comparison", "child": "OAIQ5T6000", "via": ["solution", "statement"]}
 {"parent": "OAI.PureTypeSystem.Labelled.SpecializedCode.Formed.pair_comparison", "child": "TypeSystemNormalization", "via": ["solution", "statement"]}
-{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_virtD", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_Downlink", "via": ["statement"]}
-{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["statement"]}
+{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_virtD", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_IsECCARun", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_Downlink", "via": ["solution", "statement"]}
+{"parent": "CrossLayerControl.ECCA.virtual_queue_bound", "child": "CrossLayerControl_ECCA_DownlinkHyp", "via": ["solution", "statement"]}
 {"parent": "RelSmoothFull.PrimalGrad.theorem_3_1_full", "child": "RelSmoothFull_PrimalGrad_completedRate", "via": ["solution", "statement"]}
 {"parent": "RelSmoothFull.PrimalGrad.theorem_3_1_full", "child": "RelSmoothFOM_PrimalGrad_Setting", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Extend50.P47.measurement_covariance_test", "child": "QAlgorithms_Papers_Independent_Extend50_P47", "via": ["statement"]}

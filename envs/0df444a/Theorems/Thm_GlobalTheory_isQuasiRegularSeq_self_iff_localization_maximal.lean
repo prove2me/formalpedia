@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_self_iff_localization_maximal
 -- name    : GlobalTheory.isQuasiRegularSeq_self_iff_localization_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:28.899705+00:00
 -- url     : https://prove2.me/theorems/7fbac251-4a68-42a8-bc43-8fa6a46fc2d2

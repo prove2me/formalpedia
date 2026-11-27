@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_isIntegral_of_sum_abs_lt
 -- name    : GlobalTheory.eq_zero_of_isIntegral_of_sum_abs_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:05.257342+00:00
 -- url     : https://prove2.me/theorems/2b524368-77c4-447e-ba68-1833bd230a26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_hmat_mul
 -- name    : PI.InvTopW.hmat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:45:44.009142+00:00
 -- url     : https://prove2.me/theorems/a60433ae-b712-5a86-88e4-10e1852f69cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_sgn_mul_self
 -- name    : GlobalTheory.WeilNoncomm.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:10:19.742995+00:00
 -- url     : https://prove2.me/theorems/624c6bf3-e048-4ace-980f-434961ef7ed0

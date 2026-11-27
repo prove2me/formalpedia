@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Ylb7_main
 -- name    : UpperTheory.Reformulated.B.Ylb7.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:58.436326+00:00
 -- url     : https://prove2.me/theorems/561fab89-1233-452f-9317-70d999c881da

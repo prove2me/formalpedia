@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_WildA_logSum
 -- name    : UpperTheory.WildA.logSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:10.790516+00:00
 -- url     : https://prove2.me/theorems/16dc8344-bccc-4f96-9b8d-7297aaf01f70

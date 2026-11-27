@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularQuotientIndependent_proof_41bae0b35d29
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularQuotientIndependent_proof_41bae0b35d29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:19.718707+00:00
 -- url     : https://prove2.me/theorems/9b2952ef-4082-435d-8f57-aec3be79ef49

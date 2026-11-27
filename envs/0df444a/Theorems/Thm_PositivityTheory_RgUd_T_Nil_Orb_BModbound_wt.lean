@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BModbound_wt
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BModbound.wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:57:38.125955+00:00
 -- url     : https://prove2.me/theorems/92149ac7-8bdb-465e-936e-96654432125e

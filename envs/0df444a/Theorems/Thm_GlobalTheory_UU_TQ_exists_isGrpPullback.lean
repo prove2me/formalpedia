@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_exists_isGrpPullback
 -- name    : GlobalTheory.UU.TQ.exists_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:20:51.342256+00:00
 -- url     : https://prove2.me/theorems/f20a82e9-3bb6-59d4-a083-6205cb9d8fc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ExistsFactor_exists_factor
 -- name    : UpperTheory.Reformulated.B.ExistsFactor.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:35.246291+00:00
 -- url     : https://prove2.me/theorems/02603008-58f6-49c2-97b7-97c03317ab19

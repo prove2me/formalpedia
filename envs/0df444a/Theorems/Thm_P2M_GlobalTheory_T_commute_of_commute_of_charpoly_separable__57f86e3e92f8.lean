@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_commute_of_commute_of_charpoly_separable__57f86e3e92f8
 -- name    : P2M_GlobalTheory_T_commute_of_commute_of_charpoly_separable__57f86e3e92f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:09.99494+00:00
 -- url     : https://prove2.me/theorems/ae047a7c-352a-4139-9f7f-c9c1d7a88ec2

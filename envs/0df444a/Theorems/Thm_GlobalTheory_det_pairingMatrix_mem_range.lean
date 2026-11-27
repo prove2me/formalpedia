@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_pairingMatrix_mem_range
 -- name    : GlobalTheory.det_pairingMatrix_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:59.513436+00:00
 -- url     : https://prove2.me/theorems/93ab2a9c-86f1-48ff-a144-5f47f0d6fa41

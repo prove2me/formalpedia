@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_contr_smul_left
 -- name    : GlobalTheory.TensorLat.contr_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:30:20.263476+00:00
 -- url     : https://prove2.me/theorems/f6edd144-2259-4143-b234-391d172dba84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_cayleyLoc_of_dens
 -- name    : HcInf.cayleyLoc_of_dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:02:34.558344+00:00
 -- url     : https://prove2.me/theorems/7672e619-063f-5185-bbbf-5c4d4d140895

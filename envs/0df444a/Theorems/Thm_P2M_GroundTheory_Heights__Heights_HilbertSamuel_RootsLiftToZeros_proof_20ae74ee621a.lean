@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsLiftToZeros_proof_20ae74ee621a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootsLiftToZeros_proof_20ae74ee621a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:14:38.534832+00:00
 -- url     : https://prove2.me/theorems/b799078d-5a26-584c-be31-6bc835ff769a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_standard_inner_single_5388d2f93004
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_standard_inner_single_5388d2f93004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:44.838655+00:00
 -- url     : https://prove2.me/theorems/ec502bd5-1ca7-5974-a768-918672b8f5bb

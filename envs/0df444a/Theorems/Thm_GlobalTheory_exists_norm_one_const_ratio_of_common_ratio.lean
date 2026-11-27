@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_norm_one_const_ratio_of_common_ratio
 -- name    : GlobalTheory.exists_norm_one_const_ratio_of_common_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:04.145651+00:00
 -- url     : https://prove2.me/theorems/fa36cd9b-6c1e-4021-b755-5574380e95ce

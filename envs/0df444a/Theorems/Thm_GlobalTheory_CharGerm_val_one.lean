@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharGerm_val_one
 -- name    : GlobalTheory.CharGerm.val_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T17:04:42.546349+00:00
 -- url     : https://prove2.me/theorems/40955e4f-37ed-5af4-a3bb-70ced5c7192b

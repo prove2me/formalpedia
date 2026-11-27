@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_nuStar_eq_nuStar_one
 -- name    : KStar.nuStar_eq_nuStar_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:13.664611+00:00
 -- url     : https://prove2.me/theorems/83bc6df6-b871-5fbd-a4a3-00b25c212df0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_classNumber_le_log_abs_discr_div
 -- name    : GlobalTheory.log_classNumber_le_log_abs_discr_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:04.448518+00:00
 -- url     : https://prove2.me/theorems/b32f1b69-babc-5c7a-979d-5e8484fa4714

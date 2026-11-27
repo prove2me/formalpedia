@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_psd_sub_of_quad_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.psd_sub_of_quad_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:25:17.677838+00:00
 -- url     : https://prove2.me/theorems/aec9c0ad-9227-47e8-a62d-e40cf60cd8ce

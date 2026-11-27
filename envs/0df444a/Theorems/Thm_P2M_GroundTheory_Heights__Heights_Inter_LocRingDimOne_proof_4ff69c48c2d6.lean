@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingDimOne_proof_4ff69c48c2d6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingDimOne_proof_4ff69c48c2d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:27:31.660598+00:00
 -- url     : https://prove2.me/theorems/c1251fc6-7c3e-4c1e-a3a6-7912fcce1bc5

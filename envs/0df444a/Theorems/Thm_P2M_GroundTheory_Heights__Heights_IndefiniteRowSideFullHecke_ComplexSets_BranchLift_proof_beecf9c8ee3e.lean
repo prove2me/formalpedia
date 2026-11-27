@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchLift_proof_beecf9c8ee3e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchLift_proof_beecf9c8ee3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:23:19.322802+00:00
 -- url     : https://prove2.me/theorems/a37a1bd8-be1c-566a-8401-d2067670c15e

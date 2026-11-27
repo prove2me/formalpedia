@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_chain
 -- name    : GlobalTheory.relLength_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:49:52.718579+00:00
 -- url     : https://prove2.me/theorems/6e6e5f52-4a29-587e-8d46-39c0c659bbca

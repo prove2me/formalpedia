@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_openCompletion_mem_iff
 -- name    : GroundTheory.LocalField.openCompletion.mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:30.035349+00:00
 -- url     : https://prove2.me/theorems/15f13308-3a91-4cb4-9e84-09190352799b

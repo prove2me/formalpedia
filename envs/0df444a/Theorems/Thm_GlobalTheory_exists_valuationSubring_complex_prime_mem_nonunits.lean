@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_complex_prime_mem_nonunits
 -- name    : GlobalTheory.exists_valuationSubring_complex_prime_mem_nonunits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:46:49.41696+00:00
 -- url     : https://prove2.me/theorems/16dc5978-e739-551d-b796-3d486312fe98

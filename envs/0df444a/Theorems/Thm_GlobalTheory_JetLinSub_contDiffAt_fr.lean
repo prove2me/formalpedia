@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_contDiffAt_fr
 -- name    : GlobalTheory.JetLinSub.contDiffAt_fr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:43:41.148975+00:00
 -- url     : https://prove2.me/theorems/6499a0a7-2c93-51ab-a462-83094921547c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdDualW_exists_notMem_int
 -- name    : PI.VolStabSW.SdDualW.exists_notMem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:50:33.192852+00:00
 -- url     : https://prove2.me/theorems/bff0646f-f4a1-4976-9ca9-d87943427961

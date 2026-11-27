@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassGeomDegChart_proof_942c25f59ebc
 -- name    : P2M_GroundTheory_Heights__Heights_GrassGeomDegChart_proof_942c25f59ebc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:35.70297+00:00
 -- url     : https://prove2.me/theorems/af852c73-2464-4f07-ac1c-fc9bbe2d1ec6

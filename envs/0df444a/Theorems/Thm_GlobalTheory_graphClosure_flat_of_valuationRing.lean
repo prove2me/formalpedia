@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_flat_of_valuationRing
 -- name    : GlobalTheory.graphClosure.flat_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:43.809623+00:00
 -- url     : https://prove2.me/theorems/69d045fc-cf1a-5afe-a837-3284b1824fb3

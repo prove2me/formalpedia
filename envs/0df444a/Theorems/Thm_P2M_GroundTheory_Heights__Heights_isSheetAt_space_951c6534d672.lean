@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isSheetAt_space_951c6534d672
 -- name    : P2M_GroundTheory_Heights__Heights_isSheetAt_space_951c6534d672
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:24.193834+00:00
 -- url     : https://prove2.me/theorems/83640c27-6079-4b1d-a5c5-5e49208631f0

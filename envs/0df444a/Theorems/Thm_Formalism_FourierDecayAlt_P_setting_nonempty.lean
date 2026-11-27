@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_setting_nonempty
 -- name    : Formalism.FourierDecayAlt.P.setting_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:01.021642+00:00
 -- url     : https://prove2.me/theorems/eb7f0831-5e7b-5475-8a9a-a49323ca9cc4

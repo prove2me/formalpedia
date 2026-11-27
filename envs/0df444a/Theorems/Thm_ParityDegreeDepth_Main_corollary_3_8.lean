@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_corollary_3_8
 -- name    : ParityDegreeDepth.Main.corollary_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:24:01.475529+00:00
 -- url     : https://prove2.me/theorems/cb63fc3e-ab91-4eaf-84b7-6056a5c97858

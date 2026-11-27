@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_splitsCompletely_iff_exists_finrank
 -- name    : GroundTheory.Global.splitsCompletely_iff_exists_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:56:30.286406+00:00
 -- url     : https://prove2.me/theorems/e0ad58e7-47b7-5e04-a29d-3c6f0995bf45

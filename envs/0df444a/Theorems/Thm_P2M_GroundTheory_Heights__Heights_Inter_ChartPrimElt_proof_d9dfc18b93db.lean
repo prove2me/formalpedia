@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartPrimElt_proof_d9dfc18b93db
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartPrimElt_proof_d9dfc18b93db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:25:16.207532+00:00
 -- url     : https://prove2.me/theorems/1bdd4faa-36f8-56b1-bce5-9e84fefe4ee5

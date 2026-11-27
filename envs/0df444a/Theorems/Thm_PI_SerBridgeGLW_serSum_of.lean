@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_serSum_of
 -- name    : PI.SerBridgeGLW.serSum_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:56.771592+00:00
 -- url     : https://prove2.me/theorems/59cb25fe-6bda-4e6e-97b0-39d80e459768

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sum_monoNormSq_traceMat
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sum_monoNormSq_traceMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:23:06.210695+00:00
 -- url     : https://prove2.me/theorems/ec2eac89-fc6a-4f47-b078-d658240ba475

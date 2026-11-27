@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPeriod_schurQuotientPeriod_59dd4f7c80ff
 -- name    : P2M_GroundTheory_Heights__Heights_MCPeriod_schurQuotientPeriod_59dd4f7c80ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:30:04.361865+00:00
 -- url     : https://prove2.me/theorems/9a7e5a23-fadf-534c-b033-958c0eacc526

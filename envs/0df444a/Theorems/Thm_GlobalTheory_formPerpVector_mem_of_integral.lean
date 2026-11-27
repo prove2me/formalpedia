@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formPerpVector_mem_of_integral
 -- name    : GlobalTheory.formPerpVector_mem_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:05.036222+00:00
 -- url     : https://prove2.me/theorems/4d6fc0b9-2c1e-48c7-ab9d-3c84de35a64a

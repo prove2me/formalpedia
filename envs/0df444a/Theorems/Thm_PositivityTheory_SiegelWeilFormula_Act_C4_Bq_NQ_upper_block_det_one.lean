@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_C4_Bq_NQ_upper_block_det_one
 -- name    : PositivityTheory.SiegelWeilFormula.Act.C4.Bq.NQ.upper_block_det_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:56:42.784037+00:00
 -- url     : https://prove2.me/theorems/f2cd9077-f653-44eb-a906-acce7871786f

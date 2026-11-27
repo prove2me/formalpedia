@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__rootDiscr_nonneg_e45b800eea51
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__rootDiscr_nonneg_e45b800eea51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:42.239132+00:00
 -- url     : https://prove2.me/theorems/349b7522-35bc-4048-b03e-1fce17a2a829

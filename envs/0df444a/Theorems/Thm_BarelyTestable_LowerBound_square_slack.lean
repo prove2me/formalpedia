@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_square_slack
 -- name    : BarelyTestable.LowerBound.square_slack
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:07.750803+00:00
 -- url     : https://prove2.me/theorems/a3bb7991-50a7-422f-9396-55ec4f2aab18

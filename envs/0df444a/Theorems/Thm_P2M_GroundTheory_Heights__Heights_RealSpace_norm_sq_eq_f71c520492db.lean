@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RealSpace_norm_sq_eq_f71c520492db
 -- name    : P2M_GroundTheory_Heights__Heights_RealSpace_norm_sq_eq_f71c520492db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:34:26.480789+00:00
 -- url     : https://prove2.me/theorems/d0a2cae3-a0c5-527e-a6b4-802b7a87c333

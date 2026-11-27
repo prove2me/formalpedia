@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_open_eq_top_of_contains_special_part_universallyClosed
 -- name    : GlobalTheory.T.open_eq_top_of_contains_special_part_universallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:10.496271+00:00
 -- url     : https://prove2.me/theorems/4d96ce8a-592b-43b9-a5fd-8aa563ccd955

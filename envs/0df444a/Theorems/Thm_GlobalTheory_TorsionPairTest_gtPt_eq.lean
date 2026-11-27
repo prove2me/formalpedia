@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_gtPt_eq
 -- name    : GlobalTheory.TorsionPairTest.gtPt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:32:28.637749+00:00
 -- url     : https://prove2.me/theorems/09309268-11ad-5c25-9374-cc6c9b3c7330

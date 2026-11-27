@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_laU_antitone
 -- name    : GlobalTheory.UnifDataTest.laU_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:23.041646+00:00
 -- url     : https://prove2.me/theorems/22bae178-77a2-41e3-9f1e-89433dcb257f

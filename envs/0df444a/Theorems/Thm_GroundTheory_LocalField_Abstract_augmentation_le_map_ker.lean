@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_augmentation_le_map_ker
 -- name    : GroundTheory.LocalField.Abstract.augmentation_le_map_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:39.538571+00:00
 -- url     : https://prove2.me/theorems/5c197da9-d6b0-5463-8c2a-479b0395e3c1

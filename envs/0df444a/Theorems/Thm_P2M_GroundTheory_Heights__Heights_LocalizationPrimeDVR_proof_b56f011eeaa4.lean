@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalizationPrimeDVR_proof_b56f011eeaa4
 -- name    : P2M_GroundTheory_Heights__Heights_LocalizationPrimeDVR_proof_b56f011eeaa4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:46.077246+00:00
 -- url     : https://prove2.me/theorems/50d764f6-a890-5338-b387-3528914bd585

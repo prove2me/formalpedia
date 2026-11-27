@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_W_GFrame_mu_eq
 -- name    : UpperTheory.V.W.GFrame.mu_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:46.419899+00:00
 -- url     : https://prove2.me/theorems/b2040b42-ff42-452d-8e1f-b58d5792ca53

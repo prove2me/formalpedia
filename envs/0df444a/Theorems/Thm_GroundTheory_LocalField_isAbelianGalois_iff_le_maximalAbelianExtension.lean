@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isAbelianGalois_iff_le_maximalAbelianExtension
 -- name    : GroundTheory.LocalField.isAbelianGalois_iff_le_maximalAbelianExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:03.293066+00:00
 -- url     : https://prove2.me/theorems/ad7d8825-dafd-4460-818e-f6317a8413a7

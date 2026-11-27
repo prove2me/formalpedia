@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_conj_unitary_back
 -- name    : GlobalTheory.VolPairExists.conj_unitary_back
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:07.434275+00:00
 -- url     : https://prove2.me/theorems/6eca3e14-4b9c-5365-9f77-b63f101cfc81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaConvergence_integrable_zetaIntegrand
 -- name    : GlobalTheory.ZetaConvergence.integrable_zetaIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:51.059407+00:00
 -- url     : https://prove2.me/theorems/28210857-9870-50ed-966c-3910962d349e

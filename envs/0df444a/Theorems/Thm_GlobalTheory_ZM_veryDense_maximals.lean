@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_veryDense_maximals
 -- name    : GlobalTheory.ZM.veryDense_maximals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:13.328259+00:00
 -- url     : https://prove2.me/theorems/39a37312-5dd8-58b7-9659-ec4324b2cabf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cech__def_d915f304b4de
 -- name    : P2M_GlobalTheory_cech__def_d915f304b4de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:12:05.394851+00:00
 -- url     : https://prove2.me/theorems/cbe49a60-4e2d-45d2-b913-9950b2e3491e

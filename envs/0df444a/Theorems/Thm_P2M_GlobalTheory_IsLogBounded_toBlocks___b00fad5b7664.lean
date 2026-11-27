@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IsLogBounded_toBlocks___b00fad5b7664
 -- name    : P2M_GlobalTheory_IsLogBounded_toBlocks___b00fad5b7664
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:27.47486+00:00
 -- url     : https://prove2.me/theorems/3923adb5-2ab1-4ae7-ad6e-2fcccd9a5a35

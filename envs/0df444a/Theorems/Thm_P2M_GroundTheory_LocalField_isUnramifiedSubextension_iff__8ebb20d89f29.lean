@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_LocalField_isUnramifiedSubextension_iff__8ebb20d89f29
 -- name    : P2M_GroundTheory_LocalField_isUnramifiedSubextension_iff__8ebb20d89f29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:50:15.768463+00:00
 -- url     : https://prove2.me/theorems/744d6810-bf8e-514f-84f9-9eae8f19e9b4

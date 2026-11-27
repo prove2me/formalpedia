@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_eventually_notMem_spectrum
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.eventually_notMem_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:55.588509+00:00
 -- url     : https://prove2.me/theorems/614f9fe6-7ac4-4dac-8406-73e325e0cfe8

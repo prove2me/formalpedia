@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Semi_eq_single_of_mul_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Semi.eq_single_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:33:12.444396+00:00
 -- url     : https://prove2.me/theorems/738cd1e4-d657-5696-a4d5-d6834e4d1447

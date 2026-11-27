@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_iff_exact
 -- name    : GlobalTheory.cubeComplex_acyclic_iff_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:58.941055+00:00
 -- url     : https://prove2.me/theorems/052e2b6a-0cdb-5118-9768-318b0a3c4411

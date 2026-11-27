@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_stabilizer_eq
 -- name    : GroundTheory.Global.IdeleGroup.stabilizer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:32.175361+00:00
 -- url     : https://prove2.me/theorems/86faddaf-e43d-40ca-8755-06592c8e7470

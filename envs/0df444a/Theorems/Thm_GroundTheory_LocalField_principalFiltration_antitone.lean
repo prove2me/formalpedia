@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_principalFiltration_antitone
 -- name    : GroundTheory.LocalField.principalFiltration_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:00.83818+00:00
 -- url     : https://prove2.me/theorems/ebfcec74-1a3a-508e-b9e8-d2ed44e8ba10

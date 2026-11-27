@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_G_eq_aeval
 -- name    : GroundTheory.Global.Elliptic.exists_G_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:37.842604+00:00
 -- url     : https://prove2.me/theorems/035aa8e6-7ad3-481a-8c21-652c73e4b02a

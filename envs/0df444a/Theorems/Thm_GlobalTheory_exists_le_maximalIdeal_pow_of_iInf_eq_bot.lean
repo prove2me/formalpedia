@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_le_maximalIdeal_pow_of_iInf_eq_bot
 -- name    : GlobalTheory.exists_le_maximalIdeal_pow_of_iInf_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:25.540435+00:00
 -- url     : https://prove2.me/theorems/e3f4b751-4fe0-5afa-b10d-6e04b1757168

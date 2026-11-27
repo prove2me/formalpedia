@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_ClearDenominators_hyps_555bcad96245
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_ClearDenominators_hyps_555bcad96245
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:24:24.379093+00:00
 -- url     : https://prove2.me/theorems/ebc6de29-d86e-5344-9d0a-07f5d139fd8e

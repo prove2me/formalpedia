@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_FormalGroup_eq_inv_of_subst_eq_zero
 -- name    : GroundTheory.LocalField.FormalGroup.eq_inv_of_subst_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:59:26.092462+00:00
 -- url     : https://prove2.me/theorems/e91e13a6-f625-468e-b68e-f7c14829124a

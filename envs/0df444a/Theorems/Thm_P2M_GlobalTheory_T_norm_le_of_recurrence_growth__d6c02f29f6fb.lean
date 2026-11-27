@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_norm_le_of_recurrence_growth__d6c02f29f6fb
 -- name    : P2M_GlobalTheory_T_norm_le_of_recurrence_growth__d6c02f29f6fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:39.376546+00:00
 -- url     : https://prove2.me/theorems/d0383f6f-c86c-563b-af13-b3d7f6ebca9b

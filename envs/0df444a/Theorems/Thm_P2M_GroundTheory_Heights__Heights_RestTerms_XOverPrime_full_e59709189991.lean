@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_XOverPrime_full_e59709189991
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_XOverPrime_full_e59709189991
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:47:21.607057+00:00
 -- url     : https://prove2.me/theorems/70a1156c-2ba4-5d09-99ea-1256999dc91a

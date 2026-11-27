@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_finTheta_holds
 -- name    : PI.VolStabSW.finTheta_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:55.427157+00:00
 -- url     : https://prove2.me/theorems/fe5bbd23-b61e-5714-a647-845e03851e81

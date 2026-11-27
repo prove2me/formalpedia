@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_zero_of_sum_mono
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_zero_of_sum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:48:50.105771+00:00
 -- url     : https://prove2.me/theorems/31970863-2cc8-4f3c-9336-faad57bb0a43

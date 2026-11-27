@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsInvertibleSheaf_tensor
 -- name    : GroundTheory.Arith.SchemeCoh.IsInvertibleSheaf.tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:05.362271+00:00
 -- url     : https://prove2.me/theorems/83c48ab4-a32c-5a7f-8751-e6e9a0d0d667

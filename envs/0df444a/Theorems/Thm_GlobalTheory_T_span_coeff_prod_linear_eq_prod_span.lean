@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_coeff_prod_linear_eq_prod_span
 -- name    : GlobalTheory.T.span_coeff_prod_linear_eq_prod_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:46.831151+00:00
 -- url     : https://prove2.me/theorems/eb97a628-42a7-5f6d-b7c5-4eca2c388566

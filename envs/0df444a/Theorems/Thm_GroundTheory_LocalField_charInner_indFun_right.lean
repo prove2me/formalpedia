@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_charInner_indFun_right
 -- name    : GroundTheory.LocalField.charInner_indFun_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:52.312243+00:00
 -- url     : https://prove2.me/theorems/eccd05a6-85b1-5fbd-ab40-65d6f5a0f2d8

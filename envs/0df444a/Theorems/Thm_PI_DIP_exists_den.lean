@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DIP_exists_den
 -- name    : PI.DIP.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:56:53.827572+00:00
 -- url     : https://prove2.me/theorems/e6017c11-8b46-46ce-9402-e3e2401e5226

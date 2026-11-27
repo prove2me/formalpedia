@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_weight_bundle
 -- name    : GlobalTheory.exists_weight_bundle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:54.134865+00:00
 -- url     : https://prove2.me/theorems/be4dc991-12b1-40e3-ae53-d7444141fc49

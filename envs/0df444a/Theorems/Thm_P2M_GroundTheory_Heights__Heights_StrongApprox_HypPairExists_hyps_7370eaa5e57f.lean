@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_HypPairExists_hyps_7370eaa5e57f
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_HypPairExists_hyps_7370eaa5e57f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:39:56.50344+00:00
 -- url     : https://prove2.me/theorems/8facb95d-6508-466e-8aa5-900508284192

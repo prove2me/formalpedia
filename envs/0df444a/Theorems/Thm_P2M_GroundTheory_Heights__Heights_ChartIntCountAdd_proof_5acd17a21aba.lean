@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_proof_5acd17a21aba
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_proof_5acd17a21aba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:57.086956+00:00
 -- url     : https://prove2.me/theorems/a95cb646-405e-492f-9f75-8bf3e8c887e0

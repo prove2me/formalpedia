@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_addChar_addCharConductor_eq
 -- name    : GroundTheory.LocalField.exists_addChar_addCharConductor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:00:16.621407+00:00
 -- url     : https://prove2.me/theorems/3bf60c05-4206-57f3-84e2-366d94e0be7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_algEquiv_pi_henselianLocalRing__cbd881570b99
 -- name    : P2M_GlobalTheory_exists_algEquiv_pi_henselianLocalRing__cbd881570b99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:15.420822+00:00
 -- url     : https://prove2.me/theorems/cf29fff4-cb3c-4d77-b6d2-54f0567c59b1

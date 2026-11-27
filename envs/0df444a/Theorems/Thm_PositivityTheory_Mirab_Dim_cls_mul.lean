@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Dim_cls_mul
 -- name    : PositivityTheory.Mirab.Dim.cls_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:23:42.313906+00:00
 -- url     : https://prove2.me/theorems/991c43ab-cb6c-45d5-bcfb-86d5e6c42f72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TX_flagDomainConj_hostXi_eq_neg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TX.flagDomainConj_hostXi_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:40.491619+00:00
 -- url     : https://prove2.me/theorems/d4c7f474-0968-5d6e-bf1a-3a9f341a221c

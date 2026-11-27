@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localRing_exists_aeval_of_commute_separable
 -- name    : GlobalTheory.T.localRing_exists_aeval_of_commute_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:18.838649+00:00
 -- url     : https://prove2.me/theorems/ac260380-c9b3-574c-bf2d-d1c926c60f16

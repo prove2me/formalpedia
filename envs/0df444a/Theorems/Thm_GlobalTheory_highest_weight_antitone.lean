@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_highest_weight_antitone
 -- name    : GlobalTheory.highest_weight_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:50.815905+00:00
 -- url     : https://prove2.me/theorems/f5f53932-beff-5893-ae35-67cd2c2ff529

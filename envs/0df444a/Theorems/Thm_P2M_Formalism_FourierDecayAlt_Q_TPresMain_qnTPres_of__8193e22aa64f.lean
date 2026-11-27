@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_TPresMain_qnTPres_of__8193e22aa64f
 -- name    : P2M_Formalism_FourierDecayAlt_Q_TPresMain_qnTPres_of__8193e22aa64f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:17.03949+00:00
 -- url     : https://prove2.me/theorems/743dca63-85d2-5e5a-84bb-e1d9ac842ae2

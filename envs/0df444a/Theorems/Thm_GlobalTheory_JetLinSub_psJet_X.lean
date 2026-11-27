@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_psJet_X
 -- name    : GlobalTheory.JetLinSub.psJet_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:33:06.247528+00:00
 -- url     : https://prove2.me/theorems/4d51abee-747b-4555-bc77-d68050cf789a

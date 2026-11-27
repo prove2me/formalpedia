@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rowData_adaptedChainData
 -- name    : GlobalTheory.T.rowData_adaptedChainData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:21.905959+00:00
 -- url     : https://prove2.me/theorems/26c89b15-f0d3-548f-b5fe-f3c55d338c24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mk_mem_quotGrading
 -- name    : GlobalTheory.mk_mem_quotGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:11.177606+00:00
 -- url     : https://prove2.me/theorems/30b5c7a1-d7f6-494e-859f-6287c168d8d8

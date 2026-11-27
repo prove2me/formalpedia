@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFinite_fromNormalization_SpecMap_fromSpecStalk
 -- name    : GlobalTheory.isFinite_fromNormalization_SpecMap_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:38.852338+00:00
 -- url     : https://prove2.me/theorems/d89e3899-f6a1-485f-8390-42e8cf83f0e3

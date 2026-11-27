@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_kill_coef
 -- name    : PositivityTheory.ThKEnd.Cusp.kill_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:08.479856+00:00
 -- url     : https://prove2.me/theorems/9bbe2c96-2142-439c-8b9e-e544f756a886

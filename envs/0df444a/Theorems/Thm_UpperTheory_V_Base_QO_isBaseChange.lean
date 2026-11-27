@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_QO_isBaseChange
 -- name    : UpperTheory.V.Base.QO.isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:44.55188+00:00
 -- url     : https://prove2.me/theorems/cbecb4b9-5ae0-4973-8527-75ddc8f34136

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_val_resultant
 -- name    : GlobalTheory.UnitLemma.Orbit.val_resultant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:28.220852+00:00
 -- url     : https://prove2.me/theorems/151d036c-dddb-4869-ac24-62a834cf1e00

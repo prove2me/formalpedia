@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_DedekindBound_proof_53e4bf3d69ed
 -- name    : P2M_GroundTheory_Heights__Theta_DedekindBound_proof_53e4bf3d69ed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:52.196265+00:00
 -- url     : https://prove2.me/theorems/97f09bea-aec2-57a4-b0b0-33b49ed0db04

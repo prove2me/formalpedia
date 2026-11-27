@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EF_Rect_rectInt_eq_zero_of_differentiableOn
 -- name    : PI.EF.Rect.rectInt_eq_zero_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:44:55.958553+00:00
 -- url     : https://prove2.me/theorems/d5d4e03e-b169-47b1-a88a-fbc03c9811de

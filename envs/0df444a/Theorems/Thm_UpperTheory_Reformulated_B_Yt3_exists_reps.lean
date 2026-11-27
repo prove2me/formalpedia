@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yt3_exists_reps
 -- name    : UpperTheory.Reformulated.B.Yt3.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:07:49.875829+00:00
 -- url     : https://prove2.me/theorems/c009cdf5-9032-4c87-8cb5-72b371577f2f

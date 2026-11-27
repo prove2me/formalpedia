@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_fg_of_isLat
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.fg_of_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:43.583275+00:00
 -- url     : https://prove2.me/theorems/01cbf21f-c4bb-4827-8133-7ca58c22b039

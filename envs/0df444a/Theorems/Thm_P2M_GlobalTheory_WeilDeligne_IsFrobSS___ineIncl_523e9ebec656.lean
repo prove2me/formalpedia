@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WeilDeligne_IsFrobSS___ineIncl_523e9ebec656
 -- name    : P2M_GlobalTheory_WeilDeligne_IsFrobSS___ineIncl_523e9ebec656
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:17:43.87857+00:00
 -- url     : https://prove2.me/theorems/b94685a9-238a-5cb9-b8aa-0fda8494c5dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_tensorLift_unique
 -- name    : GroundTheory.Arith.SchemeCoh.tensorLift_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:10.110567+00:00
 -- url     : https://prove2.me/theorems/4299a59a-9b40-49de-834c-4567a0f4a03d

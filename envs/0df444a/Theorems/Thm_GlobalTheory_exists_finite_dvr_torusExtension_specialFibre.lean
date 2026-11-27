@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_dvr_torusExtension_specialFibre
 -- name    : GlobalTheory.exists_finite_dvr_torusExtension_specialFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:53:54.331615+00:00
 -- url     : https://prove2.me/theorems/da828ba7-5f90-455f-9fb9-d698c28e3f59

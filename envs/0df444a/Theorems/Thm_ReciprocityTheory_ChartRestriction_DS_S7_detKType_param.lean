@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_detKType_param
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.detKType_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:59.840542+00:00
 -- url     : https://prove2.me/theorems/73a862ec-83aa-4070-91be-0e67e25d9379

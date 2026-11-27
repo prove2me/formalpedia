@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReusableAssort_Hybrid_Supplement_theorem_EC_1
 -- name    : ReusableAssort.Hybrid.Supplement.theorem_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:20:34.714741+00:00
 -- url     : https://prove2.me/theorems/4720e247-4b95-448a-949f-3459a8d2bba3

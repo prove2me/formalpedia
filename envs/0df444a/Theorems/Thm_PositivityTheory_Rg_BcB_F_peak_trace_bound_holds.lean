@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_peak_trace_bound_holds
 -- name    : PositivityTheory.Rg.BcB.F.peak_trace_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:01.897111+00:00
 -- url     : https://prove2.me/theorems/aac63e4d-a1d9-5db8-ad4f-c210b7b986e4

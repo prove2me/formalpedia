@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_pullB_id
 -- name    : GlobalTheory.UU.RelModel.pullB_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:07:18.411372+00:00
 -- url     : https://prove2.me/theorems/f49688d2-222e-47be-a585-2e1d240b118d

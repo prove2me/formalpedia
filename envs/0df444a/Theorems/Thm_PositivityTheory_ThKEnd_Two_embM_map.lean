@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_embM_map
 -- name    : PositivityTheory.ThKEnd.Two.embM_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:27.110066+00:00
 -- url     : https://prove2.me/theorems/ccd570ba-f936-4584-a9f0-380a033c015e

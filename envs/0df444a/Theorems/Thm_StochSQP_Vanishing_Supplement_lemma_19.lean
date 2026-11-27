@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSQP_Vanishing_Supplement_lemma_19
 -- name    : StochSQP.Vanishing.Supplement.lemma_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:20:14.37931+00:00
 -- url     : https://prove2.me/theorems/e8e66ae6-44fc-4fff-a578-43ae8d49b968

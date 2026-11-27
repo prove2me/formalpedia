@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrthoSelfDual_span_selfDual
 -- name    : GlobalTheory.UnitLemma.OrthoSelfDual.span_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:19.787928+00:00
 -- url     : https://prove2.me/theorems/b3c56721-93f8-5e56-ba59-fcaa47a6d8ad

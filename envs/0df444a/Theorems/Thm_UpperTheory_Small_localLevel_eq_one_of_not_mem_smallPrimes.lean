@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_localLevel_eq_one_of_not_mem_smallPrimes
 -- name    : UpperTheory.Small.localLevel_eq_one_of_not_mem_smallPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:13.045602+00:00
 -- url     : https://prove2.me/theorems/38c5e0f6-5495-5ca8-9d6b-0165246e8162

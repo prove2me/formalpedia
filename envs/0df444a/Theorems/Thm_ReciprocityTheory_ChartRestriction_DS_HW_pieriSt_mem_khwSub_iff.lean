@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pieriSt_mem_khwSub_iff
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pieriSt_mem_khwSub_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:30.177452+00:00
 -- url     : https://prove2.me/theorems/be5ada07-fd0b-5995-848a-dfbed5f94dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_isIso_cut
 -- name    : GlobalTheory.UnitLemma.Orbit.isIso_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:26.6976+00:00
 -- url     : https://prove2.me/theorems/99cf5b40-6e93-5a04-b3e6-40d73faa8662

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_smooth_sum
 -- name    : ReciprocityTheory.AnForm.M.PLAux.smooth_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:36.146887+00:00
 -- url     : https://prove2.me/theorems/8e28fa30-9dd9-4007-8eb9-cc1da88dd17c

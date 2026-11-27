@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdA_continuousOn_second_fderiv_phiM
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdA.continuousOn_second_fderiv_phiM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:30.770401+00:00
 -- url     : https://prove2.me/theorems/00a480e1-2ca3-41aa-aaff-641797539f60

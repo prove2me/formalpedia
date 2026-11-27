@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_residueFieldBDeRhamPlusEquiv_residue
 -- name    : GroundTheory.PAdicHodge.residueFieldBDeRhamPlusEquiv_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:37.16305+00:00
 -- url     : https://prove2.me/theorems/a94f47e9-89dd-4fd1-9452-46dc22afdf09

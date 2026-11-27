@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolFromSW_volumesFromSW_of
 -- name    : PI.VolFromSW.volumesFromSW_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:29.310456+00:00
 -- url     : https://prove2.me/theorems/a4f28c09-37a1-5421-9489-189d6595b214

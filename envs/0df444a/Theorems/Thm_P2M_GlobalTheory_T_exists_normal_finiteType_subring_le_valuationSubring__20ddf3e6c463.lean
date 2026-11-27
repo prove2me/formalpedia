@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_normal_finiteType_subring_le_valuationSubring__20ddf3e6c463
 -- name    : P2M_GlobalTheory_T_exists_normal_finiteType_subring_le_valuationSubring__20ddf3e6c463
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:30:58.234441+00:00
 -- url     : https://prove2.me/theorems/49c9885d-99c0-5064-a407-511167e2d0d4

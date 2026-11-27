@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvenCycleListing723_Main_lemma_3_3
 -- name    : EvenCycleListing723.Main.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:21:07.760769+00:00
 -- url     : https://prove2.me/theorems/307d006a-eef8-47a0-9aa5-73c6f7dfd429

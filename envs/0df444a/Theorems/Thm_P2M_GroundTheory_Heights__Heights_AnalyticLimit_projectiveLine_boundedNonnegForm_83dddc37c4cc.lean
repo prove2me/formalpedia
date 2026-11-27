@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_projectiveLine_boundedNonnegForm_83dddc37c4cc
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_projectiveLine_boundedNonnegForm_83dddc37c4cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:18.495329+00:00
 -- url     : https://prove2.me/theorems/28f0d5b2-2776-5223-958f-1ec791c4cbd9

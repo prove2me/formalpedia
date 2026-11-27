@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HackingInterval_ATE_Supplement_theorem_3
 -- name    : HackingInterval.ATE.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:56:47.498771+00:00
 -- url     : https://prove2.me/theorems/ee39e23c-2ed8-42cc-98ff-a41de4ae2478

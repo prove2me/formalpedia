@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntSumOffHyperplane_proof_9acf92074bf0
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntSumOffHyperplane_proof_9acf92074bf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:18.027434+00:00
 -- url     : https://prove2.me/theorems/fe4809f7-d10c-4b04-8854-8acb2a91bfe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_relVol_map_conj
 -- name    : GroundTheory.Automorphic.Parabolic.relVol_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:19.887245+00:00
 -- url     : https://prove2.me/theorems/cfbbbeb7-5cb2-557c-98d5-1dc8bec2c826

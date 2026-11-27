@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tendsto_sub_of_one_sided_increment_bound_derivative
 -- name    : GlobalTheory.T.tendsto_sub_of_one_sided_increment_bound_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:39.086803+00:00
 -- url     : https://prove2.me/theorems/6c5ae76a-7847-56e2-9e6b-a4387f0205d0

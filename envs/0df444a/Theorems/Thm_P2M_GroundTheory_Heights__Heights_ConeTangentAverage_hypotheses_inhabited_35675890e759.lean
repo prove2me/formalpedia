@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeTangentAverage_hypotheses_inhabited_35675890e759
 -- name    : P2M_GroundTheory_Heights__Heights_ConeTangentAverage_hypotheses_inhabited_35675890e759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:17:29.655487+00:00
 -- url     : https://prove2.me/theorems/e157f752-2650-4262-9630-73a40f379b92

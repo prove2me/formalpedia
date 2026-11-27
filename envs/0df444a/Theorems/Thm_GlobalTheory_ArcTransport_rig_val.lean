@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_rig_val
 -- name    : GlobalTheory.ArcTransport.rig_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:23:57.251647+00:00
 -- url     : https://prove2.me/theorems/c4751f4c-291f-4d4a-8943-0968e10632bd

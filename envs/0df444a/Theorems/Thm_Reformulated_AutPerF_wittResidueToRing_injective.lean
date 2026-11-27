@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_wittResidueToRing_injective
 -- name    : Reformulated.AutPerF.wittResidueToRing_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:33:17.171963+00:00
 -- url     : https://prove2.me/theorems/e2925375-5a66-4124-8d2f-04e2550062d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeRadialIntegral_hypotheses_inhabited_907333c931e9
 -- name    : P2M_GroundTheory_Heights__Heights_ConeRadialIntegral_hypotheses_inhabited_907333c931e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:28:24.176452+00:00
 -- url     : https://prove2.me/theorems/ef8b90bf-49f2-4174-9bba-1f3f7264c4b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_phKoecher
 -- name    : GlobalTheory.phKoecher
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:14.126646+00:00
 -- url     : https://prove2.me/theorems/1aa8b942-5714-4fdf-b701-218b81c818c6

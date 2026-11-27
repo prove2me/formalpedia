@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ChiExCM_main
 -- name    : PI.UnitaryGroupMassFormula.ChiExCM.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:55.830443+00:00
 -- url     : https://prove2.me/theorems/8a07e88e-f338-5496-97ac-5470acf60cd9

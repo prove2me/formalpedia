@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_eq_of_map_eq_3855758b774b
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_eq_of_map_eq_3855758b774b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:28.498906+00:00
 -- url     : https://prove2.me/theorems/0181e878-f3b2-5767-a40b-391b842bd99e

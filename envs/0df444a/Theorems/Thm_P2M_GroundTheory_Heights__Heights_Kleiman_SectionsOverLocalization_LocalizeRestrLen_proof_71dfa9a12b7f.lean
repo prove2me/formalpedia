@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeRestrLen_proof_71dfa9a12b7f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_LocalizeRestrLen_proof_71dfa9a12b7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:01.399899+00:00
 -- url     : https://prove2.me/theorems/ecff8ee6-76c4-48de-ae0f-f939ab0cd8c2

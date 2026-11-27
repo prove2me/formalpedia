@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HammingSumset729_Approximation_lemma_A_4
 -- name    : HammingSumset729.Approximation.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:41:53.459477+00:00
 -- url     : https://prove2.me/theorems/6f5ea736-f6aa-41d7-83d5-38ca75b27418

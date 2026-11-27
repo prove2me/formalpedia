@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_quad_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.quad_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:36:04.067449+00:00
 -- url     : https://prove2.me/theorems/f4f92da0-f277-4a2d-9ea7-4e73596a6fec

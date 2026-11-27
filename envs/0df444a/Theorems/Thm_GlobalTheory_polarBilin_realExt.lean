@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polarBilin_realExt
 -- name    : GlobalTheory.polarBilin_realExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:49:52.753058+00:00
 -- url     : https://prove2.me/theorems/bd200e7d-3e55-4af6-85ba-14f5bbd1c9be

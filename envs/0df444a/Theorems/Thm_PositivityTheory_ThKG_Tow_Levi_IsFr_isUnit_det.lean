@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Tow_Levi_IsFr_isUnit_det
 -- name    : PositivityTheory.ThKG.Tow.Levi.IsFr.isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:30.855121+00:00
 -- url     : https://prove2.me/theorems/cddd7650-739e-4b78-bcb7-5f12d1a3635c

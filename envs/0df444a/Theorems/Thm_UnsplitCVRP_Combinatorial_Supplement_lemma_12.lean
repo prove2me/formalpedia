@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_Supplement_lemma_12
 -- name    : UnsplitCVRP.Combinatorial.Supplement.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:41:04.605374+00:00
 -- url     : https://prove2.me/theorems/568616d8-136a-45f4-80a2-35f9c3a30da5

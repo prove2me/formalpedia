@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeBranchDimOne_proof_890c33f94c33
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeBranchDimOne_proof_890c33f94c33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:54.018237+00:00
 -- url     : https://prove2.me/theorems/8c666299-1b42-466b-8fee-fe229af8b9aa

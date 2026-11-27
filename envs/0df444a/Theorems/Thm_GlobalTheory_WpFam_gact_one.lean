@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_gact_one
 -- name    : GlobalTheory.WpFam.gact_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:53.62209+00:00
 -- url     : https://prove2.me/theorems/14ddc8f9-d3ba-5581-ba07-76c5838ec7e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_EtaleStein_prodFin_proj
 -- name    : ReciprocityTheory.L2DbarEstimates.EtaleStein.prodFin_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:19.501364+00:00
 -- url     : https://prove2.me/theorems/e69259dc-98fb-57cb-b017-12ad0132cbe8

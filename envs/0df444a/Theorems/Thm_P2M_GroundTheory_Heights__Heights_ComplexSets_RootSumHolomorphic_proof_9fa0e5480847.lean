@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_RootSumHolomorphic_proof_9fa0e5480847
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_RootSumHolomorphic_proof_9fa0e5480847
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:29.756697+00:00
 -- url     : https://prove2.me/theorems/ba303ea6-b3ee-4309-a238-8a02ec7deeee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_mem_sIdeles_iff
 -- name    : GroundTheory.Global.IdeleGroup.mem_sIdeles_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:59.279894+00:00
 -- url     : https://prove2.me/theorems/2566ffad-e0d9-5bbd-a828-79113c25551f

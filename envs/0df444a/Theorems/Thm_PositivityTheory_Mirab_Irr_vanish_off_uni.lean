@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_vanish_off_uni
 -- name    : PositivityTheory.Mirab.Irr.vanish_off_uni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:18:41.55155+00:00
 -- url     : https://prove2.me/theorems/709f0724-9ce6-48ac-a86f-92234d168afd

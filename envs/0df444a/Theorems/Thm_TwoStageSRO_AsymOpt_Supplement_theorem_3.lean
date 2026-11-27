@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_Supplement_theorem_3
 -- name    : TwoStageSRO.AsymOpt.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:38:03.957002+00:00
 -- url     : https://prove2.me/theorems/411c73dd-137c-4b45-a490-298517ccb4d8

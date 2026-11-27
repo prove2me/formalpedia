@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_UBC_toBase_eq_symm
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.UBC.toBase_eq_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:23.561804+00:00
 -- url     : https://prove2.me/theorems/b84c8279-e93a-5999-8966-9bdb4528ef3d

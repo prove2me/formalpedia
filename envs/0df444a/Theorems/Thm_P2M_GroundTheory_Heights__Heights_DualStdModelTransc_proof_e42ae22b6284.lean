@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualStdModelTransc_proof_e42ae22b6284
 -- name    : P2M_GroundTheory_Heights__Heights_DualStdModelTransc_proof_e42ae22b6284
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:29.761129+00:00
 -- url     : https://prove2.me/theorems/b99db3cd-3463-571e-9166-5a937b92b1a1

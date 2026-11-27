@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory__SpecIso_inv_germ_residue_residueFieldMap_f91a5e7af468
 -- name    : P2M_GlobalTheory__SpecIso_inv_germ_residue_residueFieldMap_f91a5e7af468
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:39.348441+00:00
 -- url     : https://prove2.me/theorems/735acf11-125f-48c8-b5f9-7498527ef717

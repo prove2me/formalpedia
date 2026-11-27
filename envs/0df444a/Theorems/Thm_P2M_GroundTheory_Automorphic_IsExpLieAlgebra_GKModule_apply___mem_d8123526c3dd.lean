@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_IsExpLieAlgebra_GKModule_apply___mem_d8123526c3dd
 -- name    : P2M_GroundTheory_Automorphic_IsExpLieAlgebra_GKModule_apply___mem_d8123526c3dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:37.721099+00:00
 -- url     : https://prove2.me/theorems/219f033b-0efd-5f13-a103-55df40558bfc

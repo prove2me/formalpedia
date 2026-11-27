@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Hi_IsCNL_ofCO
 -- name    : UpperTheory.V.Hi.IsCNL.ofCO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:09.422803+00:00
 -- url     : https://prove2.me/theorems/4e3fba23-b496-47a6-a2ee-4a7e86040da0

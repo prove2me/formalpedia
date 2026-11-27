@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogBarrierIPM_Iterations_Supplement_proposition_3
 -- name    : LogBarrierIPM.Iterations.Supplement.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:12:14.616681+00:00
 -- url     : https://prove2.me/theorems/6eead70e-3edd-415d-b62a-698812a9902d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_GPs_contDiff_lead__dbbfbdd68a78
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_GPs_contDiff_lead__dbbfbdd68a78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:19.568134+00:00
 -- url     : https://prove2.me/theorems/6dcd86bc-e511-503a-8c8b-914eecd12f91

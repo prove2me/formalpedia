@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamPieceInt_proof_92d128599d04
 -- name    : P2M_GroundTheory_Heights__Heights_ParamPieceInt_proof_92d128599d04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:32.994224+00:00
 -- url     : https://prove2.me/theorems/9f938fd9-9800-5005-a83d-3c631c49eb16

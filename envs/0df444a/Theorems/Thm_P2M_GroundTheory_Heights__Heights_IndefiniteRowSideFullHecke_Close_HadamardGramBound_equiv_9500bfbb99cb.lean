@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_HadamardGramBound_equiv_9500bfbb99cb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_HadamardGramBound_equiv_9500bfbb99cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:15:37.031277+00:00
 -- url     : https://prove2.me/theorems/7f7e5444-c692-5720-8d81-abbe937bd854

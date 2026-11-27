@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_lbSecPull_of_coheight_le_one
 -- name    : GlobalTheory.bijective_lbSecPull_of_coheight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:42.89497+00:00
 -- url     : https://prove2.me/theorems/d60e235e-3b80-5e4e-b4c8-c1c420a88299

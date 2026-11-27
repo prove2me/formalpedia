@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpherePhase_proof_fccb6cb4ea20
 -- name    : P2M_GroundTheory_Heights__Heights_SpherePhase_proof_fccb6cb4ea20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:38:07.882121+00:00
 -- url     : https://prove2.me/theorems/36cb9b6c-d295-5926-990a-9142baf04654

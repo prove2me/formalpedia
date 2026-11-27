@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_FlagRootProduct_proof_99251293580e
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_FlagRootProduct_proof_99251293580e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:26:42.865191+00:00
 -- url     : https://prove2.me/theorems/78f9156d-f6fa-545d-8fd0-7a6af1274996

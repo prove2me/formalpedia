@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnfoldEquiv_UnitaryGroupMassFormula_inX_apply
 -- name    : PI.UnfoldEquiv.UnitaryGroupMassFormula.inX_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:48:03.44643+00:00
 -- url     : https://prove2.me/theorems/fe852a8b-dbc2-4eb7-ae53-bb23e5796cc1

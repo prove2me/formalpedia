@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_Supplement_theorem_21
 -- name    : ThinFlowSP.Breakpoints.Supplement.theorem_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:46:56.042794+00:00
 -- url     : https://prove2.me/theorems/8c83fa62-d6f0-4da4-b65d-b151e044109d

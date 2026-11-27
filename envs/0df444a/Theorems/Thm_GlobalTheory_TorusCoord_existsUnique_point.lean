@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_existsUnique_point
 -- name    : GlobalTheory.TorusCoord.existsUnique_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:45.550725+00:00
 -- url     : https://prove2.me/theorems/b5d94e34-bc53-5989-9e91-b5ab0cca1fc4

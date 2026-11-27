@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexJacobian_proof_878d7125df17
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexJacobian_proof_878d7125df17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:16.116321+00:00
 -- url     : https://prove2.me/theorems/ad01a67d-b85b-5d26-b7c6-db9faada5669

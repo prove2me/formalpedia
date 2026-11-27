@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeEuclMass_proof_70c60c19c863
 -- name    : P2M_GroundTheory_Heights__Heights_TubeEuclMass_proof_70c60c19c863
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:27.354971+00:00
 -- url     : https://prove2.me/theorems/beeae9ad-ed1d-5013-b387-75eceb64547a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_fixingSubgroup_zhatField
 -- name    : GroundTheory.Global.Cyclotomic.fixingSubgroup_zhatField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:19.985866+00:00
 -- url     : https://prove2.me/theorems/1005fc76-092d-53b6-8998-89d92a2f58ff

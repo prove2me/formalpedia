@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_fieldEquivOfRestrictScalarsEq_embedding
 -- name    : GroundTheory.ProfCoh.fieldEquivOfRestrictScalarsEq_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:18.614964+00:00
 -- url     : https://prove2.me/theorems/67671e25-ee78-46dd-9836-1336cd8e6dad

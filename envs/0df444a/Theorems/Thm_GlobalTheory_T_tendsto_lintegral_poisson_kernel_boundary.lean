@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tendsto_lintegral_poisson_kernel_boundary
 -- name    : GlobalTheory.T.tendsto_lintegral_poisson_kernel_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:49.301044+00:00
 -- url     : https://prove2.me/theorems/7408de43-b99a-4485-b38f-21dc3410163e

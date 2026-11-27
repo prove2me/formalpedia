@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_isAbelianScheme_descends
 -- name    : GlobalTheory.exists_finite_isAbelianScheme_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:56:57.409443+00:00
 -- url     : https://prove2.me/theorems/c1cba0c0-cd56-5871-a1a4-c95a5fa927c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHomologyDirectSumEquiv_lof
 -- name    : GlobalTheory.cechHomologyDirectSumEquiv_lof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:46.597019+00:00
 -- url     : https://prove2.me/theorems/ae2c640b-a34d-477b-9069-c9127659d4b9

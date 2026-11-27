@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_step
 -- name    : GlobalTheory.UnipStab.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:50:19.233787+00:00
 -- url     : https://prove2.me/theorems/31fe05c1-c7dc-51d3-95e0-467629c1393a

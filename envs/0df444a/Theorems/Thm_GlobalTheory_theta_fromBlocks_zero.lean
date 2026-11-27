@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_fromBlocks_zero
 -- name    : GlobalTheory.theta_fromBlocks_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:50.18836+00:00
 -- url     : https://prove2.me/theorems/c93b34aa-f4e3-412a-b284-3081701fba4c

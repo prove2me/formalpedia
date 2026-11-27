@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isClosed_coordDivisor
 -- name    : GlobalTheory.isClosed_coordDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:20.895718+00:00
 -- url     : https://prove2.me/theorems/04a3d826-7f8b-4682-9339-6c292cf1f616

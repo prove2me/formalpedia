@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_transferenceCover_of
 -- name    : PI.Tr.transferenceCover_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:34.661609+00:00
 -- url     : https://prove2.me/theorems/ab903239-efaf-5636-b9a0-7e7cf33a8b8f

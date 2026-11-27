@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_ResEtaPow_triv_of_even
 -- name    : GlobalTheory.WeilM.ResEtaPow.triv_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:42.089223+00:00
 -- url     : https://prove2.me/theorems/3699d016-7d82-5a15-a1e7-95d5247029c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalGroupAction_linearPart_ringHom
 -- name    : GlobalTheory.T.formalGroupAction_linearPart_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:23:41.464718+00:00
 -- url     : https://prove2.me/theorems/460ca3fa-91fe-4402-8071-3e0caa73def2

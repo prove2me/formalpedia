@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedVehicleApprox_Pricing_Supplement_lemma_30
 -- name    : SharedVehicleApprox.Pricing.Supplement.lemma_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:39:11.668132+00:00
 -- url     : https://prove2.me/theorems/e89db9c8-88a5-4cdd-b8af-eec0da6f8162

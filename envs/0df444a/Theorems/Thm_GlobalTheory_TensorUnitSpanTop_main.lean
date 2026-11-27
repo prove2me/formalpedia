@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorUnitSpanTop_main
 -- name    : GlobalTheory.TensorUnitSpanTop.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:45.14683+00:00
 -- url     : https://prove2.me/theorems/681baf5d-de31-5626-8766-eb33c5ef9d57

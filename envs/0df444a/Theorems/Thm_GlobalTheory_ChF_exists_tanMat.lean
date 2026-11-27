@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_exists_tanMat
 -- name    : GlobalTheory.ChF.exists_tanMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:18:54.050513+00:00
 -- url     : https://prove2.me/theorems/927f91c6-e016-5b2d-8525-2108582b7993

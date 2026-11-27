@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_Act_zero_vmul
 -- name    : GlobalTheory.WpFam.Act.zero_vmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:09.867827+00:00
 -- url     : https://prove2.me/theorems/720010c4-a6a9-4608-afd4-4012ec1dd3c7

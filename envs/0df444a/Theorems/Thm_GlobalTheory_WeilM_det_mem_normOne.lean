@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_det_mem_normOne
 -- name    : GlobalTheory.WeilM.det_mem_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:27.578326+00:00
 -- url     : https://prove2.me/theorems/e8a916b8-41fe-4a49-acf3-988bac437fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgRight_prW_mulVec
 -- name    : GlobalTheory.WigSh.OmgRight.prW_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:46.683815+00:00
 -- url     : https://prove2.me/theorems/93272038-8610-4eb2-9bf9-ed2f794c24bc

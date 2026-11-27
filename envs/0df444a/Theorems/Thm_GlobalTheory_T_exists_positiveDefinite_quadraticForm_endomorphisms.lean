@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_positiveDefinite_quadraticForm_endomorphisms
 -- name    : GlobalTheory.T.exists_positiveDefinite_quadraticForm_endomorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:35:03.841971+00:00
 -- url     : https://prove2.me/theorems/6bf4814f-5748-5bc4-a21b-6ebbfeb5d6d7

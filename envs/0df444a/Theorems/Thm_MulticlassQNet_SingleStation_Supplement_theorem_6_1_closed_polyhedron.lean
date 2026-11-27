@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_Supplement_theorem_6_1_closed_polyhedron
 -- name    : MulticlassQNet.SingleStation.Supplement.theorem_6_1_closed_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:31:51.908691+00:00
 -- url     : https://prove2.me/theorems/3409a1b1-d220-423b-9252-9a6afd3caf2a

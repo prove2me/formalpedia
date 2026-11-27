@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_QuotSectionsFinite_proof_34f97c5bf3c0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_QuotSectionsFinite_proof_34f97c5bf3c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:27:42.634287+00:00
 -- url     : https://prove2.me/theorems/7b00bbda-b50f-5a8a-8f1c-1b04b1e61959

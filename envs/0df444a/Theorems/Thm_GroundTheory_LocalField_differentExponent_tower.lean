@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentExponent_tower
 -- name    : GroundTheory.LocalField.differentExponent_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:47.157059+00:00
 -- url     : https://prove2.me/theorems/3f522ff4-174b-5518-a3a6-74788e4917b1

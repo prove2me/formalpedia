@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_RhoBound_proof_24153bca1088
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_RhoBound_proof_24153bca1088
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:49.273655+00:00
 -- url     : https://prove2.me/theorems/20e7c6af-521c-5093-ad44-115247c8904f

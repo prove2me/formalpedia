@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_map_eq_of_graded_surjective_of_hasBasis
 -- name    : GroundTheory.LocalField.map_eq_of_graded_surjective_of_hasBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:59:58.974473+00:00
 -- url     : https://prove2.me/theorems/adf458b7-0d4e-5fca-894f-ad87f84a6cd3

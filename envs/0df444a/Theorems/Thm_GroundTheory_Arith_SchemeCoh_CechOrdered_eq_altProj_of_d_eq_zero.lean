@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_eq_altProj_of_d_eq_zero
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.eq_altProj_of_d_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:52:23.186633+00:00
 -- url     : https://prove2.me/theorems/020c1236-39e9-501c-82d5-db4d73e67e46

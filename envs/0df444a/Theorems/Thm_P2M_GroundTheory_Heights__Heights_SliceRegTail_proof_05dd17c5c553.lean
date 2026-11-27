@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceRegTail_proof_05dd17c5c553
 -- name    : P2M_GroundTheory_Heights__Heights_SliceRegTail_proof_05dd17c5c553
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:41.834719+00:00
 -- url     : https://prove2.me/theorems/c668f409-1e67-544f-a2b9-e5e979deb116

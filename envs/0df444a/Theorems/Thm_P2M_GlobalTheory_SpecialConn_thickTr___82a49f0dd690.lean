@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SpecialConn_thickTr___82a49f0dd690
 -- name    : P2M_GlobalTheory_SpecialConn_thickTr___82a49f0dd690
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:38.216476+00:00
 -- url     : https://prove2.me/theorems/672266c5-b97b-5f2e-94cd-99faa123eb6f

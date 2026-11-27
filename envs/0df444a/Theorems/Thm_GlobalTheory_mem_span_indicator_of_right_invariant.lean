@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_span_indicator_of_right_invariant
 -- name    : GlobalTheory.mem_span_indicator_of_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:15.349588+00:00
 -- url     : https://prove2.me/theorems/a251f259-4f94-483d-ad5c-a30b87edd5d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_infinitePlaceCompletion
 -- name    : GroundTheory.Global.index_range_powMonoidHom_infinitePlaceCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:40.696313+00:00
 -- url     : https://prove2.me/theorems/065eef3b-f089-42a7-80cb-ecf093cad55f

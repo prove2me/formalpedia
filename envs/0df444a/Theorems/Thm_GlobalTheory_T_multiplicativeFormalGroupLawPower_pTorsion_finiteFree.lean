@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiplicativeFormalGroupLawPower_pTorsion_finiteFree
 -- name    : GlobalTheory.T.multiplicativeFormalGroupLawPower_pTorsion_finiteFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:13:56.653302+00:00
 -- url     : https://prove2.me/theorems/915fdf5c-edf6-46d7-b9bc-f19ebb969c0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_eq_sum_single
 -- name    : GroundTheory.Brauer.CrossedProduct.eq_sum_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:27.082928+00:00
 -- url     : https://prove2.me/theorems/fb25ac43-4559-4b4a-a751-1e3deeb296dc

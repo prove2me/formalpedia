@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_exists_lag
 -- name    : PositivityTheory.ThKF0.Geo.exists_lag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:48.046488+00:00
 -- url     : https://prove2.me/theorems/1b8472b7-4fec-409b-bedc-66f9790f899a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_exists_dec_equiv
 -- name    : ReciprocityTheory.ChartRestriction.T2.exists_dec_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:14.660805+00:00
 -- url     : https://prove2.me/theorems/477d4a7c-9d2e-4d6f-9c5a-6a1ca3174b46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_B3_IotaPl_norm_p_lt_one
 -- name    : ReciprocityTheory.ChartRestriction.B3.IotaPl.norm_p_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:02:56.936264+00:00
 -- url     : https://prove2.me/theorems/34fbe26d-c85d-4635-8bf4-0d1cab1f4f05

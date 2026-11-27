@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_monicOfCoeffs_sub_monicOfCoeffs
 -- name    : GroundTheory.LocalField.monicOfCoeffs_sub_monicOfCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:57.781053+00:00
 -- url     : https://prove2.me/theorems/902705a2-9a9d-52ed-8e61-c12a458ae9e9

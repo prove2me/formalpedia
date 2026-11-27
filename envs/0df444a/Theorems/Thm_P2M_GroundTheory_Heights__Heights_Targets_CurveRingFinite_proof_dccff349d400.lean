@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveRingFinite_proof_dccff349d400
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveRingFinite_proof_dccff349d400
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:41:26.636262+00:00
 -- url     : https://prove2.me/theorems/bd611303-07c9-534a-a4c1-58771b67f804

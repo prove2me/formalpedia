@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedVectors_eq_invariants
 -- name    : GroundTheory.Automorphic.fixedVectors_eq_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:58.175507+00:00
 -- url     : https://prove2.me/theorems/6188477e-e472-4310-97ad-7876ee11f519

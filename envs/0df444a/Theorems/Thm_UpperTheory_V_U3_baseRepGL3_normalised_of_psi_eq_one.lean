@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_U3_baseRepGL3_normalised_of_psi_eq_one
 -- name    : UpperTheory.V.U3.baseRepGL3_normalised_of_psi_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:17.996988+00:00
 -- url     : https://prove2.me/theorems/d0268a6e-9831-56bc-8a0a-f567ce7d56d6

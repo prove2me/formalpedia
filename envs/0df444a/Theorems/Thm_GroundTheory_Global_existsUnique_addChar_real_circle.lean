@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_addChar_real_circle
 -- name    : GroundTheory.Global.existsUnique_addChar_real_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:40.598543+00:00
 -- url     : https://prove2.me/theorems/31970cc4-214b-40a0-b766-4a0ca77c6f62

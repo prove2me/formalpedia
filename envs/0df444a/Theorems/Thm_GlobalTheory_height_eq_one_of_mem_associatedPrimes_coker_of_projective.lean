@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_eq_one_of_mem_associatedPrimes_coker_of_projective
 -- name    : GlobalTheory.height_eq_one_of_mem_associatedPrimes_coker_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:13.706248+00:00
 -- url     : https://prove2.me/theorems/5f8c9597-ae63-4cf0-afeb-399456ecde3d

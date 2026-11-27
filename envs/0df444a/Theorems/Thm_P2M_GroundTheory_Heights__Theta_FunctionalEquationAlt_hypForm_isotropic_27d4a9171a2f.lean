@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_hypForm_isotropic_27d4a9171a2f
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_hypForm_isotropic_27d4a9171a2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:47.878811+00:00
 -- url     : https://prove2.me/theorems/068c206b-b9dd-5f4f-9706-3464bd2dac6d

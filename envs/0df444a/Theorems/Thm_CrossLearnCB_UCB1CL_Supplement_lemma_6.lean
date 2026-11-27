@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_Supplement_lemma_6
 -- name    : CrossLearnCB.UCB1CL.Supplement.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:55:56.536274+00:00
 -- url     : https://prove2.me/theorems/63c22ed1-5857-4fba-a72d-213d9915d47e

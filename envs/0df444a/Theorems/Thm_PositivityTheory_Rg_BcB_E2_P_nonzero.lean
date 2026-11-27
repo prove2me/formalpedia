@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_nonzero
 -- name    : PositivityTheory.Rg.BcB.E2.P.nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:44.591971+00:00
 -- url     : https://prove2.me/theorems/1a4b92f7-12d3-4013-8a07-4f723cbf8d35

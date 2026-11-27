@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_ge_of_mem
 -- name    : PI.ScRefExists.TH.ge_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:42.09303+00:00
 -- url     : https://prove2.me/theorems/0778188f-dc3a-5ec9-9f7c-163fe27b66eb

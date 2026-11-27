@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_degree_eq_zero_iff
 -- name    : GroundTheory.Global.Elliptic.degree_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:48.488928+00:00
 -- url     : https://prove2.me/theorems/e5efda95-927d-4f7c-81f5-9bc2eaa89462

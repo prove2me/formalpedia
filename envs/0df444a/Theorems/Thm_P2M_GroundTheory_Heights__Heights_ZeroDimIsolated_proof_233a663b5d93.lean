@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroDimIsolated_proof_233a663b5d93
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroDimIsolated_proof_233a663b5d93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:06.635429+00:00
 -- url     : https://prove2.me/theorems/f8def19f-5fa1-4191-acc9-bcab58f047cc

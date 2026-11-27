@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ConeComplexBaseChange_proof_a2bcc0e883e5
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ConeComplexBaseChange_proof_a2bcc0e883e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:40:31.392102+00:00
 -- url     : https://prove2.me/theorems/372d6d92-6529-5975-a0ff-1aa61dabdf3e

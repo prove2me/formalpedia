@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_fieldEvalRed_algebraMap
 -- name    : GroundTheory.Global.fieldEvalRed_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:56:01.874048+00:00
 -- url     : https://prove2.me/theorems/2e14eae3-f9b1-5e7a-a356-5172dccd5f6e

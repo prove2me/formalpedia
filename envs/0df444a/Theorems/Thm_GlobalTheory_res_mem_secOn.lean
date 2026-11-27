@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_res_mem_secOn
 -- name    : GlobalTheory.res_mem_secOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:51:14.244563+00:00
 -- url     : https://prove2.me/theorems/339fcd3c-8761-4d66-a6cf-ab5c93e1fd98

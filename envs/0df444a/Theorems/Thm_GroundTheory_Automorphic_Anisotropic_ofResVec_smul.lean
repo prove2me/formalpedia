@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_ofResVec_smul
 -- name    : GroundTheory.Automorphic.Anisotropic.ofResVec_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:28.365188+00:00
 -- url     : https://prove2.me/theorems/42faec10-68ff-5290-bb0e-ed2670a4d1e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterpOptStop_SAA_Supplement_lemma_EC_7
 -- name    : InterpOptStop.SAA.Supplement.lemma_EC_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:51:08.935815+00:00
 -- url     : https://prove2.me/theorems/8836b1d5-7596-4625-bbb7-43e53b27f56f

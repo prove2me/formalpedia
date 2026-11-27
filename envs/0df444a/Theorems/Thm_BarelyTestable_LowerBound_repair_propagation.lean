@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_repair_propagation
 -- name    : BarelyTestable.LowerBound.repair_propagation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:23:22.644179+00:00
 -- url     : https://prove2.me/theorems/aa429ae6-9311-4314-a214-bd6c0df8b90b

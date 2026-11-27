@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_word_length_bound_of_linear
 -- name    : GlobalTheory.T.word_length_bound_of_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:33.917221+00:00
 -- url     : https://prove2.me/theorems/2459d26b-5782-5ba6-8db9-08ab731ce39f

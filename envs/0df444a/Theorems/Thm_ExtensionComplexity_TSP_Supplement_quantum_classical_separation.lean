@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtensionComplexity_TSP_Supplement_quantum_classical_separation
 -- name    : ExtensionComplexity.TSP.Supplement.quantum_classical_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:39:26.721288+00:00
 -- url     : https://prove2.me/theorems/6d248588-2ac4-43ca-8d1d-56e6824d2dbe

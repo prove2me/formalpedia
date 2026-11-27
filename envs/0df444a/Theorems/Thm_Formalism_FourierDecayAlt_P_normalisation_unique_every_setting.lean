@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_normalisation_unique_every_setting
 -- name    : Formalism.FourierDecayAlt.P.normalisation_unique_every_setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:31.031292+00:00
 -- url     : https://prove2.me/theorems/c2696dd0-c90a-4796-bac5-8ec358a0bfde

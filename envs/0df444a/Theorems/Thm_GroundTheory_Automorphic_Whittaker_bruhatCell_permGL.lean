@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_bruhatCell_permGL
 -- name    : GroundTheory.Automorphic.Whittaker.bruhatCell_permGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:07.683432+00:00
 -- url     : https://prove2.me/theorems/d8e19ff7-0388-5553-ab90-baed1da01ef9

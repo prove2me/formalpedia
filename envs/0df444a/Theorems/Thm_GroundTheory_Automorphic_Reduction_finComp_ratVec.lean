@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finComp_ratVec
 -- name    : GroundTheory.Automorphic.Reduction.finComp_ratVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:53:52.723814+00:00
 -- url     : https://prove2.me/theorems/6c9bd3d7-802b-59c6-bbbb-0fc5d2af3cc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_mem_GK_of_fix_c0c689e46411
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_mem_GK_of_fix_c0c689e46411
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:16.0145+00:00
 -- url     : https://prove2.me/theorems/93cc4d12-a243-5297-8183-90714b3e71e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BHTOpinion_Approx_Supplement_lemma4_transition_times_diverge
 -- name    : BHTOpinion.Approx.Supplement.lemma4_transition_times_diverge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:54:21.566267+00:00
 -- url     : https://prove2.me/theorems/851f9273-4a3d-4994-b6ae-1d9fde3d1b6c

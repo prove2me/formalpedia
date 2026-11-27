@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskAverseSDDP_Subdiff_Supplement_theorem_6_1_counterexample
 -- name    : RiskAverseSDDP.Subdiff.Supplement.theorem_6_1_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:36:27.192574+00:00
 -- url     : https://prove2.me/theorems/a5127e93-af26-4d33-b36a-ea79c95a885d

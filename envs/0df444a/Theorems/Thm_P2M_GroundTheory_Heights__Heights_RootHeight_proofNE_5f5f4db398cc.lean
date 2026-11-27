@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootHeight_proofNE_5f5f4db398cc
 -- name    : P2M_GroundTheory_Heights__Heights_RootHeight_proofNE_5f5f4db398cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:20.952513+00:00
 -- url     : https://prove2.me/theorems/b494a0f9-bfdc-482c-b16f-fedcfcb77085

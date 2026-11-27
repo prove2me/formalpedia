@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_support_subgroup_odd_index
 -- name    : GlobalTheory.support_subgroup_odd_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:06.550508+00:00
 -- url     : https://prove2.me/theorems/215c5469-d524-4bfd-8908-24f405aabd71

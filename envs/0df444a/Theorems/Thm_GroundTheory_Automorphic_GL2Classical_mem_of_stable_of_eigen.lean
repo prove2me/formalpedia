@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GL2Classical_mem_of_stable_of_eigen
 -- name    : GroundTheory.Automorphic.GL2Classical.mem_of_stable_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:32.609564+00:00
 -- url     : https://prove2.me/theorems/f3c59184-6dad-5276-88cb-4311d1d1ad4a

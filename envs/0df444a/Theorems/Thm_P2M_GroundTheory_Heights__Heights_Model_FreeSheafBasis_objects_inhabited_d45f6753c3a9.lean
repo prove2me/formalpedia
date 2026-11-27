@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_objects_inhabited_d45f6753c3a9
 -- name    : P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_objects_inhabited_d45f6753c3a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:33:36.481129+00:00
 -- url     : https://prove2.me/theorems/481f15d1-7b7b-5e2a-8b2b-7e64b29fb61d

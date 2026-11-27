@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ker_le_span_image_ker_of_semilinear
 -- name    : GlobalTheory.ker_le_span_image_ker_of_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:48:08.226394+00:00
 -- url     : https://prove2.me/theorems/83f35e07-b5a0-5c15-a26e-249db2992bd6

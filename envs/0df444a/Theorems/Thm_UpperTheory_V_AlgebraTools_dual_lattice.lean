@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_AlgebraTools_dual_lattice
 -- name    : UpperTheory.V.AlgebraTools.dual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:45.029829+00:00
 -- url     : https://prove2.me/theorems/ad757d62-b1bf-4aea-b817-7e3a434e2046

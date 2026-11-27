@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_quotShape_of_equiv
 -- name    : ReciprocityTheory.ChartRestriction.T2.quotShape_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:29:58.509485+00:00
 -- url     : https://prove2.me/theorems/24bf755e-c3c4-43e5-96f8-c64a68e13c18

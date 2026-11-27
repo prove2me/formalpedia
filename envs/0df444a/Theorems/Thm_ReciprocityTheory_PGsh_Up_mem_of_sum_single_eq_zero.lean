@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_mem_of_sum_single_eq_zero
 -- name    : ReciprocityTheory.PGsh.Up.mem_of_sum_single_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:50.743121+00:00
 -- url     : https://prove2.me/theorems/5ce7553b-8c2f-4c99-9151-84e5f0d23a1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_inh_sortShiftDistinct_16e27b4a2584
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_inh_sortShiftDistinct_16e27b4a2584
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:34:41.94574+00:00
 -- url     : https://prove2.me/theorems/d01dc6a0-5960-58aa-9b2d-ba76d2b6f208

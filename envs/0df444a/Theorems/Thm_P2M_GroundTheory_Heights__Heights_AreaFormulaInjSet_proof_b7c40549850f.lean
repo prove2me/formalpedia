@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaFormulaInjSet_proof_b7c40549850f
 -- name    : P2M_GroundTheory_Heights__Heights_AreaFormulaInjSet_proof_b7c40549850f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:09:45.012193+00:00
 -- url     : https://prove2.me/theorems/243666f9-675a-408e-b76f-bed0ad83af87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Up_Definite_card_cmType
 -- name    : GlobalTheory.Up.Definite.card_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:37.789661+00:00
 -- url     : https://prove2.me/theorems/f191bb7a-707b-581c-ac17-54ad9b0703b6

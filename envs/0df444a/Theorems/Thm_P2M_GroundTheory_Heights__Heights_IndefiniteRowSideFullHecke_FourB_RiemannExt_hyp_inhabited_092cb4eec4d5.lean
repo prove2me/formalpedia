@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_RiemannExt_hyp_inhabited_092cb4eec4d5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_RiemannExt_hyp_inhabited_092cb4eec4d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:23:20.190466+00:00
 -- url     : https://prove2.me/theorems/2a857b71-6722-547f-bd48-7e50970c8549

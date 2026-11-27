@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_neg_log_det_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.neg_log_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:55.409204+00:00
 -- url     : https://prove2.me/theorems/58d3894b-3b94-46b6-bcb4-aa20836a9484

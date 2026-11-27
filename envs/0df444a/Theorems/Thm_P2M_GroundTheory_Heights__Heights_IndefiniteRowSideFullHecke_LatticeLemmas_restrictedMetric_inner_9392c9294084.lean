@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_restrictedMetric_inner_9392c9294084
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LatticeLemmas_restrictedMetric_inner_9392c9294084
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:21.398895+00:00
 -- url     : https://prove2.me/theorems/e1604adf-26a7-58b5-b4ae-ce05b1251264

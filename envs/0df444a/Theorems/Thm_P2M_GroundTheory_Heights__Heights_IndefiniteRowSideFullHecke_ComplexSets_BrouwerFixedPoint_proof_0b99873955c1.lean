@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BrouwerFixedPoint_proof_0b99873955c1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BrouwerFixedPoint_proof_0b99873955c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:15:41.9238+00:00
 -- url     : https://prove2.me/theorems/5c29cc90-e1b0-49d5-b6de-331157583b7a

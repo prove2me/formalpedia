@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r23b_PositivityTheory_Rg_Sw_Glob_DCalcDH_poly_exp
 -- name    : UpperTheory.Reformulated.B.P6.r23b.PositivityTheory.Rg.Sw.Glob.DCalcDH.poly_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:12.46682+00:00
 -- url     : https://prove2.me/theorems/baf35291-0b19-5aad-9e68-24c6befd6729

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_homology_finite_short_exact
 -- name    : UpperTheory.homology_finite_short_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:49.196568+00:00
 -- url     : https://prove2.me/theorems/7e6f665a-2172-46ce-a00c-3ac6f0c6f990

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valueGroupRat_base_le
 -- name    : GroundTheory.LocalField.valueGroupRat_base_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:13.204803+00:00
 -- url     : https://prove2.me/theorems/c643432d-69aa-5490-a1ce-1dc1b98f1ac4

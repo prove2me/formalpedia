@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_eq_top_or_le_ker_finiteLength_modules
 -- name    : GlobalTheory.T.tensor_eq_top_or_le_ker_finiteLength_modules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:32.156721+00:00
 -- url     : https://prove2.me/theorems/1324de5b-18a3-493c-b007-4dfd2c73343d

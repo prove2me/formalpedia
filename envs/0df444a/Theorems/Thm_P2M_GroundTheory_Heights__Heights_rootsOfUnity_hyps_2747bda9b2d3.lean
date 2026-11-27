@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_rootsOfUnity_hyps_2747bda9b2d3
 -- name    : P2M_GroundTheory_Heights__Heights_rootsOfUnity_hyps_2747bda9b2d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:49.065127+00:00
 -- url     : https://prove2.me/theorems/7116e025-05e1-4769-8100-14200647146f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_HadamardQuotient_proof_8adf74705bf2
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_HadamardQuotient_proof_8adf74705bf2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:14.995634+00:00
 -- url     : https://prove2.me/theorems/5e98cc9d-6204-5b2f-ade6-82818f613695

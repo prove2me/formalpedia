@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HsymmPairFlagIndependence_proof_d16d86c49fc2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HsymmPairFlagIndependence_proof_d16d86c49fc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:32:57.532057+00:00
 -- url     : https://prove2.me/theorems/0923ec8b-2293-45c6-a6fe-76cb877fc80e

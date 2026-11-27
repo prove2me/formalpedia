@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isGradedMap_mkQ
 -- name    : GlobalTheory.isGradedMap_mkQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:16.035275+00:00
 -- url     : https://prove2.me/theorems/af7b4fdc-2051-472e-8f18-e8d86b086dbd

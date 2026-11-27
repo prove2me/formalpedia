@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TopExt_wedgeMul__Multi_72127a1483b7
 -- name    : P2M_GlobalTheory_TopExt_wedgeMul__Multi_72127a1483b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:43.310569+00:00
 -- url     : https://prove2.me/theorems/f7542ead-04c8-51c5-b9e4-e62893fd5da8

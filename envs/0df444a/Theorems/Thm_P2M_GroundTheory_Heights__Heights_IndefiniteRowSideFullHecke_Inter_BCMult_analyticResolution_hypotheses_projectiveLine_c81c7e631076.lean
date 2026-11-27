@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_BCMult_analyticResolution_hypotheses_projectiveLine_c81c7e631076
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_BCMult_analyticResolution_hypotheses_projectiveLine_c81c7e631076
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:41:16.277725+00:00
 -- url     : https://prove2.me/theorems/d4f95e4d-2c6f-5a00-b983-03206e643728

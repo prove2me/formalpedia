@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLineChart0_source
 -- name    : ReciprocityTheory.AnForm.M.projLineChart0_source
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:02:21.483293+00:00
 -- url     : https://prove2.me/theorems/db69c3f3-10a2-4e0f-8bb7-5f12f61c4742

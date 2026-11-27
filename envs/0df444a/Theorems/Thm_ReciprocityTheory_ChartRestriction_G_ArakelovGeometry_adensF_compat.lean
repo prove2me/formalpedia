@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adensF_compat
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adensF_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:23.906247+00:00
 -- url     : https://prove2.me/theorems/e998915a-b20b-44e5-9d59-57ead02c2c1b

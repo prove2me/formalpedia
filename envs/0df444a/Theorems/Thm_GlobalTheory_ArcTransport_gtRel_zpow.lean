@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_gtRel_zpow
 -- name    : GlobalTheory.ArcTransport.gtRel_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:37:43.106147+00:00
 -- url     : https://prove2.me/theorems/1274f03d-f5b7-5692-9d0b-d56c207eaedc

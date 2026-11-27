@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_mem_unipotent_iff
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_mem_unipotent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:20.183887+00:00
 -- url     : https://prove2.me/theorems/930f7cd2-bc47-50ab-b4fd-e586194022b3

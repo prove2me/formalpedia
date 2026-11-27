@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_gram_frame_with_normal_eq_diag
 -- name    : PI.VolNzeroOne.W.gram_frame_with_normal_eq_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:48:35.957839+00:00
 -- url     : https://prove2.me/theorems/942d0c4e-7f27-5c35-91a0-6c394afd2f65

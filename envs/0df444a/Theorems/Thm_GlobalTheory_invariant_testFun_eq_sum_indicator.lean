@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariant_testFun_eq_sum_indicator
 -- name    : GlobalTheory.invariant_testFun_eq_sum_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:02.878627+00:00
 -- url     : https://prove2.me/theorems/2b19f3b1-17d0-4409-b9bc-3b47e2356c78

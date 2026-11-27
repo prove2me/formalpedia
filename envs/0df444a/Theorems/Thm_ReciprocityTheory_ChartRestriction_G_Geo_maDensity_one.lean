@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_maDensity_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.maDensity_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:37.788543+00:00
 -- url     : https://prove2.me/theorems/ade00e0a-a7d9-5425-90f2-0d0441b88532

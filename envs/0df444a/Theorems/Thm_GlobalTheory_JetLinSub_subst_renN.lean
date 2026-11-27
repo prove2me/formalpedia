@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_subst_renN
 -- name    : GlobalTheory.JetLinSub.subst_renN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:32:59.577309+00:00
 -- url     : https://prove2.me/theorems/b414296d-8342-4a5d-b81d-dec8a3689863

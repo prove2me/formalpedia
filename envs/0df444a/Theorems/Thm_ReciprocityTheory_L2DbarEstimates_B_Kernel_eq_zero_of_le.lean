@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_Kernel_eq_zero_of_le
 -- name    : ReciprocityTheory.L2DbarEstimates.B.Kernel.eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:58.746214+00:00
 -- url     : https://prove2.me/theorems/2d8fe3f6-027f-4321-bd69-fb410e317896

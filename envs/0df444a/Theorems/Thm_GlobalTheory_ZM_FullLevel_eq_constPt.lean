@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FullLevel_eq_constPt
 -- name    : GlobalTheory.ZM.FullLevel.eq_constPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:49.447272+00:00
 -- url     : https://prove2.me/theorems/8f8d6d52-7fd3-4282-a369-478f6eb034f0

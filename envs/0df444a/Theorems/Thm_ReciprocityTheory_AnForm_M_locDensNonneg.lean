@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_locDensNonneg
 -- name    : ReciprocityTheory.AnForm.M.locDensNonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:03:37.03561+00:00
 -- url     : https://prove2.me/theorems/ca66adf7-4bc0-4fe3-ae97-d5f506067338

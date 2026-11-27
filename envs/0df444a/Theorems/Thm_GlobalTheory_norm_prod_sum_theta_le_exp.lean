@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_prod_sum_theta_le_exp
 -- name    : GlobalTheory.norm_prod_sum_theta_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:10.341717+00:00
 -- url     : https://prove2.me/theorems/40f22c92-111d-4b42-bce8-58c6909d47e6

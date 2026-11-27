@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_index_map_mul_index_comap
 -- name    : GroundTheory.Global.IdeleGroup.index_map_mul_index_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:00:10.609325+00:00
 -- url     : https://prove2.me/theorems/92a0fff1-a003-4cfb-9989-61821407f0cf

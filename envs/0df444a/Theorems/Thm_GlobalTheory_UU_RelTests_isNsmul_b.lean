@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelTests_isNsmul_b
 -- name    : GlobalTheory.UU.RelTests.isNsmul_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T16:21:58.104352+00:00
 -- url     : https://prove2.me/theorems/c927e4c8-4579-4bef-9e7a-82819299f3cf

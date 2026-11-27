@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_MollifiedNearSmooth_proof_9513a6a78ec5
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_MollifiedNearSmooth_proof_9513a6a78ec5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:22.384501+00:00
 -- url     : https://prove2.me/theorems/3ec82c8e-05f8-5cb6-aaa2-257e795676c6

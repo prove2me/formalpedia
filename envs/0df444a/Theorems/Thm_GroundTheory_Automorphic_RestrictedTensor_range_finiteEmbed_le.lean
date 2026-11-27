@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_range_finiteEmbed_le
 -- name    : GroundTheory.Automorphic.RestrictedTensor.range_finiteEmbed_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:47.908141+00:00
 -- url     : https://prove2.me/theorems/d684e2db-7f75-43a9-aa51-da4ab1e9489e

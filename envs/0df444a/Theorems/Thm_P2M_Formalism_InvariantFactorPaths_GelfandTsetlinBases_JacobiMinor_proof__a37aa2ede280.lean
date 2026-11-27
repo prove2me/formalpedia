@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_JacobiMinor_proof__a37aa2ede280
 -- name    : P2M_Formalism_InvariantFactorPaths_GelfandTsetlinBases_JacobiMinor_proof__a37aa2ede280
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:16:09.391971+00:00
 -- url     : https://prove2.me/theorems/5957e3b5-6972-5e3f-994a-7ee0ed5d9e32

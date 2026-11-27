@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_rootEval_eq_rootEval_iff
 -- name    : GroundTheory.LocalField.rootEval_eq_rootEval_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:00:14.574953+00:00
 -- url     : https://prove2.me/theorems/50a39ef7-7d86-5cfe-a8f2-1211b1b32fb3

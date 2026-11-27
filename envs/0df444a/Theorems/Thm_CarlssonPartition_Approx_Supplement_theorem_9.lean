@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Approx_Supplement_theorem_9
 -- name    : CarlssonPartition.Approx.Supplement.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T21:35:15.364802+00:00
 -- url     : https://prove2.me/theorems/8a5c07cf-80f4-476c-8ca4-8f28862a27c7

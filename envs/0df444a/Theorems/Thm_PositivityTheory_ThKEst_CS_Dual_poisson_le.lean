@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_poisson_le
 -- name    : PositivityTheory.ThKEst.CS.Dual.poisson_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:30.125925+00:00
 -- url     : https://prove2.me/theorems/1b4c976f-6d91-4a5d-b8b6-bea4e9eb9f0f

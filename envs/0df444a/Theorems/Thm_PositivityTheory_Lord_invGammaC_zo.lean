@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_invGammaC_zo
 -- name    : PositivityTheory.Lord.invGammaC_zo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:50:23.802479+00:00
 -- url     : https://prove2.me/theorems/24ce62bb-9c38-424b-88fa-b32c88677d2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_small_terms_bound__fa3da4ce677c
 -- name    : P2M_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_small_terms_bound__fa3da4ce677c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:16:54.89259+00:00
 -- url     : https://prove2.me/theorems/9a7f3a44-591c-52af-b675-8377a897884b

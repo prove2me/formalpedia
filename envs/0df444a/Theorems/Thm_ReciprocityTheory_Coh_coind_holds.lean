@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_coind_holds
 -- name    : ReciprocityTheory.Coh.coind_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:28:05.393633+00:00
 -- url     : https://prove2.me/theorems/348be4e9-9221-4d45-9051-e89c586a5dac

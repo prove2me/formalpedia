@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IntermediateField_norm_coe
 -- name    : GroundTheory.PAdicHodge.IntermediateField.norm_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:13:23.265724+00:00
 -- url     : https://prove2.me/theorems/5280ae98-829e-43d6-833a-7f7a40ea03bd

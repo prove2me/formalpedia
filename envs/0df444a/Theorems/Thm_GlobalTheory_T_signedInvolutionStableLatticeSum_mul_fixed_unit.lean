@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_signedInvolutionStableLatticeSum_mul_fixed_unit
 -- name    : GlobalTheory.T.signedInvolutionStableLatticeSum_mul_fixed_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:45.129527+00:00
 -- url     : https://prove2.me/theorems/f4ff486e-f5f1-4aa9-a015-ff14ac1bb411

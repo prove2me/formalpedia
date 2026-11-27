@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twist_of_section_law
 -- name    : GlobalTheory.T.twist_of_section_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:43.797422+00:00
 -- url     : https://prove2.me/theorems/1788d68a-1062-40e3-ab5a-0c9d55a24ac6

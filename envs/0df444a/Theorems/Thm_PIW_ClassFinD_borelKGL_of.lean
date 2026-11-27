@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_borelKGL_of
 -- name    : PIW.ClassFinD.borelKGL_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:49:10.639234+00:00
 -- url     : https://prove2.me/theorems/874fa869-27f5-52ed-9089-6f458dc4d6a7

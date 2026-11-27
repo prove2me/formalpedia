@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SmallRankWeakHypothesis_full_dd8bcb8f130e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SmallRankWeakHypothesis_full_dd8bcb8f130e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:46:28.491149+00:00
 -- url     : https://prove2.me/theorems/bc727297-4271-540a-86d6-a1445ca5f614

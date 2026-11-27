@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_fd_count_ae
 -- name    : PI.VolStabSW.fd_count_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:49:27.364135+00:00
 -- url     : https://prove2.me/theorems/9f3384c6-1af0-4ffa-a54b-be11ccf2a0a2

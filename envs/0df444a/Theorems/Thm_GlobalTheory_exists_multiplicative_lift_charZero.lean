@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_multiplicative_lift_charZero
 -- name    : GlobalTheory.exists_multiplicative_lift_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:31.910802+00:00
 -- url     : https://prove2.me/theorems/06ca6539-6901-584e-a60d-afb022337ecd

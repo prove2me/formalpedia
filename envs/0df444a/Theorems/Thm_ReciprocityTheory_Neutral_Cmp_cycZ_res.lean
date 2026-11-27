@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_cycZ_res
 -- name    : ReciprocityTheory.Neutral.Cmp.cycZ_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:53.679269+00:00
 -- url     : https://prove2.me/theorems/615d7f8c-fd5c-4180-9581-438e25e7d39c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMHeightOneGeneral_proof_26274ec98041
 -- name    : P2M_GroundTheory_Heights__Heights_CMHeightOneGeneral_proof_26274ec98041
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:14:31.969164+00:00
 -- url     : https://prove2.me/theorems/a06d56de-ba1f-5888-9429-c2feb0541f96

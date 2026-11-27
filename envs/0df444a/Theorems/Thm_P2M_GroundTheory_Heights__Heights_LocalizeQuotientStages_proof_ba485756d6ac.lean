@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalizeQuotientStages_proof_ba485756d6ac
 -- name    : P2M_GroundTheory_Heights__Heights_LocalizeQuotientStages_proof_ba485756d6ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:50.686059+00:00
 -- url     : https://prove2.me/theorems/0c6b0e68-6e45-5042-a046-fc3d6c5d9585

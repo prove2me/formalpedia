@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_WellDefined_proof_f636440f4c52
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_WellDefined_proof_f636440f4c52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:29:17.820821+00:00
 -- url     : https://prove2.me/theorems/33ecca63-33ef-5224-9672-47ebc4c8e310

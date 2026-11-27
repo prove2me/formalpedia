@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedVectors_sup_le_inf
 -- name    : GroundTheory.Automorphic.fixedVectors_sup_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:58.811403+00:00
 -- url     : https://prove2.me/theorems/0cd36071-93ae-5b61-b694-a68b476f343d

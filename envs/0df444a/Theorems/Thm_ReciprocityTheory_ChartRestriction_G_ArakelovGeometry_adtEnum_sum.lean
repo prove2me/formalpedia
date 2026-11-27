@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adtEnum_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adtEnum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:48:09.72238+00:00
 -- url     : https://prove2.me/theorems/a2ed800f-1c45-41ac-8719-6c3e94edad0d

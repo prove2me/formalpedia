@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_LDataCardLeFinrank_qzG_apply
 -- name    : UpperTheory.V.LDataCardLeFinrank.qzG_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:51.255797+00:00
 -- url     : https://prove2.me/theorems/b064efe4-8671-4bd4-bee2-1fcf21c3bec9

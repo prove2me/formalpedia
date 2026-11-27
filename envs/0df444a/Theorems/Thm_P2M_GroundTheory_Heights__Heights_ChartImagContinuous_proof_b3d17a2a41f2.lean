@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartImagContinuous_proof_b3d17a2a41f2
 -- name    : P2M_GroundTheory_Heights__Heights_ChartImagContinuous_proof_b3d17a2a41f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:02.536668+00:00
 -- url     : https://prove2.me/theorems/0cfe8939-cb72-5ea3-9e48-5fb2421679f4

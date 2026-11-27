@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_I_mem_latticeReducedParams_de4ca370e9c4
 -- name    : P2M_GroundTheory_Heights__Theta_I_mem_latticeReducedParams_de4ca370e9c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:03.368379+00:00
 -- url     : https://prove2.me/theorems/33cd0c82-a5cc-5b0c-82f1-ef5856ed0283

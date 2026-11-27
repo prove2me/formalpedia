@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Unit_shiftJ
 -- name    : PI.DatumBlockEigen.Unit.shiftJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:02.09802+00:00
 -- url     : https://prove2.me/theorems/ba6e37d8-5409-4e32-9fec-e94d2cc022dd

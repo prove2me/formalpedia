@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SubsetDiffConst_proof_2b21094f1b76
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SubsetDiffConst_proof_2b21094f1b76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:28:08.90443+00:00
 -- url     : https://prove2.me/theorems/be469655-9ec4-42ad-9d70-09bfa5302c38

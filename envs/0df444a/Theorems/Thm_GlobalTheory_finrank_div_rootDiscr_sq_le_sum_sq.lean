@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_div_rootDiscr_sq_le_sum_sq
 -- name    : GlobalTheory.finrank_div_rootDiscr_sq_le_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:07.553162+00:00
 -- url     : https://prove2.me/theorems/d70d4dd6-b4a5-5cc3-8928-74a320065c4c

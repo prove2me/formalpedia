@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ChartGlue_applies_3b23a56bbbd7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ChartGlue_applies_3b23a56bbbd7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:33:52.566828+00:00
 -- url     : https://prove2.me/theorems/a4d978b2-28b9-51a1-ab92-b791c340ce34

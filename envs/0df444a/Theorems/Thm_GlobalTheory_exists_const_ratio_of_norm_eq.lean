@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_const_ratio_of_norm_eq
 -- name    : GlobalTheory.exists_const_ratio_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:45.788716+00:00
 -- url     : https://prove2.me/theorems/9bdd971a-aecd-58a4-8986-a0d372742765

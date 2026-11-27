@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_SumLe_mono
 -- name    : UpperTheory.V.Chr.SumLe.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:54.449417+00:00
 -- url     : https://prove2.me/theorems/d36f2f3a-5af7-41e5-aa71-0c1cc14d705b

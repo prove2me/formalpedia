@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_natDegree_originPolynomial
 -- name    : GlobalTheory.WeierstrassCurve.natDegree_originPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:32.993815+00:00
 -- url     : https://prove2.me/theorems/92798078-928d-458e-b288-13c0553171ae

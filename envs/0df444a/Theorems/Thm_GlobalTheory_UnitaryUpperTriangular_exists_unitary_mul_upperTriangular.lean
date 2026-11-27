@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryUpperTriangular_exists_unitary_mul_upperTriangular
 -- name    : GlobalTheory.UnitaryUpperTriangular.exists_unitary_mul_upperTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:22.292247+00:00
 -- url     : https://prove2.me/theorems/040eb6cb-aa71-4174-ab30-4b7a56d72c57

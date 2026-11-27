@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndLine_Iwasawa_Hyp_levi___78c2cece847b
 -- name    : P2M_GlobalTheory_IndLine_Iwasawa_Hyp_levi___78c2cece847b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:30.168738+00:00
 -- url     : https://prove2.me/theorems/77fc7a81-30dc-4610-a1d4-9fc0d41dfb2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCoord_act_eq
 -- name    : GlobalTheory.TorusCoord.act_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:47.823908+00:00
 -- url     : https://prove2.me/theorems/7db79822-223d-4c2f-bba8-c675b349bfe7

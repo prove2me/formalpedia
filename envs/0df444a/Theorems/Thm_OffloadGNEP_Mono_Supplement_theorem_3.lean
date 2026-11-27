@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Mono_Supplement_theorem_3
 -- name    : OffloadGNEP.Mono.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T21:18:40.224372+00:00
 -- url     : https://prove2.me/theorems/f97418c6-86a5-4e51-bea9-18e0ca9056b4

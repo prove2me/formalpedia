@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_EmbTraceSumWork_main
 -- name    : PI.EmbTraceSumWork.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:23.626812+00:00
 -- url     : https://prove2.me/theorems/1449a215-3687-478c-aefd-d572c5c9e8d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ratStandard_latticeMetricAgrees_b5791eb021fc
 -- name    : P2M_GroundTheory_Heights__Heights_ratStandard_latticeMetricAgrees_b5791eb021fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:11.343801+00:00
 -- url     : https://prove2.me/theorems/6eb350de-6777-5aff-b612-fc8ff0552f34

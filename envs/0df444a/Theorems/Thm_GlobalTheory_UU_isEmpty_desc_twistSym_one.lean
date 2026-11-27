@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isEmpty_desc_twistSym_one
 -- name    : GlobalTheory.UU.isEmpty_desc_twistSym_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:09:02.438276+00:00
 -- url     : https://prove2.me/theorems/e5a207c4-fe1e-48be-a59e-e35723438cdd

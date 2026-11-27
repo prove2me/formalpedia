@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerRamificationGroupReal_eq_top
 -- name    : GroundTheory.LocalField.lowerRamificationGroupReal_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:11:12.007225+00:00
 -- url     : https://prove2.me/theorems/f5518e91-5cc7-5c41-bcf2-d247f5662bf6

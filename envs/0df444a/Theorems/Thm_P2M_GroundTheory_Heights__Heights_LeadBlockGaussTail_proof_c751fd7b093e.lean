@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_proof_c751fd7b093e
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_proof_c751fd7b093e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:17.395369+00:00
 -- url     : https://prove2.me/theorems/6ef6e813-301c-5c6e-97d2-736040e92d67

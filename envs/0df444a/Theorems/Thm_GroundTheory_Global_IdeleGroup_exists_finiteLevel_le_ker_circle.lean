@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_exists_finiteLevel_le_ker_circle
 -- name    : GroundTheory.Global.IdeleGroup.exists_finiteLevel_le_ker_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:55:20.07488+00:00
 -- url     : https://prove2.me/theorems/c9d58898-5377-4682-87dd-685c07e30ab8

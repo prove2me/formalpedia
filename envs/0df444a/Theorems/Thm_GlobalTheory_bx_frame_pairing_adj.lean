@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bx_frame_pairing_adj
 -- name    : GlobalTheory.bx_frame_pairing_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:47:35.751033+00:00
 -- url     : https://prove2.me/theorems/ddd43f4f-fe61-4db9-a0b9-e02fe2f55e3d

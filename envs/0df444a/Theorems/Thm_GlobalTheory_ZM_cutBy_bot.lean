@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_cutBy_bot
 -- name    : GlobalTheory.ZM.cutBy_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:15.566352+00:00
 -- url     : https://prove2.me/theorems/182d0bd2-6ea3-584d-ba0f-a5ccb7eb1229

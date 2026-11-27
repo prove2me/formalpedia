@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_mem_levelGroup
 -- name    : KStar.TotallyRealRoots.mem_levelGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:56.167882+00:00
 -- url     : https://prove2.me/theorems/697b8ed8-22ae-5bcb-8628-e3003ebef471

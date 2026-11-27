@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_cartanHomeomorph_apply_2cea746d6a8b
 -- name    : P2M_GroundTheory_Heights__Theta_cartanHomeomorph_apply_2cea746d6a8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:56.536802+00:00
 -- url     : https://prove2.me/theorems/a890e5fa-b32d-4897-9ee9-816167416d36

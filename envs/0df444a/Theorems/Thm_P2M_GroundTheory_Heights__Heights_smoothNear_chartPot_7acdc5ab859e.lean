@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_smoothNear_chartPot_7acdc5ab859e
 -- name    : P2M_GroundTheory_Heights__Heights_smoothNear_chartPot_7acdc5ab859e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:48:49.053902+00:00
 -- url     : https://prove2.me/theorems/170c8985-4e03-58cb-a32c-6eaa25ac59de

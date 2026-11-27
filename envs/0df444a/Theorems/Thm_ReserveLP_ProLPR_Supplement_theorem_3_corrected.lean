@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReserveLP_ProLPR_Supplement_theorem_3_corrected
 -- name    : ReserveLP.ProLPR.Supplement.theorem_3_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T23:08:30.919718+00:00
 -- url     : https://prove2.me/theorems/24a5701f-c0ba-4efd-9f58-30aff1e0282c

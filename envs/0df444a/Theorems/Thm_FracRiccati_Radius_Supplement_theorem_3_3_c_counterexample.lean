@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracRiccati_Radius_Supplement_theorem_3_3_c_counterexample
 -- name    : FracRiccati.Radius.Supplement.theorem_3_3_c_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:55:43.057257+00:00
 -- url     : https://prove2.me/theorems/09eb4ee5-194b-4267-b67e-a12706344f20

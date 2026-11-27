@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegre_proof_cb3426470abf
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegre_proof_cb3426470abf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:33:19.879062+00:00
 -- url     : https://prove2.me/theorems/5a9b9801-366c-4e2f-8018-32c8d368ab05

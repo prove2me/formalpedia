@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_pushout_residue_linearIndependent__58300ddd4280
 -- name    : P2M_GlobalTheory_T_pushout_residue_linearIndependent__58300ddd4280
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:06:54.622999+00:00
 -- url     : https://prove2.me/theorems/cfcaf262-3452-4efe-9bac-e472973d895a

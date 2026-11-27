@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_pow_eq_one_mem_fixedField_lowerRamificationGroup_one
 -- name    : GroundTheory.ProfCoh.pow_eq_one_mem_fixedField_lowerRamificationGroup_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:07.560129+00:00
 -- url     : https://prove2.me/theorems/388bfe85-0b24-497b-84ab-cc41118922a1

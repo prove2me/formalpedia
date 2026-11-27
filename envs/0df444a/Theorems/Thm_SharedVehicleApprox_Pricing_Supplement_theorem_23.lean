@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharedVehicleApprox_Pricing_Supplement_theorem_23
 -- name    : SharedVehicleApprox.Pricing.Supplement.theorem_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T18:37:38.730641+00:00
 -- url     : https://prove2.me/theorems/529b4fd7-bf7b-43fd-b329-223f2ae05221

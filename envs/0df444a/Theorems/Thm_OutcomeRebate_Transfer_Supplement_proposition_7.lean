@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_Supplement_proposition_7
 -- name    : OutcomeRebate.Transfer.Supplement.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T17:05:29.397401+00:00
 -- url     : https://prove2.me/theorems/c51252a6-d088-4f9c-b51b-dbb54504c2c5

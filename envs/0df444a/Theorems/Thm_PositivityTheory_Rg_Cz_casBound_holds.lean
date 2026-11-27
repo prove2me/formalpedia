@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_casBound_holds
 -- name    : PositivityTheory.Rg.Cz.casBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:53:31.256173+00:00
 -- url     : https://prove2.me/theorems/1f34ed2a-ccbf-40d5-a28a-eb5c71afdc99

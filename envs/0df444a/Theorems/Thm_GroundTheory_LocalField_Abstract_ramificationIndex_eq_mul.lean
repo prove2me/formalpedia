@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ramificationIndex_eq_mul
 -- name    : GroundTheory.LocalField.Abstract.ramificationIndex_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:55.18269+00:00
 -- url     : https://prove2.me/theorems/b551945b-37a4-459a-a8b9-642d8b091fee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_FiniteLocalHoms_isLocalHom_of_section
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.FiniteLocalHoms.isLocalHom_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:14:26.23551+00:00
 -- url     : https://prove2.me/theorems/c7f15416-f841-4dd6-a400-2b098f240c82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullbackBadImage_holds_proof_7d2ba1ca6de9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullbackBadImage_holds_proof_7d2ba1ca6de9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:46.499161+00:00
 -- url     : https://prove2.me/theorems/6919a0da-8c41-45d9-aa0b-4310974e6ec3

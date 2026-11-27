@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_toPadicInt_unitPart
 -- name    : GroundTheory.Global.RationalSymbol.toPadicInt_unitPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:42.73104+00:00
 -- url     : https://prove2.me/theorems/6de30457-88d5-54c4-9aeb-1075e0d402b1

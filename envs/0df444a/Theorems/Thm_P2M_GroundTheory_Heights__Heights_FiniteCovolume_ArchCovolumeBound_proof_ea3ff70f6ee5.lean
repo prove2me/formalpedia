@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArchCovolumeBound_proof_ea3ff70f6ee5
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArchCovolumeBound_proof_ea3ff70f6ee5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:38.641844+00:00
 -- url     : https://prove2.me/theorems/71c5fe8d-e3ad-5fbd-b660-912def80f9ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_map_units_eq_mul_pow
 -- name    : GroundTheory.ProfCoh.exists_map_units_eq_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:39.175235+00:00
 -- url     : https://prove2.me/theorems/62fa3329-dc60-40e5-b1db-35d0b0a83ae1

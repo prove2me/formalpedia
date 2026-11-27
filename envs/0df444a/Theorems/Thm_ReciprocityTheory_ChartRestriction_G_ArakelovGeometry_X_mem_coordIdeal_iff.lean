@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_X_mem_coordIdeal_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.X_mem_coordIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:12:03.864305+00:00
 -- url     : https://prove2.me/theorems/1112aa1e-5bcc-455d-a721-bafec7263f78

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MultiNashRepair.proposition_4_6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-27T02:00:56.484476+00:00
 -- url     : https://prove2.me/submissions/466a11f3-4d65-4ab1-aa24-fa0236ba1497
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NashAmplification_Filtering_Encoding

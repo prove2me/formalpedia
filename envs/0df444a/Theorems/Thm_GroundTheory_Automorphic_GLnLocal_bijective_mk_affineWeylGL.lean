@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_bijective_mk_affineWeylGL
 -- name    : GroundTheory.Automorphic.GLnLocal.bijective_mk_affineWeylGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:50.909824+00:00
 -- url     : https://prove2.me/theorems/2a0faf13-ba58-5288-bb8a-006c41557c5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_Hf_scale
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.Hf_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:12:56.87094+00:00
 -- url     : https://prove2.me/theorems/b60a34c7-d960-480d-a72e-b33718370948

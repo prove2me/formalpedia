@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_basis_of_dense
 -- name    : GlobalTheory.torsion_basis_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:27.056422+00:00
 -- url     : https://prove2.me/theorems/80e851ba-83f2-4447-b022-6660fea9f29f

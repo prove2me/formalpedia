@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotColon_proof_24da257b9c69
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotColon_proof_24da257b9c69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:39:25.036138+00:00
 -- url     : https://prove2.me/theorems/e2662ac7-8ad6-4d01-a575-5b0bd3050246

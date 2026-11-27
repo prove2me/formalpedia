@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormIdentity_hypotheses_inhabited_cdb5cef295b2
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormIdentity_hypotheses_inhabited_cdb5cef295b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:40:50.573405+00:00
 -- url     : https://prove2.me/theorems/4bea816b-178e-484d-b67e-04dca76c5980

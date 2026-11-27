@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_NefAtBaseHeight_hypotheses_inhabited_022ed8d4e067
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_NefAtBaseHeight_hypotheses_inhabited_022ed8d4e067
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:17.713703+00:00
 -- url     : https://prove2.me/theorems/e4bb670e-9dab-484f-8153-f28ab36b9077

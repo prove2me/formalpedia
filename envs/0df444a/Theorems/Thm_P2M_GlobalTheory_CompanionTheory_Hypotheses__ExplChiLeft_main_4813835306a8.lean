@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__ExplChiLeft_main_4813835306a8
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__ExplChiLeft_main_4813835306a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:49.227431+00:00
 -- url     : https://prove2.me/theorems/39b14a2d-dcdd-5a32-b431-7b0a3f449c73

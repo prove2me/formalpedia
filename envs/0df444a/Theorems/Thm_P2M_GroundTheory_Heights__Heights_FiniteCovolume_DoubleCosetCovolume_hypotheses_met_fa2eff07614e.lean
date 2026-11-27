@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_DoubleCosetCovolume_hypotheses_met_fa2eff07614e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_DoubleCosetCovolume_hypotheses_met_fa2eff07614e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:12:25.455794+00:00
 -- url     : https://prove2.me/theorems/8497cd51-3f3b-4a21-8a59-a6448cac9407

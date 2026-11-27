@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_theta
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:18.537237+00:00
 -- url     : https://prove2.me/theorems/f5912e04-e6ff-54d1-b0e1-9b8e10b539a9

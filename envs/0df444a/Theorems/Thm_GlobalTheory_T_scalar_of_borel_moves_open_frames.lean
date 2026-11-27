@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scalar_of_borel_moves_open_frames
 -- name    : GlobalTheory.T.scalar_of_borel_moves_open_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:10.266801+00:00
 -- url     : https://prove2.me/theorems/4d5f1b33-3bd4-5826-b110-d16c04e9cb2b

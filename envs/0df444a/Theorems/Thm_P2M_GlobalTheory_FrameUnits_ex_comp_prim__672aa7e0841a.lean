@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FrameUnits_ex_comp_prim__672aa7e0841a
 -- name    : P2M_GlobalTheory_FrameUnits_ex_comp_prim__672aa7e0841a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:30.128715+00:00
 -- url     : https://prove2.me/theorems/d9dc48f0-cf6c-5125-8b2e-b18947b993bf

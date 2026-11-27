@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_exists_even_cubTriv
 -- name    : GlobalTheory.CubeLift.exists_even_cubTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:27:20.097163+00:00
 -- url     : https://prove2.me/theorems/8225a9ff-746b-4206-8b74-0d2a44b48b2f

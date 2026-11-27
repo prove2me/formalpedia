@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_isClosed_unip
 -- name    : GlobalTheory.Tw.PFlag.isClosed_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:03.125798+00:00
 -- url     : https://prove2.me/theorems/354fa45b-445b-47cb-a69c-1cc1d1861ae7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SchwartzZippelPerVariable_proof_bc0f46abc3ff
 -- name    : P2M_GroundTheory_Heights__Heights_SchwartzZippelPerVariable_proof_bc0f46abc3ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:38:05.871974+00:00
 -- url     : https://prove2.me/theorems/2552bc94-16aa-45f5-b0f0-9cbbc62d070d

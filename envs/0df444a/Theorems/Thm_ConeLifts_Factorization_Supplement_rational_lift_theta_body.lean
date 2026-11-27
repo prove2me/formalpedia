@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_Factorization_Supplement_rational_lift_theta_body
 -- name    : ConeLifts.Factorization.Supplement.rational_lift_theta_body
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T10:52:31.591365+00:00
 -- url     : https://prove2.me/theorems/91c160a9-bd4e-4544-9934-7073c0fe857e

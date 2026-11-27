@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_nu_det_mul_sliceB_block_action
 -- name    : UpperTheory.nu_det_mul_sliceB_block_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:35.5885+00:00
 -- url     : https://prove2.me/theorems/858be901-2f73-4d9f-928a-3138e5d7a555

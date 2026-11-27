@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_InvariantSumOfTranslates_main
 -- name    : UpperTheory.Reformulated.B.InvariantSumOfTranslates.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:18.397168+00:00
 -- url     : https://prove2.me/theorems/ad607f06-3d4e-49bb-8a11-3e3db098e1c2

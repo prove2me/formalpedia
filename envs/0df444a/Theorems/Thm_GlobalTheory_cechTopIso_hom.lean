@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechTopIso_hom
 -- name    : GlobalTheory.cechTopIso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:09.737853+00:00
 -- url     : https://prove2.me/theorems/1f5bb647-2227-42c4-9574-17bbffa99661

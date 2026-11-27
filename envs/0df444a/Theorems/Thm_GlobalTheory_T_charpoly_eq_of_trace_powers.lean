@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_eq_of_trace_powers
 -- name    : GlobalTheory.T.charpoly_eq_of_trace_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T17:09:00.430372+00:00
 -- url     : https://prove2.me/theorems/06634450-8967-5f00-9a59-dbc76d299545

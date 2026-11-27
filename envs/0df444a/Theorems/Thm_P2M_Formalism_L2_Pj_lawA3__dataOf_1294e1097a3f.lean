@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_lawA3__dataOf_1294e1097a3f
 -- name    : P2M_Formalism_L2_Pj_lawA3__dataOf_1294e1097a3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:11:48.468601+00:00
 -- url     : https://prove2.me/theorems/4cfe61b4-bf8f-542a-ae16-61231a5da903

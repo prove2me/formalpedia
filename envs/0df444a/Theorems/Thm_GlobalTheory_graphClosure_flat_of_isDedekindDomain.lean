@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_graphClosure_flat_of_isDedekindDomain
 -- name    : GlobalTheory.graphClosure.flat_of_isDedekindDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:47:42.271255+00:00
 -- url     : https://prove2.me/theorems/794c5f98-d1e9-4060-8100-ec5e8c46f1a8

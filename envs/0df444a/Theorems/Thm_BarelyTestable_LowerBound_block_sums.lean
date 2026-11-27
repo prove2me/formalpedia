@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_block_sums
 -- name    : BarelyTestable.LowerBound.block_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:22:55.884777+00:00
 -- url     : https://prove2.me/theorems/7ad999fe-be99-430d-9000-04fb73c272b0

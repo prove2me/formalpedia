@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_mem_reesSubmodule_iff
 -- name    : GroundTheory.Arith.SchemeCoh.mem_reesSubmodule_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:08.559584+00:00
 -- url     : https://prove2.me/theorems/614b2f3b-7fbc-50db-b670-11195a0f6fb8

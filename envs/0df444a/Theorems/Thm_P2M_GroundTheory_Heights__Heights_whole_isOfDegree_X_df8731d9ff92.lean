@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_whole_isOfDegree_X_df8731d9ff92
 -- name    : P2M_GroundTheory_Heights__Heights_whole_isOfDegree_X_df8731d9ff92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:41.496813+00:00
 -- url     : https://prove2.me/theorems/8ae78bd8-5f11-5f12-be45-fe91d44dfd3c

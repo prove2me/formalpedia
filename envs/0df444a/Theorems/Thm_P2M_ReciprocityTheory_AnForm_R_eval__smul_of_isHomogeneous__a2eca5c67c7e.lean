@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_eval__smul_of_isHomogeneous__a2eca5c67c7e
 -- name    : P2M_ReciprocityTheory_AnForm_R_eval__smul_of_isHomogeneous__a2eca5c67c7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:44:59.362856+00:00
 -- url     : https://prove2.me/theorems/2aac658c-5f12-428a-97dc-bb28678a0f01

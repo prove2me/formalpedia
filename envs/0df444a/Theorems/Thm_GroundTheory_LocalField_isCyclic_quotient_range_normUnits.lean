@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isCyclic_quotient_range_normUnits
 -- name    : GroundTheory.LocalField.isCyclic_quotient_range_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:06.973408+00:00
 -- url     : https://prove2.me/theorems/c6551ee7-e748-520b-8027-042eeee51e1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setLIntegral_le_mul_of_range_toPermHom
 -- name    : GlobalTheory.setLIntegral_le_mul_of_range_toPermHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:50:46.707187+00:00
 -- url     : https://prove2.me/theorems/1c2b3ab7-c208-5a94-b614-45b0dd48ab02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_hTens_mul
 -- name    : PositivityTheory.ThKF0.Geo.hTens_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:51.204804+00:00
 -- url     : https://prove2.me/theorems/5c9885a0-0e7c-4f3e-9d52-9b41cdf6dd5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qe30_transfer_of_comp_subtype__a00e7277f14f
 -- name    : P2M_UpperTheory_Reformulated_B_Qe30_transfer_of_comp_subtype__a00e7277f14f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:48.787242+00:00
 -- url     : https://prove2.me/theorems/53fa7da0-3cd1-5b2e-9b42-6fd808bc071a

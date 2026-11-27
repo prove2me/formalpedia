@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smulQuotient_one_apply
 -- name    : GroundTheory.Global.IdeleGroup.smulQuotient_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:46.452478+00:00
 -- url     : https://prove2.me/theorems/c4ac194c-1095-5206-99c8-fd7b94ca04b8

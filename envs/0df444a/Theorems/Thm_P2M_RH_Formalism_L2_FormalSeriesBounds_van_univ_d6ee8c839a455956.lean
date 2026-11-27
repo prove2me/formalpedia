@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_Formalism_L2_FormalSeriesBounds_van_univ_d6ee8c839a455956
 -- name    : P2M_RH_Formalism_L2_FormalSeriesBounds_van_univ_d6ee8c839a455956
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:47:16.923803+00:00
 -- url     : https://prove2.me/theorems/2092a54d-6dfd-5315-91a7-d9b3e292910a

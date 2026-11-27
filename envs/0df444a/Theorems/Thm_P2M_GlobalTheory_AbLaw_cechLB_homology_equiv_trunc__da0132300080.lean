@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AbLaw_cechLB_homology_equiv_trunc__da0132300080
 -- name    : P2M_GlobalTheory_AbLaw_cechLB_homology_equiv_trunc__da0132300080
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:09:50.94629+00:00
 -- url     : https://prove2.me/theorems/20daf897-1fb6-5cdc-983e-a2eac2f4439f

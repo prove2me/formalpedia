@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_zeroSet_subset_closure_c34421b5f685
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_IrreducibleBasicOpenConnected_zeroSet_subset_closure_c34421b5f685
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:14:45.412858+00:00
 -- url     : https://prove2.me/theorems/2659899d-d72c-56d6-a6b5-27111bda4ed0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveRegularOffCentre_proof_8e423c170faf
 -- name    : P2M_GroundTheory_Heights__Heights_CurveRegularOffCentre_proof_8e423c170faf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:39.793801+00:00
 -- url     : https://prove2.me/theorems/f1226ff0-a565-5f94-aefb-b142a81844d0

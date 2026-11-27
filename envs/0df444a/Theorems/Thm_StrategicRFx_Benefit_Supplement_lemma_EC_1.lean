@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicRFx_Benefit_Supplement_lemma_EC_1
 -- name    : StrategicRFx.Benefit.Supplement.lemma_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:11:28.919377+00:00
 -- url     : https://prove2.me/theorems/58b7ea65-4da6-44ae-a2e2-27c722516a1f

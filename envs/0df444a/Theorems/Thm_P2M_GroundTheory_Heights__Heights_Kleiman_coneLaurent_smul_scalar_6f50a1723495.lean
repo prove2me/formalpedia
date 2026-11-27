@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coneLaurent_smul_scalar_6f50a1723495
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coneLaurent_smul_scalar_6f50a1723495
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:31:12.807417+00:00
 -- url     : https://prove2.me/theorems/557051f3-6853-5406-b811-394ae68a0b37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_decompositionToLocal_arithFrobAt
 -- name    : GroundTheory.Global.eq_decompositionToLocal_arithFrobAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:46.736795+00:00
 -- url     : https://prove2.me/theorems/048ed18b-91e6-5372-9f9a-79f4701332e9

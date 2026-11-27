@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_Hadamard_proof_b9a130442629
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_Hadamard_proof_b9a130442629
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:14.268613+00:00
 -- url     : https://prove2.me/theorems/42c8ce82-a75c-4ef6-986f-1ce25e0a4e48

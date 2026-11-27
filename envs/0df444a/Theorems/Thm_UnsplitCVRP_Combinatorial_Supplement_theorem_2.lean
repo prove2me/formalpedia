@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnsplitCVRP_Combinatorial_Supplement_theorem_2
 -- name    : UnsplitCVRP.Combinatorial.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:42:02.113414+00:00
 -- url     : https://prove2.me/theorems/80c7c5c0-ea8d-4eb7-b30b-2a1b8c846b63

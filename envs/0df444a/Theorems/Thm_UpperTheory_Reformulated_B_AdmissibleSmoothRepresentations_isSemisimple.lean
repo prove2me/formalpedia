@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_AdmissibleSmoothRepresentations_isSemisimple
 -- name    : UpperTheory.Reformulated.B.AdmissibleSmoothRepresentations.isSemisimple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:38:14.40708+00:00
 -- url     : https://prove2.me/theorems/2e273d7d-a25d-4045-9f30-585426a57768

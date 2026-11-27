@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Acris_p_mul_cancel
 -- name    : Reformulated.AutPerF.Acris.p_mul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:32:24.396796+00:00
 -- url     : https://prove2.me/theorems/251ff5c6-dc25-4795-9216-813ab42a1ba1

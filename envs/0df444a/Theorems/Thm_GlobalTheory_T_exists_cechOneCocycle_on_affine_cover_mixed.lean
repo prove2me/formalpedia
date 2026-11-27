@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cechOneCocycle_on_affine_cover_mixed
 -- name    : GlobalTheory.T.exists_cechOneCocycle_on_affine_cover_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:19:19.517803+00:00
 -- url     : https://prove2.me/theorems/c780cfc7-59b3-4f1c-9ea6-2c4e27376185

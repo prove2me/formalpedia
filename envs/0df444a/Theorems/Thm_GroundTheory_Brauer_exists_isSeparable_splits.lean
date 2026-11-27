@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_exists_isSeparable_splits
 -- name    : GroundTheory.Brauer.exists_isSeparable_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:04:52.644922+00:00
 -- url     : https://prove2.me/theorems/efcfe263-6e8e-574a-9c65-e8af56b030e3

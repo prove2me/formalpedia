@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_density_transport_linearEquiv_chirp
 -- name    : GlobalTheory.T.schwartz_density_transport_linearEquiv_chirp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:12.699133+00:00
 -- url     : https://prove2.me/theorems/db4b103b-523b-4dd5-9173-323db3f3081a

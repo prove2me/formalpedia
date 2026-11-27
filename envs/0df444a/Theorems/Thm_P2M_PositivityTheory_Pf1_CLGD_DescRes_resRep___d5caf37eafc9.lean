@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Pf1_CLGD_DescRes_resRep___d5caf37eafc9
 -- name    : P2M_PositivityTheory_Pf1_CLGD_DescRes_resRep___d5caf37eafc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:58:35.701558+00:00
 -- url     : https://prove2.me/theorems/37f03a59-58a6-4e17-bc9b-6fd90471c160

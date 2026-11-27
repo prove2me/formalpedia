@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_ker_coeffL
 -- name    : GroundTheory.Automorphic.Whittaker.mem_ker_coeffL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:52.27682+00:00
 -- url     : https://prove2.me/theorems/80585d35-5156-5074-979b-c2692b9fc79f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StrongApproxE_DedekindLFunctions_exists_pow_le
 -- name    : PI.StrongApproxE.DedekindLFunctions.exists_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:16.417662+00:00
 -- url     : https://prove2.me/theorems/e49bb9b9-13b0-4f3e-a200-ceac4199fa42

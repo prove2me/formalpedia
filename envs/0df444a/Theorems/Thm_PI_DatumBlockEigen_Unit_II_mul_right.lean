@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DatumBlockEigen_Unit_II_mul_right
 -- name    : PI.DatumBlockEigen.Unit.II_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:44:39.878177+00:00
 -- url     : https://prove2.me/theorems/3abfe2da-774f-59a3-97ca-0fa0dcad170c

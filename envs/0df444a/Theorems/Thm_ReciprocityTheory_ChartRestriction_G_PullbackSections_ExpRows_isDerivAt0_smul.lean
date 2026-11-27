@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_ExpRows_isDerivAt0_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.ExpRows.isDerivAt0_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:08:54.089423+00:00
 -- url     : https://prove2.me/theorems/8c083ec4-5b0e-450b-8cba-9213c63c664a

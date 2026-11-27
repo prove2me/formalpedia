@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_GaloisBoundFirst_main
 -- name    : UpperTheory.Reformulated.B.GaloisBoundFirst.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:18.322736+00:00
 -- url     : https://prove2.me/theorems/73074ee0-b9a8-58d9-ad99-bca71c162f85

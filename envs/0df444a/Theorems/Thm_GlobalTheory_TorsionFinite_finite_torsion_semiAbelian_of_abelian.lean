@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFinite_finite_torsion_semiAbelian_of_abelian
 -- name    : GlobalTheory.TorsionFinite.finite_torsion_semiAbelian_of_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:15.494807+00:00
 -- url     : https://prove2.me/theorems/303f61de-07d3-562e-a0a2-c45e213b2e6b

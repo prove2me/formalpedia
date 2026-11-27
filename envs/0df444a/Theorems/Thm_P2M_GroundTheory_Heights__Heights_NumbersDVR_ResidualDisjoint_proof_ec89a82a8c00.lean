@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ResidualDisjoint_proof_ec89a82a8c00
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ResidualDisjoint_proof_ec89a82a8c00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:36:17.397394+00:00
 -- url     : https://prove2.me/theorems/d80980b1-426e-5979-a026-b4dc1601acbc

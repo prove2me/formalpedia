@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_TR_Weyl_blk_mem
 -- name    : ReciprocityTheory.ChartRestriction.TR.Weyl.blk_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:26:35.253559+00:00
 -- url     : https://prove2.me/theorems/8f7d5dbd-42e0-4cd7-bf53-d12b70bcd6f4

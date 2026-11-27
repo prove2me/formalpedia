@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_galois_compactSpace
 -- name    : GroundTheory.ProfCoh.galois_compactSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:12.693718+00:00
 -- url     : https://prove2.me/theorems/52398384-4c03-486c-a6b2-55e3d952df60

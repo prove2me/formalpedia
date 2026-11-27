@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_Bd1_trivial
 -- name    : Neutral.B1.Bd1_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:43.238801+00:00
 -- url     : https://prove2.me/theorems/1830174f-34ee-4604-9b06-81faefad8224

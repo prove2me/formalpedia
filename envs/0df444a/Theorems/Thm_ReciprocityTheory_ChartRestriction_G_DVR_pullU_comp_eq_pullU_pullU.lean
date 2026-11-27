@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_pullU_comp_eq_pullU_pullU
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.pullU_comp_eq_pullU_pullU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:11:49.855227+00:00
 -- url     : https://prove2.me/theorems/f4f58319-0fba-4227-ad54-2cd5b2e1d44b

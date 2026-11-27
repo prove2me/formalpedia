@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDet_det_eq_prod
 -- name    : GlobalTheory.UnitDet.det_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:46:41.836951+00:00
 -- url     : https://prove2.me/theorems/db27d3d9-8ccc-5f42-9f43-fd8c18163f02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ResidualComparison_proof_d7c14fe23800
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ResidualComparison_proof_d7c14fe23800
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:37:25.589078+00:00
 -- url     : https://prove2.me/theorems/c997dfe6-3cc4-5473-8c6c-ee48f2a17842

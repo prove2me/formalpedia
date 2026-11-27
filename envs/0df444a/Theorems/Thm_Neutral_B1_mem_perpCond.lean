@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_mem_perpCond
 -- name    : Neutral.B1.mem_perpCond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:04.49817+00:00
 -- url     : https://prove2.me/theorems/e87a22bb-0f28-52f5-94fc-e7b8bde76736

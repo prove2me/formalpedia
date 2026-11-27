@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PerfectFieldExtensionFormallySmooth_proof_2401a84b68ab
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PerfectFieldExtensionFormallySmooth_proof_2401a84b68ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:17:27.766552+00:00
 -- url     : https://prove2.me/theorems/7e4cc3d5-d80a-575c-bbf9-2eec9a7c95ce

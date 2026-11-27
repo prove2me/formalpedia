@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ratGram_posDef
 -- name    : GroundTheory.Automorphic.ratGram_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:07.555703+00:00
 -- url     : https://prove2.me/theorems/b5419f24-2b53-4d46-b360-f4585ad9ce9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_rhsHaar_of
 -- name    : PI.RhsWLim.W.rhsHaar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:48.759713+00:00
 -- url     : https://prove2.me/theorems/aeb97f1b-fc51-4c44-b229-03738b21d895

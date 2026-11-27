@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_of_isIntegral_of_isAlgClosed
 -- name    : GlobalTheory.geometricallyIntegral_of_isIntegral_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:17.361402+00:00
 -- url     : https://prove2.me/theorems/3d322025-25cd-46b4-90fa-44b01244f972

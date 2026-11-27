@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_localIdeal_toFractionalIdeal
 -- name    : GroundTheory.Global.IdeleGroup.localIdeal_toFractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:32.502846+00:00
 -- url     : https://prove2.me/theorems/5a588b00-2f41-5a73-8e2f-982b765d6d71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_memLp_two_and_tendsto_of_cauchy_of_ae_tendsto
 -- name    : GlobalTheory.memLp_two_and_tendsto_of_cauchy_of_ae_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:35.025463+00:00
 -- url     : https://prove2.me/theorems/c23617a3-8a8f-4b9e-9336-a70c8fbcd484

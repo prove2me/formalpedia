@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_perFr_smul
 -- name    : GlobalTheory.UnifDataTest.perFr_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:18.11506+00:00
 -- url     : https://prove2.me/theorems/7286ee34-3f00-4d0f-9a13-0afacb5210c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompressedOracleDuality_LabelSymmetric_gram_facts
 -- name    : CompressedOracleDuality.LabelSymmetric.gram_facts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:01:32.485644+00:00
 -- url     : https://prove2.me/theorems/957e96f4-bc4e-407a-ad32-01f8e0756bbe

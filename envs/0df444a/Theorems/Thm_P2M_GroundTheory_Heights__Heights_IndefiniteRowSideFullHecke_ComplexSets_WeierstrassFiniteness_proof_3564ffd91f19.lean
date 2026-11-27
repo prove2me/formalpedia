@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassFiniteness_proof_3564ffd91f19
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_WeierstrassFiniteness_proof_3564ffd91f19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:42.905947+00:00
 -- url     : https://prove2.me/theorems/936436c7-53e6-4e64-8ebe-2a8a9e70838c

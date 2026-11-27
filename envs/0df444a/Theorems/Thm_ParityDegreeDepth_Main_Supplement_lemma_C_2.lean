@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_Supplement_lemma_C_2
 -- name    : ParityDegreeDepth.Main.Supplement.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:49:06.183813+00:00
 -- url     : https://prove2.me/theorems/6209e16d-ab9c-48bd-a5d7-8a228abaca5d

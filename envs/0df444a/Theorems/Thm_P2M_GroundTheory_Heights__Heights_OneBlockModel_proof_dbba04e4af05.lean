@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockModel_proof_dbba04e4af05
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockModel_proof_dbba04e4af05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:38:22.897184+00:00
 -- url     : https://prove2.me/theorems/092da257-a5bf-55bf-8182-665fafdb1d89

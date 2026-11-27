@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_totalDegree_le_of_root_of_monic_eval
 -- name    : GlobalTheory.T.totalDegree_le_of_root_of_monic_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:40:03.932019+00:00
 -- url     : https://prove2.me/theorems/f6785fbe-a68a-4a42-966f-dc809c9788e5

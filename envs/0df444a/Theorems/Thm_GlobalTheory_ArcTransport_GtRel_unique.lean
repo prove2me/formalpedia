@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_GtRel_unique
 -- name    : GlobalTheory.ArcTransport.GtRel.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:27:31.25685+00:00
 -- url     : https://prove2.me/theorems/579c64fa-88cb-58a4-80ce-8ce55f7b4061

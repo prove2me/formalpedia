@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselL2FixAtZero_haar_transport
 -- name    : PI.UnitaryGroupMassFormula.BesselL2FixAtZero.haar_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:16.457299+00:00
 -- url     : https://prove2.me/theorems/b81f6143-ffd0-4f83-b2fe-c35ebcb0ae65

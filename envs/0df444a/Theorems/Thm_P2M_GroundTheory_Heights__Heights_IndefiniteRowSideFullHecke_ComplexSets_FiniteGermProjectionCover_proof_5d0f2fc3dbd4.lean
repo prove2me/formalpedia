@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteGermProjectionCover_proof_5d0f2fc3dbd4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteGermProjectionCover_proof_5d0f2fc3dbd4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:51.529694+00:00
 -- url     : https://prove2.me/theorems/e756a9f5-1162-572d-ab75-95a9cd7e1497

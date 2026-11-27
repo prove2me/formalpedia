@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_exists_int_trace_aeval_eq_sum_aroots
 -- name    : GlobalTheory.TraceAeval.exists_int_trace_aeval_eq_sum_aroots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:42:31.294622+00:00
 -- url     : https://prove2.me/theorems/05fa0f0c-becf-4b3d-86e3-a11439979298

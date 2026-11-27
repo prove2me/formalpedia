@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_selRep_of_mem
 -- name    : UpperTheory.V.Base.selRep_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:59.181233+00:00
 -- url     : https://prove2.me/theorems/db4e78fb-9e66-4a27-b826-a654e4b03c8b

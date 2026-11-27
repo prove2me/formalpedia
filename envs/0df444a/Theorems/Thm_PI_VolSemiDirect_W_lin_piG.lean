@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_lin_piG
 -- name    : PI.VolSemiDirect.W.lin_piG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:49.251667+00:00
 -- url     : https://prove2.me/theorems/7ea965cd-cafe-539a-87b3-24c64fdd60e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCast_mul_coeff_charpolyRev
 -- name    : GlobalTheory.natCast_mul_coeff_charpolyRev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:39.830395+00:00
 -- url     : https://prove2.me/theorems/f13e230b-646d-47db-8381-92a540f2f2c8

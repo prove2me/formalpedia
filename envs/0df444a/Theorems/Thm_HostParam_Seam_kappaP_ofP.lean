@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_kappaP_ofP
 -- name    : HostParam.Seam.kappaP_ofP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:03:59.118554+00:00
 -- url     : https://prove2.me/theorems/fe27dba2-58e7-480e-ada4-37d6045ee907

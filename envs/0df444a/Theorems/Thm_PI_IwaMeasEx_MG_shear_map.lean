@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IwaMeasEx_MG_shear_map
 -- name    : PI.IwaMeasEx.MG.shear_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:45:45.655491+00:00
 -- url     : https://prove2.me/theorems/c9e0b178-2152-45c8-9462-558f43a83409

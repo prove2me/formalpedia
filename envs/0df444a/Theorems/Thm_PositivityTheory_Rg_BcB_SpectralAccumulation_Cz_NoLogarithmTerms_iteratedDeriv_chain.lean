@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_NoLogarithmTerms_iteratedDeriv_chain
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.NoLogarithmTerms.iteratedDeriv_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:15.229981+00:00
 -- url     : https://prove2.me/theorems/d1198d4b-7a29-4220-8209-efecd2afca90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lit1_PTN_nineAdd_intro
 -- name    : PositivityTheory.Lit1.PTN.nineAdd_intro
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:56:56.044908+00:00
 -- url     : https://prove2.me/theorems/132f9110-1425-43db-a31f-58149aee0ae3

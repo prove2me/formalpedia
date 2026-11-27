@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap_subscheme__self_48797f87c60f
 -- name    : P2M_AlgebraicGeometry_Scheme_IdealSheafData_comap_subscheme__self_48797f87c60f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:03:50.515021+00:00
 -- url     : https://prove2.me/theorems/5a1041f1-3e80-5d60-b73c-1ca6408f2dce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_algebraMap_trace_eq_sum
 -- name    : GroundTheory.Global.InfinitePlace.algebraMap_trace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:54:53.966588+00:00
 -- url     : https://prove2.me/theorems/84d963f0-56f8-4017-a91d-329e42e58055

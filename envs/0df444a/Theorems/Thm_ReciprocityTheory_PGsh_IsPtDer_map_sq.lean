@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_IsPtDer_map_sq
 -- name    : ReciprocityTheory.PGsh.IsPtDer.map_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:41.656961+00:00
 -- url     : https://prove2.me/theorems/c02a1be6-7ff6-4fe2-b778-06a5e99b2de5

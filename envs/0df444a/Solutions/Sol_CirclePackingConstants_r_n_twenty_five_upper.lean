@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CirclePackingConstants.r_n_twenty_five_upper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Tamas Fulop
 -- created : 2026-09-23T14:23:09.427263+00:00
 -- url     : https://prove2.me/submissions/419ca1b4-b76b-4afc-a36c-53c26b45ce4c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CirclePackingConstants
 import Theorems.Thm_CirclePackingConstants_twentyfive_unit_square_close_pair

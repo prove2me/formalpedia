@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PerpComponentCombination_emb_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PerpComponentCombination.emb_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:13:25.38627+00:00
 -- url     : https://prove2.me/theorems/92bdd948-5027-5ced-bf41-50be964eab6d

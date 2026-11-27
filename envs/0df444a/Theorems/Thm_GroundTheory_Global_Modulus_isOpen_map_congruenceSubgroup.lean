@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_isOpen_map_congruenceSubgroup
 -- name    : GroundTheory.Global.Modulus.isOpen_map_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:00:57.948809+00:00
 -- url     : https://prove2.me/theorems/bd3a4455-2504-5ba4-b504-853595fbcfd7

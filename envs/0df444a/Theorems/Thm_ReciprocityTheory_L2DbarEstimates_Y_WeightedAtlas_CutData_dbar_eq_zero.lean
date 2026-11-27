@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_CutData_dbar_eq_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.CutData.dbar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:36.225637+00:00
 -- url     : https://prove2.me/theorems/236b520b-62cc-5674-aeb7-daef07ae8ad7

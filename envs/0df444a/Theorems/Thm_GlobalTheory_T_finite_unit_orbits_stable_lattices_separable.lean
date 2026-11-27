@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_unit_orbits_stable_lattices_separable
 -- name    : GlobalTheory.T.finite_unit_orbits_stable_lattices_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:42.380476+00:00
 -- url     : https://prove2.me/theorems/dda76fb9-7fcd-5c36-9553-2ad71e6d1b11

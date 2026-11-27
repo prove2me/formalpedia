@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_iff_iUnion_fixedVectors
 -- name    : GroundTheory.Automorphic.isSmooth_iff_iUnion_fixedVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:38.163898+00:00
 -- url     : https://prove2.me/theorems/4ebcd3c1-463e-481c-ba48-6827a6893b7a

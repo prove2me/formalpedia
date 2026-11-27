@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_totalDegree_le_DF
 -- name    : GlobalTheory.ThetaLeast.totalDegree_le_DF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:18.209152+00:00
 -- url     : https://prove2.me/theorems/f18d10ef-c670-4178-a9c8-c25ff055c047

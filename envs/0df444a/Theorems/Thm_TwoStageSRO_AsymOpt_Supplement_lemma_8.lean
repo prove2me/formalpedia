@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_Supplement_lemma_8
 -- name    : TwoStageSRO.AsymOpt.Supplement.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:36:21.989081+00:00
 -- url     : https://prove2.me/theorems/bf0d0d26-6c40-4d10-a97c-32985c53a75a

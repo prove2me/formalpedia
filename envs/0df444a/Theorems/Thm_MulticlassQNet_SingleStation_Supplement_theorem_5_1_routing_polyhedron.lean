@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_Supplement_theorem_5_1_routing_polyhedron
 -- name    : MulticlassQNet.SingleStation.Supplement.theorem_5_1_routing_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:31:17.86616+00:00
 -- url     : https://prove2.me/theorems/e2e3997d-3111-41e4-a7c4-c503eea58ebf

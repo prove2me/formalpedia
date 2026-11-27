@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rowAdd_invariant_iff
 -- name    : GlobalTheory.rowAdd_invariant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:50:05.105234+00:00
 -- url     : https://prove2.me/theorems/fb94152d-327b-598d-9f1e-a4c7583fb52f

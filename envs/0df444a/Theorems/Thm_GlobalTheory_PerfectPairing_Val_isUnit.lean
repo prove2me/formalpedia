@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_Val_isUnit
 -- name    : GlobalTheory.PerfectPairing.Val.isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:34:00.786362+00:00
 -- url     : https://prove2.me/theorems/0dd82c8e-d351-41c9-9894-e7ecb5a4a3c0

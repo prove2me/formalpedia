@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MultiHomogMemCoord_proof_c600dfcc987c
 -- name    : P2M_GroundTheory_Heights__Heights_MultiHomogMemCoord_proof_c600dfcc987c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:58.652253+00:00
 -- url     : https://prove2.me/theorems/d51abcd8-b918-5cdf-8cda-9b43440fe7c7

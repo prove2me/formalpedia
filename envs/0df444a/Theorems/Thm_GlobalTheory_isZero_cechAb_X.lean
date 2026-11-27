@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isZero_cechAb_X
 -- name    : GlobalTheory.isZero_cechAb_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:38.966119+00:00
 -- url     : https://prove2.me/theorems/661985ff-e530-405b-801d-a1b7b021f593

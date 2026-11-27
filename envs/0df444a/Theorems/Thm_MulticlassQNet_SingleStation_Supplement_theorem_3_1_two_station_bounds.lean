@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_Supplement_theorem_3_1_two_station_bounds
 -- name    : MulticlassQNet.SingleStation.Supplement.theorem_3_1_two_station_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:30:08.432513+00:00
 -- url     : https://prove2.me/theorems/00d34462-29ef-42e1-8278-e840ed49a359

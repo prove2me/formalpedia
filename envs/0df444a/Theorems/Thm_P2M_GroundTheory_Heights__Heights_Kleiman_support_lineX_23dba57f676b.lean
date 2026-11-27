@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_support_lineX_23dba57f676b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_support_lineX_23dba57f676b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:16.295609+00:00
 -- url     : https://prove2.me/theorems/79123b12-c8c7-481e-abea-daf0b3112428

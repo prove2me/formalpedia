@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalMinimal_full_6ef6620408bd
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalMinimal_full_6ef6620408bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:33:06.563496+00:00
 -- url     : https://prove2.me/theorems/c35b9978-c04d-4618-b44c-9239fd3af321

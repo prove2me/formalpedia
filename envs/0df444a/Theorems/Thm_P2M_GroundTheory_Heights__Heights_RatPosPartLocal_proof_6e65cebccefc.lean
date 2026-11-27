@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatPosPartLocal_proof_6e65cebccefc
 -- name    : P2M_GroundTheory_Heights__Heights_RatPosPartLocal_proof_6e65cebccefc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:49:18.506275+00:00
 -- url     : https://prove2.me/theorems/21b3dee3-bf45-481b-9b87-00e48dda2274

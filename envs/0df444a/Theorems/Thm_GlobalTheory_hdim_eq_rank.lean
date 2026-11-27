@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hdim_eq_rank
 -- name    : GlobalTheory.hdim_eq_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:21.962875+00:00
 -- url     : https://prove2.me/theorems/16081519-3f19-49d6-931e-c73235e285ea

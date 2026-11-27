@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_EmbedLocal_of_parts
 -- name    : GlobalTheory.ZM.EmbedLocal.of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:21.916911+00:00
 -- url     : https://prove2.me/theorems/5499a6c4-c774-5d2f-ae57-a477f2240b3a

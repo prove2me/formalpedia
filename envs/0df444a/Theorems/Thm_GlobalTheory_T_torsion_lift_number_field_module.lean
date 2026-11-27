@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsion_lift_number_field_module
 -- name    : GlobalTheory.T.torsion_lift_number_field_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:19.79417+00:00
 -- url     : https://prove2.me/theorems/a20d3e1f-0656-4d9b-bc39-1ca03a40cd3b

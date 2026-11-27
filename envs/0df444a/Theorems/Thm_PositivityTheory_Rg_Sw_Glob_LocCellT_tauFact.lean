@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_LocCellT_tauFact
 -- name    : PositivityTheory.Rg.Sw.Glob.LocCellT.tauFact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:33.932197+00:00
 -- url     : https://prove2.me/theorems/2f909412-084c-5ac3-811b-d332e6b1c71c

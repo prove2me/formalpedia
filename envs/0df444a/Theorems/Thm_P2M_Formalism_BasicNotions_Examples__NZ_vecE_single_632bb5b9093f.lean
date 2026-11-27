@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_vecE_single_632bb5b9093f
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_vecE_single_632bb5b9093f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:41.217529+00:00
 -- url     : https://prove2.me/theorems/cf3f0eb9-7c75-44c3-bd79-10917ffc883c

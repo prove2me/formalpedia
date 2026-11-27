@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynRouting_ResidenceTime_Supplement_theorem_2
 -- name    : AtomicDynRouting.ResidenceTime.Supplement.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T06:33:00.713147+00:00
 -- url     : https://prove2.me/theorems/94d9b336-a353-4dbc-b29d-446a15341a2f

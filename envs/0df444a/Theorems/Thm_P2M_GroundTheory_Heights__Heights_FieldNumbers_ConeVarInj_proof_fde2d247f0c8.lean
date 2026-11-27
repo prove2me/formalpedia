@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeVarInj_proof_fde2d247f0c8
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ConeVarInj_proof_fde2d247f0c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:27:10.122183+00:00
 -- url     : https://prove2.me/theorems/cd4ec6d7-250e-5ac0-a47e-c68b064d86a8

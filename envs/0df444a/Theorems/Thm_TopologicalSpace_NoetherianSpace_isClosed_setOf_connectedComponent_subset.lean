@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopologicalSpace_NoetherianSpace_isClosed_setOf_connectedComponent_subset
 -- name    : TopologicalSpace.NoetherianSpace.isClosed_setOf_connectedComponent_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:20.842917+00:00
 -- url     : https://prove2.me/theorems/7f6bc195-34a0-561c-9971-4e379332d439

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_gI_gauss
 -- name    : PositivityTheory.ThKG.Std.gI_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:04:06.408903+00:00
 -- url     : https://prove2.me/theorems/e697c684-2116-4409-9d9b-23c6b6e864be

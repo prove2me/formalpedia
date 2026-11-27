@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_strong_of_weak
 -- name    : PositivityTheory.ThKG.Loc.Bump.strong_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:52.092191+00:00
 -- url     : https://prove2.me/theorems/82955eeb-9a31-454e-a871-ebf290c41606

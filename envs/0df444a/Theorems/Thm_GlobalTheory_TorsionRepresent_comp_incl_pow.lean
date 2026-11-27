@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionRepresent_comp_incl_pow
 -- name    : GlobalTheory.TorsionRepresent.comp_incl_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:34.516584+00:00
 -- url     : https://prove2.me/theorems/a8726dcf-e299-448f-bd65-3f635ed2bac2

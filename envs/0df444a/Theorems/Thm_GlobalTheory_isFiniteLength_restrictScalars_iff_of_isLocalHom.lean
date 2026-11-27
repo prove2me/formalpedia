@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isFiniteLength_restrictScalars_iff_of_isLocalHom
 -- name    : GlobalTheory.isFiniteLength_restrictScalars_iff_of_isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:25.206915+00:00
 -- url     : https://prove2.me/theorems/5789386d-f5b9-4552-9fc7-9fee16ba9536

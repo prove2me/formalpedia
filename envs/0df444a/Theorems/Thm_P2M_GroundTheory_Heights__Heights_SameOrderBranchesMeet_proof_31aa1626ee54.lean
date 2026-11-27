@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SameOrderBranchesMeet_proof_31aa1626ee54
 -- name    : P2M_GroundTheory_Heights__Heights_SameOrderBranchesMeet_proof_31aa1626ee54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:06:38.861584+00:00
 -- url     : https://prove2.me/theorems/ce0b30d1-e430-4172-9671-7166959ad4e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_formalGroup_param_sq_norm
 -- name    : ReciprocityTheory.ChartRestriction.L1.formalGroup_param_sq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:18.183291+00:00
 -- url     : https://prove2.me/theorems/d1e49137-cbf3-4299-a708-ae2898993168

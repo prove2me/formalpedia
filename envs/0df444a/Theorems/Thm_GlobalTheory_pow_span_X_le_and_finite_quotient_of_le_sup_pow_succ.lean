@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_span_X_le_and_finite_quotient_of_le_sup_pow_succ
 -- name    : GlobalTheory.pow_span_X_le_and_finite_quotient_of_le_sup_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:50:39.202897+00:00
 -- url     : https://prove2.me/theorems/6b1c061d-35fa-548c-833c-ad2c62d81302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegCurvBound_proof_bcce63714e55
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegCurvBound_proof_bcce63714e55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:31:06.662941+00:00
 -- url     : https://prove2.me/theorems/feff0da8-ad9c-5722-a179-0d6032c8f64e

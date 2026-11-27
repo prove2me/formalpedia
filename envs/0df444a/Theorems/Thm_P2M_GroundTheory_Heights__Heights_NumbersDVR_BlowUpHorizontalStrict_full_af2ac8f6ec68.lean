@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalStrict_full_af2ac8f6ec68
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpHorizontalStrict_full_af2ac8f6ec68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:32:33.076122+00:00
 -- url     : https://prove2.me/theorems/82531785-5cf7-403b-9640-01d59ece1b0f

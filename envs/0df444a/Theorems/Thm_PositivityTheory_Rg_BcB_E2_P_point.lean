@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_point
 -- name    : PositivityTheory.Rg.BcB.E2.P.point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:46.774561+00:00
 -- url     : https://prove2.me/theorems/8b29ca04-ec8a-4ca9-9b5a-e1fa9fd390db

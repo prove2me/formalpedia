@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_projectiveLineZeroForm_holds_analyticResolution_hypotheses_projectiveLine_85ec5da3cef9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_projectiveLineZeroForm_holds_analyticResolution_hypotheses_projectiveLine_85ec5da3cef9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:40:52.550683+00:00
 -- url     : https://prove2.me/theorems/c25e9ca7-e42f-4170-a543-21d61895a25b

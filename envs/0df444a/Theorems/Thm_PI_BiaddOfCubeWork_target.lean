@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BiaddOfCubeWork_target
 -- name    : PI.BiaddOfCubeWork.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:23.077724+00:00
 -- url     : https://prove2.me/theorems/b452e607-5e85-4a7a-ba87-47ceac0575ff

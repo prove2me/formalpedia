@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_cosetAvg_indFun
 -- name    : GroundTheory.Global.Artin.cosetAvg_indFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:11.703806+00:00
 -- url     : https://prove2.me/theorems/43bef036-7741-56f0-b0a9-12b143e38592

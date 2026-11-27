@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_stableInv_eq_stableInv_iff
 -- name    : GroundTheory.Automorphic.HermitianForm.stableInv_eq_stableInv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:13.266145+00:00
 -- url     : https://prove2.me/theorems/ab45e834-aa3d-5a12-a0f8-7e7ce07915d3

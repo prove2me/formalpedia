@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coordReduce_surjective
 -- name    : GroundTheory.Global.coordReduce_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:04:07.407797+00:00
 -- url     : https://prove2.me/theorems/06d7bcb3-4eb2-504c-bc57-6817abf21af8

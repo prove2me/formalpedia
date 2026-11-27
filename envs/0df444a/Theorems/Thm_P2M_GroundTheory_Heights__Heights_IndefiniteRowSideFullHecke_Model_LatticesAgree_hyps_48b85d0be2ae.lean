@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_LatticesAgree_hyps_48b85d0be2ae
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_LatticesAgree_hyps_48b85d0be2ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:51.676086+00:00
 -- url     : https://prove2.me/theorems/39d478cd-4223-43a4-8094-18c32a68aa41

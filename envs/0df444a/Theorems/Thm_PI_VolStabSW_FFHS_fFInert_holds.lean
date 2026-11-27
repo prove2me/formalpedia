@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FFHS_fFInert_holds
 -- name    : PI.VolStabSW.FFHS.fFInert_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:39.756448+00:00
 -- url     : https://prove2.me/theorems/7b1fd1b4-626b-5481-a114-cb6f90d84aa7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ChartGlue_proof_c3b030459b35
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ChartGlue_proof_c3b030459b35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:33:57.947165+00:00
 -- url     : https://prove2.me/theorems/cda91c71-b034-557a-83ad-647004d65f52

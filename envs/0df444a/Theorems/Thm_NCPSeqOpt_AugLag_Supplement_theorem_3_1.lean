@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NCPSeqOpt_AugLag_Supplement_theorem_3_1
 -- name    : NCPSeqOpt.AugLag.Supplement.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T03:47:09.458186+00:00
 -- url     : https://prove2.me/theorems/1fc300ea-8564-400f-a6df-d68a43a31e45

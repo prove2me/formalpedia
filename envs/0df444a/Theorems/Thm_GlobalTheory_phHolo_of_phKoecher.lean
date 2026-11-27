@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_phHolo_of_phKoecher
 -- name    : GlobalTheory.phHolo_of_phKoecher
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:41.217814+00:00
 -- url     : https://prove2.me/theorems/a35c1bf6-78f5-522e-945b-ff827adcbd3c

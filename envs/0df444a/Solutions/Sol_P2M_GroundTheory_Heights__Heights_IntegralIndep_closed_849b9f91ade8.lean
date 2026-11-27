@@ -1,0 +1,45 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_IntegralIndep_closed_849b9f91ade8
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-27T05:08:52.993886+00:00
+-- url     : https://prove2.me/submissions/6c52e0b4-577d-434f-9e06-f96f3763cab0
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PIntegralIndependent
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPosPartIndependent
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PSheetOnlyNull
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFiniteMapOpen
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PCriticalImageNull
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPosPartLocal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPosPartSplit
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PIntegralIndep
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CriticalImageNull_proof_bedda1fe3c58
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_FiniteMapOpen_proof_223c44725f20
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntegralIndep_proof_4b5bf5e5d261
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_PosPartIndep_proof_0995bedb399d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_PosPartLocal_proof_e81aa8f9681d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_PosPartSplit_proof_e6248afef178
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetOnlyNull_proof_03186e126e60
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_proof_de88497bcca1
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+namespace GroundTheory.Heights₂.Heights
+namespace IntegralIndep
+theorem _root_.solution : IntegralIndep.Statement :=
+  IntegralIndep.proof
+    (PosPartIndep.proof
+      (SheetOnlyNull.proof IndefiniteRowSideFullHecke.ComplexSets.FiniteMapOpen.proof
+        IndefiniteRowSideFullHecke.ComplexSets.CriticalImageNull.proof)
+      PosPartLocal.proof PosPartSplit.proof)
+end IntegralIndep
+end GroundTheory.Heights₂.Heights

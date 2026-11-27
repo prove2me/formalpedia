@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_of_etale_of_surjective
 -- name    : GlobalTheory.existsUnique_lift_of_etale_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:28.446188+00:00
 -- url     : https://prove2.me/theorems/9c0f8062-99de-41d8-a29c-ee38a1044186

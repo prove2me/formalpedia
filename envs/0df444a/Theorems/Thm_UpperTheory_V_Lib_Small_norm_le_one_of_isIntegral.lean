@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_norm_le_one_of_isIntegral
 -- name    : UpperTheory.V.Lib.Small.norm_le_one_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:48.993321+00:00
 -- url     : https://prove2.me/theorems/e8e818a9-faa3-43de-8052-6962e1164c0d

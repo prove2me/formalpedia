@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NoCommonComponentCase_proof_dd76019d14e5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NoCommonComponentCase_proof_dd76019d14e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:00.103083+00:00
 -- url     : https://prove2.me/theorems/668abf2d-3bd1-48e2-94bf-68aa3699c962

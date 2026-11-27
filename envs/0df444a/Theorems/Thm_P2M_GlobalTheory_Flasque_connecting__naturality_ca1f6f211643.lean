@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Flasque_connecting__naturality_ca1f6f211643
 -- name    : P2M_GlobalTheory_Flasque_connecting__naturality_ca1f6f211643
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:10.817854+00:00
 -- url     : https://prove2.me/theorems/be6e6414-fc44-58d8-8386-ca612a1c9a3b

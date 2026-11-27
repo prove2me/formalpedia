@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_toOm_apply_83828b1ee190
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_toOm_apply_83828b1ee190
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:34:23.508981+00:00
 -- url     : https://prove2.me/theorems/e2441450-e756-4af0-a1c7-477d2d381ecd

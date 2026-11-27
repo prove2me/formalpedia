@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_bound_of_step_diff
 -- name    : GlobalTheory.sum_bound_of_step_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:57.168508+00:00
 -- url     : https://prove2.me/theorems/1757e0c4-4f5a-41d8-b232-a7cea32ab115

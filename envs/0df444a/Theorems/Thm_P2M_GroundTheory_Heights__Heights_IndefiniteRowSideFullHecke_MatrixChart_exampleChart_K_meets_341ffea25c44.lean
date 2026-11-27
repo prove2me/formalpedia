@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_K_meets_341ffea25c44
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_MatrixChart_exampleChart_K_meets_341ffea25c44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:23.836855+00:00
 -- url     : https://prove2.me/theorems/fff3a45c-a52a-4ce0-92e5-db107a9d1fa7

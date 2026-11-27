@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_mul_strictLower_eq_one
 -- name    : GlobalTheory.det_mul_strictLower_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:46:11.101286+00:00
 -- url     : https://prove2.me/theorems/975ac8ac-7e8d-53a9-b455-bf5a3e65db2c

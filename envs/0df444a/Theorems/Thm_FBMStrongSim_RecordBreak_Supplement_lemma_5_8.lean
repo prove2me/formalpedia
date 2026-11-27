@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBMStrongSim_RecordBreak_Supplement_lemma_5_8
 -- name    : FBMStrongSim.RecordBreak.Supplement.lemma_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:33:56.864264+00:00
 -- url     : https://prove2.me/theorems/b2ef9ab9-0f36-4994-93bd-21707bd8340f

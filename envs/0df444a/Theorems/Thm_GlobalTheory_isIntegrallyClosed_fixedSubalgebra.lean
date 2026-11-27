@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegrallyClosed_fixedSubalgebra
 -- name    : GlobalTheory.isIntegrallyClosed_fixedSubalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:54.433798+00:00
 -- url     : https://prove2.me/theorems/98d60f3b-0406-52a6-9e7a-dd13a7099513

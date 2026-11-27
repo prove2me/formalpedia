@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_continuous_mat
 -- name    : GlobalTheory.VolPairExists.continuous_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:44:50.514468+00:00
 -- url     : https://prove2.me/theorems/6c10ff41-28eb-5667-8194-f298f5a8984c

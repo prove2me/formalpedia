@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_BoundedInjection_pos_fc12197aac5f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_BoundedInjection_pos_fc12197aac5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:13.364362+00:00
 -- url     : https://prove2.me/theorems/d5d7f8ec-243c-4663-a3b8-1ddaed5d5455

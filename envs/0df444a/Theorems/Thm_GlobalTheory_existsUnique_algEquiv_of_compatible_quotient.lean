@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algEquiv_of_compatible_quotient
 -- name    : GlobalTheory.existsUnique_algEquiv_of_compatible_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:45.842936+00:00
 -- url     : https://prove2.me/theorems/d9bf9971-5326-517b-8e16-0773c5ea3298

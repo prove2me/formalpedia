@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CharIdemW_end_one_ne_zero
 -- name    : PI.CharIdemW.end_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:44:24.479394+00:00
 -- url     : https://prove2.me/theorems/5a38f437-9326-4d53-9135-c6061cc5d119

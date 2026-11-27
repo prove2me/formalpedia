@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBetaCompare_isBe_principal
 -- name    : GlobalTheory.LatticeBetaCompare.isBe_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:30:24.738352+00:00
 -- url     : https://prove2.me/theorems/bb2f1ed6-7077-58e8-98f3-6d61b5ee1fac

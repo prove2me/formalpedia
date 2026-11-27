@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_weberFunction_eq_iff
 -- name    : GroundTheory.Global.weberFunction_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:19.151448+00:00
 -- url     : https://prove2.me/theorems/810fcf27-8e69-46db-bf23-8451cb0231ed

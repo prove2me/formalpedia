@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_fromBlocks_mul_inr
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.fromBlocks_mul_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:18:53.551843+00:00
 -- url     : https://prove2.me/theorems/065f9ee9-b00c-5e3c-a39d-72e46134a470

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RelSlopeQuot_proof_ffcb82a9a921
 -- name    : P2M_GroundTheory_Heights__Heights_RelSlopeQuot_proof_ffcb82a9a921
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:36:53.000949+00:00
 -- url     : https://prove2.me/theorems/44126f4b-3ebe-421a-8553-fb96828a7ef0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_read_iff
 -- name    : GlobalTheory.VolPairExists.read_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:46.574913+00:00
 -- url     : https://prove2.me/theorems/e1930cfc-7fc0-549a-96bf-b2d52ba05d58

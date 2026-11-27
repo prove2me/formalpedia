@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_inertiaDegree_relDeg
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.inertiaDegree_relDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:58:48.35759+00:00
 -- url     : https://prove2.me/theorems/da8719d5-0774-4409-9f8c-4614bab6ceb7

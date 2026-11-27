@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamCritNull_proof_7741b377e6e3
 -- name    : P2M_GroundTheory_Heights__Heights_ParamCritNull_proof_7741b377e6e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:36:27.376473+00:00
 -- url     : https://prove2.me/theorems/43b5a3e4-2f8d-4590-9da3-b3982084d7a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Hi_iwMem
 -- name    : UpperTheory.V.Hi.iwMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:41:05.505723+00:00
 -- url     : https://prove2.me/theorems/90efdf3e-beb6-4f73-8968-97c16d7288f7

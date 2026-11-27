@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_balancedSchwarz
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.balancedSchwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:27.13979+00:00
 -- url     : https://prove2.me/theorems/3e661f67-106a-48bb-8cdb-43e753ed1b5f

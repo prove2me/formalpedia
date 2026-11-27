@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Prism_FCrys_unit_crys___ne_zero_282cdfcb9504
 -- name    : P2M_GlobalTheory_Prism_FCrys_unit_crys___ne_zero_282cdfcb9504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:30.687057+00:00
 -- url     : https://prove2.me/theorems/f0be5079-c179-53d2-9fa7-7f8692fdd446

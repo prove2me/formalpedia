@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Herm_line
 -- name    : GlobalTheory.ThK.Dbl.Herm.line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:37.536148+00:00
 -- url     : https://prove2.me/theorems/97c8209f-c76e-42ec-b895-9dda7ec9d68e

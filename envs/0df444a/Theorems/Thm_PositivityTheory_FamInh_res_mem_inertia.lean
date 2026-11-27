@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_res_mem_inertia
 -- name    : PositivityTheory.FamInh.res_mem_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:47.639828+00:00
 -- url     : https://prove2.me/theorems/310118a5-083f-500b-b676-0f6d4c847ad7

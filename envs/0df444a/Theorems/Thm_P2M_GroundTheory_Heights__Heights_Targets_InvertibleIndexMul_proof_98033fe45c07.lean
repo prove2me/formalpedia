@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexMul_proof_98033fe45c07
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_InvertibleIndexMul_proof_98033fe45c07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:42:47.550945+00:00
 -- url     : https://prove2.me/theorems/355f920c-ae9f-4f79-9170-db03f0e2d415

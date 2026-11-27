@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isOpen_ker_of_continuous
 -- name    : GroundTheory.Global.IdeleGroup.isOpen_ker_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:59:29.419516+00:00
 -- url     : https://prove2.me/theorems/88543c88-bca4-57ef-a1ac-fd3760f95075

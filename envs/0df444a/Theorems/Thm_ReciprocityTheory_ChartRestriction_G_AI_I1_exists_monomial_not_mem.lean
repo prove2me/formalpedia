@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_exists_monomial_not_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.exists_monomial_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:07.812796+00:00
 -- url     : https://prove2.me/theorems/ef5603c0-85cd-4905-b3cf-74a8c5a7b37a

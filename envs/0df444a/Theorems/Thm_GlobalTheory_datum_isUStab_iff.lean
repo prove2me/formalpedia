@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datum_isUStab_iff
 -- name    : GlobalTheory.datum_isUStab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:13.295578+00:00
 -- url     : https://prove2.me/theorems/3e0e5341-9beb-4c35-b05b-3a7ab2f640e7

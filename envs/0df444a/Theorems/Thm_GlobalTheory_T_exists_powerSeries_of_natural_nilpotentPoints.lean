@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_powerSeries_of_natural_nilpotentPoints
 -- name    : GlobalTheory.T.exists_powerSeries_of_natural_nilpotentPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:34:59.517967+00:00
 -- url     : https://prove2.me/theorems/943466e6-efc0-5fea-b1cd-05daae9a4196

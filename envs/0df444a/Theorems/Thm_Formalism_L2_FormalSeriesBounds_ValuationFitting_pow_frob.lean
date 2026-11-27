@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationFitting_pow_frob
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationFitting.pow_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:34:14.080397+00:00
 -- url     : https://prove2.me/theorems/e9e88722-12de-4ff5-bc35-559f77715df9

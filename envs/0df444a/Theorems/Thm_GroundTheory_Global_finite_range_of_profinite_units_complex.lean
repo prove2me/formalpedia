@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_range_of_profinite_units_complex
 -- name    : GroundTheory.Global.finite_range_of_profinite_units_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:55:40.003803+00:00
 -- url     : https://prove2.me/theorems/8bcfbe2b-d87e-4d31-b11d-edb0ba1d191b

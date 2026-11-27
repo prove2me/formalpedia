@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_riesz
 -- name    : PI.ScRefExists.WF.riesz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:14.322794+00:00
 -- url     : https://prove2.me/theorems/bf9a57f4-b0d8-473e-a8c7-b34859765735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegralProjIndep_proof_944cefc4c00d
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegralProjIndep_proof_944cefc4c00d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:13.449116+00:00
 -- url     : https://prove2.me/theorems/e8d2a645-d47a-45e1-b529-deb6b520b358

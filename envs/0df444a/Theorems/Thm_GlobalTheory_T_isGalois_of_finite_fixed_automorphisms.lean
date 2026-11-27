@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isGalois_of_finite_fixed_automorphisms
 -- name    : GlobalTheory.T.isGalois_of_finite_fixed_automorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:33:58.490436+00:00
 -- url     : https://prove2.me/theorems/7375911b-fddc-593e-836b-2de01745625e

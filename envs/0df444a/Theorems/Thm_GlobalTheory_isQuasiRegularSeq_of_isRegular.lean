@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_of_isRegular
 -- name    : GlobalTheory.isQuasiRegularSeq_of_isRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:14.819304+00:00
 -- url     : https://prove2.me/theorems/ffe6c6a6-8e26-5782-bb1f-0c2ff8e98773

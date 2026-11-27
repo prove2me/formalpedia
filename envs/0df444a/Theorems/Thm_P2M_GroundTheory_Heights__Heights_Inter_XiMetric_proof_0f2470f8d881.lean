@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_XiMetric_proof_0f2470f8d881
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_XiMetric_proof_0f2470f8d881
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:59.54221+00:00
 -- url     : https://prove2.me/theorems/927988b5-53a4-54d8-95c4-7bf989849c57

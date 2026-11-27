@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CoordFibreDeg_proof_94d3b068d2b3
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CoordFibreDeg_proof_94d3b068d2b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:00:37.341272+00:00
 -- url     : https://prove2.me/theorems/4a6c25b8-692d-5833-9aea-555e4a53e109

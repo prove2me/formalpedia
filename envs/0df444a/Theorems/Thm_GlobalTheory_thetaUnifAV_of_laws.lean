@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaUnifAV_of_laws
 -- name    : GlobalTheory.thetaUnifAV_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:04:12.66669+00:00
 -- url     : https://prove2.me/theorems/c967c956-3e2a-4204-87ac-184e15a2f537

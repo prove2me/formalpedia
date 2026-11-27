@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_elementarySubgroup_of_det_eq_one
 -- name    : GroundTheory.Automorphic.mem_elementarySubgroup_of_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:48.243926+00:00
 -- url     : https://prove2.me/theorems/bbc1cb44-db5d-5dee-bdcc-cb8cf80f8ab4

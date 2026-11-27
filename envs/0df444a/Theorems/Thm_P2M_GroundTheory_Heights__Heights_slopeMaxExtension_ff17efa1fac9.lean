@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_slopeMaxExtension_ff17efa1fac9
 -- name    : P2M_GroundTheory_Heights__Heights_slopeMaxExtension_ff17efa1fac9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:48:16.529722+00:00
 -- url     : https://prove2.me/theorems/2af12179-16c1-4ff6-a5a2-10c634950460

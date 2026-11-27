@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ExistsNatMulMem_exists_nat_mul_mem
 -- name    : UpperTheory.Reformulated.B.ExistsNatMulMem.exists_nat_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:44.119877+00:00
 -- url     : https://prove2.me/theorems/9768051d-9aca-4b75-801c-782c24d2a2cd

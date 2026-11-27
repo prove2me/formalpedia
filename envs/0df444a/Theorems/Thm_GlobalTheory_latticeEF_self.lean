@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeEF_self
 -- name    : GlobalTheory.latticeEF_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:45:55.173815+00:00
 -- url     : https://prove2.me/theorems/2dd90392-505f-5da7-9499-6a4fd7d4d3b6

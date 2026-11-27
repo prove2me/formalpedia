@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperOpenProjectionLocalUnbranched_proof_505328ddd7e9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperOpenProjectionLocalUnbranched_proof_505328ddd7e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:30.789099+00:00
 -- url     : https://prove2.me/theorems/3a4db94d-c2c9-4726-ad82-900e68e72c9e

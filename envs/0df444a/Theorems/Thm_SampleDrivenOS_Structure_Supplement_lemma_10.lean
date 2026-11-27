@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Structure_Supplement_lemma_10
 -- name    : SampleDrivenOS.Structure.Supplement.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:47:04.39427+00:00
 -- url     : https://prove2.me/theorems/eea16023-4a27-4ccb-9aab-5bbfcdb564c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_add_eq_left
 -- name    : GroundTheory.PAdicHodge.nrm_add_eq_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:47.183178+00:00
 -- url     : https://prove2.me/theorems/197d8a7c-6757-46c8-ac15-dc3130b8cb01

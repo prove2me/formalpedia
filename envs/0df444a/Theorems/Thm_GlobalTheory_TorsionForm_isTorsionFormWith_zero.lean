@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionForm_isTorsionFormWith_zero
 -- name    : GlobalTheory.TorsionForm.isTorsionFormWith_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:08.370801+00:00
 -- url     : https://prove2.me/theorems/d9debafe-8692-4e61-8a0a-a9d3787d6e8a

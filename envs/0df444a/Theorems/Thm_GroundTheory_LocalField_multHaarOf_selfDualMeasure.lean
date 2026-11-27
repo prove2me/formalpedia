@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_multHaarOf_selfDualMeasure
 -- name    : GroundTheory.LocalField.multHaarOf_selfDualMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:55.60529+00:00
 -- url     : https://prove2.me/theorems/26dd8db4-022a-516a-9a38-518dbcdae1a7

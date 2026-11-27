@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_ProjectiveLinePlaces_fib__cls_b929070d621b
 -- name    : P2M_ReciprocityTheory_Coh_ProjectiveLinePlaces_fib__cls_b929070d621b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:22.950095+00:00
 -- url     : https://prove2.me/theorems/c3b9a347-e6f7-5892-b465-6279a87df337

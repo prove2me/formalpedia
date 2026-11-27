@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LengthMapIdealLe_proof_cd74b900e1b2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LengthMapIdealLe_proof_cd74b900e1b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:16.707+00:00
 -- url     : https://prove2.me/theorems/7d662717-7138-4354-9e0c-93a2b5cb30c3

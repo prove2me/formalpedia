@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_isDiscreteRep_X__of_shortExact_bd22bfdec208
 -- name    : P2M_GroundTheory_ProfCoh_isDiscreteRep_X__of_shortExact_bd22bfdec208
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:35.772096+00:00
 -- url     : https://prove2.me/theorems/a62d8f3c-3780-56dd-9cc6-59e896d4fc22

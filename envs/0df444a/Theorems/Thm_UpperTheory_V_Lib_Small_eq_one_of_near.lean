@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_eq_one_of_near
 -- name    : UpperTheory.V.Lib.Small.eq_one_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:31.769816+00:00
 -- url     : https://prove2.me/theorems/306f51f2-243d-478c-83cc-6577eb9728ee

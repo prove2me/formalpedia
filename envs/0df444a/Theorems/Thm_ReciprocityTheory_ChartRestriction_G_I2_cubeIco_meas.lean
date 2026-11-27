@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cubeIco_meas
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cubeIco_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:15:31.68038+00:00
 -- url     : https://prove2.me/theorems/b70f91fe-cb82-46c6-a662-b28d84d3f6d7

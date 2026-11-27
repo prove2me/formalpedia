@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsEquivIntProd_uniformizer
 -- name    : GroundTheory.LocalField.unitsEquivIntProd_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:41.767012+00:00
 -- url     : https://prove2.me/theorems/413bfefa-4e88-465d-b8ac-dda4f459da56

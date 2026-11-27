@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramified_iSup
 -- name    : GroundTheory.LocalField.IsUnramified.iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:04:03.426939+00:00
 -- url     : https://prove2.me/theorems/8cb6dfc5-0efb-44aa-bff2-73bbf6948c21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalIdeles_mulMap_apply
 -- name    : GroundTheory.Global.RationalIdeles.mulMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:12.328995+00:00
 -- url     : https://prove2.me/theorems/da13c947-da41-5fbf-bf59-aed18ce6e5ee

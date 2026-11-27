@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_SIdeleClassGroupPos_mk_eq_one_of_mem
 -- name    : GroundTheory.ProfCoh.SIdeleClassGroupPos.mk_eq_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:32.743656+00:00
 -- url     : https://prove2.me/theorems/49242728-eae4-5d34-8525-d98b60767b05

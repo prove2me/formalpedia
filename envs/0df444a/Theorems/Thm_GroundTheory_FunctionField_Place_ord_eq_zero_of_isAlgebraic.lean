@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_ord_eq_zero_of_isAlgebraic
 -- name    : GroundTheory.FunctionField.Place.ord_eq_zero_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:41.505266+00:00
 -- url     : https://prove2.me/theorems/8f4c22e4-d93e-4e7d-a43c-ecce972819fd

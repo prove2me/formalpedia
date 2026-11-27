@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1
 -- name    : P2M_GlobalTheory_GradedShortExact_exact_map___9923350c87f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:43.730309+00:00
 -- url     : https://prove2.me/theorems/b353af68-266c-5095-91a6-c075b2d1bdb3

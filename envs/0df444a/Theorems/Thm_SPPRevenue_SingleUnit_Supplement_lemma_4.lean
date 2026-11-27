@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPPRevenue_SingleUnit_Supplement_lemma_4
 -- name    : SPPRevenue.SingleUnit.Supplement.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T20:15:33.554887+00:00
 -- url     : https://prove2.me/theorems/4e88d9ea-e15d-4614-83f1-fd42a96cffac

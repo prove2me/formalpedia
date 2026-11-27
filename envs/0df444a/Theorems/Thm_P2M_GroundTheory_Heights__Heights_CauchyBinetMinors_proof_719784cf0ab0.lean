@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CauchyBinetMinors_proof_719784cf0ab0
 -- name    : P2M_GroundTheory_Heights__Heights_CauchyBinetMinors_proof_719784cf0ab0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:07:53.065689+00:00
 -- url     : https://prove2.me/theorems/bd9a8d6e-bfd5-5e72-968e-6cbc1283653b

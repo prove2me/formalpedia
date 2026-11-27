@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_deriv_weierstrassSigma_of_mem
 -- name    : GlobalTheory.deriv_weierstrassSigma_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:26.216018+00:00
 -- url     : https://prove2.me/theorems/6ce52073-4580-5667-a8b7-bb94552b4adc

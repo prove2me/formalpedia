@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_mem_nclo_3cc3277ee635
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_mem_nclo_3cc3277ee635
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:19:41.095326+00:00
 -- url     : https://prove2.me/theorems/023a78f2-b3e6-49aa-8999-63a9a0d02256

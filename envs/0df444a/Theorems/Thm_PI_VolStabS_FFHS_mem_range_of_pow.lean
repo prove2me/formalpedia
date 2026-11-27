@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_mem_range_of_pow
 -- name    : PI.VolStabS.FFHS.mem_range_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:48:45.806317+00:00
 -- url     : https://prove2.me/theorems/94df3433-620e-4237-909b-5031128b083b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_UnimodularLast_proof_bac7c347f523
 -- name    : P2M_GroundTheory_Heights__Heights_UnimodularLast_proof_bac7c347f523
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:11.640268+00:00
 -- url     : https://prove2.me/theorems/613f00ef-16db-44be-89e1-4b79dc475ef6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_riesz_eigenvector_sesquilinear_function_space
 -- name    : GlobalTheory.T.riesz_eigenvector_sesquilinear_function_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:32.4598+00:00
 -- url     : https://prove2.me/theorems/bab39cf7-bbf8-48ef-9148-8d04d73fb8a9

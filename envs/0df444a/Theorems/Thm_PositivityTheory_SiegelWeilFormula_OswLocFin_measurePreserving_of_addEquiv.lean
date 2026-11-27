@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_OswLocFin_measurePreserving_of_addEquiv
 -- name    : PositivityTheory.SiegelWeilFormula.OswLocFin.measurePreserving_of_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:56.043675+00:00
 -- url     : https://prove2.me/theorems/f1ddf6a8-ea90-5d95-988a-20a69390cc01

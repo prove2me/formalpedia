@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_idealLattice_summable_norm
 -- name    : GroundTheory.Global.idealLattice_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:47.206358+00:00
 -- url     : https://prove2.me/theorems/bdda7e77-46cd-5604-80e4-e37b2332eeba

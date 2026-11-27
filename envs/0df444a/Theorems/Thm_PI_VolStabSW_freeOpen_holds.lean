@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_freeOpen_holds
 -- name    : PI.VolStabSW.freeOpen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:49.99179+00:00
 -- url     : https://prove2.me/theorems/ca3581d9-5e4c-46f8-a98a-0fdb81378827

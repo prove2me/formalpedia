@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_extension_unique
 -- name    : GlobalTheory.extension_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:21.140953+00:00
 -- url     : https://prove2.me/theorems/04d0aae2-ec26-42bb-ac69-17a6211dfcff

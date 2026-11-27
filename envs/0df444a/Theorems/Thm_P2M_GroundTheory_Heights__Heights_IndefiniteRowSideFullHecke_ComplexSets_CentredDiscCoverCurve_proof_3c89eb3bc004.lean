@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredDiscCoverCurve_proof_3c89eb3bc004
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_CentredDiscCoverCurve_proof_3c89eb3bc004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:15:58.048968+00:00
 -- url     : https://prove2.me/theorems/bc326c82-4620-41ef-8614-412217fdc721

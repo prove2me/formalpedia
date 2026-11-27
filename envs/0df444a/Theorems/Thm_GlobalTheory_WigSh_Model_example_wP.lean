@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_example_wP
 -- name    : GlobalTheory.WigSh.Model.example_wP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:43:23.93241+00:00
 -- url     : https://prove2.me/theorems/141e0d95-7ab2-5d9e-9d67-ca3901ce823c

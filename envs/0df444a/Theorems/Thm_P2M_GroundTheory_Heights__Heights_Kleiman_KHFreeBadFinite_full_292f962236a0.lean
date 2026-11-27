@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeBadFinite_full_292f962236a0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeBadFinite_full_292f962236a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:23.915589+00:00
 -- url     : https://prove2.me/theorems/f60da337-028e-5a1b-960e-d79adaeecc32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchIntDecompose_proof_c16e3216022f
 -- name    : P2M_GroundTheory_Heights__Heights_BranchIntDecompose_proof_c16e3216022f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:24.565632+00:00
 -- url     : https://prove2.me/theorems/fa8c51d7-0a62-4962-a495-d6e332d46a2b

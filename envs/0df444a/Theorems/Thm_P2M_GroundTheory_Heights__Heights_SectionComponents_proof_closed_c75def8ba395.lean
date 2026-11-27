@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionComponents_proof_closed_c75def8ba395
 -- name    : P2M_GroundTheory_Heights__Heights_SectionComponents_proof_closed_c75def8ba395
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:36:19.957794+00:00
 -- url     : https://prove2.me/theorems/88f79902-9da9-5b5b-94f4-861a97dc64ac

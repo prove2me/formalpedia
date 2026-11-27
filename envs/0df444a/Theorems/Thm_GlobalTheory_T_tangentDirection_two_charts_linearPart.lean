@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tangentDirection_two_charts_linearPart
 -- name    : GlobalTheory.T.tangentDirection_two_charts_linearPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:14.670707+00:00
 -- url     : https://prove2.me/theorems/85652c82-fa39-5ffd-bbcd-ac1e0a2d409c

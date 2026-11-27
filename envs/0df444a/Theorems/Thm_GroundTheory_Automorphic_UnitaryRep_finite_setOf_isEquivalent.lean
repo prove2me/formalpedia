@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_finite_setOf_isEquivalent
 -- name    : GroundTheory.Automorphic.UnitaryRep.finite_setOf_isEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:44.420063+00:00
 -- url     : https://prove2.me/theorems/e24c7068-9819-4064-b26f-351dc5b4bc51

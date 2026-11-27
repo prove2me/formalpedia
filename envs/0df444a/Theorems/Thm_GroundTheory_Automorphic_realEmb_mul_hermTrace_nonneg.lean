@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_realEmb_mul_hermTrace_nonneg
 -- name    : GroundTheory.Automorphic.realEmb_mul_hermTrace_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:18.43554+00:00
 -- url     : https://prove2.me/theorems/ba7df8bc-d4e6-5348-87bf-4b606cac56e6

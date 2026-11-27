@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_differentiable_toContinuousLinearMap
 -- name    : GlobalTheory.isoTransvection.differentiable_toContinuousLinearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:58.667827+00:00
 -- url     : https://prove2.me/theorems/54384fe1-08ee-5000-bd9a-736251e3010b

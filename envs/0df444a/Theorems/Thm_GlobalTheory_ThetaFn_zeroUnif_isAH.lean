@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_zeroUnif_isAH
 -- name    : GlobalTheory.ThetaFn.zeroUnif_isAH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:42.491476+00:00
 -- url     : https://prove2.me/theorems/fd824348-38d6-5fab-b63a-bcf6983066da

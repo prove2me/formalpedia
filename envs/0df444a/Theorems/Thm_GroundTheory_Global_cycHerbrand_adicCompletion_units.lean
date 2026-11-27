@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_adicCompletion_units
 -- name    : GroundTheory.Global.cycHerbrand_adicCompletion_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:56:49.090797+00:00
 -- url     : https://prove2.me/theorems/1d50f44e-26bd-4a5b-992a-5058a38cab42

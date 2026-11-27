@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ratGram_transpose
 -- name    : GroundTheory.Automorphic.ratGram_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:46.81702+00:00
 -- url     : https://prove2.me/theorems/f1e53028-3e33-4250-9c62-0cf64902a8d3

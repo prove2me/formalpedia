@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_proof_9d5f7b48a47e
 -- name    : P2M_GroundTheory_Heights__Heights_SectionsLattice_BaseChangeReduced_proof_9d5f7b48a47e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:36:21.755285+00:00
 -- url     : https://prove2.me/theorems/10f2d3b3-43e1-4029-a874-6ac44991e1ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestInnerTsumBound_hypotheses_inhabited_signs_c31513507b0e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestInnerTsumBound_hypotheses_inhabited_signs_c31513507b0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:36:20.275268+00:00
 -- url     : https://prove2.me/theorems/4067962c-511a-5fc2-9d87-2f52badbc0c2

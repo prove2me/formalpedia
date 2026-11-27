@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ptNormOn_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.ptNormOn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:14:10.239798+00:00
 -- url     : https://prove2.me/theorems/7658bf60-89f4-4482-9293-3666b737172e

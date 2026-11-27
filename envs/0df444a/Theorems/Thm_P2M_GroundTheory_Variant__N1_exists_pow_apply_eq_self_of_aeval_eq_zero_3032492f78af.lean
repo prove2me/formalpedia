@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_pow_apply_eq_self_of_aeval_eq_zero_3032492f78af
 -- name    : P2M_GroundTheory_Variant__N1_exists_pow_apply_eq_self_of_aeval_eq_zero_3032492f78af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:47.25338+00:00
 -- url     : https://prove2.me/theorems/a0e6d418-2544-4ca2-b185-fe776fc5314c

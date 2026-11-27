@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_exists_pt_of_loc
 -- name    : GlobalTheory.ThetaExh.Check.exists_pt_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:52.950997+00:00
 -- url     : https://prove2.me/theorems/29d07ade-4068-4c85-9f87-88c822e25373

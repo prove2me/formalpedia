@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_contAction_quotient
 -- name    : ReciprocityTheory.ChartRestriction.T2.contAction_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:09.810113+00:00
 -- url     : https://prove2.me/theorems/0596ca90-8684-4385-a973-218b14caf39c

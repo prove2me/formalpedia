@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DominatingDVRScheme_proof_f0939e34e365
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DominatingDVRScheme_proof_f0939e34e365
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:32:04.816403+00:00
 -- url     : https://prove2.me/theorems/ddca6f91-20f1-4ecb-b1fd-09ea31ac2ec3

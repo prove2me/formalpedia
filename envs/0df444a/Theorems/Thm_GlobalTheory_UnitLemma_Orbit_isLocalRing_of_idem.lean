@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_isLocalRing_of_idem
 -- name    : GlobalTheory.UnitLemma.Orbit.isLocalRing_of_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:30.394948+00:00
 -- url     : https://prove2.me/theorems/0ea96a75-7c26-42bd-8815-81f83621e1d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_galOf_self
 -- name    : UpperTheory.V.Base.galOf_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:38.402688+00:00
 -- url     : https://prove2.me/theorems/35ac4d76-b627-5ce1-bf7e-034783a82569

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_card_quotient_coprimeQuotientPreimage_lowerRamificationGroup_eq_pow
 -- name    : GroundTheory.ProfCoh.exists_card_quotient_coprimeQuotientPreimage_lowerRamificationGroup_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:24.188545+00:00
 -- url     : https://prove2.me/theorems/7f29cde6-dbc2-5f16-ba78-f00a286127c1

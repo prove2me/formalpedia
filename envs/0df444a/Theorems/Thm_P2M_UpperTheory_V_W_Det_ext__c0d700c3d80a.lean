@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_V_W_Det_ext__c0d700c3d80a
 -- name    : P2M_UpperTheory_V_W_Det_ext__c0d700c3d80a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:23:27.098707+00:00
 -- url     : https://prove2.me/theorems/c0671fce-ba10-4699-89fb-518153b8cea6

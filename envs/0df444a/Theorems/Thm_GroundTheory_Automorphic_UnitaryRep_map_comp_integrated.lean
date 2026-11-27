@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_map_comp_integrated
 -- name    : GroundTheory.Automorphic.UnitaryRep.map_comp_integrated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:18.105247+00:00
 -- url     : https://prove2.me/theorems/f52d3026-d189-4e9a-b0e3-138f732d9822

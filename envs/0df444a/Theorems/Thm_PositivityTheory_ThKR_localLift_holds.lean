@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_localLift_holds
 -- name    : PositivityTheory.ThKR.localLift_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:52.051097+00:00
 -- url     : https://prove2.me/theorems/1ceea49b-7986-4dbc-ad37-821102568ec4

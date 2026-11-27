@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_StModel_notMem_of_unit
 -- name    : PI.SqPairLocal.StModel.notMem_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:47:55.401858+00:00
 -- url     : https://prove2.me/theorems/160b1ab5-6253-49fc-be67-69231d5973b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_div_eq_inv_of_unimodular
 -- name    : GlobalTheory.volume_div_eq_inv_of_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:51:48.801289+00:00
 -- url     : https://prove2.me/theorems/ab7f68c0-adfb-4318-8fac-f9e287324a79

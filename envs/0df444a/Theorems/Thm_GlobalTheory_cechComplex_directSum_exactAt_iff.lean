@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechComplex_directSum_exactAt_iff
 -- name    : GlobalTheory.cechComplex_directSum_exactAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:43:15.470415+00:00
 -- url     : https://prove2.me/theorems/4d34058d-fce7-5f7f-91c7-d3fe35f5f1d6

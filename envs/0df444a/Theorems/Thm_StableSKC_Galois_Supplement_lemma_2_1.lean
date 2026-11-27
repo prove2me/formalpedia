@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableSKC_Galois_Supplement_lemma_2_1
 -- name    : StableSKC.Galois.Supplement.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:16:20.993258+00:00
 -- url     : https://prove2.me/theorems/a31e84fb-0e7d-460a-a8df-aab0eca026b7

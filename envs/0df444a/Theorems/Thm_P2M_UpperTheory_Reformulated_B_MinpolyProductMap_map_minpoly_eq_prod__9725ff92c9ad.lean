@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_MinpolyProductMap_map_minpoly_eq_prod__9725ff92c9ad
 -- name    : P2M_UpperTheory_Reformulated_B_MinpolyProductMap_map_minpoly_eq_prod__9725ff92c9ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:43:48.045804+00:00
 -- url     : https://prove2.me/theorems/f56ce56c-1ab3-5f60-a2e8-c73e0c11605a

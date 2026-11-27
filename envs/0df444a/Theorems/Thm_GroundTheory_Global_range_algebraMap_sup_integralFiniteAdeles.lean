@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_range_algebraMap_sup_integralFiniteAdeles
 -- name    : GroundTheory.Global.range_algebraMap_sup_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:56:22.418795+00:00
 -- url     : https://prove2.me/theorems/df163329-6752-4fd6-be7f-ab265bb3604e

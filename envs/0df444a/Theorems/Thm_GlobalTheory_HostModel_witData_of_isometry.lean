@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_witData_of_isometry
 -- name    : GlobalTheory.HostModel.witData_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:20:35.5622+00:00
 -- url     : https://prove2.me/theorems/566c465b-9725-4e8d-abba-12614ec14290

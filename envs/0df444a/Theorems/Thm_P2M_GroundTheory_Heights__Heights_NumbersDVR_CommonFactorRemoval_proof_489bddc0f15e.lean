@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CommonFactorRemoval_proof_489bddc0f15e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CommonFactorRemoval_proof_489bddc0f15e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:32:18.855432+00:00
 -- url     : https://prove2.me/theorems/b95a2041-80fc-4540-961b-2377489f53ff

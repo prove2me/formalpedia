@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FiltrationLength_filtLen_of_F
 -- name    : PI.FiltrationLength.filtLen_of_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:45:38.987968+00:00
 -- url     : https://prove2.me/theorems/2bbe90ed-3904-4e61-9c00-f2c667c1ac5c

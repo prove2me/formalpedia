@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Neutral_B1_contCoboundaries2_le_cocycles2
 -- name    : Neutral.B1.contCoboundaries2_le_cocycles2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:29.147731+00:00
 -- url     : https://prove2.me/theorems/7b19979d-f044-54bb-a687-c2a8eafe9e10

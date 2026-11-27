@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_weakae
 -- name    : PositivityTheory.Rg.BcB.E2.P.weakae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:52:22.944601+00:00
 -- url     : https://prove2.me/theorems/ffe068ec-c1ec-49b3-806d-a9e2ffb1494b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocLengthSum_proof_c7e7c781621f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocLengthSum_proof_c7e7c781621f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:28:47.381063+00:00
 -- url     : https://prove2.me/theorems/313173d9-d800-5dda-aabf-fa51a1a0af8f

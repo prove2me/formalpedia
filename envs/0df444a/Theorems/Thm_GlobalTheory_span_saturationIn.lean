@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_saturationIn
 -- name    : GlobalTheory.span_saturationIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:50:55.323372+00:00
 -- url     : https://prove2.me/theorems/f8850396-6c66-5921-a1a1-528114406dbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimePlaceBranchExists_proof_265938788939
 -- name    : P2M_GroundTheory_Heights__Heights_PrimePlaceBranchExists_proof_265938788939
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:05:01.82462+00:00
 -- url     : https://prove2.me/theorems/f399ccd1-f2b5-5a4b-8f07-2f7f225cb236

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_SaturatedSpan_hypotheses_inhabited_f4bb179989cb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_SaturatedSpan_hypotheses_inhabited_f4bb179989cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:26:17.157824+00:00
 -- url     : https://prove2.me/theorems/e44ebb40-35a2-4d0c-bafa-9abc06101415

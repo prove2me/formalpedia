@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_mPrimeFiltration
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_mPrimeFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:13:58.646217+00:00
 -- url     : https://prove2.me/theorems/a6006ba7-ea3b-45c7-bd27-f1c4ebca094f

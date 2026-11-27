@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_XBound_full_c479e7c8abda
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_XBound_full_c479e7c8abda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:57:15.064805+00:00
 -- url     : https://prove2.me/theorems/c0c93e0e-f40d-59d2-87fd-30793cf1051c

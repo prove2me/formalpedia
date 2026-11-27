@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_del_clm_comp
 -- name    : GlobalTheory.del_clm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:46.459733+00:00
 -- url     : https://prove2.me/theorems/908da80b-7213-4e2e-a569-f024642e7b09

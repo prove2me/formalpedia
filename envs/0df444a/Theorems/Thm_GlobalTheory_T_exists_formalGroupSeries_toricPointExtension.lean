@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_formalGroupSeries_toricPointExtension
 -- name    : GlobalTheory.T.exists_formalGroupSeries_toricPointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:31:47.337285+00:00
 -- url     : https://prove2.me/theorems/9f043bb5-94e2-4fac-a97c-b02b1c701fb5

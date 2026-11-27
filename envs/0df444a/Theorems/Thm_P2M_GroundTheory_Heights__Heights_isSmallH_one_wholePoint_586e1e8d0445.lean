@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isSmallH_one_wholePoint_586e1e8d0445
 -- name    : P2M_GroundTheory_Heights__Heights_isSmallH_one_wholePoint_586e1e8d0445
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:00.766639+00:00
 -- url     : https://prove2.me/theorems/cdff2e8e-8745-47b4-ba0e-fd57560769c0

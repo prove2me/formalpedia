@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_relIndex_pi_univ
 -- name    : GlobalTheory.TensorLat.relIndex_pi_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:05:51.366244+00:00
 -- url     : https://prove2.me/theorems/49760ef0-9150-597a-abc3-413204ab55e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_mul_re_det_le_of_smul_le
 -- name    : GlobalTheory.pow_mul_re_det_le_of_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:50:16.142322+00:00
 -- url     : https://prove2.me/theorems/f63f1329-14c7-55c1-a3fb-911e273164c3

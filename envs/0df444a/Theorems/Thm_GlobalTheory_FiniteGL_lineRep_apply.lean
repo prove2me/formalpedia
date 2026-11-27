@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGL_lineRep_apply
 -- name    : GlobalTheory.FiniteGL.lineRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:07:55.409317+00:00
 -- url     : https://prove2.me/theorems/52f560e2-3a10-4bbb-bef5-bb69274df757

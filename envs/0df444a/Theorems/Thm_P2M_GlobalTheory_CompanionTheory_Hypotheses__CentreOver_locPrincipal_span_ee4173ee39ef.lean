@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_span_ee4173ee39ef
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_span_ee4173ee39ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:05:27.733094+00:00
 -- url     : https://prove2.me/theorems/298bd959-952f-4bb7-ba0b-8b3095e5b931

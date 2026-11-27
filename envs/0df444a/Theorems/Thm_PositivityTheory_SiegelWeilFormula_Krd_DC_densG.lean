@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Krd_DC_densG
 -- name    : PositivityTheory.SiegelWeilFormula.Krd.DC.densG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:56:44.030801+00:00
 -- url     : https://prove2.me/theorems/d7efac0f-5692-59d2-8edf-91f12a188d87

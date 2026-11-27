@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_crd
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_crd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:46:36.745961+00:00
 -- url     : https://prove2.me/theorems/790021c8-3514-5fda-a70b-8680b8f42435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_semilinear_short_exact_compatible
 -- name    : GlobalTheory.T.semilinear_short_exact_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:16:23.193822+00:00
 -- url     : https://prove2.me/theorems/f58afb4b-e7c8-473c-a5d9-af823fe97c22

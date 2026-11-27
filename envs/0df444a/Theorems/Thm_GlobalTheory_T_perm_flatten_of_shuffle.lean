@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_perm_flatten_of_shuffle
 -- name    : GlobalTheory.T.perm_flatten_of_shuffle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:42.708446+00:00
 -- url     : https://prove2.me/theorems/148a5bc0-6c62-5cf8-9ce2-1e629efb742e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_fixingOpenSubgroup_fixedField
 -- name    : GroundTheory.LocalField.fixingOpenSubgroup_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:08.786494+00:00
 -- url     : https://prove2.me/theorems/77928be8-094a-416c-97ea-1e9d163d2142

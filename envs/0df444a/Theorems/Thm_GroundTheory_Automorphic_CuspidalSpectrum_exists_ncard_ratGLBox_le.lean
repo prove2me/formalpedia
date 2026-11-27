@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_ncard_ratGLBox_le
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_ncard_ratGLBox_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:53:33.533359+00:00
 -- url     : https://prove2.me/theorems/615edde5-22c0-4dba-8aa6-8a010863f9ba

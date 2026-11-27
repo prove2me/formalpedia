@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_II_toBlocks___apply__ee603a23b9dc
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_II_toBlocks___apply__ee603a23b9dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:55.545959+00:00
 -- url     : https://prove2.me/theorems/600e8ad8-d537-5297-8e10-03905e1c98bd

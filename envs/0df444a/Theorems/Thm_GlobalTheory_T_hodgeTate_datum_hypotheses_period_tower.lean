@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hodgeTate_datum_hypotheses_period_tower
 -- name    : GlobalTheory.T.hodgeTate_datum_hypotheses_period_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:05:11.164192+00:00
 -- url     : https://prove2.me/theorems/2586e2fe-a0a4-4c6a-b149-467eb6e33a6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cyclotomic_irreducible_of_not_dvd_discr
 -- name    : GlobalTheory.cyclotomic_irreducible_of_not_dvd_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:50.892056+00:00
 -- url     : https://prove2.me/theorems/501b9233-71db-4860-afd6-d7da15c9dc01

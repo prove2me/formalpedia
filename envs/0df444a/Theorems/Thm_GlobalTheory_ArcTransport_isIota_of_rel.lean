@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_isIota_of_rel
 -- name    : GlobalTheory.ArcTransport.isIota_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:43:57.10254+00:00
 -- url     : https://prove2.me/theorems/93cedd28-42db-5384-a84a-c40ee5aa1c15

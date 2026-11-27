@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_jetRd_sub
 -- name    : GlobalTheory.JetLinSub.jetRd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:32:56.202257+00:00
 -- url     : https://prove2.me/theorems/ac27640c-e581-46f8-9634-3bf1873f46c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLearnCB_UCB1CL_Supplement_theorem_3
 -- name    : CrossLearnCB.UCB1CL.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:52:54.022421+00:00
 -- url     : https://prove2.me/theorems/2e3f7560-1dd3-4e0d-8875-5393db267c53

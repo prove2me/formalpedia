@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_points_fibre_product
 -- name    : GlobalTheory.points_fibre_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T16:43:24.304128+00:00
 -- url     : https://prove2.me/theorems/6364b707-6cbe-4dc2-8971-c76ddf0defef

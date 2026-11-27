@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesGroupHard_VertexCover_Supplement_eq_20
 -- name    : BayesGroupHard.VertexCover.Supplement.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:43:45.250774+00:00
 -- url     : https://prove2.me/theorems/4ba06ade-837a-44a9-8ad5-f75951d143c4

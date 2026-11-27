@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_toDistribution_diffQuot
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.toDistribution_diffQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:47.445907+00:00
 -- url     : https://prove2.me/theorems/58e826c4-e535-40d9-b815-de58dff62918

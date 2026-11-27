@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_exists_reps_of_relIndex_ne_zero
 -- name    : GlobalTheory.TensorLat.exists_reps_of_relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:04:38.913573+00:00
 -- url     : https://prove2.me/theorems/5c23efc3-ec4f-58b0-a8c1-47a69dde825d

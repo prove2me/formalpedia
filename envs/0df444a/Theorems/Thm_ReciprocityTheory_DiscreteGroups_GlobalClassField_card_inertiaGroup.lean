@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_card_inertiaGroup
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.card_inertiaGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:26:48.227875+00:00
 -- url     : https://prove2.me/theorems/7b91760f-3cfa-4556-bb6e-30affb875d26

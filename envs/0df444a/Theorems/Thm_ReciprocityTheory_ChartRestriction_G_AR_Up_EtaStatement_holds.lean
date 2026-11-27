@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_EtaStatement_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.EtaStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:34:59.489368+00:00
 -- url     : https://prove2.me/theorems/dda19807-22e4-43ed-aac9-0b215f5b625d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_levi_transfer
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.levi_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:36.644573+00:00
 -- url     : https://prove2.me/theorems/283118eb-479a-512e-8fb0-a4f87a89390e

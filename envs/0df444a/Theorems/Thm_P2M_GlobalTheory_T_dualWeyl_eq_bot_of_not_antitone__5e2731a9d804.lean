@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_dualWeyl_eq_bot_of_not_antitone__5e2731a9d804
 -- name    : P2M_GlobalTheory_T_dualWeyl_eq_bot_of_not_antitone__5e2731a9d804
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:17.227697+00:00
 -- url     : https://prove2.me/theorems/18d2e97c-2d97-4d26-a698-de698847c60d

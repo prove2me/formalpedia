@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_surjective_kummerChar
 -- name    : GlobalTheory.WeilDeligne.surjective_kummerChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:04:42.547113+00:00
 -- url     : https://prove2.me/theorems/d65c5ada-a948-4387-b24d-ee33ab2ec2d3

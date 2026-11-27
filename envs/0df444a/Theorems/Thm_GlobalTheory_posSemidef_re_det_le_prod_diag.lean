@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posSemidef_re_det_le_prod_diag
 -- name    : GlobalTheory.posSemidef_re_det_le_prod_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:29.58782+00:00
 -- url     : https://prove2.me/theorems/f21da372-19e5-48c2-897a-97e5ccef4acc

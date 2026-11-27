@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_of_orthogonal_orthogonal_of_skew_det_ne_zero
 -- name    : GlobalTheory.T.mem_of_orthogonal_orthogonal_of_skew_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:28.432241+00:00
 -- url     : https://prove2.me/theorems/d328f70a-2370-415b-b44d-5c3c07ed6b43

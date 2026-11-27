@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_normalizationLift
 -- name    : GlobalTheory.existsUnique_normalizationLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:43.375479+00:00
 -- url     : https://prove2.me/theorems/30d615da-5a23-4b32-852b-d9abc45a1e79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_algebraMap_of_pow_smul_mem
 -- name    : GlobalTheory.mem_range_algebraMap_of_pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:21.897116+00:00
 -- url     : https://prove2.me/theorems/7640a302-64be-5002-b594-dcb1251ac689

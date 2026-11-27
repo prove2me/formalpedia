@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Dim_restr_surjective
 -- name    : CompanionTheory.Mirab.Dim.restr_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:16:58.847909+00:00
 -- url     : https://prove2.me/theorems/d45f7134-784e-45c4-8f2d-6558c3f5395c

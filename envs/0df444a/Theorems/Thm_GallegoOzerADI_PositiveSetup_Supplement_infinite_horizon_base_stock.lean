@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_PositiveSetup_Supplement_infinite_horizon_base_stock
 -- name    : GallegoOzerADI.PositiveSetup.Supplement.infinite_horizon_base_stock
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:43:14.409246+00:00
 -- url     : https://prove2.me/theorems/bd8c7945-c194-4268-a856-dc76a47b99ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_transcendental_of_subfield_764aa0908cbf
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_TranscRatioDeg_transcendental_of_subfield_764aa0908cbf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:24:06.535274+00:00
 -- url     : https://prove2.me/theorems/6887ec68-dee4-52b5-9450-78d3de1930fe

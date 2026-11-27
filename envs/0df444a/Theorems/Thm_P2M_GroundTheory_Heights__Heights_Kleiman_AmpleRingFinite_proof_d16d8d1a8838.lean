@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFinite_proof_d16d8d1a8838
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFinite_proof_d16d8d1a8838
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:26:53.817622+00:00
 -- url     : https://prove2.me/theorems/5184044c-c599-571f-a61a-0fd4bb662a0b

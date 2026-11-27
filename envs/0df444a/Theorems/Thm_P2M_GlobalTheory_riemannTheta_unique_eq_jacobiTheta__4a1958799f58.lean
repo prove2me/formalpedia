@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_riemannTheta_unique_eq_jacobiTheta__4a1958799f58
 -- name    : P2M_GlobalTheory_riemannTheta_unique_eq_jacobiTheta__4a1958799f58
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:09.019257+00:00
 -- url     : https://prove2.me/theorems/f26e7755-a57b-516a-af59-e3d6cfca2954

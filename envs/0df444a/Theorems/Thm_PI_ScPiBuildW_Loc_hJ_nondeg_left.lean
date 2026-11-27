@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_hJ_nondeg_left
 -- name    : PI.ScPiBuildW.Loc.hJ_nondeg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:47:31.367466+00:00
 -- url     : https://prove2.me/theorems/0e0a76d4-a0a6-5d92-9047-7f200bc50d4c

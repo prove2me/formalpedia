@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Ym_col
 -- name    : PI.StabSplit.Ym_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:56:45.567083+00:00
 -- url     : https://prove2.me/theorems/f578be63-37aa-48bd-a657-72ed81c8d213

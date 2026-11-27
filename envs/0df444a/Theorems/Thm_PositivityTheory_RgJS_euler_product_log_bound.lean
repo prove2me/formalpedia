@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_euler_product_log_bound
 -- name    : PositivityTheory.RgJS.euler_product_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:22.032852+00:00
 -- url     : https://prove2.me/theorems/9a8ae0c1-5431-5f8b-b2ec-7b2328bd5f83

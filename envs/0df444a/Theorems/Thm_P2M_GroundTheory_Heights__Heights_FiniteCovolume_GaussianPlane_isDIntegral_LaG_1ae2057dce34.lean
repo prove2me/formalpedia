@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isDIntegral_LaG_1ae2057dce34
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_isDIntegral_LaG_1ae2057dce34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:05.903925+00:00
 -- url     : https://prove2.me/theorems/e4df255a-4817-554a-bb51-8410a10b4b8e

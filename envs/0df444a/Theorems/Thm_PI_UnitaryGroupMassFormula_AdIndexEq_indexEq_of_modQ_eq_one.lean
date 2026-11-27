@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_indexEq_of_modQ_eq_one
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.indexEq_of_modQ_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:21.071298+00:00
 -- url     : https://prove2.me/theorems/bb824048-112b-44bf-9a58-977e7e2d24ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalGroupLaw_jacobian_extension_changeCoeff
 -- name    : GlobalTheory.T.formalGroupLaw_jacobian_extension_changeCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:01:39.110156+00:00
 -- url     : https://prove2.me/theorems/1b4fa449-fc78-4285-b1c5-99e98b9bc4cb

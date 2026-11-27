@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsElementary_exists_eq_indLin
 -- name    : GroundTheory.LocalField.IsElementary.exists_eq_indLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:27.014685+00:00
 -- url     : https://prove2.me/theorems/0f781b08-c9de-475f-b018-ce779d52bbac

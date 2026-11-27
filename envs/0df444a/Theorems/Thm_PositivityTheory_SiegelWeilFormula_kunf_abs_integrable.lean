@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_kunf_abs_integrable
 -- name    : PositivityTheory.SiegelWeilFormula.kunf.abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:56:25.54942+00:00
 -- url     : https://prove2.me/theorems/c4731a86-d9eb-587e-ab5c-4cd03b4eabf6

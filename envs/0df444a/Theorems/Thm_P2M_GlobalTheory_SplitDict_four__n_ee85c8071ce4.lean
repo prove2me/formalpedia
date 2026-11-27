@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SplitDict_four__n_ee85c8071ce4
 -- name    : P2M_GlobalTheory_SplitDict_four__n_ee85c8071ce4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:25.578516+00:00
 -- url     : https://prove2.me/theorems/1d23ee17-e188-4c31-ba54-cbe59de214ac

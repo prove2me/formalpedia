@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_BiextCheck_lift_torus
 -- name    : GlobalTheory.UU.BiextCheck.lift_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T17:52:02.166323+00:00
 -- url     : https://prove2.me/theorems/64f9e5e8-4d3d-537d-b996-73827544a9c9

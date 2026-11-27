@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_logDeriv_weierstrassSigma
 -- name    : GlobalTheory.logDeriv_weierstrassSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:22.530607+00:00
 -- url     : https://prove2.me/theorems/f6471c5a-7eb8-4ca9-83c6-71b2b4f34eb0

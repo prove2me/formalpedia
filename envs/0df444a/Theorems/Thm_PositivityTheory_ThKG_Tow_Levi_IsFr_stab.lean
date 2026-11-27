@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Tow_Levi_IsFr_stab
 -- name    : PositivityTheory.ThKG.Tow.Levi.IsFr.stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:31.649938+00:00
 -- url     : https://prove2.me/theorems/fbf622e6-0460-48cd-b29c-865f4b5b3582

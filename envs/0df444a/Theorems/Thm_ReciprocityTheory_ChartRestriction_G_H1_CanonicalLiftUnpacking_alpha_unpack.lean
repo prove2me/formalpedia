@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_CanonicalLiftUnpacking_alpha_unpack
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.CanonicalLiftUnpacking.alpha_unpack
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:10.002786+00:00
 -- url     : https://prove2.me/theorems/44258762-887b-4aeb-94dc-66c047ad37f9

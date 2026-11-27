@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_cls_spec
 -- name    : UpperTheory.V.Chr.cls_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:10.612806+00:00
 -- url     : https://prove2.me/theorems/f26a50b1-a781-5d5b-9ab9-0f994068f1cb

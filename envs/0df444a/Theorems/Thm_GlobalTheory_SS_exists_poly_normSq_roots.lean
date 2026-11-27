@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_poly_normSq_roots
 -- name    : GlobalTheory.SS.exists_poly_normSq_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:36:58.885425+00:00
 -- url     : https://prove2.me/theorems/965e81a3-675b-4c07-b1e3-405b283602ec

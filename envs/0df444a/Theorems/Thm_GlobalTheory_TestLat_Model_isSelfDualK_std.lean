@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_isSelfDualK_std
 -- name    : GlobalTheory.TestLat.Model.isSelfDualK_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:34.066436+00:00
 -- url     : https://prove2.me/theorems/91d9de8f-5087-4850-bdfa-04cffd550034

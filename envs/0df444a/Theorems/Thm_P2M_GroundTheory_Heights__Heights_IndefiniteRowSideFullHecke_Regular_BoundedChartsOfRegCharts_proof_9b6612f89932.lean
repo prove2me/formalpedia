@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_BoundedChartsOfRegCharts_proof_9b6612f89932
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_BoundedChartsOfRegCharts_proof_9b6612f89932
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:37:32.094801+00:00
 -- url     : https://prove2.me/theorems/289f0e29-555b-4cdc-aed0-c4c867365a1e

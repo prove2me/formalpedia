@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_transferenceMinima_of
 -- name    : PI.Tr.transferenceMinima_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:56.71688+00:00
 -- url     : https://prove2.me/theorems/cb659d47-5f5e-4bb5-b6a3-bb0aea4012f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_SecondCohomologyLattice_apply_eq_sum
 -- name    : ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:48.039802+00:00
 -- url     : https://prove2.me/theorems/519ea4fc-798a-471d-9e37-5f56f5cd0b4e

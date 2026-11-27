@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gradedQuotHilbertPoly_mvPolynomial
 -- name    : GlobalTheory.gradedQuotHilbertPoly_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:50:12.852039+00:00
 -- url     : https://prove2.me/theorems/83ba1c0d-29d0-4c38-9b47-6e5920ad4ce0

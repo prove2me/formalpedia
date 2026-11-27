@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_equicont
 -- name    : PositivityTheory.ThKG.Loc.Bump.equicont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:38.517848+00:00
 -- url     : https://prove2.me/theorems/a81b238d-b2f6-417a-896f-f20d4e1a0f8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_exists_degree_eq_one
 -- name    : GroundTheory.LocalField.WeilGroup.exists_degree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:20.822511+00:00
 -- url     : https://prove2.me/theorems/b064c945-8577-5671-8dbc-5bf156e63f45

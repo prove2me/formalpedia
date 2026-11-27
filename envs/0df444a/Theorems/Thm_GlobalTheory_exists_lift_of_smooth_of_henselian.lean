@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lift_of_smooth_of_henselian
 -- name    : GlobalTheory.exists_lift_of_smooth_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:21.802037+00:00
 -- url     : https://prove2.me/theorems/872d54f7-9b68-5068-8b87-4594274c8b67

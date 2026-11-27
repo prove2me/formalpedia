@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mulF_span_mul_le_and_mulF_pow_mem_ideal_pow
 -- name    : GlobalTheory.T.mulF_span_mul_le_and_mulF_pow_mem_ideal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:24:30.94802+00:00
 -- url     : https://prove2.me/theorems/7d0cb462-3161-5692-84e8-21398e969ddd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteFibresDimLe_proof_9dfd2d4615a3
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteFibresDimLe_proof_9dfd2d4615a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:11:56.393939+00:00
 -- url     : https://prove2.me/theorems/277cb4e2-df68-5e16-9b9c-d9224bb5c415

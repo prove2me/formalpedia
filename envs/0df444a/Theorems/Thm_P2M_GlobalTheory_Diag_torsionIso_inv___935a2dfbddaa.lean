@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Diag_torsionIso_inv___935a2dfbddaa
 -- name    : P2M_GlobalTheory_Diag_torsionIso_inv___935a2dfbddaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:17:31.66018+00:00
 -- url     : https://prove2.me/theorems/077c2ed6-e360-59d1-9c92-dbf75f77074f

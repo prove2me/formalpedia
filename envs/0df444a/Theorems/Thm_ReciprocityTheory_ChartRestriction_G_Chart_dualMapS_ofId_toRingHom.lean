@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_dualMapS_ofId_toRingHom
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.dualMapS_ofId_toRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:05:33.100798+00:00
 -- url     : https://prove2.me/theorems/b3285d13-0579-4df0-8167-86ccd2a78cf7

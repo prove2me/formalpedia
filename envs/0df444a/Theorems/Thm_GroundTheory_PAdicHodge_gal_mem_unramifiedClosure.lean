@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_gal_mem_unramifiedClosure
 -- name    : GroundTheory.PAdicHodge.gal_mem_unramifiedClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:01:39.106872+00:00
 -- url     : https://prove2.me/theorems/680f9a28-344d-4304-a30b-52c7fed398de

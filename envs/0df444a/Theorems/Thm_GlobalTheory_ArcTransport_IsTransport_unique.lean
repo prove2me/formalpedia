@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_IsTransport_unique
 -- name    : GlobalTheory.ArcTransport.IsTransport.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:36:48.87898+00:00
 -- url     : https://prove2.me/theorems/5ddf2fcb-3631-5d60-83c7-17d403e9bd23

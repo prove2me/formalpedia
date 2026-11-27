@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powGr_exact_toQuot_factor
 -- name    : GlobalTheory.powGr.exact_toQuot_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:49:23.691384+00:00
 -- url     : https://prove2.me/theorems/419ac773-90b2-4535-84b4-823197790c1c

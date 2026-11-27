@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchPlace_proof_12e09227e24f
 -- name    : P2M_GroundTheory_Heights__Heights_BranchPlace_proof_12e09227e24f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:13:14.513009+00:00
 -- url     : https://prove2.me/theorems/ef4aa5a5-bae0-55bb-971e-c69a96c813b9

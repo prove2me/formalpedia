@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_gaussResidue_residue_algebraMap
 -- name    : GroundTheory.Global.gaussResidue_residue_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:56:01.519635+00:00
 -- url     : https://prove2.me/theorems/52933658-041f-490c-bc52-49aa9d725bd1

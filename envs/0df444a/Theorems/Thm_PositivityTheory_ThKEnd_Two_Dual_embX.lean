@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_Dual_embX
 -- name    : PositivityTheory.ThKEnd.Two.Dual.embX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:00:15.30085+00:00
 -- url     : https://prove2.me/theorems/f6782557-0319-41ab-a1cb-f1b6e3005122

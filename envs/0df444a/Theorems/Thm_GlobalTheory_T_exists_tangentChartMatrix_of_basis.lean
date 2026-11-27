@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_tangentChartMatrix_of_basis
 -- name    : GlobalTheory.T.exists_tangentChartMatrix_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:30:38.690581+00:00
 -- url     : https://prove2.me/theorems/8265689e-ac26-47c4-ac62-8db90f1791af

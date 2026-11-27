@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DefectSymm_proof_6915795a7c3e
 -- name    : P2M_GroundTheory_Heights__Heights_DefectSymm_proof_6915795a7c3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:11:52.482611+00:00
 -- url     : https://prove2.me/theorems/69306f71-6c75-54cb-9927-49cdd3f4373f

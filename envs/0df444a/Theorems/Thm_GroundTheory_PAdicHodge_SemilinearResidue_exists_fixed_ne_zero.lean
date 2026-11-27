@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SemilinearResidue_exists_fixed_ne_zero
 -- name    : GroundTheory.PAdicHodge.SemilinearResidue.exists_fixed_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:13.461886+00:00
 -- url     : https://prove2.me/theorems/fb91abef-cd40-5d55-9410-b6c0d97acf0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E2_P_gelf
 -- name    : PositivityTheory.Rg.BcB.E2.P.gelf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:51:03.303889+00:00
 -- url     : https://prove2.me/theorems/28392aac-f867-54fa-8af0-c534589f8f56

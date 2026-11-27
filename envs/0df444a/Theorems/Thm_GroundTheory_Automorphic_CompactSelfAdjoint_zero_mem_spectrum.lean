@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactSelfAdjoint_zero_mem_spectrum
 -- name    : GroundTheory.Automorphic.CompactSelfAdjoint.zero_mem_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:52:46.414752+00:00
 -- url     : https://prove2.me/theorems/5a58b4d7-75b8-553f-81d9-a75454395798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_openCompletion_denseRange_of
 -- name    : GroundTheory.LocalField.openCompletion.denseRange_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:00:35.956678+00:00
 -- url     : https://prove2.me/theorems/53f720b4-1772-44ab-98d4-2529aa74c93d

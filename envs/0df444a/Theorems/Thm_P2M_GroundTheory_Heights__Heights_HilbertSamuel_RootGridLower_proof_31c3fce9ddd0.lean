@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_proof_31c3fce9ddd0
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_proof_31c3fce9ddd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:14:49.043455+00:00
 -- url     : https://prove2.me/theorems/a86f598d-d2be-4ba0-a623-25fa3a248578

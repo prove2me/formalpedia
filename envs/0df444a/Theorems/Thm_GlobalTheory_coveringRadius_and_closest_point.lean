@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringRadius_and_closest_point
 -- name    : GlobalTheory.coveringRadius_and_closest_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:45:01.071499+00:00
 -- url     : https://prove2.me/theorems/f2b2413e-a612-4dfc-a1a7-4e2993d0ca76

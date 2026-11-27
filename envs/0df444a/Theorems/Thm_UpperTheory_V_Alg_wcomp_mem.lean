@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Alg_wcomp_mem
 -- name    : UpperTheory.V.Alg.wcomp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:15.558441+00:00
 -- url     : https://prove2.me/theorems/b5a31ff0-1171-5a5b-a4f3-9edc513e09a9

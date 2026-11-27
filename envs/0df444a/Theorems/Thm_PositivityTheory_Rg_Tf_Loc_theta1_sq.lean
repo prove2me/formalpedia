@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_theta1_sq
 -- name    : PositivityTheory.Rg.Tf.Loc.theta1_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:37.407464+00:00
 -- url     : https://prove2.me/theorems/6905ac44-3c29-4e5d-a2ea-8742fe9f0ebb

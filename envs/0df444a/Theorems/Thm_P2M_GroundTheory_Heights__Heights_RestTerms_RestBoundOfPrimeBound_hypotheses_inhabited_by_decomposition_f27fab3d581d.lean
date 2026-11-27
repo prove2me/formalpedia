@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundOfPrimeBound_hypotheses_inhabited_by_decomposition_f27fab3d581d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundOfPrimeBound_hypotheses_inhabited_by_decomposition_f27fab3d581d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:35:04.900281+00:00
 -- url     : https://prove2.me/theorems/70f555ed-3d7e-499f-8088-7370bfbac79b

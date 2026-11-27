@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularLocusIdentity_proof_9ed1c77c2ad9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularLocusIdentity_proof_9ed1c77c2ad9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:23:16.607995+00:00
 -- url     : https://prove2.me/theorems/46859e0e-e86e-5b68-abee-a13cc6f8b7ec

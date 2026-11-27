@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_example_schurQuotientPeriod_hyp_644af350108a
 -- name    : P2M_GroundTheory_Heights__Heights_example_schurQuotientPeriod_hyp_644af350108a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:41:07.316295+00:00
 -- url     : https://prove2.me/theorems/17d2ebcf-b53f-429a-9105-cea3956fc4d3

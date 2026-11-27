@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankRegular_proof_e39964389368
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjMaxRankRegular_proof_e39964389368
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:09:57.276303+00:00
 -- url     : https://prove2.me/theorems/043e002c-cccd-4f10-be9f-f4943a904fbb

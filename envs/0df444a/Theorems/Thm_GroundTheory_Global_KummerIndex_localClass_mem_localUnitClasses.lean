@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_localClass_mem_localUnitClasses
 -- name    : GroundTheory.Global.KummerIndex.localClass_mem_localUnitClasses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:58.898324+00:00
 -- url     : https://prove2.me/theorems/6e056b16-c1a7-4934-b9c0-ce26bc1158cd

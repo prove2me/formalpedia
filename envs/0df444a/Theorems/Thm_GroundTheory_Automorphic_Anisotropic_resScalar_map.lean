@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_resScalar_map
 -- name    : GroundTheory.Automorphic.Anisotropic.resScalar_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:31.826804+00:00
 -- url     : https://prove2.me/theorems/805f2cbe-9caa-5a4f-a121-172f9d7bc61a

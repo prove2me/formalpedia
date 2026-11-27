@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ap_local_blowup
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ap_local_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:29:18.566942+00:00
 -- url     : https://prove2.me/theorems/064d66f2-3d98-5825-a8d5-f9065f625cdc

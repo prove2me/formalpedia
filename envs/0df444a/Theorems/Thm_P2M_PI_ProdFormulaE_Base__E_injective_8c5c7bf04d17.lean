@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Base__E_injective_8c5c7bf04d17
 -- name    : P2M_PI_ProdFormulaE_Base__E_injective_8c5c7bf04d17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:54.177218+00:00
 -- url     : https://prove2.me/theorems/3689277e-5b79-58fc-bd0f-734607620ea4

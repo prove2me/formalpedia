@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_exists_int_mul_integral
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.exists_int_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:11.916106+00:00
 -- url     : https://prove2.me/theorems/0c279858-8fce-46ff-8923-74d7ec94cf60

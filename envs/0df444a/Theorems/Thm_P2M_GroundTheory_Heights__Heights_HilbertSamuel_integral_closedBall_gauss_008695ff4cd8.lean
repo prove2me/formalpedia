@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_integral_closedBall_gauss_008695ff4cd8
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_integral_closedBall_gauss_008695ff4cd8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:55.13581+00:00
 -- url     : https://prove2.me/theorems/8ca992f7-5d9d-4d7a-b960-607bdee6b80f

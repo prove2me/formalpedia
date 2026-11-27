@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_wick
 -- name    : PositivityTheory.Rg.Sw.WR.G.wick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:53:16.939797+00:00
 -- url     : https://prove2.me/theorems/a6fcbd93-1343-5c37-89e6-a7f6d3392801

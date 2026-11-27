@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_dense_compactSupport
 -- name    : PositivityTheory.ThKOwn.dense_compactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:08.174907+00:00
 -- url     : https://prove2.me/theorems/abd0f3d0-5ee5-54f6-8e60-fea6a6db8733

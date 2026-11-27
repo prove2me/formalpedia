@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_seq_eq_untilt
 -- name    : Reformulated.AutPerF.Tilt.seq_eq_untilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:38:38.357707+00:00
 -- url     : https://prove2.me/theorems/ff72d1d1-eb2d-4ce9-b658-38957cde9646

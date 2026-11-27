@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_pr_bet
 -- name    : PositivityTheory.ThKG.Loc.Bump.pr_bet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:20.225852+00:00
 -- url     : https://prove2.me/theorems/3847cad9-d85c-510e-a118-8afa9749062d

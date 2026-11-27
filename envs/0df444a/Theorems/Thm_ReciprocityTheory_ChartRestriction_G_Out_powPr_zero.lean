@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_powPr_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.powPr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:24:47.604261+00:00
 -- url     : https://prove2.me/theorems/ee87efcc-3207-5d20-a0d1-a48abb966efd

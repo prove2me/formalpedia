@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutDimLower_proof_baa49c9b7311
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutDimLower_proof_baa49c9b7311
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:29:06.798294+00:00
 -- url     : https://prove2.me/theorems/edef5c6e-b531-5391-98bd-edd4087699f2

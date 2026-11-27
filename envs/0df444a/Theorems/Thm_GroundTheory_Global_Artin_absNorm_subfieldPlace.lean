@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_absNorm_subfieldPlace
 -- name    : GroundTheory.Global.Artin.absNorm_subfieldPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:20.822429+00:00
 -- url     : https://prove2.me/theorems/5f5b9e17-1e4a-5024-8cfa-a40eabe48072

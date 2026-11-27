@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleProductPos_proof_fdaa1fae342e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleProductPos_proof_fdaa1fae342e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:30:29.408481+00:00
 -- url     : https://prove2.me/theorems/ad92c476-5785-5a68-8e94-5f81eff7d596

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveBranchLength_proof_9e67434ae59e
 -- name    : P2M_GroundTheory_Heights__Heights_CurveBranchLength_proof_9e67434ae59e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:48.533475+00:00
 -- url     : https://prove2.me/theorems/25011032-4251-4d99-afeb-829c2d934528

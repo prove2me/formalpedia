@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_MertensUpper_equiv_5b700530320b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_MertensUpper_equiv_5b700530320b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:25:04.994293+00:00
 -- url     : https://prove2.me/theorems/bc8f471d-fe80-5f6c-81ed-08537d3fca81

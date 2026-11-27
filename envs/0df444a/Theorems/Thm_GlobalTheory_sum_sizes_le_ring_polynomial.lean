@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_sizes_le_ring_polynomial
 -- name    : GlobalTheory.sum_sizes_le_ring_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:55:52.050793+00:00
 -- url     : https://prove2.me/theorems/94cbac7b-b4fa-40e8-8852-f22402a8064f

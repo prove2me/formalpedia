@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_H_exact__8bc15c0024ca
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_H_exact__8bc15c0024ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:21.471316+00:00
 -- url     : https://prove2.me/theorems/55ee289c-2830-5d32-ba00-5fa5ba3a45a5

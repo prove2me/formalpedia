@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Iwasawa_IsDistinguished_map_mk
 -- name    : GroundTheory.Arith.Iwasawa.IsDistinguished.map_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:37.772587+00:00
 -- url     : https://prove2.me/theorems/d36e3b58-0fbf-44b1-b6e8-c7465119e22f

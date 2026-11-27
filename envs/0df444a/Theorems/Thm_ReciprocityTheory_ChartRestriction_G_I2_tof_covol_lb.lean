@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_covol_lb
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_covol_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:41:22.027656+00:00
 -- url     : https://prove2.me/theorems/0730d730-0b67-54ed-8a98-0055ec84ad9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_twoSided__6ea44e48a32b
 -- name    : P2M_PositivityTheory_Rg_Sw_twoSided__6ea44e48a32b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:44:35.826894+00:00
 -- url     : https://prove2.me/theorems/4eb39f83-6e40-491c-bc65-a67cf4e47575

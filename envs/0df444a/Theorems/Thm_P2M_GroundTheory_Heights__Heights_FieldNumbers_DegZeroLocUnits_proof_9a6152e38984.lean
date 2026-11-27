@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocUnits_proof_9a6152e38984
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocUnits_proof_9a6152e38984
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:15:16.270485+00:00
 -- url     : https://prove2.me/theorems/18653577-1faf-41bb-b674-b9c4a1053b8d

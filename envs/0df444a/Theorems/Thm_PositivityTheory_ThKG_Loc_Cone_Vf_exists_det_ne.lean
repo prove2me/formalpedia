@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Cone_Vf_exists_det_ne
 -- name    : PositivityTheory.ThKG.Loc.Cone.Vf.exists_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:00:30.512901+00:00
 -- url     : https://prove2.me/theorems/a89adfdc-49ba-51f1-b264-50e53f2c7914

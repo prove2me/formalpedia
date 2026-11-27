@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_hasDerivAt_zero_of_map_add_mul__5fd84ce64a86
 -- name    : P2M_GlobalTheory_T_exists_hasDerivAt_zero_of_map_add_mul__5fd84ce64a86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:08.007343+00:00
 -- url     : https://prove2.me/theorems/78e71ed3-0219-42b8-aa43-cccd394ad6ed

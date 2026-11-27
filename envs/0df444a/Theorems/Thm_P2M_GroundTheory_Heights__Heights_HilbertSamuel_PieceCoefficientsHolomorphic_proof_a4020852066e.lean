@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceCoefficientsHolomorphic_proof_a4020852066e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceCoefficientsHolomorphic_proof_a4020852066e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:13:26.880532+00:00
 -- url     : https://prove2.me/theorems/a10d1901-61b3-553f-9b72-21eef08f00a1

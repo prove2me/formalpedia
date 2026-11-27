@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_matrixCoordsHomeomorph_apply
 -- name    : GroundTheory.Automorphic.matrixCoordsHomeomorph_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:15.756227+00:00
 -- url     : https://prove2.me/theorems/51d46dc3-d3cd-4ab4-9d99-6fb6f4a2b7a0

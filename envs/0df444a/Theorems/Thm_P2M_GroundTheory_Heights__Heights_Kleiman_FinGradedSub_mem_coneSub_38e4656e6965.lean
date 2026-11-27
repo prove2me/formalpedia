@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_mem_coneSub_38e4656e6965
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FinGradedSub_mem_coneSub_38e4656e6965
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:33:12.135908+00:00
 -- url     : https://prove2.me/theorems/9291faf5-ee44-5e76-8610-0dc0e5596c48

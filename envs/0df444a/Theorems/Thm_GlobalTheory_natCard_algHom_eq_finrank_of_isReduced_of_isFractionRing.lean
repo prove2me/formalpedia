@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCard_algHom_eq_finrank_of_isReduced_of_isFractionRing
 -- name    : GlobalTheory.natCard_algHom_eq_finrank_of_isReduced_of_isFractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:21.814802+00:00
 -- url     : https://prove2.me/theorems/90d37017-8f09-5f84-adf1-43dbf615cfd0

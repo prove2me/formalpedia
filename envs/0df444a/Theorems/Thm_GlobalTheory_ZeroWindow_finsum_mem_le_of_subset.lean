@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroWindow_finsum_mem_le_of_subset
 -- name    : GlobalTheory.ZeroWindow.finsum_mem_le_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:41.465206+00:00
 -- url     : https://prove2.me/theorems/6369085a-9e03-525b-9772-212749e2d1b0

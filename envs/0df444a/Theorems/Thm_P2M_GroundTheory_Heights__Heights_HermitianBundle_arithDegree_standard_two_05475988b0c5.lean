@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianBundle_arithDegree_standard_two_05475988b0c5
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianBundle_arithDegree_standard_two_05475988b0c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:06.815867+00:00
 -- url     : https://prove2.me/theorems/807f536a-a9f2-420f-b80b-591d947eaa5e

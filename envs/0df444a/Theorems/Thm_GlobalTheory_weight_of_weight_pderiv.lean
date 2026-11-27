@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weight_of_weight_pderiv
 -- name    : GlobalTheory.weight_of_weight_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:59.929925+00:00
 -- url     : https://prove2.me/theorems/0c658b26-20b8-4b7c-8c93-772144e1af90

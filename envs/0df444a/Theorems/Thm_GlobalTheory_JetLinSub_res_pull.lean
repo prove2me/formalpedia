@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_res_pull
 -- name    : GlobalTheory.JetLinSub.res_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:41:16.775227+00:00
 -- url     : https://prove2.me/theorems/daaf3307-af2a-567d-a27e-5d1ad6e6b101

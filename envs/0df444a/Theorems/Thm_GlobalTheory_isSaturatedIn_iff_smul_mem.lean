@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedIn_iff_smul_mem
 -- name    : GlobalTheory.isSaturatedIn_iff_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:47.106939+00:00
 -- url     : https://prove2.me/theorems/16e13977-364f-48fb-8168-070b3ee6423c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicKernelFibre_proof_df2bd597bf1a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicKernelFibre_proof_df2bd597bf1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:17:17.965261+00:00
 -- url     : https://prove2.me/theorems/da9ffee6-2cdf-4f92-9a2d-691c3fb646f5

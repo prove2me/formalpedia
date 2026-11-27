@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Pf1_CLGD_DescRes_resRep_N
 -- name    : PositivityTheory.Pf1.CLGD.DescRes.resRep_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:58:58.624405+00:00
 -- url     : https://prove2.me/theorems/9e1dfda6-b9a6-4633-b960-d0b6e88da8ab

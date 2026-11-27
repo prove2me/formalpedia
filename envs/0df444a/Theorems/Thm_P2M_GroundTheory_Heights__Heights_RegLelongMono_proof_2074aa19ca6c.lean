@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongMono_proof_2074aa19ca6c
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongMono_proof_2074aa19ca6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:56.865528+00:00
 -- url     : https://prove2.me/theorems/11f8efd4-7b64-42e6-ac2d-60141604d1bf

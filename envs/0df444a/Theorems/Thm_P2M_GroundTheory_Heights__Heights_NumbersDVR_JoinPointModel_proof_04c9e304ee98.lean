@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointModel_proof_04c9e304ee98
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointModel_proof_04c9e304ee98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:33:41.43177+00:00
 -- url     : https://prove2.me/theorems/5b7e93b8-afcc-4309-8843-26730d558440

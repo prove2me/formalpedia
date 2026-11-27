@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_resInj_holds
 -- name    : ReciprocityTheory.Coh.resInj_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:27:16.808804+00:00
 -- url     : https://prove2.me/theorems/08894752-9f09-48f7-a7be-4cd565f68ee3

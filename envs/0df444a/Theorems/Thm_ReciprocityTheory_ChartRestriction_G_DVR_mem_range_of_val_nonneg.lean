@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_mem_range_of_val_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.mem_range_of_val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:20:49.972923+00:00
 -- url     : https://prove2.me/theorems/0ad318aa-ce96-5611-9210-bb41b2f3e9f3

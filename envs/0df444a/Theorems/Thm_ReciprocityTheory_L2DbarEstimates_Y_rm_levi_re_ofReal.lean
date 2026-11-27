@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rm_levi_re_ofReal
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rm_levi_re_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:16.557505+00:00
 -- url     : https://prove2.me/theorems/c250feeb-43f4-45a0-914d-c046eac8cc0f

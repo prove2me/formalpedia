@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedSubmodule_map_equiv_iff
 -- name    : GlobalTheory.isSaturatedSubmodule_map_equiv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:48:01.855378+00:00
 -- url     : https://prove2.me/theorems/b6858372-b683-55f3-9848-5cce11e11300

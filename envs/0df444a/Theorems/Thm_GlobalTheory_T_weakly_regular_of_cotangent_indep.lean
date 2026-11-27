@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weakly_regular_of_cotangent_indep
 -- name    : GlobalTheory.T.weakly_regular_of_cotangent_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:55.525321+00:00
 -- url     : https://prove2.me/theorems/8eedddd4-7698-4add-97da-3e4edc2c8e22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_invariant_core
 -- name    : GlobalTheory.exists_invariant_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:11.537598+00:00
 -- url     : https://prove2.me/theorems/1ba63a3f-0648-4a4a-b853-94af8f84fc30

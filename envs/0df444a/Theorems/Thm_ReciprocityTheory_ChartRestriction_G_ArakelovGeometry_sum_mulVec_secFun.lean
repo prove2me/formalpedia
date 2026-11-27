@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sum_mulVec_secFun
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sum_mulVec_secFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:00:09.515225+00:00
 -- url     : https://prove2.me/theorems/a5295628-ab43-44d4-8098-bbcc87caf074

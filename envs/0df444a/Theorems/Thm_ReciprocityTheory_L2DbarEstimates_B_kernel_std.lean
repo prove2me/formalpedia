@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_kernel_std
 -- name    : ReciprocityTheory.L2DbarEstimates.B.kernel_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:49.168803+00:00
 -- url     : https://prove2.me/theorems/2d6ce139-0ee2-4735-9ae8-2b655ba2f59d

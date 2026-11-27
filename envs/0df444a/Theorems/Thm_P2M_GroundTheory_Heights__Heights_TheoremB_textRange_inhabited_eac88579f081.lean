@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_textRange_inhabited_eac88579f081
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_textRange_inhabited_eac88579f081
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:40:51.029642+00:00
 -- url     : https://prove2.me/theorems/90fa7c2c-8818-4279-a2e6-563dcc6cd58d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CL_W_Q___2d8d76d12fce
 -- name    : P2M_Formalism_CL_W_Q___2d8d76d12fce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:49.396433+00:00
 -- url     : https://prove2.me/theorems/de7b38bd-40fc-4eb6-bbb4-d3e755a6034d

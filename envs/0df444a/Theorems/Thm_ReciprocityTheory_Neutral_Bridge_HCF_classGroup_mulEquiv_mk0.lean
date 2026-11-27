@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCF_classGroup_mulEquiv_mk0
 -- name    : ReciprocityTheory.Neutral.Bridge.HCF.classGroup_mulEquiv_mk0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:02.711394+00:00
 -- url     : https://prove2.me/theorems/34c355fe-4a52-5a9c-9aad-f9222e617e83

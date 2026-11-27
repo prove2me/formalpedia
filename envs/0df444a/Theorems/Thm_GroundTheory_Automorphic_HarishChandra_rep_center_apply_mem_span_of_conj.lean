@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rep_center_apply_mem_span_of_conj
 -- name    : GroundTheory.Automorphic.HarishChandra.rep_center_apply_mem_span_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:58:28.161112+00:00
 -- url     : https://prove2.me/theorems/925479ee-6b64-58bb-9ceb-429bd3235c67

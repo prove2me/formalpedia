@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_quotShape_congr
 -- name    : ReciprocityTheory.ChartRestriction.T2.quotShape_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:50.105648+00:00
 -- url     : https://prove2.me/theorems/4cc76660-56d9-4da0-ba52-b4c84a91532f

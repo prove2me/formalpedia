@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_isSeparable_adjoin_inv
 -- name    : GroundTheory.FunctionField.Place.isSeparable_adjoin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:25.945852+00:00
 -- url     : https://prove2.me/theorems/6b8b47a3-a6d0-50a6-afda-30bf620f5f04

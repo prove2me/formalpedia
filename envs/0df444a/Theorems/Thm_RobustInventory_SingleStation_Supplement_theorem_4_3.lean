@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustInventory_SingleStation_Supplement_theorem_4_3
 -- name    : RobustInventory.SingleStation.Supplement.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:31:00.995106+00:00
 -- url     : https://prove2.me/theorems/233046a0-ed44-413a-aa8b-0d15c331f353

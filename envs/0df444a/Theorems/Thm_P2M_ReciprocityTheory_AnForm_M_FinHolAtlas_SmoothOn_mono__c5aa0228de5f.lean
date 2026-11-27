@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_SmoothOn_mono__c5aa0228de5f
 -- name    : P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_SmoothOn_mono__c5aa0228de5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:44:15.344915+00:00
 -- url     : https://prove2.me/theorems/6fa06ecb-4ff1-4514-b768-ba7bc05add8b

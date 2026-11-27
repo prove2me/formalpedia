@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_zuckDual_of
 -- name    : PI.ZuckTensorWork.zuckDual_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:46.832186+00:00
 -- url     : https://prove2.me/theorems/63dbfc50-1b80-4082-ad0f-e30efef28c39

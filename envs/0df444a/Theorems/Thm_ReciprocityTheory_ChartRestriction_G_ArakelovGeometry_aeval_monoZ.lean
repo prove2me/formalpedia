@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_monoZ
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_monoZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:59:59.580476+00:00
 -- url     : https://prove2.me/theorems/871fa66c-cb04-4f6a-b0cc-628e455e05d9

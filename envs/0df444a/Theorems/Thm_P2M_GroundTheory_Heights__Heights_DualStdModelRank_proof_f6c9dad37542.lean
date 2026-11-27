@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualStdModelRank_proof_f6c9dad37542
 -- name    : P2M_GroundTheory_Heights__Heights_DualStdModelRank_proof_f6c9dad37542
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:12:58.444913+00:00
 -- url     : https://prove2.me/theorems/10a6bc53-143a-5b8b-a738-09a1dfb01b69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_proof_a3aaa6d0b6ae
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_proof_a3aaa6d0b6ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:29:55.175821+00:00
 -- url     : https://prove2.me/theorems/5ccf585f-1d96-4446-b14e-2eb5f3aacb7b

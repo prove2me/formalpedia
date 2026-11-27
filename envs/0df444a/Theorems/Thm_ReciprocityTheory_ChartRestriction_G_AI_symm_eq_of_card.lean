@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_symm_eq_of_card
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.symm_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:09.141208+00:00
 -- url     : https://prove2.me/theorems/7a6f3471-27d2-4589-9592-9b65ce273d44

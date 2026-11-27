@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegrallyClosed_fixedSubring
 -- name    : GlobalTheory.isIntegrallyClosed_fixedSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:56.889909+00:00
 -- url     : https://prove2.me/theorems/4ac7f9d1-1557-57ef-9723-023b15733eb8

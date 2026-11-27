@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_boundedTw
 -- name    : UpperTheory.Top.boundedTw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:59.265989+00:00
 -- url     : https://prove2.me/theorems/ad887ec1-44cb-47e9-9ef7-bc746030daab

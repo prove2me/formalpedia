@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isNormalPt_ptX_61cb94b445fa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isNormalPt_ptX_61cb94b445fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:28:04.401208+00:00
 -- url     : https://prove2.me/theorems/69dcc815-ca17-4961-9d0e-aa91c85fc6c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_dvd_norm_sub_one_of_idempotent_interpolation_relNorm_one
 -- name    : UpperTheory.dvd_norm_sub_one_of_idempotent_interpolation_relNorm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:52.964472+00:00
 -- url     : https://prove2.me/theorems/6fd676b4-3402-5318-8695-135a3ccb0bef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComponentResFibreFinite_proof_6307d8f24e4d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ComponentResFibreFinite_proof_6307d8f24e4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:19:01.020804+00:00
 -- url     : https://prove2.me/theorems/e4988e28-1f76-4289-9532-1b88ffcfcb49

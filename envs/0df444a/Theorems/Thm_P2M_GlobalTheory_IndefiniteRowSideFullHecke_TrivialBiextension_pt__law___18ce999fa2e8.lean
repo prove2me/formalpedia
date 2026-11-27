@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_TrivialBiextension_pt__law___18ce999fa2e8
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_TrivialBiextension_pt__law___18ce999fa2e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:06:12.462153+00:00
 -- url     : https://prove2.me/theorems/18c96573-3a94-403b-ba36-fcce7791cf46

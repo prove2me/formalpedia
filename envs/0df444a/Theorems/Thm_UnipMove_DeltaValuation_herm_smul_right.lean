@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_DeltaValuation_herm_smul_right
 -- name    : UnipMove.DeltaValuation.herm_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:28.679854+00:00
 -- url     : https://prove2.me/theorems/4ce1c478-316c-5c65-9c1f-a112ba643f3f

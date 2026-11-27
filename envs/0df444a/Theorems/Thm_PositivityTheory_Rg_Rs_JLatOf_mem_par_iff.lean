@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_JLatOf_mem_par_iff
 -- name    : PositivityTheory.Rg.Rs.JLatOf.mem_par_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:42.697426+00:00
 -- url     : https://prove2.me/theorems/6aeb0a2c-7dce-4fb7-8611-3eca2843e501

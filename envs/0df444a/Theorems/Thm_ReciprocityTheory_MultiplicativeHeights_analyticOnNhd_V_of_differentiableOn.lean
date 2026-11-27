@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_analyticOnNhd_V_of_differentiableOn
 -- name    : ReciprocityTheory.MultiplicativeHeights.analyticOnNhd_V_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:23.205389+00:00
 -- url     : https://prove2.me/theorems/fc245c01-7df1-47f1-b086-9d0b6096c04f

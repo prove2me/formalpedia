@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_BridgeK_coeff_X_mul_derivative__d786c448d91d
 -- name    : P2M_Formalism_L2_Th1_A_BridgeK_coeff_X_mul_derivative__d786c448d91d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:49.827989+00:00
 -- url     : https://prove2.me/theorems/decfefd4-0b25-44f3-b11e-38b6cdb8c20e

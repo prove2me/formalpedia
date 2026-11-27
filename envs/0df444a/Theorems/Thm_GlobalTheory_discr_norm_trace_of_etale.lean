@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_norm_trace_of_etale
 -- name    : GlobalTheory.discr_norm_trace_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:41.267658+00:00
 -- url     : https://prove2.me/theorems/82dcd453-5c06-5d11-be30-f1820dbea4e5

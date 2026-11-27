@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSaturatedSubmodule_comap_iff_of_surjective
 -- name    : GlobalTheory.isSaturatedSubmodule_comap_iff_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:38.316807+00:00
 -- url     : https://prove2.me/theorems/0ae0544d-f15e-5932-b26d-815f30b62234

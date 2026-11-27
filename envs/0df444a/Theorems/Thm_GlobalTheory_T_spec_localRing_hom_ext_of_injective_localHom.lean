@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_spec_localRing_hom_ext_of_injective_localHom
 -- name    : GlobalTheory.T.spec_localRing_hom_ext_of_injective_localHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:06.704861+00:00
 -- url     : https://prove2.me/theorems/cea013d9-8c31-4c25-bf80-bd0f4b42372a

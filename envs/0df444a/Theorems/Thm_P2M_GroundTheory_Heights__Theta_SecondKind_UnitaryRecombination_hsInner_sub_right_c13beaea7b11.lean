@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsInner_sub_right_c13beaea7b11
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hsInner_sub_right_c13beaea7b11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:07.328712+00:00
 -- url     : https://prove2.me/theorems/798ebbea-b7d2-50d1-926d-d3f06f7839a2

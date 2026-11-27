@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechCubeMapOver_app
 -- name    : GlobalTheory.cechCubeMapOver_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:44:14.403488+00:00
 -- url     : https://prove2.me/theorems/fd058564-9900-4f12-b9bf-495ab3d89890

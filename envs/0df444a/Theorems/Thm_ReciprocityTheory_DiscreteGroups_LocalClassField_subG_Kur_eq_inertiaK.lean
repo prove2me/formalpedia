@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_subG_Kur_eq_inertiaK
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.subG_Kur_eq_inertiaK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:38:09.303049+00:00
 -- url     : https://prove2.me/theorems/78e3d01c-9499-5f56-9e81-e817a535c228

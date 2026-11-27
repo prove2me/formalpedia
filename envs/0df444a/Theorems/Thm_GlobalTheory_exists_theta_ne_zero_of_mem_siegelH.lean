@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_theta_ne_zero_of_mem_siegelH
 -- name    : GlobalTheory.exists_theta_ne_zero_of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:02.893908+00:00
 -- url     : https://prove2.me/theorems/387d451b-ba84-5837-84a3-23c8d4809148

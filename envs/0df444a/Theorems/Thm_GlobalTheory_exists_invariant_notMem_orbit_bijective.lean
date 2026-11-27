@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_invariant_notMem_orbit_bijective
 -- name    : GlobalTheory.exists_invariant_notMem_orbit_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:45:16.037294+00:00
 -- url     : https://prove2.me/theorems/3573bde8-b4c7-5822-ad99-063d2a8561a0

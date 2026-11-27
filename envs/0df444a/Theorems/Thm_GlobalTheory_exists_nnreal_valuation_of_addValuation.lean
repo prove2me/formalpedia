@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_nnreal_valuation_of_addValuation
 -- name    : GlobalTheory.exists_nnreal_valuation_of_addValuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:51:44.097413+00:00
 -- url     : https://prove2.me/theorems/1a4f6f65-4d14-5bb6-b546-9ba3846d8b63

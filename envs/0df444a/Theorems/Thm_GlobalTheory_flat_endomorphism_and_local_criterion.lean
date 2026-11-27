@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_endomorphism_and_local_criterion
 -- name    : GlobalTheory.flat_endomorphism_and_local_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:46.446458+00:00
 -- url     : https://prove2.me/theorems/ee2e7836-3d40-5f7e-9c42-c54fd05713d1

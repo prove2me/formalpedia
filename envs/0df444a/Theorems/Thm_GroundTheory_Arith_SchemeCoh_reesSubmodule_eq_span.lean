@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_reesSubmodule_eq_span
 -- name    : GroundTheory.Arith.SchemeCoh.reesSubmodule_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:53:00.739358+00:00
 -- url     : https://prove2.me/theorems/3b1a73b3-d5de-4e47-9043-699cec2b7795

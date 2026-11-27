@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_LatticeLocalGlobalTheory_cw_snoc
 -- name    : PI.UnitaryCorollaryDerivatives.LatticeLocalGlobalTheory.cw_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:57:11.802091+00:00
 -- url     : https://prove2.me/theorems/dba6dff6-6050-4aa6-9c27-90b9334c9d07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_BigC_log_pnorm_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.BigC.log_pnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:28:28.859806+00:00
 -- url     : https://prove2.me/theorems/01f0eb63-501b-5819-98a2-b3290aac75d8

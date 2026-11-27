@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_SectionNef_sectionNef_of_first_67ce28377119
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_SectionNef_sectionNef_of_first_67ce28377119
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:26:11.555582+00:00
 -- url     : https://prove2.me/theorems/7d50b42e-9767-50ab-aaed-53367a3f254f

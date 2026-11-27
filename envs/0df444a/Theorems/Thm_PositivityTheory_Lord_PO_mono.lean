@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_PO_mono
 -- name    : PositivityTheory.Lord.PO.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:50:14.77418+00:00
 -- url     : https://prove2.me/theorems/2253c9e8-5415-44a4-96c3-e43180c9ddae

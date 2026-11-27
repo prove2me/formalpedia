@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_toDoubleContragredient_apply_apply
 -- name    : GroundTheory.Automorphic.toDoubleContragredient_apply_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:08.389801+00:00
 -- url     : https://prove2.me/theorems/231dfce4-cb4d-42bf-a08d-2495b526caf0

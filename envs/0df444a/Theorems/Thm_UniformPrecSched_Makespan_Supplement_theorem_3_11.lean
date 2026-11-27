@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_Supplement_theorem_3_11
 -- name    : UniformPrecSched.Makespan.Supplement.theorem_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T07:24:57.21869+00:00
 -- url     : https://prove2.me/theorems/de10e567-f5c2-4a1d-8d35-40b7eeb923e9

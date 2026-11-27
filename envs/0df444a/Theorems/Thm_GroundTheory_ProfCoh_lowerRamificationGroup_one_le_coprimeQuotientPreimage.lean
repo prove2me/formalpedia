@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_lowerRamificationGroup_one_le_coprimeQuotientPreimage
 -- name    : GroundTheory.ProfCoh.lowerRamificationGroup_one_le_coprimeQuotientPreimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:03:16.707787+00:00
 -- url     : https://prove2.me/theorems/5d77b7c0-e068-41b6-8959-e188a73b27e8

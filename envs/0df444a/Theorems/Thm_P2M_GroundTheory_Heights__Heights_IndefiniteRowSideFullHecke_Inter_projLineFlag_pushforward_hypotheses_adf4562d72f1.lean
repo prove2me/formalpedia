@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_projLineFlag_pushforward_hypotheses_adf4562d72f1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_projLineFlag_pushforward_hypotheses_adf4562d72f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:35.995231+00:00
 -- url     : https://prove2.me/theorems/7cd15388-8e52-5b05-8dae-1b6dd0e2d990

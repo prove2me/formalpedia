@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_compG_holds
 -- name    : PI.VolStabSW.compG_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:49:41.042903+00:00
 -- url     : https://prove2.me/theorems/62a27102-2828-5768-88cf-dd7ad1e4e3e1

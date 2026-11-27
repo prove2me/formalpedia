@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_nonempty_algEquiv_tensor_centralizer
 -- name    : GroundTheory.Brauer.nonempty_algEquiv_tensor_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:18.606811+00:00
 -- url     : https://prove2.me/theorems/3df34e08-0165-530d-8e8f-92859e15d981

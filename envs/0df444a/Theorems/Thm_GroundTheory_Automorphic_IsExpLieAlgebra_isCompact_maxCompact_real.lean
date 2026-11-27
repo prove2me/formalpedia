@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_isCompact_maxCompact_real
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.isCompact_maxCompact_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:17.79907+00:00
 -- url     : https://prove2.me/theorems/07e70cc2-5fea-4b4c-bb11-346792e500b4

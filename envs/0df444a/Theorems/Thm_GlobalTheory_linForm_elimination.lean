@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_linForm_elimination
 -- name    : GlobalTheory.linForm_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:34.205485+00:00
 -- url     : https://prove2.me/theorems/1de05b04-b1f5-5cbd-8e4d-216d5a09791e

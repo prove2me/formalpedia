@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tsum_setIntegral_fundamentalDomain_eq_zero_by_orbits
 -- name    : GlobalTheory.T.tsum_setIntegral_fundamentalDomain_eq_zero_by_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:05.417612+00:00
 -- url     : https://prove2.me/theorems/510237cc-2aa2-415b-a6e5-0abbeba8c395

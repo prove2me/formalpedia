@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AbCoh__Two_swap_fb38a542a9df
 -- name    : P2M_GlobalTheory_AbCoh__Two_swap_fb38a542a9df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:59:26.005884+00:00
 -- url     : https://prove2.me/theorems/bc962606-d89b-578a-a353-8a0f643c8b16

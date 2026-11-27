@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitting_local_integrality
 -- name    : GlobalTheory.T.splitting_local_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:47.546053+00:00
 -- url     : https://prove2.me/theorems/8581eed0-2ea6-4118-8871-a8bfb1ac613f

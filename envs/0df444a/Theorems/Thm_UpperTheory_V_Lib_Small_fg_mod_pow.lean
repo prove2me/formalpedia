@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Lib_Small_fg_mod_pow
 -- name    : UpperTheory.V.Lib.Small.fg_mod_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:56.625683+00:00
 -- url     : https://prove2.me/theorems/00b323c4-51be-4685-b534-9db5f94e634b

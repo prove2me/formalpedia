@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_topologicalKrullDim_affineToricVariety
 -- name    : GroundTheory.Arith.Toric.topologicalKrullDim_affineToricVariety
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:48.294313+00:00
 -- url     : https://prove2.me/theorems/135595c5-e068-5d82-a309-39fb68b5a320

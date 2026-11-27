@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogDetGramContinuous_proof_ef2590af84cc
 -- name    : P2M_GroundTheory_Heights__Heights_LogDetGramContinuous_proof_ef2590af84cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:30:11.609047+00:00
 -- url     : https://prove2.me/theorems/643b1a6b-3e7f-4012-a12d-1a9924f10df0

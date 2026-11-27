@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_rdU_mul
 -- name    : GlobalTheory.UnifDataTest.rdU_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:48:46.263683+00:00
 -- url     : https://prove2.me/theorems/54bee8b7-c4cc-5401-ab1f-656f79621bcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_proof_90afb1391e5c
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_proof_90afb1391e5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:55.284798+00:00
 -- url     : https://prove2.me/theorems/ef1652ab-28b8-4618-8653-de563b953941

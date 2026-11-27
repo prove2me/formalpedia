@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qe3b_measurePreserving_swapPi__572dad87e320
 -- name    : P2M_UpperTheory_Reformulated_B_Qe3b_measurePreserving_swapPi__572dad87e320
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:43:35.135941+00:00
 -- url     : https://prove2.me/theorems/e7d06872-f22e-5e7a-aecf-2eeecaf8bd8c

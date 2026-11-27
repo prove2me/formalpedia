@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LocCartanPairW_cmp_detJ
 -- name    : PI.SqPair.LocCartanPairW.cmp_detJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:47:38.123126+00:00
 -- url     : https://prove2.me/theorems/87f0d214-93d7-5c9a-934e-10f8b3408daf

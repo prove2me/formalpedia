@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_re_dmin_sign_pos_of_definite
 -- name    : GlobalTheory.T.re_dmin_sign_pos_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:36.033233+00:00
 -- url     : https://prove2.me/theorems/9ae068d4-e501-44ff-90e7-4bd770c4c146

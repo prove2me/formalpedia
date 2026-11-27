@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cech_kuenneth_of_bijective
 -- name    : GlobalTheory.cech_kuenneth_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:55.601128+00:00
 -- url     : https://prove2.me/theorems/3ba5f3ff-91bd-5099-8aa4-ea6009ea3b60

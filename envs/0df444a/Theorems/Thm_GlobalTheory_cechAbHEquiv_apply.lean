@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAbHEquiv_apply
 -- name    : GlobalTheory.cechAbHEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:44:48.47541+00:00
 -- url     : https://prove2.me/theorems/3b8c201d-360f-4f4f-a436-bc9c1e75ac52

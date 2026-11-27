@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_VNumCut_proof_f5762dd5c253
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_VNumCut_proof_f5762dd5c253
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:34:23.359869+00:00
 -- url     : https://prove2.me/theorems/aaebaeb5-4937-468f-a55a-2bb2e3c6f8ab

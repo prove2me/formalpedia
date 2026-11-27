@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_FinHeis_Inh_selfDual_G__5ab896a8a757
 -- name    : P2M_GlobalTheory_CompanionTheory_FinHeis_Inh_selfDual_G__5ab896a8a757
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:43.198595+00:00
 -- url     : https://prove2.me/theorems/e0242849-3bc7-403e-b995-1e94f2c38509

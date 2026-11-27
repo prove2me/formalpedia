@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_HcInf_haar_unique__ccef7ee8667f
 -- name    : P2M_HcInf_haar_unique__ccef7ee8667f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:45:17.532+00:00
 -- url     : https://prove2.me/theorems/895a4b0d-b07f-40ff-a95a-e4f28888566d

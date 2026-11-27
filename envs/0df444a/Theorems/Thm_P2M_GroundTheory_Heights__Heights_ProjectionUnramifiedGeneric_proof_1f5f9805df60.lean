@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectionUnramifiedGeneric_proof_1f5f9805df60
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectionUnramifiedGeneric_proof_1f5f9805df60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:34:46.337086+00:00
 -- url     : https://prove2.me/theorems/3ef4fb04-f407-51b4-b7a0-5ca8fa747cc4

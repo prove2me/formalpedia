@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Hgt_count_grp
 -- name    : GlobalTheory.ThK.Dbl.Hgt.count_grp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:27.240727+00:00
 -- url     : https://prove2.me/theorems/69217130-b3f3-4b80-9463-3c170d230ff0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WModel_wModel_p_ne_zero
 -- name    : GlobalTheory.WModel.wModel_p_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:42.432967+00:00
 -- url     : https://prove2.me/theorems/4ec459c8-636a-541b-8b4b-6b61b85ae06a

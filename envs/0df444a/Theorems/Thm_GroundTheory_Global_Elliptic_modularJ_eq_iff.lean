@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_modularJ_eq_iff
 -- name    : GroundTheory.Global.Elliptic.modularJ_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:49.88656+00:00
 -- url     : https://prove2.me/theorems/c33f2171-4b98-5aed-a44c-0ceadc52bb5b

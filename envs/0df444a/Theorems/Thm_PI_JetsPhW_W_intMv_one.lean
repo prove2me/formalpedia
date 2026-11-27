@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_intMv_one
 -- name    : PI.JetsPhW.W.intMv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:51:24.522443+00:00
 -- url     : https://prove2.me/theorems/675b4302-890e-52f0-8482-fafae0533d5d

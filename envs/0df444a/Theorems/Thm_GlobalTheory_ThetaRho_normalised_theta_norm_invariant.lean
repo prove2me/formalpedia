@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRho_normalised_theta_norm_invariant
 -- name    : GlobalTheory.ThetaRho.normalised_theta_norm_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:30:27.519923+00:00
 -- url     : https://prove2.me/theorems/e670991d-6059-51d3-8bce-c9d476f5a2a4

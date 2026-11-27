@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_step
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:31.113194+00:00
 -- url     : https://prove2.me/theorems/d715cdec-a822-40b1-a970-044960f6b2d7

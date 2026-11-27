@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarSlabMeasure_proof_de3d43381f87
 -- name    : P2M_GroundTheory_Heights__Heights_VarSlabMeasure_proof_de3d43381f87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:40:46.47213+00:00
 -- url     : https://prove2.me/theorems/62c7565a-a23e-555d-bdf9-2d297cf6f56b

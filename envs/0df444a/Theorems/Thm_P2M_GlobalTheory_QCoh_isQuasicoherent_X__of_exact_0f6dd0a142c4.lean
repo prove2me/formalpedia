@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_QCoh_isQuasicoherent_X__of_exact_0f6dd0a142c4
 -- name    : P2M_GlobalTheory_QCoh_isQuasicoherent_X__of_exact_0f6dd0a142c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:12:28.142805+00:00
 -- url     : https://prove2.me/theorems/23db5387-12d2-4fab-b27f-261f22bd8170

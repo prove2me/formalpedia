@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sab_group_iso_of_generic
 -- name    : GlobalTheory.sab_group_iso_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:39:26.192819+00:00
 -- url     : https://prove2.me/theorems/4531899c-4e56-4c2d-a9b3-8a60e0d070e6

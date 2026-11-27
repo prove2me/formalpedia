@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeHomologyDirectSumEquiv_lof
 -- name    : GlobalTheory.cubeHomologyDirectSumEquiv_lof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:05.96359+00:00
 -- url     : https://prove2.me/theorems/4fd8849f-dd43-5f37-ae36-4bb234385af0

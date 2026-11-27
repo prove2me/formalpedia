@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_SwLocFin_core
 -- name    : PositivityTheory.SiegelWeilFormula.SwLocFin.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:56:32.639329+00:00
 -- url     : https://prove2.me/theorems/8faf5ca1-8604-4676-9c91-26f8fd5a691f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_prime_localization_criterion
 -- name    : GlobalTheory.T.tensor_prime_localization_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:32.663375+00:00
 -- url     : https://prove2.me/theorems/b8952529-d0bb-54aa-bd05-dc4f61bfd86a

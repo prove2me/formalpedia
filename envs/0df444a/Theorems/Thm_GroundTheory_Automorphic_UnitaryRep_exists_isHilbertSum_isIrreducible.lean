@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_exists_isHilbertSum_isIrreducible
 -- name    : GroundTheory.Automorphic.UnitaryRep.exists_isHilbertSum_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:37.977175+00:00
 -- url     : https://prove2.me/theorems/af470515-cf15-5fd5-805c-d2a6155d8251

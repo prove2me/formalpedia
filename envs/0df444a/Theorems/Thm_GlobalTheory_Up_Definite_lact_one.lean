@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Up_Definite_lact_one
 -- name    : GlobalTheory.Up.Definite.lact_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:12.532195+00:00
 -- url     : https://prove2.me/theorems/88f8046c-7963-4e28-8d27-1a416b70f6e5

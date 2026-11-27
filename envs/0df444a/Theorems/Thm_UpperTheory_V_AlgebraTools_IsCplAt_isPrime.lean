@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_AlgebraTools_IsCplAt_isPrime
 -- name    : UpperTheory.V.AlgebraTools.IsCplAt.isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:19.898255+00:00
 -- url     : https://prove2.me/theorems/74a92877-f898-56ca-8379-347431ad3fa4

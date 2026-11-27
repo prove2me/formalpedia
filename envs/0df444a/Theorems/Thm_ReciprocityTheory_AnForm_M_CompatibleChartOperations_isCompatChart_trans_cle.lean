@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_isCompatChart_trans_cle
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.isCompatChart_trans_cle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:02:48.793238+00:00
 -- url     : https://prove2.me/theorems/67d8661e-3863-4bc7-a365-9999e8ce43e0

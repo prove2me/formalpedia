@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelTheta_mul_conj_eq_blockTheta
 -- name    : GlobalTheory.T.siegelTheta_mul_conj_eq_blockTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:15.96897+00:00
 -- url     : https://prove2.me/theorems/9c119fad-5fe3-57f8-bad8-a4581c4cd278

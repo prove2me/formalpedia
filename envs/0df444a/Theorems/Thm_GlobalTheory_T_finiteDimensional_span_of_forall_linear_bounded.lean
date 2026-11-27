@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_span_of_forall_linear_bounded
 -- name    : GlobalTheory.T.finiteDimensional_span_of_forall_linear_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:27.383824+00:00
 -- url     : https://prove2.me/theorems/8da0eaa7-d0fa-460d-bfc8-a9ae2fa15586

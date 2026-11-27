@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_toPrincipalIdeal_mem_coprimeIdeals
 -- name    : GroundTheory.Global.Modulus.toPrincipalIdeal_mem_coprimeIdeals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:24.603984+00:00
 -- url     : https://prove2.me/theorems/275412a2-b8af-56ea-a174-81c8540b90a0

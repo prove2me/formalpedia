@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_UniformiserBranchSimpleZero_proof_aaa4b82d6f25
 -- name    : P2M_GroundTheory_Heights__Heights_UniformiserBranchSimpleZero_proof_aaa4b82d6f25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:14.154236+00:00
 -- url     : https://prove2.me/theorems/22c0c519-6732-594a-94eb-db0f12f9c3b7

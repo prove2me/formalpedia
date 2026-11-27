@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelDivisorChartGeneric_proof_d33ca681dfb8
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelDivisorChartGeneric_proof_d33ca681dfb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:33:30.749801+00:00
 -- url     : https://prove2.me/theorems/99e437ec-8d51-4475-ae82-50d70109cd1d

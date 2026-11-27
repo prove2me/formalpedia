@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntGramDropLast_proof_f0cfe52ff389
 -- name    : P2M_GroundTheory_Heights__Heights_IntGramDropLast_proof_f0cfe52ff389
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:25:20.142822+00:00
 -- url     : https://prove2.me/theorems/b1b8288e-be7c-5069-9c1a-0f0404eb1970

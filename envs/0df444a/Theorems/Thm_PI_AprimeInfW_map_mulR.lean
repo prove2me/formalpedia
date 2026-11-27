@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AprimeInfW_map_mulR
 -- name    : PI.AprimeInfW.map_mulR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:44:06.504581+00:00
 -- url     : https://prove2.me/theorems/ba20e11b-03f0-570b-afde-dbe91ee5e9cb

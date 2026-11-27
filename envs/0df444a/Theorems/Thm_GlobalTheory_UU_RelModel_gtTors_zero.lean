@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_RelModel_gtTors_zero
 -- name    : GlobalTheory.UU.RelModel.gtTors_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T16:06:55.974804+00:00
 -- url     : https://prove2.me/theorems/4ec88c8a-977f-4a4b-a4e4-8d9ac83239aa

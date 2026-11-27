@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_proof_231451df1128
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_proof_231451df1128
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:12:02.775969+00:00
 -- url     : https://prove2.me/theorems/db5c133c-4fd8-56bb-b2ea-cf86a14412c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_sWeqOm_of
 -- name    : PI.VolStabSW.sWeqOm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:48:48.56631+00:00
 -- url     : https://prove2.me/theorems/b85d7dd7-02fc-5545-90a0-0aa7f049c4d0

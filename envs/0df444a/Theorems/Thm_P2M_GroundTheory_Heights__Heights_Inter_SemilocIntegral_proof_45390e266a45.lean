@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocIntegral_proof_45390e266a45
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocIntegral_proof_45390e266a45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:37.226843+00:00
 -- url     : https://prove2.me/theorems/abc66066-b512-5211-b45b-e4335658d97b

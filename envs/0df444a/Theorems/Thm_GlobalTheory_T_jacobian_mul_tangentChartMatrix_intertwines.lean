@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacobian_mul_tangentChartMatrix_intertwines
 -- name    : GlobalTheory.T.jacobian_mul_tangentChartMatrix_intertwines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:28:46.133795+00:00
 -- url     : https://prove2.me/theorems/21ade75f-7658-5910-9850-7b453ed9d62d

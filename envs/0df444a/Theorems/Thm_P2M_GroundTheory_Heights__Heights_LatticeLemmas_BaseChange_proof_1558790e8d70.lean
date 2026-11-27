@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_BaseChange_proof_1558790e8d70
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_BaseChange_proof_1558790e8d70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:28:58.616828+00:00
 -- url     : https://prove2.me/theorems/873ffa52-cfd1-4795-b4bf-2d1f97a07da2

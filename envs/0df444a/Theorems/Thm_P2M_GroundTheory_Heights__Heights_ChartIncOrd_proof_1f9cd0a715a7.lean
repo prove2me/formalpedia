@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncOrd_proof_1f9cd0a715a7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncOrd_proof_1f9cd0a715a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:08:03.989171+00:00
 -- url     : https://prove2.me/theorems/1831446b-3fd2-50a3-946d-a605e645e382

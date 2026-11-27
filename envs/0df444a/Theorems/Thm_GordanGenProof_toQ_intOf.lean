@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_toQ_intOf
 -- name    : GordanGenProof.toQ_intOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:35.787799+00:00
 -- url     : https://prove2.me/theorems/bd090e51-3bcb-5205-bf52-d4abf1e95ac7

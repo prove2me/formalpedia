@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_pkgZeroCs_nu_nonpos_of_monSupply
 -- name    : UpperTheory.pkgZeroCs_nu_nonpos_of_monSupply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:39.656055+00:00
 -- url     : https://prove2.me/theorems/1d0696ac-53d7-4735-bf9e-9bdcf8607014

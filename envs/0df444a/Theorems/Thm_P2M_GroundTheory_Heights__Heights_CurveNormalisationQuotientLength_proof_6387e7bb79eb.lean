@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveNormalisationQuotientLength_proof_6387e7bb79eb
 -- name    : P2M_GroundTheory_Heights__Heights_CurveNormalisationQuotientLength_proof_6387e7bb79eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:50.876866+00:00
 -- url     : https://prove2.me/theorems/ca281159-eff7-5f19-9239-bce401b5454a

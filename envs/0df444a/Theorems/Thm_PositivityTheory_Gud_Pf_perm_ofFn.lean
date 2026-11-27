@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Gud_Pf_perm_ofFn
 -- name    : PositivityTheory.Gud.Pf.perm_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:49:50.31412+00:00
 -- url     : https://prove2.me/theorems/5eb2a9bb-98a7-5166-beda-7fb308a35cc4

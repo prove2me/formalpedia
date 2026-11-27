@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_proof_c8825fc71a8d
 -- name    : P2M_GroundTheory_Heights__Heights_SheetImageAreaSet_proof_c8825fc71a8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:38:42.100151+00:00
 -- url     : https://prove2.me/theorems/5eedd821-0d46-47ec-8f1c-36cc5452aa96

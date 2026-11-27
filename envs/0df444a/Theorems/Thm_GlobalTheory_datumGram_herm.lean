@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_datumGram_herm
 -- name    : GlobalTheory.datumGram_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:37:37.55775+00:00
 -- url     : https://prove2.me/theorems/7093850d-a824-440b-9e40-1982e20b2425

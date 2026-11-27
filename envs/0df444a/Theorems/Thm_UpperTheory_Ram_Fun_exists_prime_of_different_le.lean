@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_exists_prime_of_different_le
 -- name    : UpperTheory.Ram.Fun.exists_prime_of_different_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:48.953616+00:00
 -- url     : https://prove2.me/theorems/c74bd27d-570c-48e2-8c09-9f69d6108a89

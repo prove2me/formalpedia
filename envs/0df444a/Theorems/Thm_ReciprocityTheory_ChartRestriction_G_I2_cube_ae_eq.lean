@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cube_ae_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cube_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:15:26.930881+00:00
 -- url     : https://prove2.me/theorems/139d085c-1da9-4b58-a34b-80c2f88dd073

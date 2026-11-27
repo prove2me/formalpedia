@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualTopMetricChange_proof_a1cff1eff997
 -- name    : P2M_GroundTheory_Heights__Heights_DualTopMetricChange_proof_a1cff1eff997
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T16:07:04.813828+00:00
 -- url     : https://prove2.me/theorems/411ade3a-3513-4fbc-8790-39946564ff85

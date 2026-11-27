@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ofAffinePoint_zsmul
 -- name    : GlobalTheory.WeierstrassCurve.ofAffinePoint_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:53:35.836964+00:00
 -- url     : https://prove2.me/theorems/8c4588a8-8f73-4407-ac97-59d77e48325f

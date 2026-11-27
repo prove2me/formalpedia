@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_of_classReducedParamsNonempty_etaPeriodLatticeClass_0016f51630e1
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_of_classReducedParamsNonempty_etaPeriodLatticeClass_0016f51630e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:52.432397+00:00
 -- url     : https://prove2.me/theorems/95ffd0aa-7dcd-59d0-a5c5-084c8df6602f

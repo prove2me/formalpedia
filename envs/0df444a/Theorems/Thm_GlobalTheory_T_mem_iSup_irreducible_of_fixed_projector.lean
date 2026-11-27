@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_iSup_irreducible_of_fixed_projector
 -- name    : GlobalTheory.T.mem_iSup_irreducible_of_fixed_projector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:11.404541+00:00
 -- url     : https://prove2.me/theorems/c0857c45-bce0-526d-9488-a3e0dbf3dc82

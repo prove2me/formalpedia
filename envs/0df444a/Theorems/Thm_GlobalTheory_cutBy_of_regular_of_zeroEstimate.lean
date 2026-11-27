@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cutBy_of_regular_of_zeroEstimate
 -- name    : GlobalTheory.cutBy_of_regular_of_zeroEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:52.574154+00:00
 -- url     : https://prove2.me/theorems/5063eafa-a824-5346-bb5b-fa62450d87e8

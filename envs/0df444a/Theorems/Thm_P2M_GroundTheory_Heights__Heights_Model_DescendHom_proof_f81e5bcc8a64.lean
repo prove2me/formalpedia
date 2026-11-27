@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DescendHom_proof_f81e5bcc8a64
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DescendHom_proof_f81e5bcc8a64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:35:14.455638+00:00
 -- url     : https://prove2.me/theorems/070f8791-620e-50ac-adaf-613081cacc8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_fil_eq_maximalIdeal_pow
 -- name    : Reformulated.AutPerF.BdRPlus.fil_eq_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:11:57.281301+00:00
 -- url     : https://prove2.me/theorems/792f8a41-d888-5a08-a79a-686a5e76ffb3

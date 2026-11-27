@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_HE_epunct_compact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.HE.epunct_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:12:14.86652+00:00
 -- url     : https://prove2.me/theorems/5b8ab0a3-31ff-4e8b-befa-6672e33cb136

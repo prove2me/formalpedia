@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_dp_mul
 -- name    : Reformulated.AutPerF.dp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:03.704693+00:00
 -- url     : https://prove2.me/theorems/10279980-3a68-5975-a590-229b8a8e6dbe

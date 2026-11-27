@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_balanced_pairs
 -- name    : BarelyTestable.LowerBound.balanced_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:23:04.930346+00:00
 -- url     : https://prove2.me/theorems/a0184e41-f1da-47a5-8f75-496a914b94cb

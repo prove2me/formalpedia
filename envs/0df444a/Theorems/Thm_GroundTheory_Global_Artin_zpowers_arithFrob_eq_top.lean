@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_zpowers_arithFrob_eq_top
 -- name    : GroundTheory.Global.Artin.zpowers_arithFrob_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:56:07.744558+00:00
 -- url     : https://prove2.me/theorems/c8bd176d-7289-46b1-8fd1-4e9f1a46c7fc

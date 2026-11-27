@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Dim_cls_mul
 -- name    : CompanionTheory.Mirab.Dim.cls_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:21:36.325506+00:00
 -- url     : https://prove2.me/theorems/a9c207fe-b0f8-40fc-ad84-c1d94b2d4145

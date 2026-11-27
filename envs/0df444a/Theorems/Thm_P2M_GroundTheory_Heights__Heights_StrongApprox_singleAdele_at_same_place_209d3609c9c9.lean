@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_singleAdele_at_same_place_209d3609c9c9
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_singleAdele_at_same_place_209d3609c9c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:39:08.173635+00:00
 -- url     : https://prove2.me/theorems/5e362e18-9588-517b-8ba3-8097e8b11ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_colen_dual
 -- name    : ReciprocityTheory.PGsh.colen_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:15.282938+00:00
 -- url     : https://prove2.me/theorems/bcf4259a-ac42-41a0-be44-a865d64f287b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_map_bijective
 -- name    : GlobalTheory.cohOn.map_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:43:59.24867+00:00
 -- url     : https://prove2.me/theorems/2e3bae7d-3bad-5702-ad54-7f756d468e7c

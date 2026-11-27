@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_Guarantee_Supplement_theorem_12_counterexample
 -- name    : DataDrivenRO.Guarantee.Supplement.theorem_12_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:50:21.128418+00:00
 -- url     : https://prove2.me/theorems/1c94bb3e-f203-4f85-874f-5c4535181130

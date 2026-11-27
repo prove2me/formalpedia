@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OrbShared_Tri_surj
 -- name    : PI.OrbShared.Tri.surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:46.5499+00:00
 -- url     : https://prove2.me/theorems/1bffabd9-9e1e-5c18-8a13-bd177a727b32

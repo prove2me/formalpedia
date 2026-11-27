@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sup_ratio_le_of_phase_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sup_ratio_le_of_phase_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:11.61385+00:00
 -- url     : https://prove2.me/theorems/2493151a-1dbd-4b25-a37c-067d9d844fcc

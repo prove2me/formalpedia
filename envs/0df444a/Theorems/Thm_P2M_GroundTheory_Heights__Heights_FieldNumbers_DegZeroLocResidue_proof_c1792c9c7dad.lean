@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocResidue_proof_c1792c9c7dad
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_DegZeroLocResidue_proof_c1792c9c7dad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:12.727368+00:00
 -- url     : https://prove2.me/theorems/102d2bb6-2219-52b0-999f-5b7df8924175

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_cellMinor_diag_perm
 -- name    : GroundTheory.Automorphic.Whittaker.cellMinor_diag_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:54:19.247486+00:00
 -- url     : https://prove2.me/theorems/1466a890-1995-4b9e-b558-b706700487d8

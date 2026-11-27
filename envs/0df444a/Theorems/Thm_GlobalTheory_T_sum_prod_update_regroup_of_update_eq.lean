@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_prod_update_regroup_of_update_eq
 -- name    : GlobalTheory.T.sum_prod_update_regroup_of_update_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:19.461482+00:00
 -- url     : https://prove2.me/theorems/d0be6d3f-fb9d-4a56-9a72-87406453210c

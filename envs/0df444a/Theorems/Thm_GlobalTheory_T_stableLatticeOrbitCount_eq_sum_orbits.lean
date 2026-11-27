@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stableLatticeOrbitCount_eq_sum_orbits
 -- name    : GlobalTheory.T.stableLatticeOrbitCount_eq_sum_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:45:56.283797+00:00
 -- url     : https://prove2.me/theorems/300d41bb-885d-4508-9a6b-12ebedc20488

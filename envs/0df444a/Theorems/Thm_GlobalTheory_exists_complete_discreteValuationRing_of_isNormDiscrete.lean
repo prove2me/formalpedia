@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_discreteValuationRing_of_isNormDiscrete
 -- name    : GlobalTheory.exists_complete_discreteValuationRing_of_isNormDiscrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:20.882612+00:00
 -- url     : https://prove2.me/theorems/1428864b-5193-4ffa-af7b-0e03e2c8af36

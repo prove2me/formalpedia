@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_support_in_subgroup_theta
 -- name    : GlobalTheory.T.product_support_in_subgroup_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:24:07.407198+00:00
 -- url     : https://prove2.me/theorems/7c17d278-4a56-467b-b731-9ac706c19cfa

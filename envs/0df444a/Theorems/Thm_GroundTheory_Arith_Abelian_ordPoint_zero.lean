@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_ordPoint_zero
 -- name    : GroundTheory.Arith.Abelian.ordPoint_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:34.466444+00:00
 -- url     : https://prove2.me/theorems/aa9ee9fd-ce77-4996-a9d1-a639def1662f

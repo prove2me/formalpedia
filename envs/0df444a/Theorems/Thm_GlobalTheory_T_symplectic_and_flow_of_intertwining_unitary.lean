@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symplectic_and_flow_of_intertwining_unitary
 -- name    : GlobalTheory.T.symplectic_and_flow_of_intertwining_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:39:49.880242+00:00
 -- url     : https://prove2.me/theorems/d3c2cded-acfe-5c44-bd99-8f6948176400

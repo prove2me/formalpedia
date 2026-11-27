@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_posetToCech_cechToPoset_cocycle_eq
 -- name    : GlobalTheory.T.posetToCech_cechToPoset_cocycle_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T16:25:57.967178+00:00
 -- url     : https://prove2.me/theorems/deb2a476-523b-5748-bf8f-73b5049a411f

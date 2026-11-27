@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FinGL_mirabolicDelta_ne_zero_ad2050164ceb
 -- name    : P2M_GroundTheory_Heights__Theta_FinGL_mirabolicDelta_ne_zero_ad2050164ceb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:42:28.028096+00:00
 -- url     : https://prove2.me/theorems/f277907e-991e-48df-a51c-1acfe2a4f3ba

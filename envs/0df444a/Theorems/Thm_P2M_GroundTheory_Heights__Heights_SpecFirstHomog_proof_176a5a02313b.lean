@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpecFirstHomog_proof_176a5a02313b
 -- name    : P2M_GroundTheory_Heights__Heights_SpecFirstHomog_proof_176a5a02313b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:37:47.847042+00:00
 -- url     : https://prove2.me/theorems/39a0fa73-04de-45e7-93b3-7ad2ce3840d1

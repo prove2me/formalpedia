@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_add_mul_log_sq_of_le_add_mul_log
 -- name    : GlobalTheory.le_add_mul_log_sq_of_le_add_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:33.868531+00:00
 -- url     : https://prove2.me/theorems/f2cd5357-d17f-4cd0-b769-30dd780d6737

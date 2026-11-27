@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_genRel_val
 -- name    : GlobalTheory.ArcTransport.genRel_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:25:26.045266+00:00
 -- url     : https://prove2.me/theorems/28d867fa-1b68-483f-8fa9-8b28613e11a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_normalization_to_spec
 -- name    : GlobalTheory.existsUnique_normalization_to_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:33.228802+00:00
 -- url     : https://prove2.me/theorems/37269cf8-a675-4bd3-bf08-b994a90bf7be

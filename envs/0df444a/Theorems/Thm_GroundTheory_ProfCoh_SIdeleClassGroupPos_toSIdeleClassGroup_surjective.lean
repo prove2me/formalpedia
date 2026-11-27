@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_SIdeleClassGroupPos_toSIdeleClassGroup_surjective
 -- name    : GroundTheory.ProfCoh.SIdeleClassGroupPos.toSIdeleClassGroup_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:20.161612+00:00
 -- url     : https://prove2.me/theorems/39590d59-3d66-4f8a-8d5a-a310fa74ba0f

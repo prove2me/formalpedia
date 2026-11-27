@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ExceptionalComparison_proof_d765768ef0e1
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ExceptionalComparison_proof_d765768ef0e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:36:18.540665+00:00
 -- url     : https://prove2.me/theorems/249d4d3d-94d3-5517-ad65-54402b289e59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_Statics_Supplement_theorem_5
 -- name    : TwoSidedMatching.Statics.Supplement.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:06:53.865797+00:00
 -- url     : https://prove2.me/theorems/989051b8-8a99-470e-ad71-b1a1f7c8fd88

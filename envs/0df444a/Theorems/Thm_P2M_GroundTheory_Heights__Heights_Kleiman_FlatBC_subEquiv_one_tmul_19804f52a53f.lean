@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_FlatBC_subEquiv_one_tmul_19804f52a53f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_FlatBC_subEquiv_one_tmul_19804f52a53f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:31:26.167927+00:00
 -- url     : https://prove2.me/theorems/61590a66-7a02-4d53-a666-d354793986f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_units_neg_iff_mem_completion
 -- name    : GroundTheory.ProfCoh.exists_units_neg_iff_mem_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:08.007034+00:00
 -- url     : https://prove2.me/theorems/338e004c-48fb-55df-aeea-1d53c6df484e

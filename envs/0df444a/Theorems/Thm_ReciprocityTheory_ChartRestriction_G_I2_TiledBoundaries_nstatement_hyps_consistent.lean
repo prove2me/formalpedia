@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_nstatement_hyps_consistent
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.nstatement_hyps_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:13:35.150903+00:00
 -- url     : https://prove2.me/theorems/ced73f5a-45cc-5c7f-bab9-873c3e8d1179

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_heisenberg_translates_of_lattice_vacua_eq_top
 -- name    : GlobalTheory.T.span_heisenberg_translates_of_lattice_vacua_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:54.056275+00:00
 -- url     : https://prove2.me/theorems/1c21d5ed-4edd-5279-a091-4fadf5fa1619

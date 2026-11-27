@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPMI_Hierarchy_Supplement_lemma_4_12
 -- name    : RobustPMI.Hierarchy.Supplement.lemma_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:43:46.163187+00:00
 -- url     : https://prove2.me/theorems/d6df34e6-d272-4a94-b3ed-0c32f0b7d55b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_HilbertIncrement_hilbertIncrement_alt_of_statement_17dda20fa6f4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_HilbertIncrement_hilbertIncrement_alt_of_statement_17dda20fa6f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:24:12.81042+00:00
 -- url     : https://prove2.me/theorems/b471b863-02a3-547e-b437-09f046b9f994

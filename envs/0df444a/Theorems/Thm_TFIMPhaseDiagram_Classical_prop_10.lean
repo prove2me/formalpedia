@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TFIMPhaseDiagram_Classical_prop_10
 -- name    : TFIMPhaseDiagram.Classical.prop_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T13:04:09.320264+00:00
 -- url     : https://prove2.me/theorems/4eb59070-9bb4-4218-9454-243dee24f41d

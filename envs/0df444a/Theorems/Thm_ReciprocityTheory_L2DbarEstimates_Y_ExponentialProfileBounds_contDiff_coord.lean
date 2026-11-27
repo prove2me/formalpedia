@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_ExponentialProfileBounds_contDiff_coord
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.ExponentialProfileBounds.contDiff_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:24:26.405031+00:00
 -- url     : https://prove2.me/theorems/ea903ce9-ceff-4367-a871-24dfc0dad5b7

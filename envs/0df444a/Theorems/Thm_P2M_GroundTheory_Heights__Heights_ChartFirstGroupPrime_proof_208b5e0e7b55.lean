@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFirstGroupPrime_proof_208b5e0e7b55
 -- name    : P2M_GroundTheory_Heights__Heights_ChartFirstGroupPrime_proof_208b5e0e7b55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:08:34.377665+00:00
 -- url     : https://prove2.me/theorems/e8fd3bc7-2641-4458-83c4-3265c28ecb49

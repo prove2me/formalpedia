@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PicardFO_Fulfill_Supplement_theorem_B_1_counterexample
 -- name    : PicardFO.Fulfill.Supplement.theorem_B_1_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T00:10:52.63757+00:00
 -- url     : https://prove2.me/theorems/52b3e459-39bc-4336-852a-51a21d35259f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dim_unipotent_radical_identities
 -- name    : GlobalTheory.dim_unipotent_radical_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:52.15542+00:00
 -- url     : https://prove2.me/theorems/5a311bf9-1cf6-4dbc-afa2-c323af6417b6

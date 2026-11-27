@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Ue6_even_im_hermitian_sub
 -- name    : UpperTheory.Reformulated.B.Ue6.even_im_hermitian_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:54.628941+00:00
 -- url     : https://prove2.me/theorems/003fc182-7bfb-4dd0-ad3c-188917804f5f

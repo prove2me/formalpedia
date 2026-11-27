@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_vanish
 -- name    : ReciprocityTheory.L2DbarEstimates.I.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:27:50.167388+00:00
 -- url     : https://prove2.me/theorems/4740b364-4564-57c7-b534-7f533af803a6

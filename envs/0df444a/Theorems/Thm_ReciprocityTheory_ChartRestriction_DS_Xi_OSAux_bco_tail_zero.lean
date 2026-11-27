@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_bco_tail_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.bco_tail_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:11:12.581083+00:00
 -- url     : https://prove2.me/theorems/9dce1f40-22be-458a-a29c-45a6d2d34934

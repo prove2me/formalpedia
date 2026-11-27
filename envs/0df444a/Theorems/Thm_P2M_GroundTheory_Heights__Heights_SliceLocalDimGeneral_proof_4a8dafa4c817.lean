@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLocalDimGeneral_proof_4a8dafa4c817
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLocalDimGeneral_proof_4a8dafa4c817
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:38:12.070292+00:00
 -- url     : https://prove2.me/theorems/c57249d9-46ae-439b-8c09-3771e344de6c

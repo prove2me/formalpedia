@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_ellipsoidC_props
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.ellipsoidC_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:21.543086+00:00
 -- url     : https://prove2.me/theorems/97dbc55c-99f6-5bba-9b3a-e0035340bbc4

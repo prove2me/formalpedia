@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_familyUnif_of_parts
 -- name    : GlobalTheory.familyUnif_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:57:32.219379+00:00
 -- url     : https://prove2.me/theorems/4361a699-5377-54a3-aa56-fe488ea181a7

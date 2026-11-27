@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_crdH_symm_apply
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.crdH_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:55:05.352876+00:00
 -- url     : https://prove2.me/theorems/fc8a96af-3ab5-4c19-8ed8-cfdc5bd3ca10

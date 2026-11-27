@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_minorPolynomial_ne_zero
 -- name    : PI.FJMX.minorPolynomial_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:09.421531+00:00
 -- url     : https://prove2.me/theorems/9ddd2ee3-506f-48f6-8acd-741e0f00e8ef

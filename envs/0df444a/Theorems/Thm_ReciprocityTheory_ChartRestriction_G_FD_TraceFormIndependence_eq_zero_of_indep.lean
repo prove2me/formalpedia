@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TraceFormIndependence_eq_zero_of_indep
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TraceFormIndependence.eq_zero_of_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:14:45.970366+00:00
 -- url     : https://prove2.me/theorems/1f96a6c3-9d74-49e5-b32f-effc2bf79037

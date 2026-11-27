@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_Supplement_characteristic_criterion_refuted
 -- name    : SteinitzExchange.Duality.Supplement.characteristic_criterion_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T04:37:23.073077+00:00
 -- url     : https://prove2.me/theorems/78d45aeb-6e8f-4be4-949b-8bb5c0b1afe4

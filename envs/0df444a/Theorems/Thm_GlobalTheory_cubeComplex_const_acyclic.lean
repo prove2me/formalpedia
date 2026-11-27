@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_const_acyclic
 -- name    : GlobalTheory.cubeComplex_const_acyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:11.850024+00:00
 -- url     : https://prove2.me/theorems/7de7ffb2-7d65-5fe8-bb79-251d67e25d18

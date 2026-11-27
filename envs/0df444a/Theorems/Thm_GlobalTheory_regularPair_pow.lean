@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_regularPair_pow
 -- name    : GlobalTheory.regularPair_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:50:10.76143+00:00
 -- url     : https://prove2.me/theorems/af8cc89b-5bf0-4273-9676-21d5d23040df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_range_towerComp_eq_of_exact
 -- name    : GroundTheory.Arith.SchemeCoh.range_towerComp_eq_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:52:16.394926+00:00
 -- url     : https://prove2.me/theorems/2b5dbc1e-797f-5207-bc62-e34b8defec9a

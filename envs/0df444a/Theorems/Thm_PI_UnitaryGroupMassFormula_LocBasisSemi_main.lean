@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocBasisSemi_main
 -- name    : PI.UnitaryGroupMassFormula.LocBasisSemi.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:13.327519+00:00
 -- url     : https://prove2.me/theorems/5b9b046d-0fd5-5fdd-ad2b-b3ec50e67a94

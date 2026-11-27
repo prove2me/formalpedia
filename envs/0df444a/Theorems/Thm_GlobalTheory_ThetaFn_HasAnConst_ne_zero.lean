@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_HasAnConst_ne_zero
 -- name    : GlobalTheory.ThetaFn.HasAnConst.ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:58.140705+00:00
 -- url     : https://prove2.me/theorems/61617fba-e66b-5c4d-bb78-83633432cd9a

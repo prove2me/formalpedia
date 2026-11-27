@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_le_powField_of_finSepDegree_lt
 -- name    : GroundTheory.Arith.Abelian.le_powField_of_finSepDegree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:59.995525+00:00
 -- url     : https://prove2.me/theorems/e773d8e8-6774-5c65-992b-9942901f7515

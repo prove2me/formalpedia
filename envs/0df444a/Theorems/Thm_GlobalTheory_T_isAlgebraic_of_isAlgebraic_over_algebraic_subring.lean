@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAlgebraic_of_isAlgebraic_over_algebraic_subring
 -- name    : GlobalTheory.T.isAlgebraic_of_isAlgebraic_over_algebraic_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:38.237547+00:00
 -- url     : https://prove2.me/theorems/83233a6b-2a91-5acc-a972-e13ca484f137

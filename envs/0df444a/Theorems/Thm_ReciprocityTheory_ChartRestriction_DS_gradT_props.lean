@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gradT_props
 -- name    : ReciprocityTheory.ChartRestriction.DS.gradT_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:11:58.205689+00:00
 -- url     : https://prove2.me/theorems/adf1110c-66b4-448f-ae39-c58f564d3506

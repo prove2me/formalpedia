@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_dotProduct_mulVec_eq_of_linearIndependent__e4df1382f2a7
 -- name    : P2M_GlobalTheory_T_exists_dotProduct_mulVec_eq_of_linearIndependent__e4df1382f2a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:06:24.8095+00:00
 -- url     : https://prove2.me/theorems/3d28bb3a-c7f9-40fc-88e2-09fd86e4f36f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_T_pullDeg_base
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.T.pullDeg_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:10:54.485217+00:00
 -- url     : https://prove2.me/theorems/f5bf8d9e-5acc-453c-a103-c37752a19e6b

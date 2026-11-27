@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_unip_le_stab
 -- name    : GlobalTheory.Tw.PFlag.unip_le_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:00.920799+00:00
 -- url     : https://prove2.me/theorems/bd535a38-29d9-451f-8bd4-ca03ba1eb32a

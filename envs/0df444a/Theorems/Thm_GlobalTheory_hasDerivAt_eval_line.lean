@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasDerivAt_eval_line
 -- name    : GlobalTheory.hasDerivAt_eval_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:47:03.160896+00:00
 -- url     : https://prove2.me/theorems/63f34005-3dde-53d9-9f59-339da817cd01

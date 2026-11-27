@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussLemma_symPowMatrix_upperTriangular_placeOrder
 -- name    : GlobalTheory.T.gaussLemma_symPowMatrix_upperTriangular_placeOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:16.402074+00:00
 -- url     : https://prove2.me/theorems/2ab01a93-4735-5524-99a3-c7f7b03cbbce

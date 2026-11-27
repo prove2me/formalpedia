@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_EnergySum_proof_8c8ac0b7b261
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_EnergySum_proof_8c8ac0b7b261
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:50:15.745706+00:00
 -- url     : https://prove2.me/theorems/333749ac-e33a-5cc6-8f3d-5332c21920d7

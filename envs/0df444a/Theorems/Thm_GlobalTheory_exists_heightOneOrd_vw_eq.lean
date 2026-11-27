@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_heightOneOrd_vw_eq
 -- name    : GlobalTheory.exists_heightOneOrd_vw_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:08.690507+00:00
 -- url     : https://prove2.me/theorems/1ed24191-8bda-474c-a646-30f24e817b7d

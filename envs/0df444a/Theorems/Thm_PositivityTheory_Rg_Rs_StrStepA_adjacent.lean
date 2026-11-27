@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Rs_StrStepA_adjacent
 -- name    : PositivityTheory.Rg.Rs.StrStepA.adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:52:04.749052+00:00
 -- url     : https://prove2.me/theorems/0591bcc2-2fc9-531c-84e5-45b649a96a75

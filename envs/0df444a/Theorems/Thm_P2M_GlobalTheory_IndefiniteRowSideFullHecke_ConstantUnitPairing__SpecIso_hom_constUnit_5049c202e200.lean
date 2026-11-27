@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_ConstantUnitPairing__SpecIso_hom_constUnit_5049c202e200
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_ConstantUnitPairing__SpecIso_hom_constUnit_5049c202e200
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:17:23.544454+00:00
 -- url     : https://prove2.me/theorems/aded5e74-7dd3-4e30-bbef-f4e28bd8034e

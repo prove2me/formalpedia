@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_coefX_smul
 -- name    : ReciprocityTheory.PGsh.Up.coefX_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T17:05:46.410708+00:00
 -- url     : https://prove2.me/theorems/304d0750-72ab-5668-a26e-d6c9c905a897

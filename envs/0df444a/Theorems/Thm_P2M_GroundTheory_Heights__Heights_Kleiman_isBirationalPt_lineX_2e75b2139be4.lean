@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isBirationalPt_lineX_2e75b2139be4
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isBirationalPt_lineX_2e75b2139be4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:28:02.421136+00:00
 -- url     : https://prove2.me/theorems/a4c71ccd-9940-4f92-be4d-e08e3f56b1eb

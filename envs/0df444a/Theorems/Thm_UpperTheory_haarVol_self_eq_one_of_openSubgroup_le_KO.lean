@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_haarVol_self_eq_one_of_openSubgroup_le_KO
 -- name    : UpperTheory.haarVol_self_eq_one_of_openSubgroup_le_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:34.568793+00:00
 -- url     : https://prove2.me/theorems/36bb90c1-9b3f-4304-97cf-661336651da4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_RightMul_val_smul
 -- name    : GroundTheory.Brauer.RightMul.val_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:56:09.254673+00:00
 -- url     : https://prove2.me/theorems/d01d16e7-f9c8-4e07-a7c8-c740c6d488dc

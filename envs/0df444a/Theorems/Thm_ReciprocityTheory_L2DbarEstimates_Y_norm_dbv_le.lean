@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_norm_dbv_le
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.norm_dbv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:07.888261+00:00
 -- url     : https://prove2.me/theorems/ccc18b30-297e-4155-82ca-c6a4ac1ebc6e

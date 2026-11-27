@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finite_mcClasses_bot_unit_3afca9491aed
 -- name    : P2M_GroundTheory_Heights__Heights_finite_mcClasses_bot_unit_3afca9491aed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:42:04.764102+00:00
 -- url     : https://prove2.me/theorems/8f68373c-d1b2-5e25-bffd-9dfcbce8d4f1

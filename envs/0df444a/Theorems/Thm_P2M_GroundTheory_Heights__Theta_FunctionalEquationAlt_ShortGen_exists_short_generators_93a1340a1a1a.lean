@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_exists_short_generators_93a1340a1a1a
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_exists_short_generators_93a1340a1a1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:06.630465+00:00
 -- url     : https://prove2.me/theorems/41b7405a-d468-58b1-8e0a-77c13124db31

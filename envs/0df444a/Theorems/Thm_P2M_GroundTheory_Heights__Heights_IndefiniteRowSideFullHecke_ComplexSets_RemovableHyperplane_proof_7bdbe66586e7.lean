@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RemovableHyperplane_proof_7bdbe66586e7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RemovableHyperplane_proof_7bdbe66586e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:46.117832+00:00
 -- url     : https://prove2.me/theorems/41ca2d39-1b07-4d8a-a527-a3370c71308d

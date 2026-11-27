@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_projective_of_free_lattice_over_finite_free_ring
 -- name    : GlobalTheory.T.projective_of_free_lattice_over_finite_free_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:53.095594+00:00
 -- url     : https://prove2.me/theorems/323a585c-2c06-44e9-94b4-b223252f2aaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodChartModel_proof_96ab924230eb
 -- name    : P2M_GroundTheory_Heights__Heights_GoodChartModel_proof_96ab924230eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:29:16.007926+00:00
 -- url     : https://prove2.me/theorems/361825a6-6fe5-42a7-a443-4e633317eb75

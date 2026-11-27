@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_index_eq_mul
 -- name    : GroundTheory.LocalField.Abstract.index_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:56.123784+00:00
 -- url     : https://prove2.me/theorems/9d2d34e9-1c47-4c0d-af55-c66afd302be9

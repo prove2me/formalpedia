@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightComparison_c0eef4c8765f
 -- name    : P2M_GroundTheory_Heights__Heights_heightComparison_c0eef4c8765f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:01.807008+00:00
 -- url     : https://prove2.me/theorems/1ec466c0-7dd4-4bee-b117-aa3bec072833

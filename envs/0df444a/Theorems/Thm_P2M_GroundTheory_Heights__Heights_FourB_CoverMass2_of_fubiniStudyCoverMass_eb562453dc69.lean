@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CoverMass2_of_fubiniStudyCoverMass_eb562453dc69
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CoverMass2_of_fubiniStudyCoverMass_eb562453dc69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:30.077459+00:00
 -- url     : https://prove2.me/theorems/b004acda-d095-448a-a550-5311c66f3d98

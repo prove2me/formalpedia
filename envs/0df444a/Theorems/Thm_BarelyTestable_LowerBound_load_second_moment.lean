@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_load_second_moment
 -- name    : BarelyTestable.LowerBound.load_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:23:01.392243+00:00
 -- url     : https://prove2.me/theorems/d37de652-5418-4072-830b-c4b28144aa6c

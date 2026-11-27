@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_FibreRelDim_proof_6cc805e00ea7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_FibreRelDim_proof_6cc805e00ea7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:11:37.886807+00:00
 -- url     : https://prove2.me/theorems/cccd5707-cfc2-503b-acf7-ec356ba80168

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_charpoly_normGL_lifts
 -- name    : PositivityTheory.Rg.Tf.Loc.charpoly_normGL_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:54:06.149244+00:00
 -- url     : https://prove2.me/theorems/3c1a25c9-6609-4e01-afd2-78eb9b0218a2

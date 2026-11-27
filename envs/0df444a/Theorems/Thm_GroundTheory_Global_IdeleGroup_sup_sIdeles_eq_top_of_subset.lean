@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_sup_sIdeles_eq_top_of_subset
 -- name    : GroundTheory.Global.IdeleGroup.sup_sIdeles_eq_top_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:55:25.886625+00:00
 -- url     : https://prove2.me/theorems/42d6de18-3830-4d1e-ade5-7a9f44cdaed2

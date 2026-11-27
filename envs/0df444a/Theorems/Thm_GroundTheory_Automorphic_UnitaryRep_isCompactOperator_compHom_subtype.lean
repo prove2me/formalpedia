@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isCompactOperator_compHom_subtype
 -- name    : GroundTheory.Automorphic.UnitaryRep.isCompactOperator_compHom_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:42.777532+00:00
 -- url     : https://prove2.me/theorems/8131cafd-db81-4d03-a60e-96a506f19603

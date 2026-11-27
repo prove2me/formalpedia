@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsOpenMap_mem_closure_singleton_of_apply
 -- name    : IsOpenMap.mem_closure_singleton_of_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:44.326343+00:00
 -- url     : https://prove2.me/theorems/633980a8-d7ba-4bf0-8089-fa1bf3e8188c

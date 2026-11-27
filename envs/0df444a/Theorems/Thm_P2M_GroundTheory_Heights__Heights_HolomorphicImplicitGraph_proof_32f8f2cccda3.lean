@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HolomorphicImplicitGraph_proof_32f8f2cccda3
 -- name    : P2M_GroundTheory_Heights__Heights_HolomorphicImplicitGraph_proof_32f8f2cccda3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:14:38.926333+00:00
 -- url     : https://prove2.me/theorems/867bc0c8-838d-5338-8fc6-bc94f8a7c628

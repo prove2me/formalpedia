@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SmallSections_proof_c35f9e518aa3
 -- name    : P2M_GroundTheory_Heights__Heights_SmallSections_proof_c35f9e518aa3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:38:25.935347+00:00
 -- url     : https://prove2.me/theorems/a3d82b19-30f3-4acf-8f6c-ae2c9923d272

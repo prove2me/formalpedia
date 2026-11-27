@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_pairing_det_ne_zero
 -- name    : exists_pairing_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:40:16.598147+00:00
 -- url     : https://prove2.me/theorems/9ab47cde-4bf6-4078-a75c-a1b6eb50cb6c

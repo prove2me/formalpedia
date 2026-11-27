@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_embeddings_lift_integers_idempotents_conjugation
 -- name    : GlobalTheory.T.embeddings_lift_integers_idempotents_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:18:19.989617+00:00
 -- url     : https://prove2.me/theorems/8c38df7b-c74b-4888-b8cc-3a8687df6386

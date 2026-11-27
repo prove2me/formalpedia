@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_proof_ba6b1899b134
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ConeTrdegFnField_proof_ba6b1899b134
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:32:45.920685+00:00
 -- url     : https://prove2.me/theorems/5bb216a1-0e1a-4f2f-9b26-f4fffa26d935

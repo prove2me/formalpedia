@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeVanishingHomog_proof_8e9e97bce0cc
 -- name    : P2M_GroundTheory_Heights__Heights_ConeVanishingHomog_proof_8e9e97bce0cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:23:19.291063+00:00
 -- url     : https://prove2.me/theorems/2b975f39-ee48-5703-94c4-8857d510f4cb

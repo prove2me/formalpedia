@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ringKrullDim_le_of_isLocalization__0d95adbda211
 -- name    : P2M_GlobalTheory_ringKrullDim_le_of_isLocalization__0d95adbda211
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:07:34.370534+00:00
 -- url     : https://prove2.me/theorems/2a1d6400-8e3b-48f2-8f3c-67b366a87c07

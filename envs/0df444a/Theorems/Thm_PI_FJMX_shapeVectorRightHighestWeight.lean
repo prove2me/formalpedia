@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_shapeVectorRightHighestWeight
 -- name    : PI.FJMX.shapeVectorRightHighestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:07.846806+00:00
 -- url     : https://prove2.me/theorems/1c63303d-1488-51c6-b107-9de8f120e9bd

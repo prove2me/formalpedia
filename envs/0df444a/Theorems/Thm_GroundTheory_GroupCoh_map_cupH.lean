@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_map_cupH
 -- name    : GroundTheory.GroupCoh.map_cupH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:58:37.655012+00:00
 -- url     : https://prove2.me/theorems/b8e44144-5d47-4fcc-864d-7efcd5a7e431

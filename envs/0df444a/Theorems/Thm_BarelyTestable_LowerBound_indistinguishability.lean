@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarelyTestable_LowerBound_indistinguishability
 -- name    : BarelyTestable.LowerBound.indistinguishability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:24:13.92924+00:00
 -- url     : https://prove2.me/theorems/b8ab40de-3471-47fd-9716-dcfb582feeba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_proof_55dedd9369b0
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_proof_55dedd9369b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:13:26.766795+00:00
 -- url     : https://prove2.me/theorems/56f45993-9565-575f-afb4-3386e7d8e62c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_HoloOn_mul__28453790b1f6
 -- name    : P2M_ReciprocityTheory_AnForm_M_FinHolAtlas_HoloOn_mul__28453790b1f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:43:53.956632+00:00
 -- url     : https://prove2.me/theorems/6f3d8ea8-88a3-4074-b55e-ef350c2ced57

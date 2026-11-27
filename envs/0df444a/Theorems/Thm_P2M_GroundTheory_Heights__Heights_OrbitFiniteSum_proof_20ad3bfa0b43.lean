@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitFiniteSum_proof_20ad3bfa0b43
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitFiniteSum_proof_20ad3bfa0b43
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:35:38.20468+00:00
 -- url     : https://prove2.me/theorems/3dafd625-16c9-4491-80c2-0ca063064e58

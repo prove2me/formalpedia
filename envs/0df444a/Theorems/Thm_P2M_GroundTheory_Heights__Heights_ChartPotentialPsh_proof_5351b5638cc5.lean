@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartPotentialPsh_proof_5351b5638cc5
 -- name    : P2M_GroundTheory_Heights__Heights_ChartPotentialPsh_proof_5351b5638cc5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:09:42.59712+00:00
 -- url     : https://prove2.me/theorems/da48ed55-6741-4f67-a348-691d963d1055

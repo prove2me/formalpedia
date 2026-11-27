@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IntegersAway_exists_tBase_fractionRing
 -- name    : GlobalTheory.ZM.IntegersAway.exists_tBase_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:29.587698+00:00
 -- url     : https://prove2.me/theorems/dd739531-98ee-4643-aa0c-14c456ace63d

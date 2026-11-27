@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_continuous_put
 -- name    : PositivityTheory.ThKH.Locrep.continuous_put
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:00:52.097812+00:00
 -- url     : https://prove2.me/theorems/7fce3109-916b-5242-81a4-f354608cf87f

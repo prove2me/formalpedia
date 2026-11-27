@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegFixedBallMass_proof_d138987de192
 -- name    : P2M_GroundTheory_Heights__Heights_RegFixedBallMass_proof_d138987de192
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:47:43.37263+00:00
 -- url     : https://prove2.me/theorems/b54e0d79-8623-5f93-a452-18817a5ed47e

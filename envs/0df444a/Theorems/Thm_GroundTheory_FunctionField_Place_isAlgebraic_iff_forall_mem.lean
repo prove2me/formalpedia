@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_isAlgebraic_iff_forall_mem
 -- name    : GroundTheory.FunctionField.Place.isAlgebraic_iff_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:14.406851+00:00
 -- url     : https://prove2.me/theorems/25c7318e-afc6-5efb-87e2-c3e7011a86cf

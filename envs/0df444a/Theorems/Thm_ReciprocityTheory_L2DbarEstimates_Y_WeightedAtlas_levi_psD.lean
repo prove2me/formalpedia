@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_levi_psD
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.levi_psD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:39.96356+00:00
 -- url     : https://prove2.me/theorems/c6dbf481-2d57-4bbc-8815-b3aefc9fa4e8

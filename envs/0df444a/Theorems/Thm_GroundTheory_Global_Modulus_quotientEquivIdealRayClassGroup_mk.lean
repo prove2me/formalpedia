@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_quotientEquivIdealRayClassGroup_mk
 -- name    : GroundTheory.Global.Modulus.quotientEquivIdealRayClassGroup_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:56:05.553791+00:00
 -- url     : https://prove2.me/theorems/ff56258d-fc4f-5b29-852f-ba1d7e3a9982

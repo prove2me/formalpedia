@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for P2M_Formalism_BasicNotions_Examples__CD_exp_mul_neg_0bbe2290e882
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-27T04:50:20.353092+00:00
+-- url     : https://prove2.me/submissions/da63d744-f31a-41fe-ac18-9a346a8060de
+
+import Mathlib
+import Definitions.Def_Formalism_LocalRingCardinality_SpanPowerMembership_HasStrictFDerivAtExpZero
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.BasicNotions Formalism.BasicNotions.Examples₂ Formalism.BasicNotions.Examples₂.CD
+open Filter Topology Metric NormedSpace Asymptotics
+variable {𝔸 : Type*} [NormedRing 𝔸] [NormedAlgebra ℝ 𝔸] [CompleteSpace 𝔸]
+namespace Formalism.BasicNotions.Examples₂.CD
+theorem _root_.solution (X : 𝔸) : exp X * exp (-X) = 1 := by
+  letI : NormedAlgebra ℚ 𝔸 := NormedAlgebra.restrictScalars ℚ ℝ 𝔸
+  rw [← exp_add_of_commute (Commute.neg_right (Commute.refl X)), add_neg_cancel, exp_zero]
+end Formalism.BasicNotions.Examples₂.CD

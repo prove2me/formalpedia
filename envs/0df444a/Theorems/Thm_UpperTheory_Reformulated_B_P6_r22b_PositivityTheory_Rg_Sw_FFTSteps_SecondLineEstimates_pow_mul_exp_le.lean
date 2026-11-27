@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r22b_PositivityTheory_Rg_Sw_FFTSteps_SecondLineEstimates_pow_mul_exp_le
 -- name    : UpperTheory.Reformulated.B.P6.r22b.PositivityTheory.Rg.Sw.FFTSteps.SecondLineEstimates.pow_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:59.591163+00:00
 -- url     : https://prove2.me/theorems/73846485-90e9-4559-975b-c5b8ef6c0a70

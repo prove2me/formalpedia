@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProjectionInjectiveOffHypersurface_proof_of_rank_25c6c6936e64
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-27T04:59:58.827312+00:00
+-- url     : https://prove2.me/submissions/ada00766-afb3-4bcb-aed2-e786ebeee5a3
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StProjectionInjectiveOffHypersurface
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameJacobianGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameImplicitGraph
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PProjectionInjectiveOffHypersurface
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProjectionInjectiveOffHypersurface_proof_4af660d80838
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_proof_b5407db643ba
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianGeneric_proof_1ca593bfb056
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ComplexSets
+open MvPolynomial
+namespace GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ComplexSets
+namespace ProjectionInjectiveOffHypersurface
+theorem _root_.solution (hR : JacobianRankGeneric.Statement)
+    (hC : ConormalGenerationGeneric.Statement) : ProjectionInjectiveOffHypersurface.Statement :=
+  ProjectionInjectiveOffHypersurface.proof (FrameJacobianGeneric.proof hR hC)
+end ProjectionInjectiveOffHypersurface
+end GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.ComplexSets

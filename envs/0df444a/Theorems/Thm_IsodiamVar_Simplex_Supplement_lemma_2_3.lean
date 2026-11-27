@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsodiamVar_Simplex_Supplement_lemma_2_3
 -- name    : IsodiamVar.Simplex.Supplement.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T12:50:40.271986+00:00
 -- url     : https://prove2.me/theorems/2b2b5eec-1456-4401-8aa2-26bdfe544db1

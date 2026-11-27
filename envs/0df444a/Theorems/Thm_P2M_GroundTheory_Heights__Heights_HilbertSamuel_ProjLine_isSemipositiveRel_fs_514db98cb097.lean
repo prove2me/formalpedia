@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isSemipositiveRel_fs_514db98cb097
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isSemipositiveRel_fs_514db98cb097
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:42.756061+00:00
 -- url     : https://prove2.me/theorems/800a6348-036a-5f6c-a296-4964c5a20aa5

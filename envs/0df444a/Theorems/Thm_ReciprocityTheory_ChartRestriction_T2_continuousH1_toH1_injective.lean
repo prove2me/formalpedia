@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_continuousH1_toH1_injective
 -- name    : ReciprocityTheory.ChartRestriction.T2.continuousH1_toH1_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:29:47.931651+00:00
 -- url     : https://prove2.me/theorems/a554c17d-8dd6-4920-9e81-75508ab022be

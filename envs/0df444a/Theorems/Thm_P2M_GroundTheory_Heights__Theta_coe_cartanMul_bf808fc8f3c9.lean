@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_coe_cartanMul_bf808fc8f3c9
 -- name    : P2M_GroundTheory_Heights__Theta_coe_cartanMul_bf808fc8f3c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:26.454742+00:00
 -- url     : https://prove2.me/theorems/7547eca1-3f89-54e5-95b9-0be2c3b44dd0

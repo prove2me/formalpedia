@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetLift_proof_3611efd86588
 -- name    : P2M_GroundTheory_Heights__Heights_SheetLift_proof_3611efd86588
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:39:10.404246+00:00
 -- url     : https://prove2.me/theorems/dfe7a1aa-ae07-4d28-925e-c3abbbce252b

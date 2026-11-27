@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralKillsPowerSums_full_6d71b6c7de66
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralKillsPowerSums_full_6d71b6c7de66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:55:15.250067+00:00
 -- url     : https://prove2.me/theorems/2831982c-ea86-5940-a4ed-fee9062a6bf4

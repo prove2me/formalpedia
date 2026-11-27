@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbIso_extend_of_normal
 -- name    : GlobalTheory.lbIso_extend_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:18:48.660932+00:00
 -- url     : https://prove2.me/theorems/b488797d-9e68-5e12-88f0-249b73be8357

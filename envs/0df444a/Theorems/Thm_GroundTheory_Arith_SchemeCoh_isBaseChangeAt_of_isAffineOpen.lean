@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isBaseChangeAt_of_isAffineOpen
 -- name    : GroundTheory.Arith.SchemeCoh.isBaseChangeAt_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:05.921546+00:00
 -- url     : https://prove2.me/theorems/b13a36ab-93c3-4cc3-9b78-c18729042301

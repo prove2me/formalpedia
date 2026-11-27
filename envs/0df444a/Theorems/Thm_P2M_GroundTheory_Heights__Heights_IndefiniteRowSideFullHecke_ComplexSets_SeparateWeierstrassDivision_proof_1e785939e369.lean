@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SeparateWeierstrassDivision_proof_1e785939e369
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SeparateWeierstrassDivision_proof_1e785939e369
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:17:35.726955+00:00
 -- url     : https://prove2.me/theorems/d4921feb-0573-5688-85c6-c400c0fca1ac

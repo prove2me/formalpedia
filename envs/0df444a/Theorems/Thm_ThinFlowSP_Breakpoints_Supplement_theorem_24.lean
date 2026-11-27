@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinFlowSP_Breakpoints_Supplement_theorem_24
 -- name    : ThinFlowSP.Breakpoints.Supplement.theorem_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T11:47:30.183068+00:00
 -- url     : https://prove2.me/theorems/8d28f1db-a661-484d-9fa3-1807bf06e382

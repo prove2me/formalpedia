@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_B_smooth_isWeakD
 -- name    : ReciprocityTheory.L2DbarEstimates.B.smooth_isWeakD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:27:23.228999+00:00
 -- url     : https://prove2.me/theorems/a50a2dc9-ae4d-59b3-9ad5-d0dfacd576cb

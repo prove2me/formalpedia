@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_semilinear_lattice_mem
 -- name    : UpperTheory.semilinear_lattice_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:39:56.408915+00:00
 -- url     : https://prove2.me/theorems/b62cf238-a8f3-4736-9afb-9af92f278189

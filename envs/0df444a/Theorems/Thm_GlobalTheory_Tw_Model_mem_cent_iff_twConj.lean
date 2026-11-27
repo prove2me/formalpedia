@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_mem_cent_iff_twConj
 -- name    : GlobalTheory.Tw.Model.mem_cent_iff_twConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:00.254771+00:00
 -- url     : https://prove2.me/theorems/95ffad73-cc48-4c3f-b123-07ec79c042d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerfectPairing_exists_matrix
 -- name    : GlobalTheory.PerfectPairing.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T18:23:36.544918+00:00
 -- url     : https://prove2.me/theorems/feca9893-d1ed-5616-8609-c4c0b60884e8

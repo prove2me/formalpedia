@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_col_mul
 -- name    : UnipMove.GraphH.col_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:54.542645+00:00
 -- url     : https://prove2.me/theorems/5e22011e-e89f-5ac0-9d6e-00f47028cc24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_coordIdeal_isPrime
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.coordIdeal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:13:17.663807+00:00
 -- url     : https://prove2.me/theorems/012e5a83-465e-4218-afa2-8021df6b419e

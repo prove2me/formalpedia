@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_toNormalization
 -- name    : GlobalTheory.isPullback_toNormalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:41.83003+00:00
 -- url     : https://prove2.me/theorems/6f117143-7dc3-4683-aad7-28aede35c6f2

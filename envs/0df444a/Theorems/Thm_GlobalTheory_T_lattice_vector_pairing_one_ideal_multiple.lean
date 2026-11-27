@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_vector_pairing_one_ideal_multiple
 -- name    : GlobalTheory.T.lattice_vector_pairing_one_ideal_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:29.927916+00:00
 -- url     : https://prove2.me/theorems/97f35193-0a78-405a-b94d-3e3c9153dee0

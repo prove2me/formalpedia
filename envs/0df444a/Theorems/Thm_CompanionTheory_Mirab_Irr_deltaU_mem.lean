@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Irr_deltaU_mem
 -- name    : CompanionTheory.Mirab.Irr.deltaU_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:12:04.165614+00:00
 -- url     : https://prove2.me/theorems/096542a1-ce40-489e-b9fe-f5b39b8b15a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_kill_exp
 -- name    : PositivityTheory.ThKOwn.kill_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:43.10813+00:00
 -- url     : https://prove2.me/theorems/674e6d13-c1df-4a08-8a76-3e0999cb9653

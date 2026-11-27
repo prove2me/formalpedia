@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_min_le_heightOneOrd_vw_add
 -- name    : GlobalTheory.min_le_heightOneOrd_vw_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:11.126526+00:00
 -- url     : https://prove2.me/theorems/8040b8b2-f7d7-474d-80fa-4b363d33c7b0

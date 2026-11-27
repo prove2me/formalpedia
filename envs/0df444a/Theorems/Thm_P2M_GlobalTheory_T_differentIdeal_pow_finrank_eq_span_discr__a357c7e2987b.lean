@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_differentIdeal_pow_finrank_eq_span_discr__a357c7e2987b
 -- name    : P2M_GlobalTheory_T_differentIdeal_pow_finrank_eq_span_discr__a357c7e2987b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:08:01.030058+00:00
 -- url     : https://prove2.me/theorems/18fb550a-a061-45a4-b86e-52a14a1cced3

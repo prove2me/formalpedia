@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_of_charZero_501e3d5cc1e2
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finite_integralClosure_of_charZero_501e3d5cc1e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:11:59.477184+00:00
 -- url     : https://prove2.me/theorems/00e00e6c-ffa9-5641-994f-c80e442ffd1e

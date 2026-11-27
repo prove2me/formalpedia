@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntGramUnimodular_proof_e4f1ac97ad8f
 -- name    : P2M_GroundTheory_Heights__Heights_IntGramUnimodular_proof_e4f1ac97ad8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:25:45.282257+00:00
 -- url     : https://prove2.me/theorems/a6717f60-6ccf-4bf6-92e1-4806dc815da3

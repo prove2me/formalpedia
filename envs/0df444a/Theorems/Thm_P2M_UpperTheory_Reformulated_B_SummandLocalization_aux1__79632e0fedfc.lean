@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_SummandLocalization_aux1__79632e0fedfc
 -- name    : P2M_UpperTheory_Reformulated_B_SummandLocalization_aux1__79632e0fedfc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:44:16.445469+00:00
 -- url     : https://prove2.me/theorems/71cd6b69-feb9-4f02-abc0-44d51d37c716

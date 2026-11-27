@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantTransport_proof_514548fba2de
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantTransport_proof_514548fba2de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:53.6407+00:00
 -- url     : https://prove2.me/theorems/dc6ab230-a1cd-5e29-b05c-fd2452be0d64

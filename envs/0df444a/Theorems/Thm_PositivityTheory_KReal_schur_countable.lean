@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_schur_countable
 -- name    : PositivityTheory.KReal.schur_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:50:37.407071+00:00
 -- url     : https://prove2.me/theorems/4476f541-395e-47a4-b420-71ad9d6e9f96

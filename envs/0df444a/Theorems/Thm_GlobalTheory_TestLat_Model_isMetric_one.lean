@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_isMetric_one
 -- name    : GlobalTheory.TestLat.Model.isMetric_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:48.36924+00:00
 -- url     : https://prove2.me/theorems/c85ca46c-7144-5e06-bd42-08488749f77a

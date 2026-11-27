@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HLambdaG_Main_Supplement_theorem_8_refuted
 -- name    : HLambdaG.Main.Supplement.theorem_8_refuted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:07:00.244803+00:00
 -- url     : https://prove2.me/theorems/b764a00b-9946-4b52-8863-ab9b6bff25bb

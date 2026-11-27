@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homologyMap_res_presheafToCechH
 -- name    : GlobalTheory.homologyMap_res_presheafToCechH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:48:19.907825+00:00
 -- url     : https://prove2.me/theorems/8242b00e-a7ac-41b7-a5ea-5c01ddce1300

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_LatticeCount_proof_96f4545b8f38
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_LatticeCount_proof_96f4545b8f38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:13:39.950365+00:00
 -- url     : https://prove2.me/theorems/06da9f03-baa4-5cfa-bdc9-2ef90074b073

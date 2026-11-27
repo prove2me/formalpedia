@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_FactorConjugationCancel_map_eq_of_conj
 -- name    : UpperTheory.Reformulated.B.FactorConjugationCancel.map_eq_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:41.611448+00:00
 -- url     : https://prove2.me/theorems/34b1a639-33e9-4064-99b3-8d6960b04397

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParityDegreeDepth_Main_Supplement_theorem_1_5
 -- name    : ParityDegreeDepth.Main.Supplement.theorem_1_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:49:54.80836+00:00
 -- url     : https://prove2.me/theorems/9deb4d56-8957-451a-a097-ed7824f7706d

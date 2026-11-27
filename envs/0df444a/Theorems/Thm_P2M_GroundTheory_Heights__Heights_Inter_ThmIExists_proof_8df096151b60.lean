@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_proof_8df096151b60
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_proof_8df096151b60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:27:32.714079+00:00
 -- url     : https://prove2.me/theorems/349a1671-151c-40b8-9971-9d8d005199a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Mirab_Dim_extFun_mem
 -- name    : CompanionTheory.Mirab.Dim.extFun_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:25:20.087995+00:00
 -- url     : https://prove2.me/theorems/f8027147-8bfc-471b-a477-e6f7044d6d30

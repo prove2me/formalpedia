@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_hTens_vec
 -- name    : PositivityTheory.ThKF0.Geo.hTens_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:34.176798+00:00
 -- url     : https://prove2.me/theorems/dd5678cc-347a-4475-bc3c-3a31c4e742f4

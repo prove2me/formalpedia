@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integerAlgEquiv_restrictScalars_algebraMap
 -- name    : GroundTheory.LocalField.integerAlgEquiv_restrictScalars_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:59:49.720903+00:00
 -- url     : https://prove2.me/theorems/ddc1b784-9746-5233-962f-6f5e56f51347

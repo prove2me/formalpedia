@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_isGaloisCover_complex
 -- name    : GlobalTheory.ZM.DwModel.isGaloisCover_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:09.003062+00:00
 -- url     : https://prove2.me/theorems/46b7720a-3b1a-522d-93d1-a2b24c3918f1

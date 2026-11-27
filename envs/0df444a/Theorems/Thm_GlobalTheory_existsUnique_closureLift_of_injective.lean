@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_closureLift_of_injective
 -- name    : GlobalTheory.existsUnique_closureLift_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:36.033713+00:00
 -- url     : https://prove2.me/theorems/72d56c29-aa3b-4d2f-ad08-a11014cc2115

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_eigDim_eq_of_basis
 -- name    : GlobalTheory.ChF.eigDim_eq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:15:31.567252+00:00
 -- url     : https://prove2.me/theorems/e0163744-1b82-53f5-8631-89c7e783270c

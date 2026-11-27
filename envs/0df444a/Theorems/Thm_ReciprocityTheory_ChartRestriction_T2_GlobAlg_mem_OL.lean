@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_GlobAlg_mem_OL
 -- name    : ReciprocityTheory.ChartRestriction.T2.GlobAlg.mem_OL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:51.886243+00:00
 -- url     : https://prove2.me/theorems/2617ed66-1664-4972-8cd6-5ab69cb70ca3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSub_le
 -- name    : GlobalTheory.UnramSub.le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:41.982533+00:00
 -- url     : https://prove2.me/theorems/601f8de7-7b37-409a-8a06-abd1060dab7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FdegScale_fdegScale_of
 -- name    : PI.UnitaryGroupMassFormula.FdegScale.fdegScale_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:48:11.148927+00:00
 -- url     : https://prove2.me/theorems/7597b4e4-df0c-5ed0-9d79-8ef3d2272d19

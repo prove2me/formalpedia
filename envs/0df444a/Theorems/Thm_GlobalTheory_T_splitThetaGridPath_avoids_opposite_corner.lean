@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitThetaGridPath_avoids_opposite_corner
 -- name    : GlobalTheory.T.splitThetaGridPath_avoids_opposite_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:02.911687+00:00
 -- url     : https://prove2.me/theorems/d195cd7b-0297-4be7-a4b6-c481a6a189be

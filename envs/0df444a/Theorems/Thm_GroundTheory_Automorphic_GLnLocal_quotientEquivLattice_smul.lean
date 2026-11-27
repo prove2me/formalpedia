@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_quotientEquivLattice_smul
 -- name    : GroundTheory.Automorphic.GLnLocal.quotientEquivLattice_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:34.760624+00:00
 -- url     : https://prove2.me/theorems/972ac5c0-0a86-478d-93a6-2c63bdbb90fc

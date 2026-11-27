@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_finSum_mem_span_of_eq_zero
 -- name    : GroundTheory.PAdicHodge.TeichLift.finSum_mem_span_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:02.290151+00:00
 -- url     : https://prove2.me/theorems/93f94c3b-e984-53e3-b018-5afc1440fa95

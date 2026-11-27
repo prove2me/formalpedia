@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_HeightMetricChange_hyps_inhabited_4fdedf4a6797
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_HeightMetricChange_hyps_inhabited_4fdedf4a6797
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:23:56.092121+00:00
 -- url     : https://prove2.me/theorems/83952478-b9a4-5c23-962d-d56772daaa54

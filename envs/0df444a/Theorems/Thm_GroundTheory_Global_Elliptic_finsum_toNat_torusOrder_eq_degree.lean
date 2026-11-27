@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finsum_toNat_torusOrder_eq_degree
 -- name    : GroundTheory.Global.Elliptic.finsum_toNat_torusOrder_eq_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:30.63589+00:00
 -- url     : https://prove2.me/theorems/e4450b82-0f27-540c-a061-148253e0f169

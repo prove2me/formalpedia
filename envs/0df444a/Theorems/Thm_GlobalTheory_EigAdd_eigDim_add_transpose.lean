@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigAdd_eigDim_add_transpose
 -- name    : GlobalTheory.EigAdd.eigDim_add_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:18:55.336843+00:00
 -- url     : https://prove2.me/theorems/bc30916b-3c3c-43d6-8487-06e8839f44cf

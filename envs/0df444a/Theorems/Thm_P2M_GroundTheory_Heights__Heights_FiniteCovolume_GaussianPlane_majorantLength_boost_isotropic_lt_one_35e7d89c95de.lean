@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_majorantLength_boost_isotropic_lt_one_35e7d89c95de
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_majorantLength_boost_isotropic_lt_one_35e7d89c95de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:13:29.670413+00:00
 -- url     : https://prove2.me/theorems/91c47100-769f-54e4-a708-5f5155af3260

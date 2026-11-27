@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_locTriv_conclusion
 -- name    : GlobalTheory.UU.TQ.locTriv_conclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:19:27.521149+00:00
 -- url     : https://prove2.me/theorems/5131bb4a-230c-4224-8b1c-fb183a67fcb0

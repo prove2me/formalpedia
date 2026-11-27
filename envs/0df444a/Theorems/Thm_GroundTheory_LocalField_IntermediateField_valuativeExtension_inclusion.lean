@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IntermediateField_valuativeExtension_inclusion
 -- name    : GroundTheory.LocalField.IntermediateField.valuativeExtension_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:49.972317+00:00
 -- url     : https://prove2.me/theorems/1fa19db7-4667-583e-8665-6a9be3f37588

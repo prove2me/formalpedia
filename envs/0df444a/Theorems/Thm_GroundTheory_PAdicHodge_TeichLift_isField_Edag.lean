@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_isField_Edag
 -- name    : GroundTheory.PAdicHodge.TeichLift.isField_Edag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:26.396971+00:00
 -- url     : https://prove2.me/theorems/75122b60-7589-56d4-ba05-c4bc70b14c43

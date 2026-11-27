@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_affinePointEquiv_symm_ptOver
 -- name    : GlobalTheory.WeierstrassCurve.affinePointEquiv_symm_ptOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:19.14401+00:00
 -- url     : https://prove2.me/theorems/eaf104a9-c15c-5330-bd00-9bb5d0ad2d3e

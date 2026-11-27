@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coeff_sum_fin_C_mul_X_pow
 -- name    : GroundTheory.LocalField.coeff_sum_fin_C_mul_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:00:34.188793+00:00
 -- url     : https://prove2.me/theorems/4fab4ebf-12ee-5301-be8e-7bb73a4bd26d

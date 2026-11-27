@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionPairTest_isPull_unique
 -- name    : GlobalTheory.TorsionPairTest.isPull_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:32:54.891404+00:00
 -- url     : https://prove2.me/theorems/83c19ae9-006c-4005-9a07-2031fa409190

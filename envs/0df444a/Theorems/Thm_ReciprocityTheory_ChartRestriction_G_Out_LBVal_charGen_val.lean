@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_LBVal_charGen_val
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.LBVal.charGen_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:21:16.014025+00:00
 -- url     : https://prove2.me/theorems/eb71d563-0479-45b3-ad9a-ee034d845748

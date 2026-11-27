@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_indep
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:59:12.375486+00:00
 -- url     : https://prove2.me/theorems/b41c7a3b-e85a-48e6-8247-0ba9bdc71207

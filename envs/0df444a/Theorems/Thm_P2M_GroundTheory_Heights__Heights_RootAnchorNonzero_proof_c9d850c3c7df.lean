@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootAnchorNonzero_proof_c9d850c3c7df
 -- name    : P2M_GroundTheory_Heights__Heights_RootAnchorNonzero_proof_c9d850c3c7df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:36:19.422467+00:00
 -- url     : https://prove2.me/theorems/85735788-0815-448c-86e3-298104ab5256

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lineNormalDivisorChartAtPoint_00b43aba6ac1
 -- name    : P2M_GroundTheory_Heights__Heights_lineNormalDivisorChartAtPoint_00b43aba6ac1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:42:01.496689+00:00
 -- url     : https://prove2.me/theorems/e6db3842-b9c8-47f2-91cf-b1b7eae5cbc0

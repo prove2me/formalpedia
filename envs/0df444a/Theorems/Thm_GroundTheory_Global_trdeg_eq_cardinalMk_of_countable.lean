@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_trdeg_eq_cardinalMk_of_countable
 -- name    : GroundTheory.Global.trdeg_eq_cardinalMk_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:56:47.746989+00:00
 -- url     : https://prove2.me/theorems/bb1f01bf-c134-49fd-a501-a70cee642917

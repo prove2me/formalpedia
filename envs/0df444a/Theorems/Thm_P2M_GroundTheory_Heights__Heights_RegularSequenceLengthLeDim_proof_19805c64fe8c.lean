@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegularSequenceLengthLeDim_proof_19805c64fe8c
 -- name    : P2M_GroundTheory_Heights__Heights_RegularSequenceLengthLeDim_proof_19805c64fe8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:34:24.190889+00:00
 -- url     : https://prove2.me/theorems/c7ac2cca-8867-5f47-aef3-f80d6a979064

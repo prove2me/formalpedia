@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_linearIndependent_y_af19704e976b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_linearIndependent_y_af19704e976b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:15:02.967604+00:00
 -- url     : https://prove2.me/theorems/c865076b-39e3-4aa5-8fd5-2dd288824e61

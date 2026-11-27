@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_LFunction_zero_eq_of_ne_one
 -- name    : GroundTheory.Global.Quadratic.LFunction_zero_eq_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:44.967521+00:00
 -- url     : https://prove2.me/theorems/fb27bebf-b816-5edc-8057-39a36cf9f4df

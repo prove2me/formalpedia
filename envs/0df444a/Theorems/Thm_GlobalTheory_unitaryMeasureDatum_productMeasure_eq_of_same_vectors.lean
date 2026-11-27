@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitaryMeasureDatum_productMeasure_eq_of_same_vectors
 -- name    : GlobalTheory.unitaryMeasureDatum_productMeasure_eq_of_same_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:53:44.223972+00:00
 -- url     : https://prove2.me/theorems/c4485a1a-fa11-49ec-ac44-ac17015f8751

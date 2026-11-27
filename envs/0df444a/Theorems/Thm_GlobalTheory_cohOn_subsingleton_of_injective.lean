@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cohOn_subsingleton_of_injective
 -- name    : GlobalTheory.cohOn.subsingleton_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:22.103649+00:00
 -- url     : https://prove2.me/theorems/adef664e-b051-4f1e-b3a7-8481bbb30640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsion_count_log_concave_prime_powers
 -- name    : GlobalTheory.T.torsion_count_log_concave_prime_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:47.951708+00:00
 -- url     : https://prove2.me/theorems/b1710849-7b95-5719-8b1f-3426d6c726a2

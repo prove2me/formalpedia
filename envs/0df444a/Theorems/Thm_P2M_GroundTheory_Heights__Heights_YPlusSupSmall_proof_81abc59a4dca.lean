@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSupSmall_proof_81abc59a4dca
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSupSmall_proof_81abc59a4dca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:41:47.024177+00:00
 -- url     : https://prove2.me/theorems/fd1cef4f-c481-59e9-918e-b9d60046cb38

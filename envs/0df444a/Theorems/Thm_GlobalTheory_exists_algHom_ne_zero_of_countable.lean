@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_ne_zero_of_countable
 -- name    : GlobalTheory.exists_algHom_ne_zero_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:45:32.351809+00:00
 -- url     : https://prove2.me/theorems/5b76b779-7cf1-5887-8306-aedb0c792876

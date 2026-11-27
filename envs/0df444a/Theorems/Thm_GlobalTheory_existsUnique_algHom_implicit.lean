@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algHom_implicit
 -- name    : GlobalTheory.existsUnique_algHom_implicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:49.899697+00:00
 -- url     : https://prove2.me/theorems/e3b7104e-bc56-51b4-a02b-2eb3af59f574

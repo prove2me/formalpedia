@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isClosed_of_mem_comps
 -- name    : ReciprocityTheory.AnForm.R.isClosed_of_mem_comps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:02:32.050932+00:00
 -- url     : https://prove2.me/theorems/8e514782-3c28-5f5a-a5e0-2b4350fb4fa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Choice_valued_complMap
 -- name    : KStar.Choice.valued_complMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:21.39743+00:00
 -- url     : https://prove2.me/theorems/2672ffec-aa41-515b-8da0-4b6acb981e5c

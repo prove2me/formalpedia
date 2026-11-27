@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_RadicalTorusModulus_proof_727a634b1819
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_RadicalTorusModulus_proof_727a634b1819
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:14:39.538011+00:00
 -- url     : https://prove2.me/theorems/74f2a5c4-0caa-5254-816d-b05e5732d473

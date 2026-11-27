@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_PrimeOpensCover_hyps_5892c7e32cc1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_PrimeOpensCover_hyps_5892c7e32cc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:24:24.834564+00:00
 -- url     : https://prove2.me/theorems/10d54a83-fc90-405b-b65c-8b834032556a

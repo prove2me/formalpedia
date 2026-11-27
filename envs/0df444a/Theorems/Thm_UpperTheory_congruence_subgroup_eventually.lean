@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_congruence_subgroup_eventually
 -- name    : UpperTheory.congruence_subgroup_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:01.099484+00:00
 -- url     : https://prove2.me/theorems/b8ee3b8e-3c98-4932-8607-885d47fe622e

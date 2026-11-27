@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_span_locAtIntPrime_iff_e313f3a4de34
 -- name    : P2M_GroundTheory_Heights__Heights_mem_span_locAtIntPrime_iff_e313f3a4de34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:42:01.884467+00:00
 -- url     : https://prove2.me/theorems/0bd9d473-477e-5813-b857-bf6151c99c6a

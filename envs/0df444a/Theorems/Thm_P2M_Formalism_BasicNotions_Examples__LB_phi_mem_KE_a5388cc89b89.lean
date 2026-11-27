@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_phi_mem_KE_a5388cc89b89
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_phi_mem_KE_a5388cc89b89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:38:24.88586+00:00
 -- url     : https://prove2.me/theorems/4f542bbb-c4a6-5dae-aa72-09bddf7a0810

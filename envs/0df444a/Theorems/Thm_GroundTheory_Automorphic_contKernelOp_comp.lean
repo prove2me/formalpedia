@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contKernelOp_comp
 -- name    : GroundTheory.Automorphic.contKernelOp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:55:08.224177+00:00
 -- url     : https://prove2.me/theorems/1090c008-a486-49a5-95d0-9cbc81635211

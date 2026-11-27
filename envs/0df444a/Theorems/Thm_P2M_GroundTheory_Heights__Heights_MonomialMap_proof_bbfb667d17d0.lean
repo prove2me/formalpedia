@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMap_proof_bbfb667d17d0
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMap_proof_bbfb667d17d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:32:34.459233+00:00
 -- url     : https://prove2.me/theorems/40885bb9-0ef0-44ca-973e-54381459cae1

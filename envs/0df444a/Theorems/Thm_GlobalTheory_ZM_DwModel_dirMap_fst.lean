@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DwModel_dirMap_fst
 -- name    : GlobalTheory.ZM.DwModel.dirMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:34.883422+00:00
 -- url     : https://prove2.me/theorems/30f348ef-2d01-4b86-bbb4-a50859c4f187

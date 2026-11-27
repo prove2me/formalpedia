@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qo7_eq_zero_of_orth
 -- name    : UpperTheory.Reformulated.B.Qo7.eq_zero_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:28.776534+00:00
 -- url     : https://prove2.me/theorems/8e3eb3e1-0d2c-5342-a63f-6445007764f3

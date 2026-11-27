@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_Ck_partials_continuous_differentiable
 -- name    : PI.UnitaryGroupMassFormula.JCC.Ck.partials_continuous_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:04.117455+00:00
 -- url     : https://prove2.me/theorems/3bf9eef3-5628-476a-96a3-74e4691f0dfb

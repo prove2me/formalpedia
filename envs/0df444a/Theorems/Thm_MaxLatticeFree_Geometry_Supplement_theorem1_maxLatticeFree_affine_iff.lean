@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_Supplement_theorem1_maxLatticeFree_affine_iff
 -- name    : MaxLatticeFree.Geometry.Supplement.theorem1_maxLatticeFree_affine_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:01:02.386135+00:00
 -- url     : https://prove2.me/theorems/94d1dbc9-f7ac-49ce-9960-0ed47d6a2077

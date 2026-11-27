@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_modN_of_surjective
 -- name    : GroundTheory.ProfCoh.finite_modN_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:12.838789+00:00
 -- url     : https://prove2.me/theorems/2cc75371-d73b-5925-b5bf-55a703dcbd9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FGTFG_main
 -- name    : PI.FGTFG.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:45:19.613912+00:00
 -- url     : https://prove2.me/theorems/44f3d300-a9a3-4ade-b23b-58e8fbbae4c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_algebraMap_ainf_injective
 -- name    : Reformulated.AutPerF.BdRPlus.algebraMap_ainf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:12:51.690663+00:00
 -- url     : https://prove2.me/theorems/5ca9b71d-6848-4427-98fd-9d0c992ac268

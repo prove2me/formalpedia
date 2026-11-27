@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nnnorm_algebraMap_preTilt
 -- name    : GroundTheory.PAdicHodge.nnnorm_algebraMap_preTilt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:41.991023+00:00
 -- url     : https://prove2.me/theorems/c2713922-361c-4101-a394-bd1899433ee7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_real_EabV
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.real_EabV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:10:55.225901+00:00
 -- url     : https://prove2.me/theorems/6a5ebaf2-f4be-5753-bbcd-5fcc4c9738d7

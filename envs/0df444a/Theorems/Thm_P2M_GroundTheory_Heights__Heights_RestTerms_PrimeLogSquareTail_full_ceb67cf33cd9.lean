@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_PrimeLogSquareTail_full_ceb67cf33cd9
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_PrimeLogSquareTail_full_ceb67cf33cd9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:44:49.820092+00:00
 -- url     : https://prove2.me/theorems/8c9825ab-398f-5e4a-a2aa-a7a96bb2d0af

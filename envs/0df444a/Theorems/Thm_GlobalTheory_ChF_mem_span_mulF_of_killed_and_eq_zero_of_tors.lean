@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_mem_span_mulF_of_killed_and_eq_zero_of_tors
 -- name    : GlobalTheory.ChF.mem_span_mulF_of_killed_and_eq_zero_of_tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T18:34:34.324999+00:00
 -- url     : https://prove2.me/theorems/a1ad72cb-ebf1-5ca6-aabb-500d4efb2183

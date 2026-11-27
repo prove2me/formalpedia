@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_valued_decompositionAlgEquiv
 -- name    : GroundTheory.Global.valued_decompositionAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:57:20.131868+00:00
 -- url     : https://prove2.me/theorems/52b91045-7172-4883-8a1e-e2d0856b7728

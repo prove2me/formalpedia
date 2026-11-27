@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_IsFGTop_isOpen_mulSub
 -- name    : ReciprocityTheory.ChartRestriction.T2.IsFGTop.isOpen_mulSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:29:48.585073+00:00
 -- url     : https://prove2.me/theorems/1fdaff16-b723-4a37-a69b-4d7e1e1cef48

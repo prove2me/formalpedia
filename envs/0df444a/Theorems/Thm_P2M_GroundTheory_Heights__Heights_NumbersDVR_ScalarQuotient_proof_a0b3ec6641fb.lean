@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_proof_a0b3ec6641fb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_proof_a0b3ec6641fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:00.62699+00:00
 -- url     : https://prove2.me/theorems/a473cd7b-67c0-4239-9a2b-874b8353cb68

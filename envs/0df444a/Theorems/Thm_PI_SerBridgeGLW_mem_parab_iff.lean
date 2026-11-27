@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_mem_parab_iff
 -- name    : PI.SerBridgeGLW.mem_parab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:49:58.379319+00:00
 -- url     : https://prove2.me/theorems/6ab51abf-c55d-4fcb-8071-c5590df3c3f0

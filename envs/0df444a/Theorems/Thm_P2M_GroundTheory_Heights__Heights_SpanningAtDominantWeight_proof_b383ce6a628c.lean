@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_proof_b383ce6a628c
 -- name    : P2M_GroundTheory_Heights__Heights_SpanningAtDominantWeight_proof_b383ce6a628c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:42:55.921177+00:00
 -- url     : https://prove2.me/theorems/8aac83c7-ae09-52d7-8013-a5ce0fa74037

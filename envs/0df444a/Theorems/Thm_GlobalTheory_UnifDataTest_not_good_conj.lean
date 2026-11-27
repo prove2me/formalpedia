@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_not_good_conj
 -- name    : GlobalTheory.UnifDataTest.not_good_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:50.175039+00:00
 -- url     : https://prove2.me/theorems/b4cdbdc1-bfe0-5e61-8a4f-84cd940a51d1

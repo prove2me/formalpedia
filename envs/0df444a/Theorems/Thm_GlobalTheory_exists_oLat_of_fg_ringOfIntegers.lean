@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_oLat_of_fg_ringOfIntegers
 -- name    : GlobalTheory.exists_oLat_of_fg_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:45:46.531544+00:00
 -- url     : https://prove2.me/theorems/5d0c1a81-ab18-4e4e-99fb-e50f3a30a6db

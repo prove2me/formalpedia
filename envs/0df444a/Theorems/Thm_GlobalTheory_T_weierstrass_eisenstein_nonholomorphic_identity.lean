@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weierstrass_eisenstein_nonholomorphic_identity
 -- name    : GlobalTheory.T.weierstrass_eisenstein_nonholomorphic_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:24.275167+00:00
 -- url     : https://prove2.me/theorems/2efd3d87-037f-5d8b-8578-587ffe56f5d2

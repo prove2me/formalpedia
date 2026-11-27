@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassZeta_eq
 -- name    : GlobalTheory.weierstrassZeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:19.120207+00:00
 -- url     : https://prove2.me/theorems/dd940d66-867c-536e-a990-04e35054e72f

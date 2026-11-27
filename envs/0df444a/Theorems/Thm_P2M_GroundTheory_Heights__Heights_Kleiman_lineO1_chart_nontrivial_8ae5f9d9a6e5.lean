@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_lineO1_chart_nontrivial_8ae5f9d9a6e5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_lineO1_chart_nontrivial_8ae5f9d9a6e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:27:53.724085+00:00
 -- url     : https://prove2.me/theorems/e2d4f68d-8446-45ce-bac6-725b949c7297

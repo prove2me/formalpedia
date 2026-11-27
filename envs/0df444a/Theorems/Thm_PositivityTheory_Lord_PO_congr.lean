@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Lord_PO_congr
 -- name    : PositivityTheory.Lord.PO.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:50:20.183591+00:00
 -- url     : https://prove2.me/theorems/0110268a-f715-4c20-a05d-c99803ff3bc3

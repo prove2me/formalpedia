@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_affineWeylGL_injective
 -- name    : GroundTheory.Automorphic.GLnLocal.affineWeylGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:57:38.416273+00:00
 -- url     : https://prove2.me/theorems/0acd3639-9453-5b88-96e2-7c26f780e20b

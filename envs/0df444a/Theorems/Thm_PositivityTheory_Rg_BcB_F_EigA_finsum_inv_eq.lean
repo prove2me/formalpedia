@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_F_EigA_finsum_inv_eq
 -- name    : PositivityTheory.Rg.BcB.F.EigA.finsum_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:51:10.114626+00:00
 -- url     : https://prove2.me/theorems/f00ed946-c4c3-5583-a3a6-7c81f9a4cc27

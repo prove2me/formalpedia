@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_equiv_apply
 -- name    : ReciprocityTheory.Neutral.Cmp.equiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:49:29.936814+00:00
 -- url     : https://prove2.me/theorems/81510f96-ef65-53f8-8531-fc7ff778c15d

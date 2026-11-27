@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_Inert_coprime
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.Inert.coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:32:46.184346+00:00
 -- url     : https://prove2.me/theorems/434b1e71-77e2-5635-874b-5c5ecfb7e3e4

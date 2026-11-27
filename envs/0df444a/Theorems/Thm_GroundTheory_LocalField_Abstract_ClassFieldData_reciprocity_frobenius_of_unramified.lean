@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_reciprocity_frobenius_of_unramified
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.reciprocity_frobenius_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:11:21.43318+00:00
 -- url     : https://prove2.me/theorems/92bbcd5d-87ed-4540-abb0-7bf2466a7529

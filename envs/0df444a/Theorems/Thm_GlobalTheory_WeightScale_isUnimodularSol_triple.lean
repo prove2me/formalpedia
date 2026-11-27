@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightScale_isUnimodularSol_triple
 -- name    : GlobalTheory.WeightScale.isUnimodularSol_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:58:42.071116+00:00
 -- url     : https://prove2.me/theorems/466075bd-9fd5-4083-83f1-fc8de235ec14

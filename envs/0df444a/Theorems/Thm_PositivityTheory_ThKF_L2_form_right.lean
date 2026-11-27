@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_L2_form_right
 -- name    : PositivityTheory.ThKF.L2.form_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:00:35.809031+00:00
 -- url     : https://prove2.me/theorems/12d0641e-843a-4b40-a81a-5850fe1eb398

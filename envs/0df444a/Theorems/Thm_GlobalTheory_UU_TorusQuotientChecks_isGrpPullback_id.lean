@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TorusQuotientChecks_isGrpPullback_id
 -- name    : GlobalTheory.UU.TorusQuotientChecks.isGrpPullback_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T17:24:42.944922+00:00
 -- url     : https://prove2.me/theorems/47b50a60-1d34-4d09-b534-bf69f6280ae2

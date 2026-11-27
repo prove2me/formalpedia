@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_twisted_centraliser
 -- name    : GlobalTheory.Tw.twisted_centraliser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:57.45856+00:00
 -- url     : https://prove2.me/theorems/3fbce241-79bf-50dc-9952-4c476d0b0053

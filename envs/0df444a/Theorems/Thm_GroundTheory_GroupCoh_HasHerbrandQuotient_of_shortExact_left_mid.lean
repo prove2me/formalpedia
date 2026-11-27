@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_HasHerbrandQuotient_of_shortExact_left_mid
 -- name    : GroundTheory.GroupCoh.HasHerbrandQuotient.of_shortExact_left_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:58:48.71037+00:00
 -- url     : https://prove2.me/theorems/031ffe2a-d9e8-47ac-8d5c-fca49da8cba0

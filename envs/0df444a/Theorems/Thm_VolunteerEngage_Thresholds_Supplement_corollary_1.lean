@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Thresholds_Supplement_corollary_1
 -- name    : VolunteerEngage.Thresholds.Supplement.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T04:13:46.983799+00:00
 -- url     : https://prove2.me/theorems/67b181b2-1e57-439b-b11f-608bb9e6d8f1

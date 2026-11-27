@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pot_contDiffAt
 -- name    : ReciprocityTheory.AnForm.M.pot_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:01:52.081704+00:00
 -- url     : https://prove2.me/theorems/0d9d8738-267f-5637-9f93-f9920840749d

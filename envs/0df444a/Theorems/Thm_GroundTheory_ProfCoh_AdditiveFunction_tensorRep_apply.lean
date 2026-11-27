@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_tensorRep_apply
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.tensorRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:50.064368+00:00
 -- url     : https://prove2.me/theorems/39cc45b9-6b91-47ff-9b63-d66d3585020b

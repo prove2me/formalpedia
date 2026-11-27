@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_heightPullback_278306e189e9
 -- name    : P2M_GroundTheory_Heights__Heights_heightPullback_278306e189e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:16.850394+00:00
 -- url     : https://prove2.me/theorems/a69400e4-b6a9-49ad-a656-5eb3880bb2ee

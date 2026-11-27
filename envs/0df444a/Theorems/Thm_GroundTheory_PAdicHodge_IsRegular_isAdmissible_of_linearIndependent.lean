@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsRegular_isAdmissible_of_linearIndependent
 -- name    : GroundTheory.PAdicHodge.IsRegular.isAdmissible_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:01:03.740818+00:00
 -- url     : https://prove2.me/theorems/3a0039d5-12f3-4196-a2d4-d49f499c8068

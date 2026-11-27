@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_mem_lieParabolic
 -- name    : GroundTheory.Automorphic.Measures.mem_lieParabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:53:36.355744+00:00
 -- url     : https://prove2.me/theorems/69b83867-e7df-5ed3-9dac-6c56930db551

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_injOn_of_isIso_morphismRestrict
 -- name    : GroundTheory.Arith.SchemeCoh.injOn_of_isIso_morphismRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:52:46.073333+00:00
 -- url     : https://prove2.me/theorems/4be1e2e0-6cfc-4080-9e36-f82cd21cc155

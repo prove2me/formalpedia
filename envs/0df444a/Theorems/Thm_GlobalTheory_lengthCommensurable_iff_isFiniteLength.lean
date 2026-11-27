@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_iff_isFiniteLength
 -- name    : GlobalTheory.lengthCommensurable_iff_isFiniteLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:13.079703+00:00
 -- url     : https://prove2.me/theorems/983ea4d5-a9b5-5e07-8ce8-7f310aa7397a

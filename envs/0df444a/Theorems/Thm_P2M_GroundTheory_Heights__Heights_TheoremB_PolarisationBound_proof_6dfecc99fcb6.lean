@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_proof_6dfecc99fcb6
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_PolarisationBound_proof_6dfecc99fcb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:46:29.753646+00:00
 -- url     : https://prove2.me/theorems/26a0a52e-1f3c-4fc5-895f-d96efe727e4c

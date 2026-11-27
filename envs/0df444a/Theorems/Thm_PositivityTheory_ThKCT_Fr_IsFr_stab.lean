@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_stab
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:59:18.221509+00:00
 -- url     : https://prove2.me/theorems/970960ef-e1e3-52cb-9fc9-893c5e424c18

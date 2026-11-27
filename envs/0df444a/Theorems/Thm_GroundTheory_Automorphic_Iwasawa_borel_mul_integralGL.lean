@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_borel_mul_integralGL
 -- name    : GroundTheory.Automorphic.Iwasawa.borel_mul_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:53:37.420238+00:00
 -- url     : https://prove2.me/theorems/9abab67f-22c2-481b-9fb6-e4ae537eab33

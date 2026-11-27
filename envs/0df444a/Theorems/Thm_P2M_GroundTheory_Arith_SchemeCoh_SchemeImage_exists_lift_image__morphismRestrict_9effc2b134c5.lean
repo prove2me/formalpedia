@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_SchemeImage_exists_lift_image__morphismRestrict_9effc2b134c5
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_SchemeImage_exists_lift_image__morphismRestrict_9effc2b134c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:54.087651+00:00
 -- url     : https://prove2.me/theorems/38fd1d48-1a37-4719-a4a3-f716b1388119

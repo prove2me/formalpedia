@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_valuationPoint_eq_exp_neg_one
 -- name    : GroundTheory.Arith.Abelian.exists_valuationPoint_eq_exp_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:39.364989+00:00
 -- url     : https://prove2.me/theorems/fb5f40fc-e5a2-5943-b112-e4e5a0bea508

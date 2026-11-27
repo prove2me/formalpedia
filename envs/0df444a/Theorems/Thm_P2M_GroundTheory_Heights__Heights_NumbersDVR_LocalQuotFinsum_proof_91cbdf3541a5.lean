@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotFinsum_proof_91cbdf3541a5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalQuotFinsum_proof_91cbdf3541a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:35.528997+00:00
 -- url     : https://prove2.me/theorems/ba317912-e547-5888-9e43-5e9e9c8e7618

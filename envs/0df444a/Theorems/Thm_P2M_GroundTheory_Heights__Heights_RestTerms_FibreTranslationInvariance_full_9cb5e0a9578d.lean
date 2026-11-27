@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FibreTranslationInvariance_full_9cb5e0a9578d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FibreTranslationInvariance_full_9cb5e0a9578d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:36:20.628551+00:00
 -- url     : https://prove2.me/theorems/ea187a43-025e-5f7f-aef7-5552b64c1fe4

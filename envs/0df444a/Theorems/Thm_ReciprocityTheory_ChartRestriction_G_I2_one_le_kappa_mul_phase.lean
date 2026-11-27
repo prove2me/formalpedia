@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_one_le_kappa_mul_phase
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.one_le_kappa_mul_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:29:24.313738+00:00
 -- url     : https://prove2.me/theorems/04396dc7-4fc4-5bb5-9ac1-9a6793931f8b

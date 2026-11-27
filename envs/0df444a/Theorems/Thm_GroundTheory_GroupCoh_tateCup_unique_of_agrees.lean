@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCup_unique_of_agrees
 -- name    : GroundTheory.GroupCoh.tateCup_unique_of_agrees
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:58:58.422261+00:00
 -- url     : https://prove2.me/theorems/4818e3a1-6ff1-5b4a-92a8-5deeb7489095

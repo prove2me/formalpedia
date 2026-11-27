@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Cusp_exists_dual
 -- name    : PositivityTheory.ThKEnd.Cusp.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:59:58.085609+00:00
 -- url     : https://prove2.me/theorems/08434299-9573-4825-aa67-ebc3057009df

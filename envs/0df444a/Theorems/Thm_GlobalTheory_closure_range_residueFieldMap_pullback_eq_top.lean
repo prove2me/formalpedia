@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_closure_range_residueFieldMap_pullback_eq_top
 -- name    : GlobalTheory.closure_range_residueFieldMap_pullback_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:44:13.973674+00:00
 -- url     : https://prove2.me/theorems/ad370694-ef5a-429b-b7ad-439837a0b664

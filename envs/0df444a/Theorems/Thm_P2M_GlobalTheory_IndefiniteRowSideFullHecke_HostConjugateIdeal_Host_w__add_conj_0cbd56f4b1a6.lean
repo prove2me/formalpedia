@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Host_w__add_conj_0cbd56f4b1a6
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Host_w__add_conj_0cbd56f4b1a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:05:33.605897+00:00
 -- url     : https://prove2.me/theorems/fc17429c-ae82-4d96-9bfe-5f712a7fccc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_rational_weierstrassP
 -- name    : GroundTheory.Global.Elliptic.exists_rational_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:54:25.68449+00:00
 -- url     : https://prove2.me/theorems/216f496f-0f99-5366-a8f5-2e9b47415190

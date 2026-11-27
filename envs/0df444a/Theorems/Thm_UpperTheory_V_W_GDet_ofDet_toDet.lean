@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_W_GDet_ofDet_toDet
 -- name    : UpperTheory.V.W.GDet.ofDet_toDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T16:23:42.350331+00:00
 -- url     : https://prove2.me/theorems/2aded37e-fba4-46ae-a8b8-7196ccdb14e8

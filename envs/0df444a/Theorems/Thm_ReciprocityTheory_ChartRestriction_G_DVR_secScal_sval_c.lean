@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_secScal_sval_c
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.secScal_sval_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:35:21.84322+00:00
 -- url     : https://prove2.me/theorems/633c8113-18f1-46ea-9bf5-902982af672a

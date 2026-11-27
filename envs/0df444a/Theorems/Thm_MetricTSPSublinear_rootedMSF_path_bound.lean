@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricTSPSublinear_rootedMSF_path_bound
 -- name    : MetricTSPSublinear.rootedMSF_path_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-27T04:29:06.436262+00:00
 -- url     : https://prove2.me/theorems/666f24b3-f9e2-4298-a7ce-81de31d62987

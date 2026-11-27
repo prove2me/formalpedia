@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addQuotMeasure_zmultiples_one_univ
 -- name    : GlobalTheory.addQuotMeasure_zmultiples_one_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:47.61816+00:00
 -- url     : https://prove2.me/theorems/615dab01-1fa1-5a76-b449-2c7a05901ff7

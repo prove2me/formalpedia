@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLog_linfty_le_of_entries
 -- name    : GlobalTheory.UnitaryLog.linfty_le_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:12.09334+00:00
 -- url     : https://prove2.me/theorems/af72014f-7d82-4784-ad16-4658c69069a6

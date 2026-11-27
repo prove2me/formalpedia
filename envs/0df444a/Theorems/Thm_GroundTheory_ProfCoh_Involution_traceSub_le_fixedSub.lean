@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_traceSub_le_fixedSub
 -- name    : GroundTheory.ProfCoh.Involution.traceSub_le_fixedSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:17.974952+00:00
 -- url     : https://prove2.me/theorems/2cb90d9c-5f9c-522b-a94e-6dc1f000a194

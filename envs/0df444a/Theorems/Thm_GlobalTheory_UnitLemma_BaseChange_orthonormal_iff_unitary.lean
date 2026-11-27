@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_BaseChange_orthonormal_iff_unitary
 -- name    : GlobalTheory.UnitLemma.BaseChange.orthonormal_iff_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:42:31.713796+00:00
 -- url     : https://prove2.me/theorems/aee8f586-2149-5855-a5bd-d1e02e82f59a

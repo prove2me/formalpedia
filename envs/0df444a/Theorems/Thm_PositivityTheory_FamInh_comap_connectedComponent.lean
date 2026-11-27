@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_FamInh_comap_connectedComponent
 -- name    : PositivityTheory.FamInh.comap_connectedComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:50:00.891598+00:00
 -- url     : https://prove2.me/theorems/a000d091-d6cc-54aa-8fa2-c5f8fbb020a1

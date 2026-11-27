@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch05_slowlyVaryingAtInfinity_rpow
 -- name    : Kyprianou.Ch05.slowlyVaryingAtInfinity_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @daga2
 -- created : 2026-11-27T01:25:15.26498+00:00
 -- url     : https://prove2.me/theorems/0ea57c0f-21d4-5ac3-8887-d85aca6264f9

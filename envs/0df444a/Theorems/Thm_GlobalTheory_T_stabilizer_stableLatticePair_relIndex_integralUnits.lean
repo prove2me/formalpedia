@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stabilizer_stableLatticePair_relIndex_integralUnits
 -- name    : GlobalTheory.T.stabilizer_stableLatticePair_relIndex_integralUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:39:05.113061+00:00
 -- url     : https://prove2.me/theorems/33be82f0-8568-56e4-a731-4fafd3a0dbdc

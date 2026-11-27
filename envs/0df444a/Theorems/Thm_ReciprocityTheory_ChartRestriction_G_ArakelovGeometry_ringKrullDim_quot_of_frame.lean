@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_ringKrullDim_quot_of_frame
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.ringKrullDim_quot_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:12:38.792119+00:00
 -- url     : https://prove2.me/theorems/089b2df6-594c-4b7c-9602-6efeb3a74be6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_mem_span_xi_pow_of_forall
 -- name    : Reformulated.AutPerF.Ainf.mem_span_xi_pow_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:33:02.958748+00:00
 -- url     : https://prove2.me/theorems/3a37856d-79d8-460f-99be-de2d3faae8fc

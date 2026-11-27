@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_ExpRows_tyD_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.ExpRows.tyD_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:08:10.331584+00:00
 -- url     : https://prove2.me/theorems/cb1b0932-5d8e-4592-8ab4-5734a663309e

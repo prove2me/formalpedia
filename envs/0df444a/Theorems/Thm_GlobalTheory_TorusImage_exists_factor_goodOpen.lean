@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusImage_exists_factor_goodOpen
 -- name    : GlobalTheory.TorusImage.exists_factor_goodOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:45:47.55086+00:00
 -- url     : https://prove2.me/theorems/13ea071b-d39c-5c17-a7ae-053734f41904

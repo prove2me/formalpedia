@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechCubeEmptyEquiv_apply
 -- name    : GlobalTheory.cechCubeEmptyEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:46:09.40419+00:00
 -- url     : https://prove2.me/theorems/9171fd1d-5589-45a4-88bb-e6554a9fa203

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_standardOpenSubgroup_eq_preimage
 -- name    : GroundTheory.Global.standardOpenSubgroup_eq_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:59:02.054715+00:00
 -- url     : https://prove2.me/theorems/7205d905-2e2a-4d20-b497-b0ddf6dd04ff

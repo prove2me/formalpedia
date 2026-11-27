@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KAway_exists_T_field
 -- name    : PositivityTheory.SiegelWeilFormula.KAway.exists_T_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:57:27.298049+00:00
 -- url     : https://prove2.me/theorems/dff7768f-082b-43b1-a85a-58ba2a825462

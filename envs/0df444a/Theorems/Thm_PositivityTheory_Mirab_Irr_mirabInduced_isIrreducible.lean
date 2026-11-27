@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mirab_Irr_mirabInduced_isIrreducible
 -- name    : PositivityTheory.Mirab.Irr.mirabInduced_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T18:13:49.163355+00:00
 -- url     : https://prove2.me/theorems/3c4f629b-de08-5cbb-aed6-8cbf5463ed4b

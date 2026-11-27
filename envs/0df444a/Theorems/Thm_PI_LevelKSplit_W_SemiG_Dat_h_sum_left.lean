@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiG_Dat_h_sum_left
 -- name    : PI.LevelKSplit.W.SemiG.Dat.h_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:46:02.175275+00:00
 -- url     : https://prove2.me/theorems/d9dd6469-f18d-54a8-8daa-73eb58ebf2f3

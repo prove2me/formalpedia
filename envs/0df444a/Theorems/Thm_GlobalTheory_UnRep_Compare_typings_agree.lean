@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_typings_agree
 -- name    : GlobalTheory.UnRep.Compare.typings_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:43:29.166047+00:00
 -- url     : https://prove2.me/theorems/4e9d63b2-5eed-4820-809f-39c75c76c5af

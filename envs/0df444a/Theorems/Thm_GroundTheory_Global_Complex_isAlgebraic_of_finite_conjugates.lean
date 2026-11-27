@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Complex_isAlgebraic_of_finite_conjugates
 -- name    : GroundTheory.Global.Complex.isAlgebraic_of_finite_conjugates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:12.203215+00:00
 -- url     : https://prove2.me/theorems/a03cb8db-658c-560b-b984-34c9adff5b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaFunction_ne_zero_at_divisionPoint_selfDual
 -- name    : GlobalTheory.T.thetaFunction_ne_zero_at_divisionPoint_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:34:47.176351+00:00
 -- url     : https://prove2.me/theorems/544dbeb1-0b2c-5675-b33a-0d0645791cbc

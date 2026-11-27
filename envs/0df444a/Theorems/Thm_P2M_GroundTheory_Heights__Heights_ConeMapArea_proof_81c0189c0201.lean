@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeMapArea_proof_81c0189c0201
 -- name    : P2M_GroundTheory_Heights__Heights_ConeMapArea_proof_81c0189c0201
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:10:10.364055+00:00
 -- url     : https://prove2.me/theorems/214b8088-490a-4f60-bc25-8ef407418714

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensorLat_card_eq_relIndex_of_reps
 -- name    : GlobalTheory.TensorLat.card_eq_relIndex_of_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:05:46.988209+00:00
 -- url     : https://prove2.me/theorems/f689ad82-2d5c-5c72-88e2-aa260990b440

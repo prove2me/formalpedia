@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperFinite_proof_2b7bff64732d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperFinite_proof_2b7bff64732d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:30:16.809039+00:00
 -- url     : https://prove2.me/theorems/33dbff4f-9d0b-59f6-bcb9-0e42bf7dc926

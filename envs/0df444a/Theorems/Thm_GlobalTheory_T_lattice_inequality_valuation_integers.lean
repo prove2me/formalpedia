@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_inequality_valuation_integers
 -- name    : GlobalTheory.T.lattice_inequality_valuation_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:21:40.263372+00:00
 -- url     : https://prove2.me/theorems/2c4f3c5a-8416-501d-85e9-faa1edf806a2

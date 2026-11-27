@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SupNormEquality_proof_85d812e34c8f
 -- name    : P2M_GroundTheory_Heights__Heights_SupNormEquality_proof_85d812e34c8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:50:39.4595+00:00
 -- url     : https://prove2.me/theorems/c819b368-4259-4c1e-ab2e-03723e82e78b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_proof_bdee0d1d1df5
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PieceRootProductPolynomial_proof_bdee0d1d1df5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:14:27.140631+00:00
 -- url     : https://prove2.me/theorems/3705984e-1a3a-4195-861a-d78201655516

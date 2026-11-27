@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpSep
 -- name    : GlobalTheory.grpSep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:55.516257+00:00
 -- url     : https://prove2.me/theorems/fd84cf46-e244-5af1-9a1c-eaa73c5e394f

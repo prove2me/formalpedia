@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPullback_normalizationMap_of_isIntegralHom_of_mono
 -- name    : GlobalTheory.isPullback_normalizationMap_of_isIntegralHom_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:47:18.093412+00:00
 -- url     : https://prove2.me/theorems/eff4d53b-1dd1-40ee-acb7-b0cf3218cad1

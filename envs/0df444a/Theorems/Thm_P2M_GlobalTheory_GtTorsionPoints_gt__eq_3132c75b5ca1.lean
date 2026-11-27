@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GtTorsionPoints_gt__eq_3132c75b5ca1
 -- name    : P2M_GlobalTheory_GtTorsionPoints_gt__eq_3132c75b5ca1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:13:00.868354+00:00
 -- url     : https://prove2.me/theorems/b2313e9b-0f3c-50e4-9f71-6a7fdb41a4ea

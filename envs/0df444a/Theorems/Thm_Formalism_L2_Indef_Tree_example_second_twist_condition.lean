@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_second_twist_condition
 -- name    : Formalism.L2.Indef.Tree.example_second_twist_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T17:31:54.082785+00:00
 -- url     : https://prove2.me/theorems/04a7d3e7-1e06-5533-8e3c-e1b4bbc4c9ba

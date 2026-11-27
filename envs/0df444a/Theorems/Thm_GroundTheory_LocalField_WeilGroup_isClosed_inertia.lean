@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_WeilGroup_isClosed_inertia
 -- name    : GroundTheory.LocalField.WeilGroup.isClosed_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:06:47.0214+00:00
 -- url     : https://prove2.me/theorems/56e93d78-eca7-584e-b312-bec64a3daca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_preTiltEquivNormInteger
 -- name    : GroundTheory.PAdicHodge.norm_preTiltEquivNormInteger
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:01:20.001718+00:00
 -- url     : https://prove2.me/theorems/da314971-6af8-5de2-b6b9-53e08b653598

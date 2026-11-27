@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePacking_proof_d694c453e837
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePacking_proof_d694c453e837
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:31.105087+00:00
 -- url     : https://prove2.me/theorems/17bf8bfa-d5f0-46c9-93c3-60643f499f77

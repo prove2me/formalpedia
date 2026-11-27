@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntGramQf_proof_410c37431d3a
 -- name    : P2M_GroundTheory_Heights__Heights_IntGramQf_proof_410c37431d3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:29:58.087069+00:00
 -- url     : https://prove2.me/theorems/1b455e7f-63ce-5da7-921a-b2ff4b8ea8c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smul_mul_eq
 -- name    : GroundTheory.Global.IdeleGroup.smul_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:54:42.206581+00:00
 -- url     : https://prove2.me/theorems/90b54234-44cc-5977-b798-1c2e3e947cc3

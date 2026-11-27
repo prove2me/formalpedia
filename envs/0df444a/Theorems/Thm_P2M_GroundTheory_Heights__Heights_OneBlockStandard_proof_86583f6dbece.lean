@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockStandard_proof_86583f6dbece
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockStandard_proof_86583f6dbece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:35:12.145105+00:00
 -- url     : https://prove2.me/theorems/1bfb8031-d66d-4373-9d6f-fd113af6749f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_of_epi_of_finite
 -- name    : GlobalTheory.surjective_of_epi_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:52:02.430991+00:00
 -- url     : https://prove2.me/theorems/0a2c6013-6153-54ff-ae41-efb407bcdcd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_split_of_coisotropic_ker
 -- name    : GlobalTheory.exists_split_of_coisotropic_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:52:06.311035+00:00
 -- url     : https://prove2.me/theorems/70d77ef8-04ce-493d-97ee-7a211747d089

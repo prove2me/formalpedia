@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polarisation_on_subspace
 -- name    : GlobalTheory.polarisation_on_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:49:44.561702+00:00
 -- url     : https://prove2.me/theorems/a2b503e9-fa4b-4229-84e8-964ae11c00a2

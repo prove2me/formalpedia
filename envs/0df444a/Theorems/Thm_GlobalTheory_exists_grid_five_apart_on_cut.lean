@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_grid_five_apart_on_cut
 -- name    : GlobalTheory.exists_grid_five_apart_on_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:30.370655+00:00
 -- url     : https://prove2.me/theorems/7721c1ba-09e7-4256-bc82-6d5abfbd9df9

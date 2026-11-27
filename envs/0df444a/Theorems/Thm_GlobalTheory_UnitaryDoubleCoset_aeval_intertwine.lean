@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_aeval_intertwine
 -- name    : GlobalTheory.UnitaryDoubleCoset.aeval_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:47:47.749012+00:00
 -- url     : https://prove2.me/theorems/f7f8493b-74c8-4fc8-b90f-11268bc4c010

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_exists_frame
 -- name    : GlobalTheory.VolPairExists.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:11.387805+00:00
 -- url     : https://prove2.me/theorems/3248c487-18f1-4eb1-9c7a-bc8c17f78925

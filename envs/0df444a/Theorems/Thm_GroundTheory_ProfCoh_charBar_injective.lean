@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_charBar_injective
 -- name    : GroundTheory.ProfCoh.charBar_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:02:14.159822+00:00
 -- url     : https://prove2.me/theorems/a96d35e7-dd19-5a2d-874a-ad73ddf2cdbf

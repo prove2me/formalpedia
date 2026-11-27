@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_exStab_of_alt
 -- name    : PI.VolStabSW.exStab_of_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:50:06.756679+00:00
 -- url     : https://prove2.me/theorems/24a762ea-3736-5b06-bc69-bbb5f2aac122

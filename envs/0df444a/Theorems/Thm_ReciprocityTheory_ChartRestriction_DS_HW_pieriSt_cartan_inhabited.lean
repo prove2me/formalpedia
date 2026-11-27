@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pieriSt_cartan_inhabited
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pieriSt_cartan_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:20:40.035667+00:00
 -- url     : https://prove2.me/theorems/75334d90-3924-5fb4-a7fe-034625ac152d

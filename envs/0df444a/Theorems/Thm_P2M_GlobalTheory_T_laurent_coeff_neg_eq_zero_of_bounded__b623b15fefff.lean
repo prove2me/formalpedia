@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_laurent_coeff_neg_eq_zero_of_bounded__b623b15fefff
 -- name    : P2M_GlobalTheory_T_laurent_coeff_neg_eq_zero_of_bounded__b623b15fefff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:07:00.177935+00:00
 -- url     : https://prove2.me/theorems/0398587a-d9cd-5d07-84c6-c6b39d97f291

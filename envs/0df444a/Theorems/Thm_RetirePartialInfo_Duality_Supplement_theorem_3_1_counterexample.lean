@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetirePartialInfo_Duality_Supplement_theorem_3_1_counterexample
 -- name    : RetirePartialInfo.Duality.Supplement.theorem_3_1_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T22:22:27.161367+00:00
 -- url     : https://prove2.me/theorems/cfb7deb9-5eb1-4e14-8e78-a4d0ed4ceba8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_gtRel_iff
 -- name    : GlobalTheory.ArcTransport.gtRel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T18:27:25.785802+00:00
 -- url     : https://prove2.me/theorems/1f2393c2-c2b6-5b68-acc1-3def83a2efb9

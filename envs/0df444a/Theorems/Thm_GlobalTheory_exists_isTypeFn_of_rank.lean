@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isTypeFn_of_rank
 -- name    : GlobalTheory.exists_isTypeFn_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:46:33.573784+00:00
 -- url     : https://prove2.me/theorems/060808c4-1a62-4b1a-a2bc-66bed5ec791a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_morse_inequality_arith
 -- name    : GlobalTheory.morse_inequality_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:49:10.356332+00:00
 -- url     : https://prove2.me/theorems/3ac952ce-83f0-54a9-960d-5736fbfc20a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_sum_neg
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_sum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:51.620581+00:00
 -- url     : https://prove2.me/theorems/c9eefa7f-b107-4e9d-bf51-e8d74871628e

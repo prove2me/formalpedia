@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_isCoboundary__of_isCocycle__galois_6644cfbfdd0f
 -- name    : P2M_GroundTheory_ProfCoh_isCoboundary__of_isCocycle__galois_6644cfbfdd0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:46.513265+00:00
 -- url     : https://prove2.me/theorems/7b6ac029-bb92-460a-8f49-c2abf76fc304

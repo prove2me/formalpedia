@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sum_irrChars_sq
 -- name    : GroundTheory.LocalField.sum_irrChars_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:00:34.992551+00:00
 -- url     : https://prove2.me/theorems/a9fa9882-6117-564f-a76b-b0409564211c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_WeightedAreaFormula_proof_2ab425f92cfa
 -- name    : P2M_GroundTheory_Heights__Heights_WeightedAreaFormula_proof_2ab425f92cfa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:40:11.678212+00:00
 -- url     : https://prove2.me/theorems/26523bd6-a501-507d-9155-5af91f37176b

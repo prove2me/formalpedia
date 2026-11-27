@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardProjLineRankTwo_proof_d0fd17bd324c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardProjLineRankTwo_proof_d0fd17bd324c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:26:55.526579+00:00
 -- url     : https://prove2.me/theorems/4903f010-6c3e-480e-8382-dee4a19cc874

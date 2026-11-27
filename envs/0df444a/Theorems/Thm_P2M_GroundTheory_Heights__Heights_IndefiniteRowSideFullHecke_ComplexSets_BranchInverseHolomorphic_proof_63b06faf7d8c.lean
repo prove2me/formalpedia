@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchInverseHolomorphic_proof_63b06faf7d8c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_BranchInverseHolomorphic_proof_63b06faf7d8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:15:17.373738+00:00
 -- url     : https://prove2.me/theorems/add0c677-76a1-5a3a-b81b-9421aa645472

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KAway_cond_c
 -- name    : PositivityTheory.SiegelWeilFormula.KAway.cond_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:57:02.570609+00:00
 -- url     : https://prove2.me/theorems/fbb683d9-0387-4680-bc59-8ca647c7031b

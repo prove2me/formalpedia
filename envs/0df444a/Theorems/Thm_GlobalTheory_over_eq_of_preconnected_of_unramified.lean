@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_over_eq_of_preconnected_of_unramified
 -- name    : GlobalTheory.over_eq_of_preconnected_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:34.459558+00:00
 -- url     : https://prove2.me/theorems/798905ee-33f0-441c-bfc6-276f5eab2e78

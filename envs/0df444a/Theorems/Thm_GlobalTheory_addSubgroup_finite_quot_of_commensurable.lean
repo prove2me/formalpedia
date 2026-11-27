@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addSubgroup_finite_quot_of_commensurable
 -- name    : GlobalTheory.addSubgroup_finite_quot_of_commensurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:43:56.466506+00:00
 -- url     : https://prove2.me/theorems/733985b8-35c3-49cc-a74d-2a38d0d2a6ba

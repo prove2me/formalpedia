@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_VectorBundleLocal_proof_2d8029ffb5b5
 -- name    : P2M_GroundTheory_Heights__Heights_Model_VectorBundleLocal_proof_2d8029ffb5b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:31:39.445857+00:00
 -- url     : https://prove2.me/theorems/741457f0-baed-4bf2-b8e9-b6f896c22392

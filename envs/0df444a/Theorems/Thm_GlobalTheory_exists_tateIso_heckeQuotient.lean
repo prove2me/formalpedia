@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tateIso_heckeQuotient
 -- name    : GlobalTheory.exists_tateIso_heckeQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:47:23.316418+00:00
 -- url     : https://prove2.me/theorems/cdc18aa7-5748-4a8e-9d92-81483c0b4e04

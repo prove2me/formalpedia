@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Cx2_norm___5f068848269b
 -- name    : P2M_Formalism_FourierDecayAlt_P_Cx2_norm___5f068848269b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:10.228904+00:00
 -- url     : https://prove2.me/theorems/f36c1bc4-8038-5d1e-b869-5335f613afb0

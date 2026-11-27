@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeMean_finset_sum
 -- name    : GlobalTheory.latticeMean_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:48.396574+00:00
 -- url     : https://prove2.me/theorems/064afa0e-ae44-5f73-ab05-6e421a9890e4

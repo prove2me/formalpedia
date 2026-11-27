@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Stability_equivalent_stability_conditions
 -- name    : ProcessingNetworks.Stability.equivalent_stability_conditions
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:21:37.474519+00:00
 -- url     : https://prove2.me/theorems/98f5b7ea-c89d-4575-9ad0-97f54055cc8e

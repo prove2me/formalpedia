@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_hodgeTateSetting_ainfTower_of_isPrimitiveRoot
 -- name    : GlobalTheory.ChF.hodgeTateSetting_ainfTower_of_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T18:01:47.431797+00:00
 -- url     : https://prove2.me/theorems/abfd4f00-19a7-4418-8618-010b6edb719a

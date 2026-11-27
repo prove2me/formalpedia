@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_spreadLe_wOne
 -- name    : GlobalTheory.TestLat.Model.spreadLe_wOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:49:28.802683+00:00
 -- url     : https://prove2.me/theorems/5dfd56a8-333c-5800-a260-a3c5cf823b09

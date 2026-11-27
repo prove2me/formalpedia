@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TraceExpSmul_trace_mul_exp_smul__ab68fdf078d0
 -- name    : P2M_GlobalTheory_TraceExpSmul_trace_mul_exp_smul__ab68fdf078d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:44.023687+00:00
 -- url     : https://prove2.me/theorems/4dd67ba0-9f82-5d3b-9b3b-8918ee21e9b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_VVG_isotropic_32cda0df5e7c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_VVG_isotropic_32cda0df5e7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:40.576396+00:00
 -- url     : https://prove2.me/theorems/c92fbb7c-4e7d-5898-b74f-f6a930ecbbf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_unipotent
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:37:05.253562+00:00
 -- url     : https://prove2.me/theorems/54ed1b97-4a92-5ef0-9ec7-38531dda5077

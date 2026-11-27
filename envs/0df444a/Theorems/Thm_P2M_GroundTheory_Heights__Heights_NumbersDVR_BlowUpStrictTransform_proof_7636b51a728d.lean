@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpStrictTransform_proof_7636b51a728d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlowUpStrictTransform_proof_7636b51a728d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:35:08.669003+00:00
 -- url     : https://prove2.me/theorems/6c82c45e-4f2c-54cf-9732-7c99340e191b

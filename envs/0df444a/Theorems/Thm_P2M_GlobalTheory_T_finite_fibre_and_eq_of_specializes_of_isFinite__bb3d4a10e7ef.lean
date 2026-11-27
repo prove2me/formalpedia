@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_finite_fibre_and_eq_of_specializes_of_isFinite__bb3d4a10e7ef
 -- name    : P2M_GlobalTheory_T_finite_fibre_and_eq_of_specializes_of_isFinite__bb3d4a10e7ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:50.06542+00:00
 -- url     : https://prove2.me/theorems/88c37b8c-174a-48b0-a3ac-59c47bfcf2ff

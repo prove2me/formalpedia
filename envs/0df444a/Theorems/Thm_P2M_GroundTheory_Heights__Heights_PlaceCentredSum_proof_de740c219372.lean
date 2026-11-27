@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceCentredSum_proof_de740c219372
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceCentredSum_proof_de740c219372
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:38:17.738989+00:00
 -- url     : https://prove2.me/theorems/979b0fad-cb44-5ec0-9525-c40be5824bad

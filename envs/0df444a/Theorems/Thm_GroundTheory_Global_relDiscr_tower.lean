@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_relDiscr_tower
 -- name    : GroundTheory.Global.relDiscr_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:56:05.258557+00:00
 -- url     : https://prove2.me/theorems/d5b56a5c-6f17-59b7-b7fe-f71b0ba39cc0

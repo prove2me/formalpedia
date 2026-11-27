@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_bialgEquiv_of_compatible_tensor
 -- name    : GlobalTheory.existsUnique_bialgEquiv_of_compatible_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:44:53.242116+00:00
 -- url     : https://prove2.me/theorems/cbf1445f-eb00-4a48-8132-af2f9670a788

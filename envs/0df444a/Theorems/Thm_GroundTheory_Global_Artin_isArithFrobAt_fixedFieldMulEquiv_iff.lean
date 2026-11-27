@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_isArithFrobAt_fixedFieldMulEquiv_iff
 -- name    : GroundTheory.Global.Artin.isArithFrobAt_fixedFieldMulEquiv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:54:21.677072+00:00
 -- url     : https://prove2.me/theorems/13296e33-8018-52d5-ac00-cabf5b52f314

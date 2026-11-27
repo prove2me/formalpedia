@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_logHeight_section_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.logHeight_section_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:43:21.680958+00:00
 -- url     : https://prove2.me/theorems/4c275d90-4756-4c8e-a5a0-0e0cba06bb32

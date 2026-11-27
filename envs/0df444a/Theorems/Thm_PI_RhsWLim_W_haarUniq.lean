@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_haarUniq
 -- name    : PI.RhsWLim.W.haarUniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:47:56.321207+00:00
 -- url     : https://prove2.me/theorems/86879b61-c9a5-4e87-b2e6-66958f20b905

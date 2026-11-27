@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fsMetric_fin_isSemipositive
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fsMetric_fin_isSemipositive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:13:10.062123+00:00
 -- url     : https://prove2.me/theorems/29ba96ba-4e8d-532a-8dd0-dcbd5505f5a8

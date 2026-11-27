@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_closureLift_of_isReduced
 -- name    : GlobalTheory.existsUnique_closureLift_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:44:28.537801+00:00
 -- url     : https://prove2.me/theorems/4d615784-f525-461a-a527-91ac7a529006

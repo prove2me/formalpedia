@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_VAmp_trivial_point
 -- name    : GlobalTheory.ZV.VAmp.trivial_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:14.741745+00:00
 -- url     : https://prove2.me/theorems/d3988bff-09d9-5068-af7e-3833087d2eb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_TransposeInverseTheory_continuous_transposeInv
 -- name    : Reformulated.TransposeInverseTheory.continuous_transposeInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:11.038037+00:00
 -- url     : https://prove2.me/theorems/c0bbe5c0-81d7-57b1-92e6-3ad71f04f1ed

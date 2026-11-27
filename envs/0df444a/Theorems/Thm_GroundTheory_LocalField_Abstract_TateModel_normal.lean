@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_TateModel_normal
 -- name    : GroundTheory.LocalField.Abstract.TateModel.normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:59:10.281248+00:00
 -- url     : https://prove2.me/theorems/a36aaa4b-f111-47fe-a0e5-e386f953cb60

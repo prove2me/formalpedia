@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDataTest_perFr_beyond
 -- name    : GlobalTheory.UnifDataTest.perFr_beyond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:45:28.59413+00:00
 -- url     : https://prove2.me/theorems/4e16d2c3-3452-5c19-b18f-9824a162f092

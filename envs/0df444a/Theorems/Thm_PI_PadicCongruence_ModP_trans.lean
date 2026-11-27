@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PadicCongruence_ModP_trans
 -- name    : PI.PadicCongruence.ModP.trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:47:15.925428+00:00
 -- url     : https://prove2.me/theorems/2ac0b6f2-7b93-40b3-98ee-1cf8079a9fd6

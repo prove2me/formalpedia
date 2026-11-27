@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_chowFormIntExists_iff
 -- name    : GlobalTheory.Published.chowFormIntExists_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:12:28.13972+00:00
 -- url     : https://prove2.me/theorems/0a08a4e8-ecad-4c97-bb0f-002d4cfb12c2

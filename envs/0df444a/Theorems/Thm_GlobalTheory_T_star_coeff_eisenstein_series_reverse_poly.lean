@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_star_coeff_eisenstein_series_reverse_poly
 -- name    : GlobalTheory.T.star_coeff_eisenstein_series_reverse_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:04.964834+00:00
 -- url     : https://prove2.me/theorems/87fef34b-c87f-45dd-857a-2f12ef677913

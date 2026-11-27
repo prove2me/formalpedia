@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_normFactor_rightBorel_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.normFactor_rightBorel_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:19:53.479802+00:00
 -- url     : https://prove2.me/theorems/e3abc176-1b50-48bb-be0d-9bb5a4644e4b

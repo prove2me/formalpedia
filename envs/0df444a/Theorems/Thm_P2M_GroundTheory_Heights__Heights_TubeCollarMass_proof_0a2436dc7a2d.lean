@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeCollarMass_proof_0a2436dc7a2d
 -- name    : P2M_GroundTheory_Heights__Heights_TubeCollarMass_proof_0a2436dc7a2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:41:03.438474+00:00
 -- url     : https://prove2.me/theorems/86cf681c-34b7-5c51-a5ba-def83a991754

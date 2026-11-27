@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_isSmallH_iff_791798716b65
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_isSmallH_iff_791798716b65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:07:41.109918+00:00
 -- url     : https://prove2.me/theorems/ebfdb3ba-6d50-5499-a600-1614eb4a0fe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isoTransvection_isAdjointPair
 -- name    : GlobalTheory.isoTransvection.isAdjointPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:47:54.987339+00:00
 -- url     : https://prove2.me/theorems/243f8ecd-05bc-5582-8556-4ec4969bb116

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadMinorBasic_proof_ac6ce8f9f4df
 -- name    : P2M_GroundTheory_Heights__Heights_LeadMinorBasic_proof_ac6ce8f9f4df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:29:08.225058+00:00
 -- url     : https://prove2.me/theorems/7226e712-de1e-50de-bed1-3b3aa9cceae3

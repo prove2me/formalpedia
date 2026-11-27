@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_MaxSNP_Supplement_lemma_5_2
 -- name    : SkutellaCQP.MaxSNP.Supplement.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T09:50:41.802964+00:00
 -- url     : https://prove2.me/theorems/c1b492eb-652f-4717-bc4e-0052af777695

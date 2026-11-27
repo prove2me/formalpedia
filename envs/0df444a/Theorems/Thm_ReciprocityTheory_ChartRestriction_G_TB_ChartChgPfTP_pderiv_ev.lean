@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_ChartChgPfTP_pderiv_ev
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.ChartChgPfTP.pderiv_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:25:32.428807+00:00
 -- url     : https://prove2.me/theorems/6976d7f2-b2f7-5961-b8fa-9c84f678183e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_lowerRamificationGroup_iff_valuation
 -- name    : GroundTheory.LocalField.mem_lowerRamificationGroup_iff_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:05:21.380293+00:00
 -- url     : https://prove2.me/theorems/3edb66c8-1dac-4cb9-9ba3-2fa0efbf141c

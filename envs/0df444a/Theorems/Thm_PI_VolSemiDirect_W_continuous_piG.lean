@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_continuous_piG
 -- name    : PI.VolSemiDirect.W.continuous_piG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:55:26.8356+00:00
 -- url     : https://prove2.me/theorems/075f1f8c-7eae-4337-8a79-092b7871d722

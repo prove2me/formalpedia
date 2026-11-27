@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_gsBaseChange_toMulEquiv
 -- name    : GroundTheory.ProfCoh.gsBaseChange_toMulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:29.849971+00:00
 -- url     : https://prove2.me/theorems/842d7423-7c40-5ad6-acd2-f38d7506b061

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_map_normUnits_unitFiltrationUnits_zero_le
 -- name    : GroundTheory.LocalField.map_normUnits_unitFiltrationUnits_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:00:41.697391+00:00
 -- url     : https://prove2.me/theorems/350a6231-a657-4000-a71d-387480d59d14

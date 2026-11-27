@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_isAddHaar_regular_1d20c7caa245
 -- name    : P2M_GroundTheory_Heights__Theta_isAddHaar_regular_1d20c7caa245
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:46.959549+00:00
 -- url     : https://prove2.me/theorems/862aa168-0b99-4414-af23-68fe506108e0

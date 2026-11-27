@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_sq_transform_level_eight
 -- name    : GlobalTheory.theta_sq_transform_level_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:54:15.283921+00:00
 -- url     : https://prove2.me/theorems/31f2901b-6086-50b1-b668-f2ecc7d3e8f5

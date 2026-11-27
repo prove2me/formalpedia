@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_hodgeFrame_hyps_inhabited_55596f37981f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_hodgeFrame_hyps_inhabited_55596f37981f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:25:22.222392+00:00
 -- url     : https://prove2.me/theorems/7dc2287c-2580-543a-9987-596527a56d5e

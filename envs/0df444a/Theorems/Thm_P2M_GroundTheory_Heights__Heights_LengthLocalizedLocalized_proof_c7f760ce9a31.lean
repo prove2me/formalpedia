@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthLocalizedLocalized_proof_c7f760ce9a31
 -- name    : P2M_GroundTheory_Heights__Heights_LengthLocalizedLocalized_proof_c7f760ce9a31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:30:04.403073+00:00
 -- url     : https://prove2.me/theorems/0adced6c-7cdd-4ff7-a22f-c0695ef50f38

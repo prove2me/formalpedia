@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smulQuotient_diagonal_mk
 -- name    : GroundTheory.Global.IdeleGroup.smulQuotient_diagonal_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:00:39.655926+00:00
 -- url     : https://prove2.me/theorems/8a66670f-76de-422e-ace9-ff5e9e7dfdfc

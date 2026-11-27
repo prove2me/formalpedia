@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_vvRank
 -- name    : GlobalTheory.VVRank.vvRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:49:49.2689+00:00
 -- url     : https://prove2.me/theorems/cf613294-49f1-5cb5-895c-35849ec11615

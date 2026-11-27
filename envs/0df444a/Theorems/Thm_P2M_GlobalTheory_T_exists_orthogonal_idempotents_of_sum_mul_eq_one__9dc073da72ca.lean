@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_orthogonal_idempotents_of_sum_mul_eq_one__9dc073da72ca
 -- name    : P2M_GlobalTheory_T_exists_orthogonal_idempotents_of_sum_mul_eq_one__9dc073da72ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:06:18.889663+00:00
 -- url     : https://prove2.me/theorems/85d41861-2276-50ea-9b62-9d48865d59f3

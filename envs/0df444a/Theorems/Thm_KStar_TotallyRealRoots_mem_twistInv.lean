@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_mem_twistInv
 -- name    : KStar.TotallyRealRoots.mem_twistInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:02:50.060503+00:00
 -- url     : https://prove2.me/theorems/f6550f6b-3083-5de5-a99c-3d6a2940a9b4

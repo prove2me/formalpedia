@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TestLat_Model_valAt_apply
 -- name    : GlobalTheory.TestLat.Model.valAt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:47:23.01046+00:00
 -- url     : https://prove2.me/theorems/9b5ef241-f8ae-52ad-aacb-c3fafa4d8299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFormCompare_isPullGtF_self_of_isIdPull
 -- name    : GlobalTheory.TorsionFormCompare.isPullGtF_self_of_isIdPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:44:06.153335+00:00
 -- url     : https://prove2.me/theorems/7e7011b2-cc56-4dc0-a337-9e8a2ef56d00

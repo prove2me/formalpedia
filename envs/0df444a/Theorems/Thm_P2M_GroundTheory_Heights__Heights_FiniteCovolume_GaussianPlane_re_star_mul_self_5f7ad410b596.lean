@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_re_star_mul_self_5f7ad410b596
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_re_star_mul_self_5f7ad410b596
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:28:18.915877+00:00
 -- url     : https://prove2.me/theorems/296b586a-2eb0-4cba-8d1a-4506ccdbc490

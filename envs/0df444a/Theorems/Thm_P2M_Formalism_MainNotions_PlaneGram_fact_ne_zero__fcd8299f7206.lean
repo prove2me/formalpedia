@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_fact_ne_zero__fcd8299f7206
 -- name    : P2M_Formalism_MainNotions_PlaneGram_fact_ne_zero__fcd8299f7206
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:05:11.548011+00:00
 -- url     : https://prove2.me/theorems/8cdd323b-17ba-45a9-a9b4-dbe5ce65081e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveNormalisationLength_proof_765dbfa8dadd
 -- name    : P2M_GroundTheory_Heights__Heights_CurveNormalisationLength_proof_765dbfa8dadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:15:38.426354+00:00
 -- url     : https://prove2.me/theorems/3b3f303b-c42e-49e9-9f5a-e8fa804aa43a

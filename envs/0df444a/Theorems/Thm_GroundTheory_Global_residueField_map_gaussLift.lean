@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_residueField_map_gaussLift
 -- name    : GroundTheory.Global.residueField_map_gaussLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:57:07.619305+00:00
 -- url     : https://prove2.me/theorems/7b94a844-5439-4474-81df-35ee68f1565e

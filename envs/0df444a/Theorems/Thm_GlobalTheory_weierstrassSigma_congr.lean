@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassSigma_congr
 -- name    : GlobalTheory.weierstrassSigma_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:19.380971+00:00
 -- url     : https://prove2.me/theorems/857768ff-7448-5d07-b212-c55f48363c78

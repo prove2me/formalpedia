@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldComplex_unfold_integral
 -- name    : GlobalTheory.UnfoldComplex.unfold_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:56:35.66359+00:00
 -- url     : https://prove2.me/theorems/23b31d9a-1d4a-5a3a-9956-37c936e88659

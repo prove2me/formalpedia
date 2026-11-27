@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKInhab_triv_urep
 -- name    : PI.WeylForKInhab.triv_urep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:48:57.487803+00:00
 -- url     : https://prove2.me/theorems/16a417fa-9e3f-4a32-934a-257df19e379e

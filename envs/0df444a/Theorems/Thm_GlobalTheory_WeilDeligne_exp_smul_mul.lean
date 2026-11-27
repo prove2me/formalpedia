@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_exp_smul_mul
 -- name    : GlobalTheory.WeilDeligne.exp_smul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:19:38.230596+00:00
 -- url     : https://prove2.me/theorems/7bb13089-0413-4033-8419-f01b9f9b6a6b

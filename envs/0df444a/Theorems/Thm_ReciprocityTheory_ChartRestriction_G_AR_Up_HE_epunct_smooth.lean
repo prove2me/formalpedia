@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_HE_epunct_smooth
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.HE.epunct_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:11:12.537646+00:00
 -- url     : https://prove2.me/theorems/4a4632a6-df09-5687-813f-ace2e05bce4d

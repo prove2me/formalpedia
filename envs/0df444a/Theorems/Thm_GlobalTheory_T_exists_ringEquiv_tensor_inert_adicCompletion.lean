@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_ringEquiv_tensor_inert_adicCompletion
 -- name    : GlobalTheory.T.exists_ringEquiv_tensor_inert_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:34:55.37225+00:00
 -- url     : https://prove2.me/theorems/02084603-8848-4dec-bac4-51a16fd79f78

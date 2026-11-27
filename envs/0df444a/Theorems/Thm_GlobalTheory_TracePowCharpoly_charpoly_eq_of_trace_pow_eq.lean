@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TracePowCharpoly_charpoly_eq_of_trace_pow_eq
 -- name    : GlobalTheory.TracePowCharpoly.charpoly_eq_of_trace_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T17:01:37.972268+00:00
 -- url     : https://prove2.me/theorems/021cf9aa-0639-5799-9c58-42c7ae872dad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointChart_proof_c62b812f1127
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointChart_proof_c62b812f1127
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:15:10.824242+00:00
 -- url     : https://prove2.me/theorems/40b8cd38-e65f-591f-bf4e-cb3158a230b3

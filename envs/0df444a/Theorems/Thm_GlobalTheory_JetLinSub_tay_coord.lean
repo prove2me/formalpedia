@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetLinSub_tay_coord
 -- name    : GlobalTheory.JetLinSub.tay_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T18:43:25.80486+00:00
 -- url     : https://prove2.me/theorems/57c0a159-a7bd-58fd-9aa0-a4df8a8ca094

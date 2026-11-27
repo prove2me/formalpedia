@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GomoryGroup_Rel_Supplement_theorem_3
 -- name    : GomoryGroup.Rel.Supplement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-24T01:20:36.384299+00:00
 -- url     : https://prove2.me/theorems/777954ec-2da4-41a2-a8fc-92f2f7257293

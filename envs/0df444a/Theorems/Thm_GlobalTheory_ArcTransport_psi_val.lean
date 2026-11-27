@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcTransport_psi_val
 -- name    : GlobalTheory.ArcTransport.psi_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T18:28:19.295851+00:00
 -- url     : https://prove2.me/theorems/99d64de3-3ae5-59ab-a045-bdd2d6dc53a6

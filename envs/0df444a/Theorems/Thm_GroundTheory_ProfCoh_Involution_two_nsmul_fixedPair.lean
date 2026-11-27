@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_two_nsmul_fixedPair
 -- name    : GroundTheory.ProfCoh.Involution.two_nsmul_fixedPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:02:14.68302+00:00
 -- url     : https://prove2.me/theorems/0933b442-756c-4994-b1b7-364fc8abb457

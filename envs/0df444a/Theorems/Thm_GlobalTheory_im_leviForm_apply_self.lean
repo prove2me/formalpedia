@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_im_leviForm_apply_self
 -- name    : GlobalTheory.im_leviForm_apply_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:47:12.436112+00:00
 -- url     : https://prove2.me/theorems/d68a9bfa-4764-4f98-b354-e11562332095

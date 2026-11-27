@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitTorus_image_factor_quotient_goodOpen
 -- name    : GlobalTheory.T.splitTorus_image_factor_quotient_goodOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T16:54:30.4528+00:00
 -- url     : https://prove2.me/theorems/9e4d3ef4-e291-59b4-a2c5-afa2260d6004

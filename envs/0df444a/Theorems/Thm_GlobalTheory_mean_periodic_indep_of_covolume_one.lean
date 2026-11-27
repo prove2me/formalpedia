@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mean_periodic_indep_of_covolume_one
 -- name    : GlobalTheory.mean_periodic_indep_of_covolume_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:49:31.178457+00:00
 -- url     : https://prove2.me/theorems/57e144f1-540c-4c5c-bb0f-7cb46ae2e7a5

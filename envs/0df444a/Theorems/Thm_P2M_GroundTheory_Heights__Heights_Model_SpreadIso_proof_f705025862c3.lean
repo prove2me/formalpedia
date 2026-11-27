@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadIso_proof_f705025862c3
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadIso_proof_f705025862c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:32:18.887535+00:00
 -- url     : https://prove2.me/theorems/9279d11f-7fef-49f2-89aa-b1d1ed4acb8a

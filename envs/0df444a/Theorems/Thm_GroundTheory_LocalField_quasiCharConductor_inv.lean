@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quasiCharConductor_inv
 -- name    : GroundTheory.LocalField.quasiCharConductor_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:01:18.360697+00:00
 -- url     : https://prove2.me/theorems/bd18f95b-4a46-4be9-a4e8-b7c33f471ce8

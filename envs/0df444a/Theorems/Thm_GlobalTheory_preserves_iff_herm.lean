@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preserves_iff_herm
 -- name    : GlobalTheory.preserves_iff_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:39:07.834687+00:00
 -- url     : https://prove2.me/theorems/e86a9dae-deca-5bea-ac43-aa19d2591a18

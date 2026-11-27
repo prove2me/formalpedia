@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionForm_wedge_contr_add
 -- name    : GlobalTheory.TorsionForm.wedge_contr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:42:01.011965+00:00
 -- url     : https://prove2.me/theorems/8d78de79-5bc1-447d-82c0-64355c0f94ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isDerivedOn_trivial
 -- name    : ReciprocityTheory.ChartRestriction.DS.isDerivedOn_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:11:29.074617+00:00
 -- url     : https://prove2.me/theorems/a9f2ebe3-d0ea-4c68-a9a1-acc3a553080c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_H23_dcos_right
 -- name    : UpperTheory.Reformulated.B.H23.dcos_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:39:22.962029+00:00
 -- url     : https://prove2.me/theorems/73828827-5797-58da-9564-41c50f8d1466

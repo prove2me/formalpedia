@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLRPCake_EnvyFree_Supplement_corollary_1
 -- name    : MLRPCake.EnvyFree.Supplement.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T05:07:45.524797+00:00
 -- url     : https://prove2.me/theorems/f6d0d26e-2df0-4811-9a11-ab1fbcb29bbd

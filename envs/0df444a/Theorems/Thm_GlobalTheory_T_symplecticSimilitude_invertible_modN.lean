@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symplecticSimilitude_invertible_modN
 -- name    : GlobalTheory.T.symplecticSimilitude_invertible_modN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:42:22.911806+00:00
 -- url     : https://prove2.me/theorems/587aff18-55a4-4438-b056-0ce537c3a889

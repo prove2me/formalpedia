@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_normalAt_pow
 -- name    : GlobalTheory.KeyPow.normalAt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T17:26:58.434136+00:00
 -- url     : https://prove2.me/theorems/37639ec5-9cec-40ef-a3cb-0c8251e60603

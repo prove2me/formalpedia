@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_topologicalKrullDim_eq_of_openImmersion_integral_scheme
 -- name    : GlobalTheory.T.topologicalKrullDim_eq_of_openImmersion_integral_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:10.28146+00:00
 -- url     : https://prove2.me/theorems/6d10e6d9-e0e2-525a-b109-f6b663f0b725

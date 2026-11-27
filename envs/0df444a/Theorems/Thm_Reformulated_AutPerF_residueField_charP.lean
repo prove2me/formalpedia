@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_residueField_charP
 -- name    : Reformulated.AutPerF.residueField_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:32:45.982182+00:00
 -- url     : https://prove2.me/theorems/68b84b11-25ce-44c9-a7be-bf8de269751a

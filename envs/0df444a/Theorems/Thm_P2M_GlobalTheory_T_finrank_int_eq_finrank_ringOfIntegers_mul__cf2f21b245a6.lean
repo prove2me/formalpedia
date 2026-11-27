@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_finrank_int_eq_finrank_ringOfIntegers_mul__cf2f21b245a6
 -- name    : P2M_GlobalTheory_T_finrank_int_eq_finrank_ringOfIntegers_mul__cf2f21b245a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:06:57.859533+00:00
 -- url     : https://prove2.me/theorems/65e37350-cfd4-412a-8b28-0543e11e8fc7

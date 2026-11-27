@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCyclePos_proof_e557bf920e36
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocCyclePos_proof_e557bf920e36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:34:57.353409+00:00
 -- url     : https://prove2.me/theorems/55cafd1d-6071-4c68-a7e6-72f2004fdecd

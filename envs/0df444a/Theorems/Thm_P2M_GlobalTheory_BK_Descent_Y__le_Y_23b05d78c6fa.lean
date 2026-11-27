@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BK_Descent_Y__le_Y_23b05d78c6fa
 -- name    : P2M_GlobalTheory_BK_Descent_Y__le_Y_23b05d78c6fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:49.567884+00:00
 -- url     : https://prove2.me/theorems/44f6525a-0709-51bd-99a9-f9d51d0015e5

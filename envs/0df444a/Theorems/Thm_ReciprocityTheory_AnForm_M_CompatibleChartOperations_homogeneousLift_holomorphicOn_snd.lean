@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_CompatibleChartOperations_homogeneousLift_holomorphicOn_snd
 -- name    : ReciprocityTheory.AnForm.M.CompatibleChartOperations.homogeneousLift_holomorphicOn_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:01:43.62777+00:00
 -- url     : https://prove2.me/theorems/71220d30-94c5-4b61-8418-6d793bb22ee5

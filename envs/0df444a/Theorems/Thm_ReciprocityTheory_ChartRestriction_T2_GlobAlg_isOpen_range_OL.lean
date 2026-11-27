@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_T2_GlobAlg_isOpen_range_OL
 -- name    : ReciprocityTheory.ChartRestriction.T2.GlobAlg.isOpen_range_OL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:39:08.187924+00:00
 -- url     : https://prove2.me/theorems/1b806e25-a4ac-45ac-8afb-eaaf5dca1b06

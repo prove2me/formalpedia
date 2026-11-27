@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_witt_holds
 -- name    : PI.VolStabSW.witt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:49:43.938076+00:00
 -- url     : https://prove2.me/theorems/29fe0d3a-6568-4042-b4e2-909b518d0678

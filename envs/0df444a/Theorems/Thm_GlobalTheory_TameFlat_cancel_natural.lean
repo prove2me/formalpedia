@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameFlat_cancel_natural
 -- name    : GlobalTheory.TameFlat.cancel_natural
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:40:57.136917+00:00
 -- url     : https://prove2.me/theorems/b87b9705-418b-50c8-82f3-0d52d6ea7e1b

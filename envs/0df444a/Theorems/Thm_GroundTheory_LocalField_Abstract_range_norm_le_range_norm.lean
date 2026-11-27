@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_range_norm_le_range_norm
 -- name    : GroundTheory.LocalField.Abstract.range_norm_le_range_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:58:30.765939+00:00
 -- url     : https://prove2.me/theorems/2e6e7ec4-bf16-5f74-ab84-32019c1caa56

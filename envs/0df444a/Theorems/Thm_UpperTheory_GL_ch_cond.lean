@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_ch_cond
 -- name    : UpperTheory.GL.ch_cond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:06.261656+00:00
 -- url     : https://prove2.me/theorems/474002eb-9afc-4289-8bba-138110faa320

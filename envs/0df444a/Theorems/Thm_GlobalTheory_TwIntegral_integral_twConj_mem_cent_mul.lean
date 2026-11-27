@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwIntegral_integral_twConj_mem_cent_mul
 -- name    : GlobalTheory.TwIntegral.integral_twConj_mem_cent_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:42:41.614509+00:00
 -- url     : https://prove2.me/theorems/d0925e06-e37a-5ced-a5ba-cd52958598e0

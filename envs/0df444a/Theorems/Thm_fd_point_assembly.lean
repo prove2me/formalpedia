@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fd_point_assembly
 -- name    : fd_point_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:07.030424+00:00
 -- url     : https://prove2.me/theorems/dfc5e44f-efb7-5d1a-bb0a-88a1b0d4d656

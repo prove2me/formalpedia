@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_nilChart_baseChange
 -- name    : GlobalTheory.ChF.nilChart_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T18:07:26.619199+00:00
 -- url     : https://prove2.me/theorems/b5cdf385-6b93-4d37-be7d-ddce2d08500d

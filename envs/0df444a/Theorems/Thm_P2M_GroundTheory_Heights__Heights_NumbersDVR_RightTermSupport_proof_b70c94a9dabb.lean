@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_RightTermSupport_proof_b70c94a9dabb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_RightTermSupport_proof_b70c94a9dabb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:41:00.267368+00:00
 -- url     : https://prove2.me/theorems/b676c62a-2087-4e24-ad3b-869036f46473

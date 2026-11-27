@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceBundleRadicalAway_proof_83b10cf83e4d
 -- name    : P2M_GroundTheory_Heights__Heights_SliceBundleRadicalAway_proof_83b10cf83e4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:36:33.130225+00:00
 -- url     : https://prove2.me/theorems/763ee3c0-c4b8-51eb-908d-218a0ba021e0

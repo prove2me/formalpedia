@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_proof_739dcd870812
 -- name    : P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_proof_739dcd870812
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:41:41.843803+00:00
 -- url     : https://prove2.me/theorems/8daf6e6c-6e1a-4bbd-a16c-1748655ca69e

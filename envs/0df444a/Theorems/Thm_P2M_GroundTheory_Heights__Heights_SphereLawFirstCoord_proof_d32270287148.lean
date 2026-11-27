@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_proof_d32270287148
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_proof_d32270287148
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:37:57.189989+00:00
 -- url     : https://prove2.me/theorems/fb60b2b5-11ce-5073-b224-9e6599f72bbd

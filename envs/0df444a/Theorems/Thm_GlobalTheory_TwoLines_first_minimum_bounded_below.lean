@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_first_minimum_bounded_below
 -- name    : GlobalTheory.TwoLines.first_minimum_bounded_below
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:46:55.778727+00:00
 -- url     : https://prove2.me/theorems/39829239-45af-5c7e-bde7-dad26087b664
